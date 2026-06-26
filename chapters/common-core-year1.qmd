@@ -1,0 +1,312 @@
+---
+title: "Núcleo Comum — Primeiro Ano"
+---
+
+Esta página detalha as disciplinas do **primeiro ano** do núcleo comum, com suas
+ementas e uma breve discussão dos conceitos-chave. A visão geral do núcleo comum
+e a discussão sobre as disciplinas de **Prática** estão em
+[Núcleo Comum](common-core.qmd); o **programa proposto** de cada disciplina está
+em [Programas das Disciplinas](course-programs/overview.qmd).
+
+O primeiro ano é um período particularmente desafiador tanto para o corpo docente
+quanto para os estudantes. Para os estudantes, implica uma imersão mais profunda
+e sistemática nas técnicas matemáticas, além do desafio de conectá-las aos
+elementos da realidade que motivaram seu desenvolvimento. Para o corpo docente, o
+desafio está em introduzir conceitos que demandam esforço significativo, mantendo
+os estudantes engajados.
+
+As práticas são ministradas por professores diferentes daqueles responsáveis
+pelos cursos teóricos, proporcionando aos estudantes diferentes perspectivas
+sobre os mesmos tópicos, acompanhando de perto o estudo, identificando
+dificuldades e consolidando o conhecimento através da aplicação prática.
+
+## Primeiro semestre
+
+### Física Básica
+
+Disciplina introdutória de nivelamento que consolida as ferramentas matemáticas
+elementares necessárias ao acompanhamento das demais disciplinas do primeiro ano.
+É ofertada de forma intensiva no 1º bimestre, com reoferta no 2º bimestre para os
+estudantes que necessitem de reforço.
+
+::: {.ementa}
+**Ementa**
+
+- Operações com frações e decimais em cálculos de grandezas físicas.
+- Composição de operações.
+- Uso de potências e raízes para escalas de distância, tempo e energia.
+- Movimento e velocidade (funções lineares, proporção, regra de três).
+- Cálculo de posição em gráficos lineares.
+- Solução de equações lineares e equações envolvendo potências.
+- Composição de igualdades e desigualdades; multiplicação de equações e
+  desigualdades.
+- Funções polinomiais, racionais, exponenciais e logarítmicas.
+- Composição de funções e funções inversas.
+- Funções trigonométricas.
+:::
+
+### Cálculo I
+
+Introduz os conceitos fundamentais do cálculo diferencial, que constituem a base
+da formulação matemática da Física clássica. É acompanhado pela disciplina de
+Práticas de Cálculo I, onde os conceitos abstratos são aplicados em contextos
+geométricos e físicos concretos. O estudo inicia-se pela construção dos números
+reais e pela representação de funções de uma variável real, a partir das quais são
+definidos os conceitos de limite e continuidade, que fornecem o arcabouço para
+tratar variações contínuas de grandezas observáveis.
+
+::: {.ementa}
+**Ementa**
+
+- Conjuntos numéricos. O conjunto dos números reais.
+- Intervalos abertos e fechados. Módulo. Inequações.
+- Funções de uma variável real; composição de funções.
+- Limite e continuidade de funções reais.
+- A derivada e derivação. Propriedades (linearidade).
+- Regra da cadeia. Derivação implícita. Regra de L'Hôpital.
+- Fórmula e polinômio de Taylor.
+- Funções reais de várias variáveis: derivadas parciais e regra da cadeia.
+- Máximos e mínimos.
+:::
+
+### Práticas de Cálculo I
+
+Disciplina espelho de Cálculo I, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos, com ênfase em aplicações a problemas físicos.
+
+::: {.ementa}
+**Ementa**
+
+Prática em resolução de exercícios envolvendo os principais tópicos de Cálculo I,
+com ênfase em conjuntos numéricos, funções reais de uma e várias variáveis,
+limites, continuidade, derivadas, aproximações de Taylor e problemas de máximos e
+mínimos, com enfoque em aplicações a problemas físicos. Inclui, entre outros:
+
+- Manipulação de potências e de (in)equações; desigualdade triangular e módulo.
+- Coeficiente angular e equações da reta; gráficos de funções reais.
+- Domínio, imagem, funções inversas, compostas e implícitas.
+- Limites, limites laterais e o limite fundamental trigonométrico.
+- Teste de continuidade e gráficos de funções descontínuas.
+- Regras de derivação, regra da cadeia e derivadas de funções implícitas.
+- Velocidade, aceleração e taxas relacionadas.
+- Crescimento, pontos de inflexão, máximos e mínimos; L'Hôpital.
+- Aproximação afim e erro de aproximação (Taylor).
+- Máximos e mínimos de funções de várias variáveis; campos escalares.
+:::
+
+### Física Geral I
+
+Introduz três conceitos-chave da Física clássica: o modelo de partícula, sua
+cinemática e sua dinâmica. O modelo de partícula pontual fornece uma descrição
+simples do movimento de objetos macroscópicos e serve de base para a descrição de
+sistemas mais complexos, como corpos rígidos. A cinemática trata da descrição do
+movimento — posição, velocidade e aceleração — exigindo o trabalho com vetores e
+sistemas de coordenadas. A dinâmica, introduzida pelas leis de Newton, descreve o
+movimento na presença de forças e conduz aos conceitos de referenciais inerciais
+e não inerciais, conservação de energia e momento, e à relação entre simetrias e
+leis de conservação. É acompanhada pela Prática de Física Geral I.
+
+::: {.ementa}
+**Ementa**
+
+- Vetores e sistemas de coordenadas.
+- Cinemática da partícula (velocidade e aceleração, média e instantânea).
+- Os princípios da dinâmica.
+- Referenciais inerciais e não-inerciais.
+- Conservação da energia e momento linear.
+- Simetrias e leis de conservação.
+:::
+
+### Prática de Física Geral I
+
+Disciplina espelho de Física Geral I, dedicada à resolução de problemas. Um
+aspecto central é a construção de sistemas de coordenadas a partir de medidas
+físicas reais, estabelecendo a ponte entre o mundo observável e sua representação
+matemática. A disciplina enfatiza a conversão entre grandezas, o Sistema
+Internacional de Unidades e a análise dimensional.
+
+::: {.ementa}
+**Ementa**
+
+- Construção de sistemas de coordenadas a partir de medidas físicas.
+- Conversão entre grandezas, sistema SI.
+- Análise dimensional.
+- Problemas com referenciais com aceleração constante.
+- Problemas com simetrias e quantidades conservadas.
+:::
+
+### Laboratório de Física Geral I
+
+Complementa os cursos teóricos e de prática, proporcionando experiência direta
+com medidas físicas, tratamento de dados e o método experimental, com roteiros
+que acompanham os tópicos de mecânica.
+
+::: {.ementa}
+**Ementa**
+
+- Medidas físicas e sistemas de unidades.
+- Algarismos significativos e ordens de grandeza.
+- Introdução a instrumentos de medida e suas limitações.
+- Incertezas experimentais: tipos de erro, estimativas e propagação de erros.
+- Estatística básica aplicada a dados experimentais: estimadores (média,
+  variância e desvio padrão), incerteza da média e distribuição normal como
+  modelo de erros.
+- Noções de planejamento experimental: variáveis, controle de condições,
+  precisão, exatidão e reprodutibilidade.
+- Representação e tratamento de dados: tabelas, gráficos, ajuste linear e
+  regressão simples com estimativa de incertezas.
+- Introdução ao uso de ferramentas computacionais (Python) para análise de dados
+  e visualização gráfica.
+- Elaboração de relatórios científicos.
+
+*Roteiros previstos:* medição e propagação de erros; medições de comprimento;
+movimento uniforme em uma dimensão; conservação de energia mecânica; colisões;
+centro de massa e torque (balança de braço).
+:::
+
+## Segundo semestre
+
+### Cálculo II
+
+Introduz o cálculo integral, complementando o cálculo diferencial de Cálculo I.
+A integral de Riemann é apresentada inicialmente por sua definição geométrica e,
+em seguida, analítica. O curso desenvolve o estudo das funções transcendentes,
+as técnicas de integração e as integrais impróprias e múltiplas, preparando para
+aplicações em duas e três dimensões. É acompanhado por Práticas de Cálculo II.
+
+::: {.ementa}
+**Ementa**
+
+- A integral de Riemann.
+- Definição analítica da integral. Antiderivada.
+- Estudo das funções transcendentes. Fórmulas de integrais conhecidas.
+- Técnicas de integração.
+- Integrais impróprias.
+- Integrais múltiplas.
+:::
+
+### Práticas de Cálculo II
+
+Disciplina espelho de Cálculo II, com foco na aplicação das técnicas de
+integração a problemas concretos e na introdução às equações diferenciais
+separáveis, que aparecem naturalmente em inúmeros contextos físicos.
+
+::: {.ementa}
+**Ementa**
+
+- Aplicações imediatas de integrais em uma dimensão.
+- Algumas equações diferenciais separáveis; equações do tipo $dy/dx = f(x)g(y)$.
+- Aplicações imediatas de integrais em várias dimensões.
+:::
+
+### Métodos Lineares para Física
+
+Introduz os conceitos fundamentais de álgebra linear com foco em suas aplicações
+na Física. Aborda vetores e espaços vetoriais, transformações lineares e suas
+representações matriciais, e culmina com autovalores, autovetores e
+diagonalização, com aplicações a rotações e a modos próprios de sistemas
+lineares.
+
+::: {.ementa}
+**Ementa**
+
+- Vetores e espaços vetoriais usados em física.
+- Combinações lineares, subespaços e bases.
+- Produto interno, norma e projeções.
+- Produto vetorial, propriedades e aplicações.
+- Transformações lineares e representações matriciais.
+- Operações com matrizes: soma, produto, inversa.
+- Propriedades principais: determinante, traço, posto.
+- Mudança de base e interpretações físicas simples.
+- Autovalores e autovetores.
+- Diagonalização no caso simétrico.
+- Operadores ortogonais e aplicações a rotações.
+- Modos próprios em sistemas lineares simples.
+:::
+
+### Física Geral IIa
+
+Primeira parte de Física Geral II, dedicada ao estudo de **oscilações e ondas**.
+Parte de oscilações livres e forçadas e do fenômeno de ressonância, avança para a
+propagação de ondas e a velocidade de fase, e explora refração, difração,
+reflexão e transmissão, culminando no princípio de Huygens e em uma introdução à
+óptica geométrica. Disciplina **bimestral** (3º bimestre).
+
+::: {.ementa}
+**Ementa**
+
+- Oscilações livres e forçadas.
+- Ressonância.
+- Propagação e velocidade de fase.
+- Índice de refração e difração.
+- Reflexão e transmissão.
+- Difração e o princípio de Huygens.
+- Óptica geométrica.
+:::
+
+### Física Geral IIb
+
+Segunda parte de Física Geral II, dedicada à **física de fluidos e
+termodinâmica**. Estuda as propriedades dos fluidos, pressão e o princípio de
+Arquimedes, e introduz a termodinâmica pelos conceitos de temperatura e calor,
+pelas duas primeiras leis e pela teoria cinética dos gases, estabelecendo a ponte
+entre as descrições microscópica e macroscópica da matéria. Disciplina
+**bimestral** (4º bimestre).
+
+::: {.ementa}
+**Ementa**
+
+- Propriedades dos fluidos.
+- Pressão num fluido.
+- Princípio de Arquimedes.
+- Temperatura e calor.
+- Primeira e segunda leis da termodinâmica.
+- Teoria cinética dos gases.
+- Distribuição de Maxwell-Boltzmann.
+:::
+
+### Prática de Física Geral IIa
+
+Disciplina espelho de Física Geral IIa, com foco no estudo experimental de
+sistemas oscilatórios.
+
+::: {.ementa}
+**Ementa**
+
+- Pêndulo simples.
+- Pêndulo amortecido.
+:::
+
+### Prática de Física Geral IIb
+
+Disciplina espelho de Física Geral IIb, dedicada à resolução de exercícios e à
+consolidação dos tópicos de fluidos e termodinâmica.
+
+::: {.ementa}
+**Ementa**
+
+- Exercícios e problemas sobre propriedades dos fluidos, pressão e princípio de
+  Arquimedes.
+- Exercícios sobre temperatura, calor e as leis da termodinâmica.
+- Exercícios sobre teoria cinética dos gases e a distribuição de
+  Maxwell-Boltzmann.
+:::
+
+### Laboratório de Física Geral II
+
+Complementa as práticas com experimentos relacionados a oscilações, ondas,
+fluidos e termodinâmica.
+
+::: {.ementa}
+**Ementa**
+
+- Lei de Hooke; oscilador harmônico; pêndulo simples.
+- Ondas estacionárias (tubo de Quincke e em fios); intensidade do som.
+- Óptica (experimentos a definir).
+- Bernoulli e Torricelli; densidade; pressão e fluidos em repouso.
+- Viscosidade e lei de Poiseuille.
+- Gases ideais.
+- Calor específico de metais; equivalência entre energia e caloria.
+- Resfriamento de Newton; condutividade térmica; calor latente.
+:::
+</content>

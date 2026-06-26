@@ -1,0 +1,244 @@
+---
+title: "Núcleo Comum — Segundo Ano"
+---
+
+Esta página detalha as disciplinas do **segundo ano** do núcleo comum, com suas
+ementas e uma breve discussão dos conceitos-chave. A visão geral do núcleo comum
+e a discussão sobre as disciplinas de **Prática** estão em
+[Núcleo Comum](common-core.qmd); o **programa proposto** de cada disciplina está
+em [Programas das Disciplinas](course-programs/overview.qmd).
+
+No segundo ano, o estudante aprofunda o cálculo vetorial e as equações
+diferenciais, é introduzido à computação científica e ao eletromagnetismo, e
+inicia os métodos matemáticos da Física. As disciplinas seguem a organização da
+*Planilha de horários* (2024-2).
+
+## Terceiro semestre
+
+### Cálculo III
+
+Estende o cálculo a funções de várias variáveis e introduz o cálculo vetorial,
+com integrais de linha e de superfície e os teoremas integrais fundamentais.
+
+::: {.ementa}
+**Ementa**
+
+- Vetores tangentes a uma curva em $\mathbb{R}^3$.
+- Campos vetoriais: funções vetoriais de variáveis reais.
+- Integrais de linha: de funções escalares e de campos projetados na tangente.
+- Integrais de linha fechada, campos conservativos, gradiente.
+- Integrais de superfície, fluxo de campos vetoriais, divergente.
+- Circulação de um campo vetorial, rotacional.
+- Os teoremas de Green, Gauss e Stokes.
+- A equação da continuidade.
+:::
+
+### Práticas de Cálculo III
+
+Disciplina espelho de Cálculo III, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos de cálculo vetorial e funções de várias variáveis.
+
+::: {.ementa}
+**Ementa**
+
+- Exercícios e problemas sobre campos vetoriais e integrais de linha.
+- Exercícios sobre integrais de superfície, fluxo e os teoremas de Green, Gauss e
+  Stokes.
+- Aplicações físicas (campos conservativos, equação da continuidade).
+:::
+
+### Computação para Física
+
+Introduz as técnicas computacionais aplicadas à resolução de problemas físicos,
+com foco no desenvolvimento de habilidades práticas em programação científica
+usando **Python**. Os estudantes aprendem a organizar projetos científicos,
+manipular e analisar dados e utilizar bibliotecas fundamentais (NumPy, SciPy,
+Matplotlib), além de métodos numéricos básicos.
+
+::: {.ementa}
+**Ementa**
+
+- Organização básica de arquivos, ambientes e fluxo de trabalho para projetos em
+  física.
+- Introdução à programação científica em Python: variáveis, funções, estruturas
+  simples.
+- Uso de notebooks interativos para cálculos e visualização.
+- Bibliotecas fundamentais: NumPy, SciPy, Matplotlib.
+- Manipulação e análise de dados experimentais simples.
+- Resolução numérica de problemas elementares: zeros de funções, integrais, EDOs
+  simples.
+- Representação e ajustes de dados experimentais: mínimos quadrados básicos.
+- Automatização de tarefas e reprodutibilidade.
+- Introdução a ferramentas prontas relevantes à física.
+- Boas práticas de programação para projetos científicos.
+:::
+
+### Física Geral III
+
+Concentra-se no **eletromagnetismo**. Os estudantes exploram inicialmente as leis
+do eletromagnetismo de forma fenomenológica — compreendendo seus efeitos
+observáveis — usando modelos com soluções analíticas e simétricas, sem o
+formalismo matemático mais avançado, desenvolvido em Física Geral IV. A carga
+elétrica é introduzida como nova propriedade da matéria, e a partir da lei de
+Coulomb desenvolvem-se os conceitos de campo elétrico, lei de Gauss e potencial.
+
+::: {.ementa}
+**Ementa**
+
+- Lei de Coulomb e campo elétrico.
+- Lei de Gauss. Potencial elétrico.
+- Capacitores e dielétricos.
+- Corrente, resistência e força eletromotriz.
+- Circuitos e instrumentos de corrente contínua.
+- Campo magnético de uma corrente.
+- Forças magnéticas sobre portadores de correntes.
+- Força eletromotriz induzida.
+- Circuitos de corrente alternada.
+- Propriedades magnéticas da matéria.
+- Correntes alternadas.
+:::
+
+### Prática de Física Geral III
+
+Disciplina espelho de Física Geral III, dedicada à resolução de exercícios e à
+consolidação dos tópicos de eletromagnetismo.
+
+::: {.ementa}
+**Ementa**
+
+- Exercícios e problemas sobre lei de Coulomb, campo elétrico, lei de Gauss e
+  potencial elétrico.
+- Exercícios sobre capacitores, corrente, resistência e circuitos de corrente
+  contínua.
+- Exercícios sobre campo magnético, indução e circuitos de corrente alternada.
+:::
+
+### Laboratório de Física Geral III
+
+Complementa o curso teórico com experimentos de eletromagnetismo.
+
+::: {.ementa}
+**Ementa**
+
+- A definir, para complementar os tópicos de eletromagnetismo.
+:::
+
+### Métodos de Variáveis Complexas para a Física
+
+Introduz a teoria de funções de variável complexa e suas aplicações na Física,
+das propriedades algébricas dos complexos ao teorema dos resíduos e às folhas de
+Riemann.
+
+::: {.ementa}
+**Ementa**
+
+- Propriedades algébricas e representações dos complexos.
+- Funções de variáveis complexas.
+- Funções analíticas.
+- Teorema de Cauchy.
+- Teorema dos resíduos.
+- Extensões analíticas de funções.
+- Funções multivalentes e folhas de Riemann.
+- Aplicações físicas.
+:::
+
+## Quarto semestre
+
+### Cálculo IV
+
+Trata de sequências e séries e introduz as equações diferenciais ordinárias,
+incluindo as equações lineares de segunda ordem e as soluções em séries de
+potências, com suas aplicações à descrição de sistemas físicos.
+
+::: {.ementa}
+**Ementa**
+
+- Sequências e séries; sequências e séries reais.
+- Séries de potências; critérios de convergência.
+- Equações diferenciais ordinárias; equações de primeira ordem.
+- Equações diferenciais lineares de segunda ordem a coeficientes constantes.
+- Soluções em séries de potências.
+- Método de Frobenius; teorema de Fuchs.
+:::
+
+### Práticas de Cálculo IV
+
+Disciplina espelho de Cálculo IV, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos de séries e equações diferenciais ordinárias.
+
+::: {.ementa}
+**Ementa**
+
+- Exercícios sobre sequências, séries e critérios de convergência.
+- Exercícios sobre séries de potências.
+- Resolução de equações diferenciais ordinárias de primeira e segunda ordem e
+  suas aplicações.
+:::
+
+### Física Geral IV
+
+Dá continuidade a Física Geral III, passando da descrição fenomenológica do
+eletromagnetismo à sua **formulação unificada**. Após uma revisão do cálculo
+vetorial, introduz as equações de Maxwell, das quais decorrem as oscilações e as
+ondas eletromagnéticas, a polarização e os fenômenos de interferência e difração
+da luz.
+
+::: {.ementa}
+**Ementa**
+
+- Revisão de cálculo vetorial: álgebra vetorial e produtos.
+- Cálculo diferencial: operadores gradiente, divergente e rotacional; derivadas
+  segundas.
+- Cálculo integral e teoremas integrais.
+- Equações de Maxwell.
+- Oscilações eletromagnéticas.
+- Ondas eletromagnéticas.
+- Polarização.
+- Interferência e difração da luz.
+:::
+
+### Prática de Física Geral IV
+
+Disciplina espelho de Física Geral IV, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos.
+
+::: {.ementa}
+**Ementa**
+
+- Exercícios sobre a revisão de cálculo vetorial e as equações de Maxwell.
+- Exercícios sobre oscilações e ondas eletromagnéticas.
+- Problemas de polarização, interferência e difração da luz.
+:::
+
+### Laboratório de Física Geral IV
+
+Complementa o curso teórico com experimentos relacionados aos tópicos de Física
+Geral IV.
+
+::: {.ementa}
+**Ementa**
+
+- A definir.
+:::
+
+### Física Matemática I
+
+Introduz métodos matemáticos centrais da Física: distribuições, funções de Green
+do laplaciano e a análise de Fourier, articulada ao problema de Sturm-Liouville.
+
+::: {.ementa}
+**Ementa**
+
+- A delta de Dirac e suas propriedades.
+- Distribuições como limites de sequências e como inversas de operadores
+  diferenciais.
+- O operador laplaciano e suas soluções fundamentais.
+- Construção das funções de Green do laplaciano em 1D, 2D e 3D.
+- Interpretação geométrica de singularidades e integrais generalizadas.
+- O problema de Sturm-Liouville.
+- Séries ortogonais: a série trigonométrica.
+- Decomposição de funções periódicas: a série de Fourier.
+- Decomposição de funções não-periódicas e transformada integral: integrais de
+  Fourier e de Laplace.
+:::
+</content>
