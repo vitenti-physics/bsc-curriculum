@@ -29,7 +29,13 @@ website:
       - section: "Organização Curricular"
         contents:
           - chapters/curricular-structure.qmd
-          - chapters/common-core.qmd
+          - section: "Núcleo Comum"
+            href: chapters/common-core.qmd
+            contents:
+              - text: "Primeiro ano"
+                href: chapters/common-core-year1.qmd
+              - text: "Segundo ano"
+                href: chapters/common-core-year2.qmd
           - chapters/timetable.qmd
       - section: "Programas das Disciplinas"
         contents:
