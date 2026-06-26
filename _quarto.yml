@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "PPC — Bacharelado em Física"
+  description: "Documentos de trabalho do NDE para a reformulação curricular do Bacharelado em Física."
+  site-url: https://vitenti-physics.github.io/bsc-curriculum/
+  repo-url: https://github.com/vitenti-physics/bsc-curriculum
+  repo-actions: [edit, issue]
+  search: true
+  page-footer:
+    left: "Núcleo Docente Estruturante — Bacharelado em Física"
+    right: "Construído com [Quarto](https://quarto.org)."
+  navbar:
+    pinned: true
+    right:
+      - text: "Início"
+        href: index.qmd
+      - icon: github
+        href: https://github.com/vitenti-physics/bsc-curriculum
+        aria-label: Repositório no GitHub
+  sidebar:
+    style: docked
+    collapse-level: 2
+    contents:
+      - text: "Apresentação"
+        href: index.qmd
+      - section: "Fundamentos do Curso"
+        contents:
+          - chapters/context.qmd
+          - chapters/rationale.qmd
+          - chapters/objectives.qmd
+          - chapters/graduate-profile.qmd
+      - section: "Organização Curricular"
+        contents:
+          - chapters/curricular-structure.qmd
+          - chapters/curriculum-matrix.qmd
+          - chapters/syllabi.qmd
+      - section: "Disposições Complementares"
+        contents:
+          - chapters/methodology.qmd
+          - chapters/assessment.qmd
+          - chapters/infrastructure.qmd
+      - text: "Referências"
+        href: references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - style.scss
+    toc: true
+    toc-title: "Nesta página"
+    number-sections: true
+
+lang: pt

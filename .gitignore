@@ -1,0 +1,21 @@
+# Saída de renderização do Quarto
+/_book/
+/.quarto/
+*_files/
+/site_libs/
+
+# LaTeX (geração de PDF)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+**/*.quarto_ipynb
+
+# Saída do Quarto (website)
+/_site/

@@ -1,0 +1,8 @@
+# Contextualização
+
+::: {.callout-note}
+Seção em elaboração pelo NDE.
+:::
+
+Histórico do curso, contexto institucional e motivação para a reformulação
+curricular.

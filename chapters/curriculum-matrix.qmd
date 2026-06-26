@@ -1,0 +1,7 @@
+# Matriz Curricular
+
+::: {.callout-note}
+Seção em elaboração pelo NDE.
+:::
+
+Distribuição das disciplinas por período, cargas horárias e pré-requisitos.

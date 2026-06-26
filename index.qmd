@@ -1,0 +1,27 @@
+# Apresentação {.unnumbered}
+
+Este documento reúne os trabalhos do **Núcleo Docente Estruturante (NDE)**
+para a reformulação curricular do **Bacharelado em Física**. Trata-se de um
+documento de trabalho, em construção contínua, que evoluirá até consolidar a
+versão final do Projeto Pedagógico do Curso (PPC).
+
+::: {.callout-note}
+## Documento em construção
+O conteúdo destas páginas está em elaboração pelo NDE. As seções serão
+preenchidas e revisadas ao longo das reuniões de trabalho.
+:::
+
+## Como navegar
+
+- A seção **Fundamentos do Curso** apresenta a contextualização, a
+  justificativa, os objetivos e o perfil do egresso.
+- A seção **Organização Curricular** descreve a estrutura, a matriz e as
+  ementas das disciplinas.
+- A seção **Disposições Complementares** trata de metodologia, avaliação e
+  infraestrutura.
+
+## Participação
+
+Sugestões e correções podem ser registradas diretamente no
+[repositório do projeto](https://github.com/vitenti-physics/bsc-curriculum)
+por meio de *issues* ou contribuições.

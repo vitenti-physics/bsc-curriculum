@@ -1,0 +1,7 @@
+# Perfil do Egresso
+
+::: {.callout-note}
+Seção em elaboração pelo NDE.
+:::
+
+Competências, habilidades e atitudes esperadas do egresso do curso.
