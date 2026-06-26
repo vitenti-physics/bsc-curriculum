@@ -1,7 +1,0 @@
-# Justificativa
-
-::: {.callout-note}
-Seção em elaboração pelo NDE.
-:::
-
-Justificativa da proposta de reformulação e sua relevância acadêmica, social e profissional.

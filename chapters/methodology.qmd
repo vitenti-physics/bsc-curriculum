@@ -1,7 +1,0 @@
-# Metodologia de Ensino
-
-::: {.callout-note}
-Seção em elaboração pelo NDE.
-:::
-
-Estratégias didático-pedagógicas adotadas no curso.

@@ -13,12 +13,13 @@ preenchidas e revisadas ao longo das reuniões de trabalho.
 
 ## Como navegar
 
-- A seção **Fundamentos do Curso** apresenta a contextualização, a
-  justificativa, os objetivos e o perfil do egresso.
-- A seção **Organização Curricular** descreve a estrutura, a matriz e as
-  ementas das disciplinas.
-- A seção **Disposições Complementares** trata de metodologia, avaliação e
-  infraestrutura.
+- A seção **Organização Curricular** descreve a estrutura do curso, as
+  disciplinas do núcleo comum (com suas ementas) e a grade horária.
+- A seção **Programas das Disciplinas** reúne o programa proposto de cada
+  disciplina do núcleo comum e a discussão de como elas se articulam.
+
+As demais partes do PPC (fundamentos do curso, perfil do egresso, metodologia,
+avaliação e infraestrutura) serão acrescentadas à medida que o NDE as elaborar.
 
 ## Participação
 

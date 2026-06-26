@@ -1,7 +1,0 @@
-# Avaliação
-
-::: {.callout-note}
-Seção em elaboração pelo NDE.
-:::
-
-Concepção e instrumentos de avaliação da aprendizagem e do curso.

@@ -26,12 +26,6 @@ website:
     contents:
       - text: "Apresentação"
         href: index.qmd
-      - section: "Fundamentos do Curso"
-        contents:
-          - chapters/context.qmd
-          - chapters/rationale.qmd
-          - chapters/objectives.qmd
-          - chapters/graduate-profile.qmd
       - section: "Organização Curricular"
         contents:
           - chapters/curricular-structure.qmd
@@ -44,11 +38,6 @@ website:
           - chapters/course-programs/semester-2.qmd
           - chapters/course-programs/semester-3.qmd
           - chapters/course-programs/semester-4.qmd
-      - section: "Disposições Complementares"
-        contents:
-          - chapters/methodology.qmd
-          - chapters/assessment.qmd
-          - chapters/infrastructure.qmd
       - text: "Referências"
         href: references.qmd
 

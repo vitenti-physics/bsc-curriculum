@@ -1,7 +1,0 @@
-# Infraestrutura
-
-::: {.callout-note}
-Seção em elaboração pelo NDE.
-:::
-
-Recursos físicos, laboratórios, biblioteca e corpo docente.
