@@ -1,6 +1,5 @@
 ---
 title: "Núcleo Comum"
-toc-depth: 4
 ---
 
 ::: {.callout-note}

@@ -50,6 +50,8 @@ format:
       - style.scss
     toc: true
     toc-title: "Nesta página"
+    toc-depth: 4
+    toc-expand: true
     number-sections: true
 
 lang: pt

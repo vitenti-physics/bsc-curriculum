@@ -1,6 +1,5 @@
 ---
 title: "3º semestre — Programas"
-toc-depth: 2
 ---
 
 ::: {.callout-note appearance="simple"}
