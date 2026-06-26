@@ -60,8 +60,16 @@ As disciplinas do segundo ano, com suas ementas, estão em
 
 Pendências a serem resolvidas pelo NDE:
 
-1. **Ementas dos Laboratórios de Física Geral III e IV** — definir os roteiros de
-   eletromagnetismo (Lab III) e dos tópicos de Física Geral IV — equações de
-   Maxwell, ondas eletromagnéticas e óptica física (Lab IV).
+1. **Ementas dos Laboratórios de Física Geral III e IV** — há uma **proposta** de
+   roteiros para ambos (ver [Núcleo Comum — Segundo Ano](common-core-year2.qmd)),
+   derivada da coleção legada de roteiros, pendente de aprovação pelo NDE. Para o
+   Lab III a proposta cobre toda a ementa de eletromagnetismo. Para o Lab IV a
+   proposta cobre difração e polarização, mas restam **roteiros a desenvolver**
+   para interferência e para ondas eletromagnéticas/equações de Maxwell, sem
+   correspondente na coleção legada.
+2. **Roteiros de óptica do Laboratório de Física Geral II** — os roteiros legados
+   de óptica geométrica (índice de refração, dispersão por prisma, espelhos e
+   lentes) estão disponíveis para preencher o placeholder "Óptica — experimentos a
+   definir" do Lab II; falta o NDE confirmar a seleção.
 </content>
 </invoke>

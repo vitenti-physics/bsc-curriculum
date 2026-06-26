@@ -115,12 +115,34 @@ consolidação dos tópicos de eletromagnetismo.
 
 ### Laboratório de Física Geral III
 
-Complementa o curso teórico com experimentos de eletromagnetismo.
+Complementa o curso teórico com experimentos de eletromagnetismo, acompanhando os
+tópicos de eletrostática, corrente contínua, magnetismo, indução e corrente
+alternada.
+
+::: {.callout-important}
+## Proposta de roteiros — pendente de aprovação pelo NDE
+Os roteiros abaixo são uma **proposta**, derivada da coleção legada de roteiros do
+antigo Laboratório de Física Geral II (`support_docs/roteiros_Lab2`, blocos
+*EDC* e *EAC*), ajustada à ementa de Física Geral III. A relação definitiva está
+em [Pontos em aberto](common-core.qmd#sec-pontos-abertos).
+:::
 
 ::: {.ementa}
-**Ementa**
+**Ementa (proposta)**
 
-- A definir, para complementar os tópicos de eletromagnetismo.
+Experimentos de eletromagnetismo acompanhando os tópicos de Física Geral III.
+*Roteiros previstos:*
+
+- **Eletrostática e corrente contínua:** mapeamento de curvas equipotenciais
+  (cuba eletrolítica); carga e descarga de capacitores; curva característica de
+  componentes (elementos resistivos lineares e não-lineares); resistência interna
+  de fontes de tensão; circuitos simples em corrente contínua (resistores).
+- **Magnetismo e indução:** campo magnético de uma bobina (lei de Biot–Savart);
+  campo magnético ambiental (bobina de Helmholtz); indução eletromagnética (lei
+  de Faraday); transformador de tensão; histerese magnética.
+- **Corrente alternada:** medidas elétricas em corrente alternada (uso do
+  osciloscópio); circuitos simples em CA (resistor, capacitor e indutor); filtros
+  RC, RL e RLC ressonante; circuitos retificadores (diodo).
 :::
 
 ### Métodos de Variáveis Complexas para a Física
@@ -212,13 +234,38 @@ consolidação dos seus tópicos.
 
 ### Laboratório de Física Geral IV
 
-Complementa o curso teórico com experimentos relacionados aos tópicos de Física
-Geral IV.
+Complementa o curso teórico com experimentos de **óptica física** (ondas
+eletromagnéticas, polarização, interferência e difração da luz).
+
+::: {.callout-important}
+## Proposta de roteiros — pendente de aprovação pelo NDE
+Os roteiros de difração e polarização são uma **proposta**, derivada dos roteiros
+*OPT* da coleção legada (`support_docs/roteiros_Lab2`). A coleção legada **não**
+inclui roteiros de interferência nem de ondas eletromagnéticas/equações de
+Maxwell, que precisam ser **desenvolvidos**. Os roteiros *OPT* de óptica
+geométrica (índice de refração, dispersão por prisma, espelhos e lentes)
+correspondem a Física Geral IIa e estão disponíveis para o
+**Laboratório de Física Geral II** (placeholder "Óptica — experimentos a
+definir"), não para este. A relação definitiva está em
+[Pontos em aberto](common-core.qmd#sec-pontos-abertos).
+:::
 
 ::: {.ementa}
-**Ementa**
+**Ementa (proposta)**
 
-- A definir.
+Experimentos de óptica física acompanhando os tópicos de Física Geral IV.
+*Roteiros previstos:*
+
+- **Difração da luz:** difração por fenda simples, fenda dupla e rede de difração;
+  medida de comprimento de onda.
+- **Polarização:** lei de Malus; polarização por reflexão e ângulo de Brewster.
+
+*A desenvolver (sem roteiro na coleção legada):*
+
+- **Interferência:** p. ex. interferômetro de Michelson, anéis de Newton ou fenda
+  dupla com medida de comprimento de onda.
+- **Ondas eletromagnéticas:** p. ex. bancada de micro-ondas (reflexão, refração,
+  polarização e ondas estacionárias) ou medida da velocidade da luz.
 :::
 
 ### Física Matemática I
