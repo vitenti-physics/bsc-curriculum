@@ -9,3 +9,23 @@ $link-color: #00529b;
 .quarto-title-block .subtitle {
   font-weight: 300;
 }
+
+// Caixa de ementa das disciplinas
+.ementa {
+  border-left: 4px solid $primary;
+  background: #f5f8fc;
+  padding: 0.8rem 1.1rem;
+  margin: 1rem 0 1.6rem;
+  border-radius: 0 4px 4px 0;
+
+  > p:first-child strong {
+    color: $primary;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+  }
+
+  ul {
+    margin-bottom: 0;
+  }
+}

@@ -1,7 +1,61 @@
-# Estrutura Curricular
+---
+title: "Estrutura Curricular"
+---
 
 ::: {.callout-note}
-Seção em elaboração pelo NDE.
+Texto adaptado a partir de `apresentacao.tex`. Conteúdo em revisão pelo NDE.
 :::
 
-Princípios de organização, eixos formativos e integralização do curso.
+A Física é uma ciência que tem como objetivo principal a compreensão dos
+fenômenos naturais. Para isso, utilizamos a matemática como linguagem e a
+experimentação como método de validação. O curso de Bacharelado em Física da
+Universidade Estadual de Londrina (UEL) tem como objetivo formar profissionais
+capazes de compreender a linguagem matemática e usá-la para descrever e prever
+os fenômenos naturais. Além disso, o domínio do uso da matemática, aliado à
+habilidade de mapear o mundo real em termos matemáticos, faz da formação em
+Física uma excelente base para a resolução de problemas complexos em diversas
+áreas do conhecimento.
+
+## Os dois blocos do curso
+
+O curso é organizado em **dois blocos**:
+
+1. **Núcleo comum** — conjunto de disciplinas obrigatórias que todos os
+   estudantes cursam, com duração de **dois anos**. Apresenta os conceitos
+   básicos de Física e de Matemática e desenvolve a fluência matemática
+   combinada com a capacidade de descrever e modelar elementos da realidade.
+   Ver [Núcleo Comum](common-core.qmd).
+
+2. **Ênfases** — após o núcleo comum, o estudante escolhe uma trajetória de
+   aprofundamento. As ênfases previstas são:
+   - **Bacharelado Tradicional** — voltado a quem segue carreira acadêmica ou
+     correlata em Física;
+   - **Física Industrial** — perfil mais aplicado, ainda em definição;
+   - **Física Médica**.
+
+::: {.callout-warning}
+## Ponto em aberto
+As ênfases ainda serão detalhadas pelo NDE. Esta seção registra apenas o modelo
+geral de organização; o trabalho atual concentra-se no **núcleo comum**
+(ver [Núcleo Comum](common-core.qmd)). A relação definitiva de ênfases e seus nomes está
+sujeita a revisão.
+:::
+
+## Por que um núcleo comum
+
+Tradicionalmente, o curso de Física visa desenvolver as habilidades de modelagem
+e validação experimental com o objetivo de aplicá-las na expansão do
+conhecimento científico, seja teórico ou experimental. No entanto, essas mesmas
+habilidades — a capacidade de modelar e resolver problemas complexos e de
+desenvolver e aplicar técnicas experimentais — são úteis em diversas áreas das
+atividades humanas.
+
+Por essa razão, o núcleo comum é composto por disciplinas nas quais o estudante
+tem contato com os conceitos básicos da Física e da Matemática, compreendendo
+como essas ideias foram aplicadas de forma bem-sucedida. Desse ponto de vista, o
+conteúdo específico das disciplinas serve como um exemplo concreto de como a
+matemática pode ser usada para descrever e prever fenômenos naturais. Para o
+estudante que deseja seguir carreira acadêmica, o núcleo comum contém os modelos
+físicos básicos que serão a base para a compreensão de fenômenos mais complexos;
+para os demais, oferece uma sólida base para a resolução de problemas em diversas
+áreas do conhecimento.

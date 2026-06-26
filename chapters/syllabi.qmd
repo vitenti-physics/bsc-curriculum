@@ -1,7 +1,0 @@
-# Ementas das Disciplinas
-
-::: {.callout-note}
-Seção em elaboração pelo NDE.
-:::
-
-Ementas, objetivos, conteúdos programáticos e bibliografia de cada disciplina.

@@ -35,8 +35,8 @@ website:
       - section: "Organização Curricular"
         contents:
           - chapters/curricular-structure.qmd
-          - chapters/curriculum-matrix.qmd
-          - chapters/syllabi.qmd
+          - chapters/common-core.qmd
+          - chapters/timetable.qmd
       - section: "Disposições Complementares"
         contents:
           - chapters/methodology.qmd

@@ -1,0 +1,106 @@
+---
+title: "Grade Horária"
+---
+
+::: {.callout-warning}
+## Grade preliminar
+Esta página reproduz a *Planilha de horários* (2024-2) e a carga horária da
+proposta de reformulação. Os valores são **preliminares** e dependem da resolução
+das divergências listadas em [Pontos em aberto](common-core.qmd#sec-pontos-abertos)
+— em especial a carga horária das práticas e laboratórios e a composição do 2º
+ano. A descrição de cada disciplina está em [Núcleo Comum](common-core.qmd).
+:::
+
+## Carga horária
+
+As disciplinas principais têm 60 h semestrais; as práticas, 30 h (15 h cada para
+as Práticas de Física Geral IIa/IIb, de caráter bimestral); os laboratórios, 60 h;
+e Física Geral IIa/IIb, 30 h cada. Os totais abaixo são preliminares.
+
+### Primeiro ano
+
+| Disciplina | Semestre | Carga horária |
+|---|:--:|:--:|
+| Cálculo I | 1º | 60 h |
+| Práticas de Cálculo I | 1º | 30 h |
+| Física Geral I | 1º | 60 h |
+| Prática de Física Geral I | 1º | 30 h |
+| Laboratório de Física Geral I | 1º | 60 h |
+| **Subtotal 1º semestre** | | **240 h** |
+| Cálculo II | 2º | 60 h |
+| Práticas de Cálculo II | 2º | 30 h |
+| Métodos Lineares para Física | 2º | 60 h |
+| Física Geral IIa | 2º (3º bim.) | 30 h |
+| Física Geral IIb | 2º (4º bim.) | 30 h |
+| Prática de Física Geral IIa | 2º (3º bim.) | 15 h |
+| Prática de Física Geral IIb | 2º (4º bim.) | 15 h |
+| Laboratório de Física Geral II | 2º | 60 h |
+| **Subtotal 2º semestre** | | **300 h** |
+| **Total — Primeiro ano** | | **540 h** |
+
+### Segundo ano
+
+| Disciplina | Semestre | Carga horária |
+|---|:--:|:--:|
+| Cálculo III | 3º | 60 h |
+| Práticas de Cálculo III | 3º | 30 h |
+| Computação para Física | 3º | 60 h |
+| Física Geral III | 3º | 60 h |
+| Prática de Física Geral III | 3º | 30 h |
+| Laboratório de Física Geral III | 3º | 60 h |
+| Métodos de Variáveis Complexas para a Física | 3º | 60 h |
+| **Subtotal 3º semestre** | | **360 h** |
+| Cálculo IV | 4º | 60 h |
+| Práticas de Cálculo IV | 4º | 30 h |
+| Física Geral IV | 4º | 60 h |
+| Prática de Física Geral IV | 4º | 30 h |
+| Laboratório de Física Geral IV | 4º | 60 h |
+| Física Matemática I | 4º | 60 h |
+| **Subtotal 4º semestre** | | **300 h** |
+| **Total — Segundo ano** | | **660 h** |
+
+: Total preliminar do núcleo comum: **1200 h** {.striped}
+
+## Grade horária semanal
+
+Sugestão de distribuição semanal das aulas, conforme a *Planilha de horários*
+(2024-2). Células vazias indicam horários sem aula prevista.
+
+::: {.panel-tabset}
+
+### 1º ano · 1º semestre
+
+| Horário | Segunda | Terça | Quarta | Quinta | Sexta |
+|---|---|---|---|---|---|
+| 08:20–10:00 | Física Básica (reoferta) | Cálculo I | Lab. de Física Geral I | Cálculo I | Física Básica (reoferta) |
+| 10:15–11:55 | Física Geral I | Física Básica (reoferta) | Lab. de Física Geral I | Física Básica (reoferta) | Física Geral I |
+| 14:00–15:40 | Práticas de Cálculo I | — | — | Prática de Física Geral I | — |
+
+### 1º ano · 2º semestre
+
+| Horário | Segunda | Terça | Quarta | Quinta | Sexta |
+|---|---|---|---|---|---|
+| 08:20–10:00 | — | Cálculo II | Lab. de Física Geral II | Cálculo II | — |
+| 10:15–11:55 | Física Geral IIa/IIb | Métodos Lineares para Física | Lab. de Física Geral II | Métodos Lineares para Física | Física Geral IIa/IIb |
+| 14:00–15:40 | Prática de Física Geral II | — | — | Práticas de Cálculo II | — |
+
+### 2º ano · 3º semestre
+
+| Horário | Segunda | Terça | Quarta | Quinta | Sexta |
+|---|---|---|---|---|---|
+| 08:20–10:00 | Computação para Física¹ | Cálculo III | Computação para Física¹ | Cálculo III | Lab. de Física Geral III |
+| 10:15–11:55 | Física Geral III | Métodos de Variáveis Complexas | Física Geral III | Métodos de Variáveis Complexas | Lab. de Física Geral III |
+| 14:00–15:40 | Práticas de Cálculo III | — | Prática de Física Geral III | — | — |
+
+### 2º ano · 4º semestre
+
+| Horário | Segunda | Terça | Quarta | Quinta | Sexta |
+|---|---|---|---|---|---|
+| 08:20–10:00 | — | Cálculo IV | — | Cálculo IV | Lab. de Física Geral IV |
+| 10:15–11:55 | Física Geral IV | Física Matemática I | Física Geral IV | Física Matemática I | Lab. de Física Geral IV |
+| 14:00–15:40 | Práticas de Cálculo IV | — | Prática de Física Geral IV | — | — |
+
+:::
+
+¹ Aparece como "Introdução à Linguagem de Computação" na *Planilha de horários*
+(ver [Núcleo Comum](common-core.qmd)).
