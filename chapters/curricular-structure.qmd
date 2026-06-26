@@ -2,10 +2,6 @@
 title: "Estrutura Curricular"
 ---
 
-::: {.callout-note}
-Texto adaptado a partir de `apresentacao.tex`. Conteúdo em revisão pelo NDE.
-:::
-
 A Física é uma ciência que tem como objetivo principal a compreensão dos
 fenômenos naturais. Para isso, utilizamos a matemática como linguagem e a
 experimentação como método de validação. O curso de Bacharelado em Física da
@@ -29,25 +25,20 @@ O curso é organizado em **dois blocos**:
 2. **Ênfases** — após o núcleo comum, o estudante escolhe uma trajetória de
    aprofundamento. As ênfases previstas são:
    - **Bacharelado Tradicional** — voltado a quem segue carreira acadêmica ou
-     correlata em Física;
+     correlata em Física; programa definido e conteúdo em desenvolvimento;
    - **Física Industrial** — perfil mais aplicado, ainda em definição;
-   - **Física Médica**.
-
-::: {.callout-warning}
-## Ponto em aberto
-As ênfases ainda serão detalhadas pelo NDE. Esta seção registra apenas o modelo
-geral de organização; o trabalho atual concentra-se no **núcleo comum**
-(ver [Núcleo Comum](common-core.qmd)). A relação definitiva de ênfases e seus nomes está
-sujeita a revisão.
-:::
+   - **Física Computacional** — voltado a quem deseja trabalhar com simulação
+     computacional de fenômenos físicos; ainda em definição;
+   - **Física para Inovação e Empreendedorismo** — voltado a quem deseja trabalhar com
+     desenvolvimento de produtos e serviços inovadores; ainda em definição.
 
 ## Por que um núcleo comum
 
 Tradicionalmente, o curso de Física visa desenvolver as habilidades de modelagem
 e validação experimental com o objetivo de aplicá-las na expansão do
 conhecimento científico, seja teórico ou experimental. No entanto, essas mesmas
-habilidades — a capacidade de modelar e resolver problemas complexos e de
-desenvolver e aplicar técnicas experimentais — são úteis em diversas áreas das
+habilidades, a capacidade de modelar e resolver problemas complexos e de
+desenvolver e aplicar técnicas experimentais, são úteis em diversas áreas das
 atividades humanas.
 
 Por essa razão, o núcleo comum é composto por disciplinas nas quais o estudante
