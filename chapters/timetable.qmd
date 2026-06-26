@@ -5,28 +5,30 @@ title: "Grade Horária"
 ::: {.callout-warning}
 ## Grade preliminar
 Esta página reproduz a *Planilha de horários* (2024-2) e a carga horária da
-proposta de reformulação. Os valores são **preliminares** e dependem da resolução
-das divergências listadas em [Pontos em aberto](common-core.qmd#sec-pontos-abertos)
-— em especial a carga horária das práticas e laboratórios e a composição do 2º
-ano. A descrição de cada disciplina está em [Núcleo Comum](common-core.qmd).
+proposta de reformulação. Os valores ainda dependem da definição da ementa de
+Física Geral IV e dos Laboratórios de Física Geral III e IV
+(ver [Pontos em aberto](common-core.qmd#sec-pontos-abertos)). A descrição de cada
+disciplina está em [Núcleo Comum](common-core.qmd).
 :::
 
 ## Carga horária
 
-As disciplinas principais têm 60 h semestrais; as práticas, 30 h (15 h cada para
-as Práticas de Física Geral IIa/IIb, de caráter bimestral); os laboratórios, 60 h;
-e Física Geral IIa/IIb, 30 h cada. Os totais abaixo são preliminares.
+As disciplinas principais têm 60 h semestrais; as práticas têm metade da carga do
+curso que acompanham (30 h para cursos de 60 h; 15 h cada para as Práticas de
+Física Geral IIa/IIb, bimestrais); os laboratórios, 60 h; e Física Geral IIa/IIb,
+30 h cada.
 
 ### Primeiro ano
 
 | Disciplina | Semestre | Carga horária |
 |---|:--:|:--:|
+| Física Básica | 1º (1º bim.) | 60 h |
 | Cálculo I | 1º | 60 h |
 | Práticas de Cálculo I | 1º | 30 h |
 | Física Geral I | 1º | 60 h |
 | Prática de Física Geral I | 1º | 30 h |
 | Laboratório de Física Geral I | 1º | 60 h |
-| **Subtotal 1º semestre** | | **240 h** |
+| **Subtotal 1º semestre** | | **300 h** |
 | Cálculo II | 2º | 60 h |
 | Práticas de Cálculo II | 2º | 30 h |
 | Métodos Lineares para Física | 2º | 60 h |
@@ -36,7 +38,7 @@ e Física Geral IIa/IIb, 30 h cada. Os totais abaixo são preliminares.
 | Prática de Física Geral IIb | 2º (4º bim.) | 15 h |
 | Laboratório de Física Geral II | 2º | 60 h |
 | **Subtotal 2º semestre** | | **300 h** |
-| **Total — Primeiro ano** | | **540 h** |
+| **Total — Primeiro ano** | | **600 h** |
 
 ### Segundo ano
 
@@ -59,7 +61,7 @@ e Física Geral IIa/IIb, 30 h cada. Os totais abaixo são preliminares.
 | **Subtotal 4º semestre** | | **300 h** |
 | **Total — Segundo ano** | | **660 h** |
 
-: Total preliminar do núcleo comum: **1200 h** {.striped}
+: Total preliminar do núcleo comum: **1260 h** {.striped}
 
 ## Grade horária semanal
 
@@ -72,8 +74,8 @@ Sugestão de distribuição semanal das aulas, conforme a *Planilha de horários
 
 | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
 |---|---|---|---|---|---|
-| 08:20–10:00 | Física Básica (reoferta) | Cálculo I | Lab. de Física Geral I | Cálculo I | Física Básica (reoferta) |
-| 10:15–11:55 | Física Geral I | Física Básica (reoferta) | Lab. de Física Geral I | Física Básica (reoferta) | Física Geral I |
+| 08:20–10:00 | Física Básica¹ | Cálculo I | Lab. de Física Geral I | Cálculo I | Física Básica¹ |
+| 10:15–11:55 | Física Geral I | Física Básica¹ | Lab. de Física Geral I | Física Básica¹ | Física Geral I |
 | 14:00–15:40 | Práticas de Cálculo I | — | — | Prática de Física Geral I | — |
 
 ### 1º ano · 2º semestre
@@ -88,7 +90,7 @@ Sugestão de distribuição semanal das aulas, conforme a *Planilha de horários
 
 | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
 |---|---|---|---|---|---|
-| 08:20–10:00 | Computação para Física¹ | Cálculo III | Computação para Física¹ | Cálculo III | Lab. de Física Geral III |
+| 08:20–10:00 | Computação para Física | Cálculo III | Computação para Física | Cálculo III | Lab. de Física Geral III |
 | 10:15–11:55 | Física Geral III | Métodos de Variáveis Complexas | Física Geral III | Métodos de Variáveis Complexas | Lab. de Física Geral III |
 | 14:00–15:40 | Práticas de Cálculo III | — | Prática de Física Geral III | — | — |
 
@@ -102,5 +104,6 @@ Sugestão de distribuição semanal das aulas, conforme a *Planilha de horários
 
 :::
 
-¹ Aparece como "Introdução à Linguagem de Computação" na *Planilha de horários*
-(ver [Núcleo Comum](common-core.qmd)).
+¹ Física Básica é ofertada no 1º bimestre; no 2º bimestre o mesmo horário é usado
+para a reoferta da disciplina, voltada ao reforço dos estudantes que dela
+necessitem.

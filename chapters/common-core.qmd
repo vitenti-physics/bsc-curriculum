@@ -8,8 +8,8 @@ toc-depth: 4
 As **narrativas** desta página foram transportadas de `apresentacao.tex` e as
 **ementas** das `notas/` do NDE, tomando a *Planilha de horários* (2024-2) como
 referência para a relação e a ordenação das disciplinas. Todo o conteúdo está
-**em revisão**. As divergências encontradas entre as fontes estão sinalizadas ao
-longo do texto e reunidas em [Pontos em aberto](#sec-pontos-abertos).
+**em revisão**. As divergências ainda em aberto estão reunidas em
+[Pontos em aberto](#sec-pontos-abertos).
 :::
 
 O objetivo do núcleo comum é introduzir o estudante ao conhecimento básico da
@@ -20,6 +20,13 @@ semestrais. A seguir apresentamos cada disciplina, na ordem em que aparece no
 currículo, com sua ementa e uma discussão dos conceitos-chave. A grade de carga
 horária e a grade horária semanal estão em [Grade Horária](timetable.qmd).
 
+As disciplinas principais de Cálculo e Física são acompanhadas por disciplinas de
+**Prática**. Cada prática é uma disciplina espelho do curso principal
+correspondente, dedicada à resolução de exercícios e à consolidação dos seus
+tópicos, ajudando o estudante a estudar para o curso principal. As práticas têm
+metade da carga horária do curso que acompanham (30 h para cursos de 60 h; 15 h
+para os de 30 h).
+
 ## Primeiro ano
 
 O primeiro ano é um período particularmente desafiador tanto para o corpo docente
@@ -29,16 +36,35 @@ elementos da realidade que motivaram seu desenvolvimento. Para o corpo docente, 
 desafio está em introduzir conceitos que demandam esforço significativo, mantendo
 os estudantes engajados.
 
-Para apoiar o processo de aprendizagem, os cursos principais de Cálculo e Física
-são acompanhados por disciplinas de **Prática**, que seguem ementas paralelas
-focadas na resolução de exercícios e no treinamento intensivo dos conceitos
-apresentados. Essas disciplinas são ministradas por professores diferentes
-daqueles responsáveis pelos cursos teóricos, proporcionando aos estudantes
-diferentes perspectivas sobre os mesmos tópicos, acompanhando de perto o estudo,
-identificando dificuldades e consolidando o conhecimento através da aplicação
-prática.
+As práticas são ministradas por professores diferentes daqueles responsáveis
+pelos cursos teóricos, proporcionando aos estudantes diferentes perspectivas
+sobre os mesmos tópicos, acompanhando de perto o estudo, identificando
+dificuldades e consolidando o conhecimento através da aplicação prática.
 
 ### Primeiro semestre
+
+#### Física Básica
+
+Disciplina introdutória de nivelamento que consolida as ferramentas matemáticas
+elementares necessárias ao acompanhamento das demais disciplinas do primeiro ano.
+É ofertada de forma intensiva no 1º bimestre, com reoferta no 2º bimestre para os
+estudantes que necessitem de reforço.
+
+::: {.ementa}
+**Ementa**
+
+- Operações com frações e decimais em cálculos de grandezas físicas.
+- Composição de operações.
+- Uso de potências e raízes para escalas de distância, tempo e energia.
+- Movimento e velocidade (funções lineares, proporção, regra de três).
+- Cálculo de posição em gráficos lineares.
+- Solução de equações lineares e equações envolvendo potências.
+- Composição de igualdades e desigualdades; multiplicação de equações e
+  desigualdades.
+- Funções polinomiais, racionais, exponenciais e logarítmicas.
+- Composição de funções e funções inversas.
+- Funções trigonométricas.
+:::
 
 #### Cálculo I
 
@@ -66,9 +92,8 @@ tratar variações contínuas de grandezas observáveis.
 
 #### Práticas de Cálculo I
 
-Funciona em paralelo ao curso de Cálculo I, proporcionando um espaço dedicado à
-consolidação dos conceitos por meio da resolução de exercícios, com ênfase em
-aplicações a problemas físicos.
+Disciplina espelho de Cálculo I, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos, com ênfase em aplicações a problemas físicos.
 
 ::: {.ementa}
 **Ementa**
@@ -88,15 +113,6 @@ mínimos, com enfoque em aplicações a problemas físicos. Inclui, entre outros
 - Crescimento, pontos de inflexão, máximos e mínimos; L'Hôpital.
 - Aproximação afim e erro de aproximação (Taylor).
 - Máximos e mínimos de funções de várias variáveis; campos escalares.
-:::
-
-::: {.callout-warning}
-## Divergência entre fontes
-Em `apresentacao.tex`, a ementa de Práticas de Cálculo I tinha enfoque
-**geométrico** distinto (cônicas e quádricas, sistemas de coordenadas, vetores
-covariantes/contravariantes, geometria euclidiana, campos escalares). A versão
-acima segue as `notas/` mais recentes (prática de exercícios alinhada a Cálculo
-I). É preciso decidir qual conceito prevalece.
 :::
 
 #### Física Geral I
@@ -124,12 +140,11 @@ leis de conservação. É acompanhada pela Prática de Física Geral I.
 
 #### Prática de Física Geral I
 
-Funciona em paralelo ao curso de Física Geral I, consolidando os conceitos
-teóricos por meio da resolução de problemas. Um aspecto central é a construção de
-sistemas de coordenadas a partir de medidas físicas reais, estabelecendo a ponte
-entre o mundo observável e sua representação matemática. A disciplina enfatiza a
-conversão entre grandezas, o Sistema Internacional de Unidades e a análise
-dimensional.
+Disciplina espelho de Física Geral I, dedicada à resolução de problemas. Um
+aspecto central é a construção de sistemas de coordenadas a partir de medidas
+físicas reais, estabelecendo a ponte entre o mundo observável e sua representação
+matemática. A disciplina enfatiza a conversão entre grandezas, o Sistema
+Internacional de Unidades e a análise dimensional.
 
 ::: {.ementa}
 **Ementa**
@@ -193,9 +208,9 @@ aplicações em duas e três dimensões. É acompanhado por Práticas de Cálcul
 
 #### Práticas de Cálculo II
 
-Acompanha o curso de Cálculo II, com foco na aplicação das técnicas de integração
-a problemas concretos e na introdução às equações diferenciais separáveis, que
-aparecem naturalmente em inúmeros contextos físicos.
+Disciplina espelho de Cálculo II, com foco na aplicação das técnicas de
+integração a problemas concretos e na introdução às equações diferenciais
+separáveis, que aparecem naturalmente em inúmeros contextos físicos.
 
 ::: {.ementa}
 **Ementa**
@@ -273,8 +288,8 @@ entre as descrições microscópica e macroscópica da matéria. Disciplina
 
 #### Prática de Física Geral IIa
 
-Acompanha Física Geral IIa, com foco no estudo experimental de sistemas
-oscilatórios.
+Disciplina espelho de Física Geral IIa, com foco no estudo experimental de
+sistemas oscilatórios.
 
 ::: {.ementa}
 **Ementa**
@@ -285,12 +300,17 @@ oscilatórios.
 
 #### Prática de Física Geral IIb
 
-Acompanha Física Geral IIb, complementando os tópicos de fluidos e termodinâmica.
+Disciplina espelho de Física Geral IIb, dedicada à resolução de exercícios e à
+consolidação dos tópicos de fluidos e termodinâmica.
 
 ::: {.ementa}
 **Ementa**
 
-- A definir, para complementar os tópicos de fluidos e termodinâmica.
+- Exercícios e problemas sobre propriedades dos fluidos, pressão e princípio de
+  Arquimedes.
+- Exercícios sobre temperatura, calor e as leis da termodinâmica.
+- Exercícios sobre teoria cinética dos gases e a distribuição de
+  Maxwell-Boltzmann.
 :::
 
 #### Laboratório de Física Geral II
@@ -340,13 +360,16 @@ com integrais de linha e de superfície e os teoremas integrais fundamentais.
 
 #### Práticas de Cálculo III
 
-Acompanha o curso de Cálculo III, com foco na aplicação dos conceitos de cálculo
-vetorial e funções de várias variáveis.
+Disciplina espelho de Cálculo III, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos de cálculo vetorial e funções de várias variáveis.
 
 ::: {.ementa}
 **Ementa**
 
-- A definir.
+- Exercícios e problemas sobre campos vetoriais e integrais de linha.
+- Exercícios sobre integrais de superfície, fluxo e os teoremas de Green, Gauss e
+  Stokes.
+- Aplicações físicas (campos conservativos, equação da continuidade).
 :::
 
 #### Computação para Física
@@ -373,14 +396,6 @@ Matplotlib), além de métodos numéricos básicos.
 - Automatização de tarefas e reprodutibilidade.
 - Introdução a ferramentas prontas relevantes à física.
 - Boas práticas de programação para projetos científicos.
-:::
-
-::: {.callout-warning}
-## Divergência de nomenclatura
-Na *Planilha de horários* esta disciplina aparece como **"Introdução à Linguagem
-de Computação"** (nome atual). As `notas/` e `apresentacao.tex` adotam o novo
-nome **"Computação para Física"**, com ementa baseada em Python (e não em C, como
-na disciplina atual). Confirmar o nome oficial.
 :::
 
 #### Física Geral III
@@ -410,13 +425,17 @@ Coulomb desenvolvem-se os conceitos de campo elétrico, lei de Gauss e potencial
 
 #### Prática de Física Geral III
 
-Acompanha Física Geral III, consolidando os conceitos de eletromagnetismo por
-meio da resolução de problemas.
+Disciplina espelho de Física Geral III, dedicada à resolução de exercícios e à
+consolidação dos tópicos de eletromagnetismo.
 
 ::: {.ementa}
 **Ementa**
 
-- A definir, para complementar os tópicos de eletromagnetismo.
+- Exercícios e problemas sobre lei de Coulomb, campo elétrico, lei de Gauss e
+  potencial elétrico.
+- Exercícios sobre capacitores, corrente, resistência e circuitos de corrente
+  contínua.
+- Exercícios sobre campo magnético, indução e circuitos de corrente alternada.
 :::
 
 #### Laboratório de Física Geral III
@@ -448,19 +467,13 @@ Riemann.
 - Aplicações físicas.
 :::
 
-::: {.callout-warning}
-## Disciplina ausente em `apresentacao.tex`
-Esta disciplina consta da *Planilha de horários* (3º semestre) e das `notas/`,
-mas **não aparecia** em `apresentacao.tex`. Sua inclusão no núcleo comum precisa
-ser confirmada.
-:::
-
 ### Quarto semestre
 
 #### Cálculo IV
 
 Trata de sequências e séries e introduz as equações diferenciais ordinárias,
-incluindo soluções em séries de potências.
+incluindo as equações lineares de segunda ordem e as soluções em séries de
+potências, com suas aplicações à descrição de sistemas físicos.
 
 ::: {.ementa}
 **Ementa**
@@ -475,12 +488,16 @@ incluindo soluções em séries de potências.
 
 #### Práticas de Cálculo IV
 
-Acompanha o curso de Cálculo IV.
+Disciplina espelho de Cálculo IV, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos de séries e equações diferenciais ordinárias.
 
 ::: {.ementa}
 **Ementa**
 
-- A definir.
+- Exercícios sobre sequências, séries e critérios de convergência.
+- Exercícios sobre séries de potências.
+- Resolução de equações diferenciais ordinárias de primeira e segunda ordem e
+  suas aplicações.
 :::
 
 #### Física Geral IV
@@ -495,23 +512,24 @@ moderna.
 :::
 
 ::: {.callout-warning}
-## Conteúdo a definir e ambiguidade III/IV
-A ementa de Física Geral IV ainda não foi fixada nas `notas/`. Há ambiguidade
-entre as fontes: parte do eletromagnetismo (equações de Maxwell, ondas
-eletromagnéticas, óptica física — o bloco "IIIb" das `notas/`) pode pertencer a
-Física Geral IV, enquanto `apresentacao.tex` descrevia Física Geral IV como
-"tópicos avançados / física moderna". É preciso definir a fronteira entre Física
-Geral III e IV e a respectiva ementa. Ver [Pontos em aberto](#sec-pontos-abertos).
+## Fronteira entre Física Geral III e IV
+A ementa de Física Geral IV ainda não foi fixada. É preciso definir a distribuição
+do eletromagnetismo entre Física Geral III (fenômenos) e Física Geral IV
+(formalismo de Maxwell, ondas eletromagnéticas e óptica física), bem como a
+eventual inclusão de tópicos de física moderna — ver
+[Pontos em aberto](#sec-pontos-abertos).
 :::
 
 #### Prática de Física Geral IV
 
-Acompanha Física Geral IV.
+Disciplina espelho de Física Geral IV, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos.
 
 ::: {.ementa}
 **Ementa**
 
-- A definir.
+- Exercícios e problemas acompanhando os tópicos de Física Geral IV (a detalhar
+  junto com a ementa do curso principal).
 :::
 
 #### Laboratório de Física Geral IV
@@ -546,35 +564,12 @@ do laplaciano e a análise de Fourier, articulada ao problema de Sturm-Liouville
   Fourier e de Laplace.
 :::
 
-::: {.callout-warning}
-## Divergência entre fontes
-Na *Planilha de horários*, o 4º semestre traz **Física Matemática I** nesta vaga.
-Já `apresentacao.tex` previa, no mesmo lugar, a disciplina **Dinâmica de Sistemas
-Físicos** (osciladores, modos normais, dinâmica linear). É preciso decidir qual
-delas integra o núcleo comum — ver [Pontos em aberto](#sec-pontos-abertos).
-:::
-
 ## Pontos em aberto {#sec-pontos-abertos .unnumbered}
 
-Divergências entre `apresentacao.tex`, `proposta_reformulacao.xlsx`, a *Planilha
-de horários* (2024-2) e as `notas/`, a serem resolvidas pelo NDE:
+Pendências a serem resolvidas pelo NDE:
 
-1. **Disciplina do 4º semestre — Física Matemática I × Dinâmica de Sistemas
-   Físicos.** A Planilha traz Física Matemática I; `apresentacao.tex` trazia
-   Dinâmica de Sistemas Físicos. Definir qual permanece (ou ambas).
-2. **Métodos de Variáveis Complexas para a Física** consta da Planilha e das
-   `notas/`, mas não de `apresentacao.tex`. Confirmar inclusão.
-3. **Nome de "Computação para Física"** — aparece como "Introdução à Linguagem de
-   Computação" na Planilha (disciplina atual, em C) e como "Computação para
-   Física" (proposta, em Python). Confirmar nome e ementa oficiais.
-4. **Ementa de Práticas de Cálculo I** — divergência entre o enfoque geométrico
-   (`apresentacao.tex`) e a prática de exercícios (`notas/`).
-5. **Carga horária das Práticas e Laboratórios** — as `notas/` registram 60 h
-   para várias práticas, enquanto `apresentacao.tex`/`proposta` usam 30 h (e 15 h
-   para as Práticas de Física IIa/IIb). Homologar a carga horária.
-6. **Fronteira Física Geral III × IV** — distribuir o eletromagnetismo (fenômenos
-   × formalismo de Maxwell) e definir a ementa de Física Geral IV.
-7. **Ementas marcadas como "a definir"** — Práticas de Cálculo III e IV, Prática
-   e Laboratório de Física Geral III e IV, Prática de Física Geral IIb.
-8. **"Física Básica (reoferta)"** — aparece na grade horária do 1º ano como
-   reoferta/nivelamento; definir seu papel no currículo.
+1. **Fronteira Física Geral III × IV** — distribuir o eletromagnetismo (fenômenos
+   × formalismo de Maxwell) e definir a ementa de Física Geral IV (incluindo a
+   eventual presença de tópicos de física moderna).
+2. **Ementas dos Laboratórios de Física Geral III e IV** — definir os roteiros de
+   eletromagnetismo (Lab III) e dos tópicos de Física Geral IV (Lab IV).
