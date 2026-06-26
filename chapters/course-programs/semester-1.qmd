@@ -1,0 +1,184 @@
+---
+title: "1º semestre — Programas"
+toc-depth: 2
+---
+
+::: {.callout-note appearance="simple"}
+Programas propostos das disciplinas do 1º semestre. Conteúdo em revisão pelo NDE.
+Ementas e cargas horárias em [Núcleo Comum](../common-core.qmd).
+:::
+
+## Articulação do semestre
+
+O primeiro semestre estabelece, simultaneamente, as bases do **cálculo
+diferencial** (Cálculo I) e do **modelo de partícula** (Física Geral I), apoiadas
+por uma disciplina de nivelamento (Física Básica), pelas práticas espelho e pelo
+primeiro contato com o método experimental (Laboratório de Física Geral I). A
+intenção é que a linguagem matemática introduzida em Cálculo I seja imediatamente
+aplicada à descrição do movimento em Física Geral I, enquanto as práticas
+consolidam a fluência e o laboratório inicia o tratamento de medidas e incertezas.
+
+## Física Básica
+
+**Status:** Programa em elaboração.
+
+Disciplina de **nivelamento**, ofertada de forma intensiva no 1º bimestre (com
+reoferta no 2º). Pretende-se que consolide as ferramentas matemáticas elementares
+— operações, potências e raízes, funções e suas representações gráficas — de modo
+que todos os estudantes possam acompanhar Cálculo I e Física Geral I em condições
+equivalentes. O programa detalhado, com a articulação aos primeiros tópicos de
+Cálculo, ainda será elaborado.
+
+## Cálculo I
+
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+
+O curso de Cálculo I introduz os conceitos fundamentais do cálculo diferencial,
+que constituem a base da formulação matemática da Física clássica. Este curso é
+acompanhado pela disciplina de Práticas de Cálculo I, onde os conceitos abstratos
+são aplicados em contextos geométricos e físicos concretos.
+
+O estudo inicia-se pela construção dos números reais e pela representação de
+funções de uma variável real, que permitem descrever relações quantitativas entre
+grandezas físicas. A partir dessas relações, são definidos os conceitos de limite
+e continuidade, que fornecem o arcabouço necessário para tratar variações
+contínuas de grandezas observáveis. Sobre essa base desenvolvem-se a derivada e
+suas regras de cálculo, a aproximação de funções por polinômios de Taylor e a
+extensão a funções de várias variáveis, com as derivadas parciais e os problemas
+de máximos e mínimos que aparecem de modo recorrente na Física.
+
+## Práticas de Cálculo I
+
+**Status:** Programa em revisão (disciplina espelho).
+
+Disciplina espelho de Cálculo I, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos, com ênfase em aplicações a problemas físicos.
+Pretende-se que acompanhe de perto o curso teórico, oferecendo treino sistemático
+em manipulação algébrica, gráficos, limites, derivadas, aproximações de Taylor e
+otimização. O detalhamento dos blocos de exercícios consta da ementa em
+[Núcleo Comum](../common-core.qmd).
+
+## Física Geral I
+
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+
+O curso de Física Geral I introduz três conceitos-chave da Física clássica: o
+modelo de partícula, sua cinemática e sua dinâmica. É acompanhado pela Prática de
+Física Geral I, onde os alunos consolidam o aprendizado através da resolução de
+problemas, com foco na aplicação dos conceitos em situações concretas. O modelo de
+partícula pontual é de suma importância: fornece um modelo simples para o
+movimento de objetos macroscópicos e serve de base para a descrição de sistemas
+mais complexos, como corpos rígidos, representados como conjuntos de partículas.
+
+A cinemática desse modelo envolve a descrição do movimento, definido pelo espaço e
+pelo tempo. Essa descrição ocorre de duas maneiras: uma física, onde determinamos
+o que podemos medir, e uma matemática, onde definimos os objetos que descrevem
+essas medidas. A partir da observação dos pontos materiais, estabelecemos um
+sistema de coordenadas e associamos a cada ponto as medidas físicas de distância a
+partir de um ponto de referência.
+
+::: {.item-ementa}
+**Item da ementa:** Medidas e grandezas em Física.
+:::
+
+De forma prática, o ambiente é descrito em um espaço tridimensional, onde cada
+ponto é associado a um conjunto de coordenadas. A cinemática demanda, portanto, a
+definição da geometria desse espaço. As posições são representadas como vetores em
+$\mathbb{M} = \mathbb{R}^3$ e o estado físico de uma partícula requer também sua
+velocidade, modelada como um vetor em outro espaço $\mathbb{V} = \mathbb{R}^3$.
+Compreender a cinemática exige, assim, habilidade no trabalho com vetores e
+sistemas de coordenadas.
+
+::: {.item-ementa}
+**Item da ementa:** Vetores e sistemas de coordenadas.
+:::
+
+A cinemática trata da descrição do movimento de partículas, independentemente de
+suas causas: fornece um modelo matemático para trajetórias, velocidades e
+acelerações na ausência explícita de forças. Inclui movimentos retilíneos
+uniformes e uniformemente acelerados, bem como movimentos circulares. Sob uma
+perspectiva mais ampla, o movimento livre — na ausência de interações — pode ser
+entendido como o movimento ao longo de uma geodésica.^[Em termos gerais, uma
+geodésica é o caminho de menor "distância" (ou tempo próprio) em um espaço ou
+espaço-tempo, conceito fundamental em teorias como a relatividade geral.]
+
+::: {.item-ementa}
+**Item da ementa:** Cinemática da partícula.
+:::
+
+O elemento seguinte é a dinâmica, que descreve o movimento na presença de forças.
+Ao contrário da cinemática, a dinâmica não possui caráter descritivo universal:
+dependendo do sistema, diferentes leis se aplicam. Por meio das leis de Newton,
+introduz-se o conceito de força para modelar como as partículas respondem às
+interações, relacionando força, massa e aceleração. A dinâmica divide-se em duas
+partes: os princípios que governam as interações entre partículas (ação e reação,
+forças centrais, etc.) e o estudo da evolução temporal desses sistemas.
+
+::: {.item-ementa}
+**Item da ementa:** Os princípios da dinâmica.
+:::
+
+A construção do sistema de referência depende da escolha de um ponto a partir do
+qual as medidas são feitas. Conforme o movimento do sistema, esses referenciais
+classificam-se como inerciais ou não inerciais. O referencial inercial fornece um
+quadro com regras bem definidas para o movimento; os não inerciais, em movimento
+acelerado, exigem a introdução de forças fictícias para manter a consistência com
+as leis de Newton.
+
+::: {.item-ementa}
+**Item da ementa:** Referenciais inerciais e não-inerciais.
+:::
+
+Ao explorar a dinâmica, as forças podem ser categorizadas em conservativas e
+dissipativas. Nas conservativas, destaca-se a possibilidade de definir a energia,
+preservada ao longo do tempo; a estrutura dessas forças permite ainda estabelecer
+o momento linear, também conservado. Os princípios físicos e geométricos
+subjacentes às forças possibilitam, assim, a definição de grandezas conservadas.
+
+::: {.item-ementa}
+**Item da ementa:** Conservação da energia e momento linear.
+:::
+
+Uma progressão natural reside na interconexão entre **simetrias e leis de
+conservação**: as simetrias presentes em um sistema físico estão intrinsecamente
+ligadas às leis de conservação que o governam. Essa relação é um princípio
+fundamental para compreender como as leis físicas derivam de princípios mais
+básicos.
+
+::: {.item-ementa}
+**Item da ementa:** Simetrias e leis de conservação.
+:::
+
+Para ilustrar esses conceitos, o curso apresenta exemplos concretos, com destaque
+para a **gravitação**, fenômeno amplamente descrito pela Física Clássica. Por fim,
+o modelo do ponto material é estendido à cinemática e à dinâmica dos corpos
+rígidos.
+
+::: {.item-ementa}
+**Item da ementa:** Gravitação.
+:::
+
+## Prática de Física Geral I
+
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+
+Disciplina espelho de Física Geral I, voltada à consolidação dos conceitos
+teóricos por meio da resolução de problemas. Um aspecto central é a **construção
+de sistemas de coordenadas a partir de medidas físicas reais**: os alunos aprendem
+a estabelecer a conexão entre o mundo observável e sua representação matemática,
+transformando observações em descrições quantitativas. A disciplina enfatiza ainda
+a conversão entre grandezas e o Sistema Internacional (SI), a **análise
+dimensional** — ferramenta para verificar a consistência de equações e estimar
+ordens de grandeza — e problemas envolvendo referenciais acelerados e quantidades
+conservadas, reforçando a conexão entre simetrias e leis de conservação.
+
+## Laboratório de Física Geral I
+
+**Status:** Programa em revisão.
+
+Primeiro contato sistemático com o **método experimental**. Pretende-se que
+introduza medidas físicas e sistemas de unidades, o tratamento de incertezas
+(tipos de erro, propagação, estatística básica), a representação e o ajuste de
+dados e o uso de ferramentas computacionais (Python), culminando na elaboração de
+relatórios científicos. Os roteiros acompanham os tópicos de mecânica de Física
+Geral I (ver ementa em [Núcleo Comum](../common-core.qmd)).

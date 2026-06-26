@@ -1,0 +1,55 @@
+---
+title: "Programas das Disciplinas"
+---
+
+::: {.callout-note}
+## O que é esta seção
+Reúne, para cada disciplina do núcleo comum, um **programa proposto** — um guia
+do que se espera e se pretende com a disciplina: seus objetivos, os conceitos
+centrais, a ênfase desejada e como ela se articula com as demais. Não substitui o
+**plano de ensino** do professor, que mantém autonomia para elaborá-lo conforme as
+normas da Universidade; serve como **referência compartilhada** para que o
+colegiado verifique se o plano proposto pelo docente está suficientemente próximo
+do que foi acordado pelo NDE.
+
+O conteúdo foi transportado de `apresentacao.tex` e **está em revisão**. A ementa
+e a carga horária de cada disciplina estão em [Núcleo Comum](../common-core.qmd).
+:::
+
+## Como ler os programas
+
+- Os programas estão organizados por semestre
+  ([1º](semester-1.qmd), [2º](semester-2.qmd), [3º](semester-3.qmd) e
+  [4º](semester-4.qmd)), cada um aberto por uma nota sobre a **articulação** das
+  disciplinas daquele período.
+- Ao longo do texto, marcações **"Item da ementa"** conectam a discussão
+  conceitual aos itens correspondentes da ementa, evidenciando o que cada ideia
+  pretende cobrir.
+- Cada disciplina traz uma linha de **Status** de revisão.
+
+## Articulação geral do núcleo comum
+
+A Física tem como objetivo a compreensão dos fenômenos naturais, usando a
+**matemática como linguagem** e a **experimentação como método de validação**. O
+núcleo comum é construído em torno dessa ideia: o conteúdo específico de cada
+disciplina serve como exemplo concreto de como a matemática descreve e prevê
+fenômenos, ao mesmo tempo em que desenvolve a fluência matemática e a capacidade
+de modelar a realidade.
+
+Três fios condutores articulam as disciplinas:
+
+1. **O cálculo como base da formulação física.** Cálculo I a IV e Métodos
+   Lineares para Física desenvolvem, em paralelo aos cursos de Física, as
+   ferramentas matemáticas exigidas a cada etapa — do cálculo diferencial e
+   integral ao cálculo vetorial e às equações diferenciais.
+2. **O modelo de partícula e sua generalização.** Introduzido em Física Geral I
+   (cinemática e dinâmica do ponto material), é estendido a oscilações, ondas,
+   fluidos e termodinâmica (Física Geral II) e, com a introdução da carga
+   elétrica, ao eletromagnetismo (Física Geral III e IV).
+3. **A prática e o laboratório como consolidação.** Cada curso principal é
+   acompanhado por uma disciplina de **Prática** (espelho, voltada à resolução de
+   exercícios) e pelos **Laboratórios**, que trazem o método experimental e o
+   tratamento de dados.
+
+A discussão detalhada de cada disciplina, e de como esses fios se concretizam,
+está nas páginas de cada semestre.

@@ -17,7 +17,10 @@ Física e da Matemática. Nesta parte do curso o estudante desenvolve a fluênci
 matemática combinada com a capacidade de descrever e modelar elementos da
 realidade. O núcleo comum tem duração de **dois anos**, organizado em disciplinas
 semestrais. A seguir apresentamos cada disciplina, na ordem em que aparece no
-currículo, com sua ementa e uma discussão dos conceitos-chave. A grade de carga
+currículo, com sua ementa e uma breve discussão dos conceitos-chave. O
+**programa proposto** de cada disciplina — a discussão longa do que se espera e
+de como as disciplinas se articulam — está em
+[Programas das Disciplinas](course-programs/overview.qmd). A grade de carga
 horária e a grade horária semanal estão em [Grade Horária](timetable.qmd).
 
 As disciplinas principais de Cálculo e Física são acompanhadas por disciplinas de

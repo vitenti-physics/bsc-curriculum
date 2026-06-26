@@ -1,0 +1,123 @@
+---
+title: "2º semestre — Programas"
+toc-depth: 2
+---
+
+::: {.callout-note appearance="simple"}
+Programas propostos das disciplinas do 2º semestre. Conteúdo em revisão pelo NDE.
+Ementas e cargas horárias em [Núcleo Comum](../common-core.qmd).
+:::
+
+## Articulação do semestre
+
+O segundo semestre completa o cálculo de uma variável com a **integração**
+(Cálculo II), introduz a **álgebra linear** voltada à Física (Métodos Lineares) e
+amplia o repertório de fenômenos físicos com **oscilações, ondas, fluidos e
+termodinâmica** (Física Geral II, em dois blocos bimestrais). A integração e as
+equações diferenciais separáveis vistas em Cálculo II dão suporte imediato à
+descrição de oscilações; a álgebra linear prepara os modos próprios e as rotações
+que reaparecem ao longo do curso.
+
+## Cálculo II
+
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+
+O curso de Cálculo II introduz o cálculo integral, complementando os conceitos de
+cálculo diferencial de Cálculo I. É acompanhado pelas Práticas de Cálculo II, onde
+as técnicas de integração são aplicadas a problemas físicos e geométricos
+concretos, além da introdução às equações diferenciais separáveis.
+
+A integral de Riemann é apresentada inicialmente por sua definição geométrica,
+permitindo desenvolver intuição sobre acumulação e área sob curvas; a definição
+analítica consolida essa compreensão com bases rigorosas. O estudo das funções
+transcendentes e de suas integrais amplia o repertório de funções manipuláveis, e
+as técnicas de integração desenvolvem a habilidade de reconhecer padrões e
+escolher métodos. As integrais impróprias e múltiplas estendem o conceito a
+domínios ilimitados e a funções de várias variáveis, preparando aplicações em
+duas e três dimensões.
+
+## Práticas de Cálculo II
+
+**Status:** Programa em revisão (disciplina espelho).
+
+Disciplina espelho de Cálculo II, com foco na aplicação das técnicas de integração
+a problemas concretos — áreas, volumes, trabalho, energia — e na introdução às
+**equações diferenciais separáveis** do tipo $dy/dx = f(x)g(y)$, que aparecem
+naturalmente em crescimento populacional, decaimento radioativo e circuitos. É
+através da resolução de problemas que se pretende desenvolver a intuição para
+aplicar o cálculo integral e as primeiras ferramentas de modelagem dinâmica.
+
+## Métodos Lineares para Física
+
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+
+A disciplina introduz os conceitos fundamentais de álgebra linear com foco em suas
+aplicações na Física, desenvolvendo as habilidades necessárias para compreender
+sistemas descritos por equações lineares.
+
+Os alunos estudam vetores e espaços vetoriais, combinações lineares e bases —
+fundamentais para a descrição de sistemas físicos. As transformações lineares e
+suas representações matriciais fornecem ferramentas para analisar como operadores
+físicos atuam sobre os estados do sistema. Autovetores e autovalores são
+apresentados como conceitos centrais para a análise de sistemas físicos, incluindo
+modos normais de vibração e estados estacionários, com a diagonalização de
+matrizes simétricas e os operadores ortogonais aplicados a rotações.
+
+## Física Geral IIa
+
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+
+Primeira parte de Física Geral II (disciplina bimestral), dedicada a **oscilações
+e ondas**. O estudo começa com oscilações livres e forçadas — fenômenos ubíquos,
+do pêndulo às vibrações moleculares — e com o conceito de **ressonância**, de
+grande importância prática em engenharia e tecnologia.
+
+A propagação de ondas e a velocidade de fase surgem como extensões naturais do
+estudo de oscilações: os alunos aprendem como perturbações se propagam em
+diferentes meios e como descrevê-las matematicamente. Índice de refração,
+difração, reflexão e transmissão são explorados no contexto da propagação,
+culminando no princípio de Huygens e em uma introdução à óptica geométrica.
+
+## Física Geral IIb
+
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+
+Segunda parte de Física Geral II (disciplina bimestral), voltada à **física de
+fluidos e termodinâmica**. Estudam-se as propriedades dos fluidos, a pressão e o
+princípio de Arquimedes; a termodinâmica é introduzida pelos conceitos de
+temperatura e calor, seguidos das duas primeiras leis, que estabelecem os
+princípios de conservação e transformação de energia.
+
+O curso apresenta ainda a **teoria cinética dos gases**, que faz a ponte entre as
+descrições microscópica (molecular) e macroscópica (termodinâmica) da matéria, e a
+distribuição de Maxwell-Boltzmann, ferramenta fundamental para o comportamento
+estatístico de sistemas com muitas partículas.
+
+## Prática de Física Geral IIa
+
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+
+Disciplina espelho de Física Geral IIa, com foco no **estudo experimental de
+sistemas oscilatórios**. O pêndulo simples serve de sistema modelo para observar e
+quantificar o movimento harmônico, medir períodos e verificar as leis que o
+governam; o pêndulo amortecido permite investigar como a dissipação de energia
+afeta o comportamento oscilatório (decaimento da amplitude, mudança de
+frequência). Pretende-se desenvolver habilidades de coleta e análise de dados e de
+ajuste de modelos teóricos a dados experimentais.
+
+## Prática de Física Geral IIb
+
+**Status:** Programa em revisão (disciplina espelho).
+
+Disciplina espelho de Física Geral IIb, dedicada à resolução de exercícios e à
+consolidação dos tópicos de fluidos e termodinâmica. O programa detalhado
+acompanhará a ementa do curso principal.
+
+## Laboratório de Física Geral II
+
+**Status:** Programa em revisão.
+
+Aprofunda a experiência laboratorial com experimentos relacionados a oscilações,
+ondas, fluidos e termodinâmica (lei de Hooke, ondas estacionárias, princípio de
+Arquimedes, gases, calorimetria, entre outros — ver ementa em
+[Núcleo Comum](../common-core.qmd)).

@@ -1,0 +1,114 @@
+---
+title: "3º semestre — Programas"
+toc-depth: 2
+---
+
+::: {.callout-note appearance="simple"}
+Programas propostos das disciplinas do 3º semestre. Conteúdo em revisão pelo NDE.
+Ementas e cargas horárias em [Núcleo Comum](../common-core.qmd).
+:::
+
+## Articulação do semestre
+
+O terceiro semestre amplia o cálculo para o **cálculo vetorial** (Cálculo III),
+introduz a **computação científica** (Computação para Física) e abre o estudo do
+**eletromagnetismo** (Física Geral III), além de iniciar os métodos de **variáveis
+complexas**. O cálculo vetorial dá a linguagem (campos, fluxo, circulação) que o
+eletromagnetismo exige; a computação passa a ser ferramenta de análise e de
+resolução numérica que acompanhará as demais disciplinas.
+
+## Cálculo III
+
+**Status:** Programa em elaboração.
+
+Estende o cálculo a funções de várias variáveis e introduz o **cálculo vetorial**:
+campos vetoriais, integrais de linha e de superfície, e os teoremas de Green, Gauss
+e Stokes, encerrando com a equação da continuidade. Pretende-se que forneça a
+linguagem matemática usada de imediato em Física Geral III. O texto de
+fundamentação ainda será desenvolvido.
+
+## Práticas de Cálculo III
+
+**Status:** Programa em revisão (disciplina espelho).
+
+Disciplina espelho de Cálculo III, dedicada à resolução de exercícios de cálculo
+vetorial e funções de várias variáveis, com aplicações físicas (campos
+conservativos, fluxo, equação da continuidade).
+
+## Computação para Física
+
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+
+Esta disciplina introduz as técnicas computacionais aplicadas à resolução de
+problemas físicos, com foco no desenvolvimento de habilidades práticas em
+**programação científica**, usando Python como linguagem principal.
+
+Os alunos aprendem a organizar projetos científicos, manipular e analisar dados
+experimentais e utilizar bibliotecas fundamentais como NumPy, SciPy e Matplotlib.
+O curso aborda métodos numéricos básicos para problemas físicos — zeros de funções,
+integração numérica e solução de equações diferenciais ordinárias — com ênfase em
+reprodutibilidade e boas práticas de programação. A intenção é que a computação
+deixe de ser um conteúdo isolado e passe a ser ferramenta de trabalho nas demais
+disciplinas.
+
+## Física Geral III
+
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+
+O curso concentra-se no **eletromagnetismo**, uma das quatro interações
+fundamentais. Seu objetivo é duplo: compreender tanto a base empírica das leis
+eletromagnéticas quanto sua formulação matemática. Inicialmente, os alunos
+exploram essas leis de forma **fenomenológica** — compreendendo seus efeitos
+observáveis — para depois avançar à unificação em um único formalismo, exemplificado
+pelas equações de Maxwell.
+
+Nesta etapa, o eletromagnetismo é apresentado de forma simplificada, com modelos de
+soluções analíticas e simétricas, sem a introdução de formalismos matemáticos
+complexos. Os formalismos mais avançados ficam reservados a cursos posteriores,
+como Eletromagnetismo I.
+
+Como em Física Geral I, o modelo de partícula é fundamental, mas o
+eletromagnetismo introduz um novo conceito crucial: a **carga elétrica**. Essa
+propriedade intrínseca da matéria, representada como um escalar, é introduzida
+fenomenologicamente como a fonte da interação entre partículas carregadas
+(lei de Coulomb, derivada de observações experimentais). A partir das
+características dessa interação, exploram-se o campo elétrico e suas propriedades,
+incluindo a Lei de Gauss e o potencial elétrico.
+
+::: {.item-ementa}
+**Item da ementa:** Lei de Coulomb e campo elétrico; Lei de Gauss; Potencial
+elétrico.
+:::
+
+::: {.callout-warning}
+## Fronteira com Física Geral IV
+A distribuição entre Física Geral III (fenômenos) e Física Geral IV (formalismo de
+Maxwell, ondas eletromagnéticas e óptica física) ainda está em aberto — ver
+[Pontos em aberto](../common-core.qmd#sec-pontos-abertos). O programa de Física
+Geral III será fechado em conjunto com o de Física Geral IV.
+:::
+
+## Prática de Física Geral III
+
+**Status:** Programa em revisão (disciplina espelho).
+
+Disciplina espelho de Física Geral III, dedicada à resolução de exercícios e à
+consolidação dos tópicos de eletromagnetismo (lei de Coulomb, campo e potencial
+elétrico, capacitores, circuitos, campo magnético e indução).
+
+## Laboratório de Física Geral III
+
+**Status:** Programa em elaboração.
+
+Complementará o curso teórico com experimentos de eletromagnetismo. Os roteiros
+ainda serão definidos (ver [Pontos em aberto](../common-core.qmd#sec-pontos-abertos)).
+
+## Métodos de Variáveis Complexas para a Física
+
+**Status:** Programa em elaboração.
+
+Introduz a teoria de **funções de variável complexa** e suas aplicações na Física —
+das propriedades algébricas dos complexos às funções analíticas, ao teorema de
+Cauchy e ao teorema dos resíduos, incluindo extensões analíticas e folhas de
+Riemann. Pretende-se enfatizar as aplicações físicas dessas técnicas. O texto de
+fundamentação ainda será desenvolvido.

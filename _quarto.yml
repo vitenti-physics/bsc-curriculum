@@ -37,6 +37,13 @@ website:
           - chapters/curricular-structure.qmd
           - chapters/common-core.qmd
           - chapters/timetable.qmd
+      - section: "Programas das Disciplinas"
+        contents:
+          - chapters/course-programs/overview.qmd
+          - chapters/course-programs/semester-1.qmd
+          - chapters/course-programs/semester-2.qmd
+          - chapters/course-programs/semester-3.qmd
+          - chapters/course-programs/semester-4.qmd
       - section: "Disposições Complementares"
         contents:
           - chapters/methodology.qmd

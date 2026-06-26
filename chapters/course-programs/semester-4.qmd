@@ -1,0 +1,80 @@
+---
+title: "4º semestre — Programas"
+toc-depth: 2
+---
+
+::: {.callout-note appearance="simple"}
+Programas propostos das disciplinas do 4º semestre. Conteúdo em revisão pelo NDE.
+Ementas e cargas horárias em [Núcleo Comum](../common-core.qmd).
+:::
+
+## Articulação do semestre
+
+O quarto semestre encerra o ciclo de cálculo com **sequências, séries e equações
+diferenciais ordinárias** (Cálculo IV), conclui o eletromagnetismo básico (Física
+Geral IV) e introduz os **métodos matemáticos da Física** (Física Matemática I,
+com distribuições, funções de Green e análise de Fourier). As equações
+diferenciais de Cálculo IV e as técnicas de variáveis complexas do semestre
+anterior são pré-requisitos diretos de Física Matemática I.
+
+## Cálculo IV
+
+**Status:** Programa em elaboração.
+
+Trata de **sequências e séries** e introduz as **equações diferenciais
+ordinárias**, incluindo as lineares de segunda ordem e as soluções em séries de
+potências (método de Frobenius). Pretende-se que desenvolva as ferramentas de
+modelagem de sistemas dinâmicos — em particular o oscilador e suas variantes — que
+aparecem em todo o curso. O texto de fundamentação ainda será desenvolvido.
+
+## Práticas de Cálculo IV
+
+**Status:** Programa em revisão (disciplina espelho).
+
+Disciplina espelho de Cálculo IV, dedicada à resolução de exercícios de séries e
+de equações diferenciais ordinárias de primeira e segunda ordem, com aplicações
+físicas.
+
+## Física Geral IV
+
+**Status:** Programa em elaboração.
+
+Aborda tópicos mais avançados da física clássica e a transição para a física
+moderna.
+
+::: {.callout-warning}
+## Conteúdo a definir
+A ementa e o programa de Física Geral IV ainda não foram fixados. É preciso
+definir a fronteira com Física Geral III — em particular onde entram o formalismo
+de Maxwell, as ondas eletromagnéticas e a óptica física — e a eventual presença de
+tópicos de física moderna. Ver
+[Pontos em aberto](../common-core.qmd#sec-pontos-abertos).
+:::
+
+## Prática de Física Geral IV
+
+**Status:** Programa em revisão (disciplina espelho).
+
+Disciplina espelho de Física Geral IV, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos. O programa acompanhará a definição da ementa do
+curso principal.
+
+## Laboratório de Física Geral IV
+
+**Status:** Programa em elaboração.
+
+Complementará o curso teórico com experimentos relacionados aos tópicos de Física
+Geral IV. Os roteiros serão definidos junto com a ementa do curso
+(ver [Pontos em aberto](../common-core.qmd#sec-pontos-abertos)).
+
+## Física Matemática I
+
+**Status:** Programa em elaboração.
+
+Introduz métodos matemáticos centrais da Física. Pretende-se partir da **delta de
+Dirac** e da ideia de distribuições, construir as **funções de Green** do
+laplaciano em 1, 2 e 3 dimensões, e desenvolver a **análise de Fourier**
+(séries e transformadas) articulada ao problema de Sturm-Liouville. A intenção é
+fornecer as ferramentas que sustentam a solução de problemas de contorno em
+eletromagnetismo, vibrações e condução de calor, aprofundadas nas ênfases. O texto
+de fundamentação ainda será desenvolvido.
