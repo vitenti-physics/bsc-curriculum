@@ -10,8 +10,9 @@ Ementas e cargas horárias em [Núcleo Comum](../common-core.qmd).
 ## Articulação do semestre
 
 O quarto semestre encerra o ciclo de cálculo com **sequências, séries e equações
-diferenciais ordinárias** (Cálculo IV), conclui o eletromagnetismo básico (Física
-Geral IV) e introduz os **métodos matemáticos da Física** (Física Matemática I,
+diferenciais ordinárias** (Cálculo IV), conclui o eletromagnetismo com o
+formalismo de Maxwell e as ondas eletromagnéticas (Física Geral IV) e introduz os
+**métodos matemáticos da Física** (Física Matemática I,
 com distribuições, funções de Green e análise de Fourier). As equações
 diferenciais de Cálculo IV e as técnicas de variáveis complexas do semestre
 anterior são pré-requisitos diretos de Física Matemática I.
@@ -36,34 +37,30 @@ físicas.
 
 ## Física Geral IV
 
-**Status:** Programa em elaboração.
+**Status:** Programa transportado de `apresentacao.tex`, em revisão.
 
-Aborda tópicos mais avançados da física clássica e a transição para a física
-moderna.
-
-::: {.callout-warning}
-## Conteúdo a definir
-A ementa e o programa de Física Geral IV ainda não foram fixados. É preciso
-definir a fronteira com Física Geral III — em particular onde entram o formalismo
-de Maxwell, as ondas eletromagnéticas e a óptica física — e a eventual presença de
-tópicos de física moderna. Ver
-[Pontos em aberto](../common-core.qmd#sec-pontos-abertos).
-:::
+Dá continuidade a Física Geral III, passando da descrição **fenomenológica** do
+eletromagnetismo à sua **formulação unificada** pelas equações de Maxwell. Após
+uma revisão do cálculo vetorial (operadores gradiente, divergente e rotacional;
+teoremas integrais), introduz as equações de Maxwell e suas consequências: as
+oscilações e ondas eletromagnéticas, a polarização e os fenômenos de interferência
+e difração da luz. Encerra, assim, o ciclo de eletromagnetismo do núcleo comum,
+articulando-se diretamente com o cálculo vetorial de Cálculo III e IV.
 
 ## Prática de Física Geral IV
 
 **Status:** Programa em revisão (disciplina espelho).
 
-Disciplina espelho de Física Geral IV, dedicada à resolução de exercícios e à
-consolidação dos seus tópicos. O programa acompanhará a definição da ementa do
-curso principal.
+Disciplina espelho de Física Geral IV, dedicada à resolução de exercícios sobre as
+equações de Maxwell, as ondas eletromagnéticas e a óptica física (polarização,
+interferência e difração).
 
 ## Laboratório de Física Geral IV
 
 **Status:** Programa em elaboração.
 
-Complementará o curso teórico com experimentos relacionados aos tópicos de Física
-Geral IV. Os roteiros serão definidos junto com a ementa do curso
+Complementará o curso teórico com experimentos de Maxwell, ondas eletromagnéticas
+e óptica física. Os roteiros ainda serão definidos
 (ver [Pontos em aberto](../common-core.qmd#sec-pontos-abertos)).
 
 ## Física Matemática I

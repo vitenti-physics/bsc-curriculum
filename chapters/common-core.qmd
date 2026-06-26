@@ -405,7 +405,7 @@ Matplotlib), além de métodos numéricos básicos.
 Concentra-se no **eletromagnetismo**. Os estudantes exploram inicialmente as leis
 do eletromagnetismo de forma fenomenológica — compreendendo seus efeitos
 observáveis — usando modelos com soluções analíticas e simétricas, sem o
-formalismo matemático mais avançado, reservado a cursos posteriores. A carga
+formalismo matemático mais avançado, desenvolvido em Física Geral IV. A carga
 elétrica é introduzida como nova propriedade da matéria, e a partir da lei de
 Coulomb desenvolvem-se os conceitos de campo elétrico, lei de Gauss e potencial.
 
@@ -504,22 +504,24 @@ consolidação dos seus tópicos de séries e equações diferenciais ordinária
 
 #### Física Geral IV
 
-Aborda tópicos mais avançados da física clássica e a transição para a física
-moderna.
+Dá continuidade a Física Geral III, passando da descrição fenomenológica do
+eletromagnetismo à sua **formulação unificada**. Após uma revisão do cálculo
+vetorial, introduz as equações de Maxwell, das quais decorrem as oscilações e as
+ondas eletromagnéticas, a polarização e os fenômenos de interferência e difração
+da luz.
 
 ::: {.ementa}
 **Ementa**
 
-- A definir.
-:::
-
-::: {.callout-warning}
-## Fronteira entre Física Geral III e IV
-A ementa de Física Geral IV ainda não foi fixada. É preciso definir a distribuição
-do eletromagnetismo entre Física Geral III (fenômenos) e Física Geral IV
-(formalismo de Maxwell, ondas eletromagnéticas e óptica física), bem como a
-eventual inclusão de tópicos de física moderna — ver
-[Pontos em aberto](#sec-pontos-abertos).
+- Revisão de cálculo vetorial: álgebra vetorial e produtos.
+- Cálculo diferencial: operadores gradiente, divergente e rotacional; derivadas
+  segundas.
+- Cálculo integral e teoremas integrais.
+- Equações de Maxwell.
+- Oscilações eletromagnéticas.
+- Ondas eletromagnéticas.
+- Polarização.
+- Interferência e difração da luz.
 :::
 
 #### Prática de Física Geral IV
@@ -530,8 +532,9 @@ consolidação dos seus tópicos.
 ::: {.ementa}
 **Ementa**
 
-- Exercícios e problemas acompanhando os tópicos de Física Geral IV (a detalhar
-  junto com a ementa do curso principal).
+- Exercícios sobre a revisão de cálculo vetorial e as equações de Maxwell.
+- Exercícios sobre oscilações e ondas eletromagnéticas.
+- Problemas de polarização, interferência e difração da luz.
 :::
 
 #### Laboratório de Física Geral IV
@@ -570,8 +573,6 @@ do laplaciano e a análise de Fourier, articulada ao problema de Sturm-Liouville
 
 Pendências a serem resolvidas pelo NDE:
 
-1. **Fronteira Física Geral III × IV** — distribuir o eletromagnetismo (fenômenos
-   × formalismo de Maxwell) e definir a ementa de Física Geral IV (incluindo a
-   eventual presença de tópicos de física moderna).
-2. **Ementas dos Laboratórios de Física Geral III e IV** — definir os roteiros de
-   eletromagnetismo (Lab III) e dos tópicos de Física Geral IV (Lab IV).
+1. **Ementas dos Laboratórios de Física Geral III e IV** — definir os roteiros de
+   eletromagnetismo (Lab III) e dos tópicos de Física Geral IV — equações de
+   Maxwell, ondas eletromagnéticas e óptica física (Lab IV).

@@ -63,8 +63,9 @@ pelas equações de Maxwell.
 
 Nesta etapa, o eletromagnetismo é apresentado de forma simplificada, com modelos de
 soluções analíticas e simétricas, sem a introdução de formalismos matemáticos
-complexos. Os formalismos mais avançados ficam reservados a cursos posteriores,
-como Eletromagnetismo I.
+complexos. O formalismo unificado — as equações de Maxwell — é desenvolvido em
+**Física Geral IV** (4º semestre); formulações ainda mais avançadas ficam
+reservadas a cursos como Eletromagnetismo I.
 
 Como em Física Geral I, o modelo de partícula é fundamental, mas o
 eletromagnetismo introduz um novo conceito crucial: a **carga elétrica**. Essa
@@ -79,12 +80,11 @@ incluindo a Lei de Gauss e o potencial elétrico.
 elétrico.
 :::
 
-::: {.callout-warning}
-## Fronteira com Física Geral IV
-A distribuição entre Física Geral III (fenômenos) e Física Geral IV (formalismo de
-Maxwell, ondas eletromagnéticas e óptica física) ainda está em aberto — ver
-[Pontos em aberto](../common-core.qmd#sec-pontos-abertos). O programa de Física
-Geral III será fechado em conjunto com o de Física Geral IV.
+::: {.callout-note appearance="simple"}
+**Articulação III → IV.** Física Geral III trata os **fenômenos**
+eletromagnéticos (eletrostática, magnetostática, indução, circuitos); Física
+Geral IV, no 4º semestre, desenvolve o **formalismo de Maxwell**, as ondas
+eletromagnéticas e a óptica física.
 :::
 
 ## Prática de Física Geral III

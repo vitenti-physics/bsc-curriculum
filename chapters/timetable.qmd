@@ -5,8 +5,8 @@ title: "Grade Horária"
 ::: {.callout-warning}
 ## Grade preliminar
 Esta página reproduz a *Planilha de horários* (2024-2) e a carga horária da
-proposta de reformulação. Os valores ainda dependem da definição da ementa de
-Física Geral IV e dos Laboratórios de Física Geral III e IV
+proposta de reformulação. Os valores ainda dependem da definição das ementas dos
+Laboratórios de Física Geral III e IV
 (ver [Pontos em aberto](common-core.qmd#sec-pontos-abertos)). A descrição de cada
 disciplina está em [Núcleo Comum](common-core.qmd).
 :::
