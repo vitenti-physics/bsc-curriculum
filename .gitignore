@@ -1,3 +1,4 @@
+.gitignore
 # Saída de renderização do Quarto
 /_book/
 /.quarto/
@@ -19,3 +20,7 @@ Thumbs.db
 
 # Saída do Quarto (website)
 /_site/
+
+# Material de referência local (não usado na construção do site)
+/.vscode/
+/OldDocs/
