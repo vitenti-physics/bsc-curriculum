@@ -1,0 +1,10 @@
+2FIS109 MECÂNICA QUÂNTICA I (60 hrs)
+[Copiada da ementa do currículo vigente do Bacharelado em Física (2023), apenas com correções tipográficas — ainda não revisada pelo NDE]
+Pré-requisitos no currículo vigente: 2FIS100 Física Moderna I B e 2FIS105 Mecânica Analítica.
+
+Princípios básicos: complementaridade, incerteza e correspondência.
+Equação de Schrödinger.
+Sistemas unidimensionais: partículas confinadas, barreiras de potencial, oscilador harmônico simples.
+A estrutura geral da mecânica quântica: auto-estados, espaços vetoriais, operadores, representações, notação de Dirac, descrições.
+Sistemas de N partículas.
+Sistemas bi e tridimensionais: separação de variáveis, equações radial e angular, potenciais centrais, átomo de hidrogênio.

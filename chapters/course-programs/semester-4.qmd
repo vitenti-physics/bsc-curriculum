@@ -4,7 +4,8 @@ title: "4º semestre — Programas"
 
 ::: {.callout-note appearance="simple"}
 Programas propostos das disciplinas do 4º semestre. Conteúdo em revisão pelo NDE.
-Ementas e cargas horárias em [Núcleo Comum](../common-core.qmd).
+Ementas em [Núcleo Comum — Segundo Ano](../common-core-year2.qmd#quarto-semestre);
+cargas horárias em [Grade Horária](../timetable.qmd).
 :::
 
 ## Articulação do semestre

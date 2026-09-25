@@ -1,0 +1,8 @@
+TERMODINÂMICA — 2FIS106 (60 hrs)
+[Copiada da ementa do currículo vigente do Bacharelado em Física (2023) — versão antiga, substituída pela proposta do NDE em termo.txt]
+
+Conceitos básicos e postulados. Condições de equilíbrio. Algumas relações
+formais e exemplos de sistemas termodinâmicos. Processos reversíveis.
+Formulações alternativas e transformadas de Legendre. Princípios de
+extremo para diferentes formulações da termodinâmica. Relações de Maxwell.
+Estabilidade dos sistemas termodinâmicos. Transições de fase.

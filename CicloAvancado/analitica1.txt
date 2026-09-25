@@ -1,0 +1,15 @@
+Mecânica Analítica I (60h)
+
+1) Formalismo Lagrangeano
+    i) Princípio de Ação e Cálculo Variacional
+   ii) Equações de Euler-Lagrange
+
+  iii) Aplicações (incluindo pequenas oscilações + sistemas com vínculos)
+   iv) Simetrias e Leis de Conservação - Teorema de Noether (Energia, Momento Linear e Momento Angular)
+    v) Corpos Rígidos (cinemática: transformações ortogonais, ângulos de Euler, rotações finitas e infinitesimais; dinâmica: tensor de inercia, soluções do problema de corpo rígido) 
+
+2) Formalismo Hamiltoniano
+    i) Equações de Hamilton
+   ii) Aplicações
+  iii) Equações de Hamilton em termos de parêntesis de Poisson
+   iv) Simetrias e Parênteses de Poisson

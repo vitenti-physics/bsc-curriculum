@@ -1,0 +1,155 @@
+---
+title: "Ciclo Avançado — Quarto Ano"
+---
+
+Esta página detalha as disciplinas do **quarto ano** do curso — 7º e 8º
+semestres —, com suas ementas e uma breve discussão dos conceitos-chave. A visão
+geral do ciclo avançado, com as sequências de disciplinas e a origem de cada
+ementa, está em [Ciclo Avançado](advanced-cycle.qmd); a carga horária e a grade
+semanal, em [Grade Horária](timetable.qmd).
+
+::: {.callout-warning}
+## Página em construção
+A alocação em semestres é uma **proposta de trabalho**. Ementas em caixa
+tracejada foram **transcritas do currículo vigente (2023)** e ainda não foram
+revisadas pelo NDE. As pendências estão em
+[Pontos em aberto](advanced-cycle.qmd#sec-pontos-abertos-ca).
+:::
+
+## Sétimo semestre
+
+### Mecânica Analítica II {#sec-mecanica-analitica-ii}
+
+Conclui a sequência de Mecânica explorando o alcance do formalismo hamiltoniano
+introduzido em
+[Mecânica Analítica I](advanced-cycle-year3.qmd#sec-mecanica-analitica-i). As
+**transformações canônicas** revelam que a escolha de coordenadas e momentos é, em
+larga medida, arbitrária: o problema físico pode ser reescrito na forma mais
+conveniente, e resolver um sistema passa a ser, em grande parte, encontrar a
+transformação certa. As **variáveis de ação-ângulo** e a **teoria de
+Hamilton-Jacobi** levam essa ideia ao limite, permitindo obter as órbitas do
+problema de Kepler diretamente da função principal de Hamilton. Os teoremas de
+**Liouville e Poincaré** introduzem a visão do espaço de fase que sustenta a
+mecânica estatística.
+
+A disciplina encerra com a **introdução à teoria clássica de campos**, obtida como
+o limite do contínuo de sistemas mecânicos com muitos graus de liberdade. Esse é o
+ponto de chegada natural do curso: o mesmo princípio variacional e o mesmo teorema
+de Noether, agora aplicados a campos, produzem as equações de Euler-Lagrange e as
+leis de conservação da teoria de campos — a linguagem em que se formulam o
+eletromagnetismo, a relatividade e a teoria quântica de campos.
+
+::: {.ementa}
+**Ementa** — 60 h
+
+**1. Transformações canônicas**
+
+- Transformações canônicas.
+- Função geratriz.
+- Aplicações: oscilador harmônico; transformação para coordenadas de centro de
+  massa; variáveis de ação-ângulo; pequenas perturbações e sistemas quase
+  integráveis.
+- Teoremas de Liouville e Poincaré.
+
+**2. Teoria de Hamilton-Jacobi**
+
+- Separação de variáveis.
+- Aplicações: partícula livre e potencial constante; oscilador harmônico;
+  movimento em potencial central e problema de Kepler; obtenção das órbitas
+  diretamente pela função principal de Hamilton.
+
+**3. Introdução à teoria clássica de campos**
+
+- Teoria clássica de campos como limite do contínuo de sistemas mecânicos com
+  muitos graus de liberdade.
+- Lagrangiana para campos clássicos.
+- Equações de Euler-Lagrange para campos clássicos.
+- Simetrias e leis de conservação para campos clássicos (teorema de Noether).
+- Aplicações — *a definir* (ver
+  [Pontos em aberto](advanced-cycle.qmd#sec-pontos-abertos-ca)).
+:::
+
+::: {.callout-note appearance="simple"}
+As notas do NDE tomam como referência o tratamento unidimensional do capítulo 13
+de Goldstein para a passagem ao limite do contínuo.
+:::
+
+### Mecânica Quântica I {#sec-mecanica-quantica-i}
+
+Reconstrói de forma geral a mecânica ondulatória introduzida em
+[Física Moderna](advanced-cycle-year3.qmd#sec-fisica-moderna). Depois de retomar
+os princípios básicos e os sistemas unidimensionais, o curso apresenta a
+**estrutura geral da teoria**: estados como vetores de um espaço vetorial,
+observáveis como operadores, representações e a notação de Dirac — a mesma
+álgebra linear de Métodos Lineares para Física, agora como linguagem da física.
+O formalismo hamiltoniano de
+[Mecânica Analítica I](advanced-cycle-year3.qmd#sec-mecanica-analitica-i), em
+particular os parênteses de Poisson, é o ponto de partida clássico da
+quantização. O curso encerra com os problemas em duas e três dimensões, a
+separação de variáveis em potenciais centrais e o **átomo de hidrogênio**, que
+reutiliza os harmônicos esféricos de Eletromagnetismo I.
+
+::: {.ementa .ementa-legada}
+**Ementa** — 60 h
+
+[Transcrita da ementa de 2FIS109 Mecânica Quântica I do currículo vigente (2023),
+apenas com correções tipográficas. Ainda não revisada pelo NDE. Pré-requisitos no
+currículo vigente: Física Moderna I B (2FIS100) e Mecânica Analítica
+(2FIS105).]{.origem}
+
+- Princípios básicos: complementaridade, incerteza e correspondência.
+- Equação de Schrödinger.
+- Sistemas unidimensionais: partículas confinadas, barreiras de potencial,
+  oscilador harmônico simples.
+- A estrutura geral da mecânica quântica: auto-estados, espaços vetoriais,
+  operadores, representações, notação de Dirac, descrições.
+- Sistemas de $N$ partículas.
+- Sistemas bi e tridimensionais: separação de variáveis, equações radial e
+  angular, potenciais centrais, átomo de hidrogênio.
+:::
+
+### Demais disciplinas do sétimo semestre
+
+**A definir pelo NDE.**
+
+## Oitavo semestre
+
+### Mecânica Quântica II {#sec-mecanica-quantica-ii}
+
+Conclui a sequência de Física Moderna e Mecânica Quântica. O fio condutor é o
+papel das **simetrias**: o momento angular e o spin como geradores de rotações, as
+leis de conservação e a indistinguibilidade das **partículas idênticas** — o
+mesmo raciocínio de Noether da
+[Mecânica Analítica I](advanced-cycle-year3.qmd#sec-mecanica-analitica-i), agora
+em linguagem quântica. A maior parte do curso trata dos **métodos de
+aproximação**, para estados ligados e para colisões, e de suas aplicações à
+radiação atômica e às estruturas atômica, molecular e nuclear. Encerra com uma
+abertura para a física além do curso: equações relativísticas, segunda
+quantização e integrais de caminho, que retomam a teoria clássica de campos de
+[Mecânica Analítica II](#sec-mecanica-analitica-ii).
+
+::: {.ementa .ementa-legada}
+**Ementa** — 60 h
+
+[Transcrita da ementa de 2FIS112 Mecânica Quântica II do currículo vigente (2023),
+apenas com correções tipográficas. Ainda não revisada pelo NDE. Pré-requisito no
+currículo vigente: Física Moderna I B (2FIS100).]{.origem}
+
+- Partículas idênticas.
+- Teoria das colisões.
+- Simetrias e leis de conservação.
+- Momento angular e spin.
+- Métodos de aproximação para estados ligados.
+- Métodos de aproximação na teoria das colisões.
+- Radiação dos átomos, tratamento semiclássico: emissão e absorção, transições
+  radiativas.
+- Estruturas atômicas, moleculares e nucleares.
+- Equações relativísticas.
+- Segunda quantização.
+- Outros métodos de quantização (integrais de caminho).
+:::
+
+### Demais disciplinas do oitavo semestre
+
+**A definir pelo NDE.** O oitavo semestre deverá concentrar as disciplinas finais
+da formação teórica, as optativas e as atividades de conclusão de curso.

@@ -28,22 +28,35 @@ website:
         href: index.qmd
       - section: "Organização Curricular"
         contents:
-          - chapters/curricular-structure.qmd
-          - section: "Núcleo Comum"
+          - text: "Estrutura Curricular"
+            href: chapters/curricular-structure.qmd
+          - section: "Núcleo Comum (1º e 2º anos)"
             href: chapters/common-core.qmd
             contents:
-              - text: "Primeiro ano"
+              - text: "Primeiro ano — ementas"
                 href: chapters/common-core-year1.qmd
-              - text: "Segundo ano"
+              - text: "Segundo ano — ementas"
                 href: chapters/common-core-year2.qmd
-          - chapters/timetable.qmd
-      - section: "Programas das Disciplinas"
-        contents:
-          - chapters/course-programs/overview.qmd
-          - chapters/course-programs/semester-1.qmd
-          - chapters/course-programs/semester-2.qmd
-          - chapters/course-programs/semester-3.qmd
-          - chapters/course-programs/semester-4.qmd
+              - section: "Programas das disciplinas"
+                href: chapters/course-programs/overview.qmd
+                contents:
+                  - text: "1º semestre"
+                    href: chapters/course-programs/semester-1.qmd
+                  - text: "2º semestre"
+                    href: chapters/course-programs/semester-2.qmd
+                  - text: "3º semestre"
+                    href: chapters/course-programs/semester-3.qmd
+                  - text: "4º semestre"
+                    href: chapters/course-programs/semester-4.qmd
+          - section: "Ciclo Avançado (3º e 4º anos)"
+            href: chapters/advanced-cycle.qmd
+            contents:
+              - text: "Terceiro ano — ementas"
+                href: chapters/advanced-cycle-year3.qmd
+              - text: "Quarto ano — ementas"
+                href: chapters/advanced-cycle-year4.qmd
+          - text: "Grade Horária"
+            href: chapters/timetable.qmd
       - text: "Referências"
         href: references.qmd
 

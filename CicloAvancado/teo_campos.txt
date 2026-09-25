@@ -1,0 +1,10 @@
+
+3) Introdução à Teoria Clássica de Campos
+    i) Teoria de Campos Clássica como limite do contínuo de sistemas mecânicos com muitos graus de liberdade.
+   ii) Lagrangiana para Campos Clássicos 
+  iii) Equações de Euler-Lagrange para Campos Clássicos
+   iv) Simetrias e Leis de Conservação para Campos Clássicos (Teorema de Noether)
+    v) Aplicações
+    
+    
+Completar

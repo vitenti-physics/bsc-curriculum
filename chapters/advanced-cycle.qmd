@@ -1,0 +1,145 @@
+---
+title: "Ciclo Avançado"
+---
+
+O **ciclo avançado** compreende os **dois últimos anos** do curso — 5º a 8º
+semestres — e sucede o [Núcleo Comum](common-core.qmd). Se o núcleo comum
+apresenta os conceitos básicos de Física e Matemática e desenvolve a fluência
+matemática, o ciclo avançado retoma esses mesmos temas em um **nível formal mais
+alto**: as leis já conhecidas são reformuladas a partir de princípios gerais
+(princípios variacionais, simetrias e leis de conservação, formulações de campo),
+e o estudante passa a operar com as estruturas teóricas que sustentam a Física
+contemporânea.
+
+O ciclo é organizado em **disciplinas obrigatórias**, que constituem a formação
+essencial do bacharel, e em um conjunto de **disciplinas optativas**, que
+permitem ao estudante aprofundar-se em temas de seu interesse. Esta versão da
+proposta não adota ênfases (ver
+[Estrutura Curricular](curricular-structure.qmd)).
+
+As disciplinas, com suas ementas, estão organizadas por ano:
+
+- [Ciclo Avançado — Terceiro Ano](advanced-cycle-year3.qmd) — 5º e 6º semestres;
+- [Ciclo Avançado — Quarto Ano](advanced-cycle-year4.qmd) — 7º e 8º semestres.
+
+A carga horária e a grade semanal estão em [Grade Horária](timetable.qmd).
+
+## As sequências de disciplinas
+
+As disciplinas obrigatórias já definidas formam quatro **sequências**, cada uma
+retomando um eixo do núcleo comum. A distribuição pelos semestres é uma
+**proposta de trabalho**.
+
+| Sequência | 5º semestre | 6º semestre | 7º semestre | 8º semestre |
+|---|---|---|---|---|
+| Mecânica | [Mecânica Geral](advanced-cycle-year3.qmd#sec-mecanica-geral) | [Mecânica Analítica I](advanced-cycle-year3.qmd#sec-mecanica-analitica-i) | [Mecânica Analítica II](advanced-cycle-year4.qmd#sec-mecanica-analitica-ii) | |
+| Eletromagnetismo e Relatividade | [Eletromagnetismo I](advanced-cycle-year3.qmd#sec-eletromagnetismo-i), [Relatividade Restrita](advanced-cycle-year3.qmd#sec-relatividade-restrita) | [Eletromagnetismo II](advanced-cycle-year3.qmd#sec-eletromagnetismo-ii) | | |
+| Física Moderna e Quântica | [Física Moderna](advanced-cycle-year3.qmd#sec-fisica-moderna) | [Lab. de Física Moderna](advanced-cycle-year3.qmd#sec-lab-fisica-moderna) | [Mecânica Quântica I](advanced-cycle-year4.qmd#sec-mecanica-quantica-i) | [Mecânica Quântica II](advanced-cycle-year4.qmd#sec-mecanica-quantica-ii) |
+| Termodinâmica e Física Estatística | | [Termodinâmica](advanced-cycle-year3.qmd#sec-termodinamica) | Mecânica Estatística? | |
+
+: Sequências do ciclo avançado (proposta). Todas as disciplinas têm 60 h. {.striped}
+
+**Mecânica.** A sequência retoma a mecânica do ponto material e dos sistemas de
+partículas (Mecânica Geral), reconstrói a mecânica a partir do **princípio de
+ação** (Mecânica Analítica I) e culmina nas **transformações canônicas**, na
+teoria de **Hamilton-Jacobi** e na **introdução à teoria clássica de campos**
+(Mecânica Analítica II). Essa última disciplina fecha o ciclo ao mostrar que o
+mesmo formalismo variacional que descreve partículas descreve também campos — a
+ponte para o eletromagnetismo formal, para a relatividade e para a teoria
+quântica de campos. Do ponto de vista de carga horária, a sequência **mantém o
+total atualmente praticado** (Mecânica Geral A, 90 h, e Mecânica Analítica, 90 h,
+somam as mesmas 180 h), redistribuindo-o em três disciplinas semestrais de 60 h.
+A vantagem é alinhar a mecânica ao formato semestral das demais disciplinas e dar
+espaço próprio ao formalismo hamiltoniano e à teoria de campos, hoje comprimidos
+ao final de um único curso.
+
+**Eletromagnetismo e Relatividade.** Eletromagnetismo I trata os campos
+estáticos como problemas de contorno; Relatividade Restrita, no mesmo semestre,
+fornece a linguagem tensorial em que o eletromagnetismo é manifestamente
+covariante; Eletromagnetismo II completa a eletrodinâmica, das ondas à radiação.
+
+**Física Moderna e Quântica.** Física Moderna apresenta os fatos experimentais
+que levaram à teoria quântica e a mecânica ondulatória em uma dimensão; o
+Laboratório de Física Moderna reproduz esses experimentos; Mecânica Quântica I e
+II constroem a estrutura geral da teoria e seus métodos de aproximação. Mecânica
+Quântica I depende também do formalismo hamiltoniano de Mecânica Analítica I.
+
+**Termodinâmica e Física Estatística.** Termodinâmica, em bases postulacionais,
+prepara a Mecânica Estatística, que ainda não tem semestre nem ementa definidos.
+
+## Disciplinas ainda não alocadas
+
+Além das sequências acima, a formação obrigatória hoje ofertada pelo
+Departamento inclui disciplinas que ainda precisam ser discutidas pelo NDE —
+mantidas como obrigatórias, convertidas em optativas ou reorganizadas:
+
+- **Física Matemática II** (2FIS101) — funções especiais, métodos de Frobenius e
+  funções de Green; hoje pré-requisito implícito de Eletromagnetismo e Mecânica
+  Quântica;
+- **Mecânica Estatística** (2FIS111) — sucessora natural de Termodinâmica;
+- **Introdução à Física Nuclear** (2FIS110) e **Introdução à Física do Estado
+  Sólido** (2FIS114);
+- **Evolução dos Conceitos e Teorias da Física** (2FIS113) e **Introdução às
+  Técnicas de Ensino e Pesquisa em Física** (2FIS107);
+- **Trabalho de Conclusão de Curso** (2TCC314, 180 h no currículo vigente).
+
+## Origem das ementas {#sec-origem-ementas}
+
+As ementas do ciclo avançado têm duas origens, distinguidas visualmente nas
+páginas de cada ano:
+
+::: {.ementa}
+**Ementa proposta pelo NDE**
+
+Redigida nas notas de trabalho do NDE (`CicloAvancado/`): Mecânica Geral,
+Mecânica Analítica I e II, Eletromagnetismo I, Relatividade Restrita, Física
+Moderna e Termodinâmica.
+:::
+
+::: {.ementa .ementa-legada}
+**Ementa transcrita do currículo vigente**
+
+[Copiada da ementa correspondente do currículo vigente (2023), apenas com
+correções tipográficas, como ponto de partida para a revisão.]{.origem}
+
+Eletromagnetismo II (2FIS104), Mecânica Quântica I (2FIS109) e Mecânica Quântica
+II (2FIS112). O texto de cada uma também está em `CicloAvancado/`, com a mesma
+indicação de origem.
+:::
+
+## Pontos em aberto {#sec-pontos-abertos-ca .unnumbered}
+
+Pendências a serem resolvidas pelo NDE:
+
+1. **Alocação em semestres** — a distribuição das disciplinas pelos 5º a 8º
+   semestres é uma **proposta de trabalho**. Em particular, **Física Moderna**
+   foi colocada no 5º semestre para anteceder o Laboratório de Física Moderna
+   (6º) e Mecânica Quântica I (7º); Eletromagnetismo II, no 6º, logo após
+   Eletromagnetismo I.
+2. **Revisão das ementas transcritas** — as ementas de Eletromagnetismo II,
+   Mecânica Quântica I e Mecânica Quântica II vêm do currículo vigente e precisam
+   ser revistas à luz das novas disciplinas:
+   - Eletromagnetismo II deve começar onde o novo Eletromagnetismo I termina
+     (magnetostática em meios materiais), cobrindo indução e a lei de
+     Faraday-Maxwell, e evitar sobreposição com a formulação covariante e os
+     campos de cargas em movimento já tratados em Relatividade Restrita. A
+     ementa vigente inclui ainda o item "Trabalho de Campo", cuja permanência
+     deve ser decidida.
+   - Mecânica Quântica I repete parte do que a nova Física Moderna já cobre
+     (equação de Schrödinger em uma dimensão, barreiras de potencial).
+   - Mecânica Quântica II lista, em 60 h, métodos de aproximação, colisões,
+     equações relativísticas, segunda quantização e integrais de caminho; o
+     escopo deve ser avaliado.
+3. **Ementas e alocação das demais disciplinas** — ver
+   [Disciplinas ainda não alocadas](#disciplinas-ainda-não-alocadas).
+4. **Laboratório de Física Moderna** — os **roteiros** precisam ser definidos, e é
+   preciso verificar quais experimentos o Departamento tem condições de montar.
+5. **Aplicações da teoria clássica de campos** — o item de aplicações da
+   introdução à teoria clássica de campos, em Mecânica Analítica II, está marcado
+   como *a completar* nas notas do NDE.
+6. **Relação de optativas** — o conjunto de disciplinas optativas do ciclo
+   avançado, sua carga horária e o número mínimo exigido do estudante ainda serão
+   definidos.
+7. **Carga horária total** — o total de horas do ciclo avançado, e portanto o
+   total do curso, só poderá ser fechado quando as pendências anteriores
+   estiverem resolvidas.

@@ -1,0 +1,12 @@
+Ementa de relativista restrita 60 hrs
+
+    1. Parte 1: formalismo
+        1. Princípio da relatividade clássica. Referenciais inerciais; transformações de Galileu; incompatibilidade entre a mecânica clássica e as equações de Maxwell; a luz como onda no éter; experimento de Michelson–Morley. 
+        2. Postulados da relatividade restrita. Finitude e invariância da velocidade da luz; relatividade da simultaneidade; transformações de Lorentz; composição relativística de velocidades; dilatação temporal; contração espacial; pseudo-paradoxos da relatividade. 
+        3. Formulação geométrica da relatividade restrita. Espaço-tempo de Minkowski; intervalo espaço-temporal; tempo próprio; métrica de Minkowski; noção de linha-mundo; cones de luz; diagramas de espaço-tempo.
+        4. Vetores e tensores no espaço-tempo de Minkowski. Quadrivetores; métrica e levantamento/abaixamento de índices; produto tensorial; álgebra tensorial: soma, produto, contração, simetrização e antissimetrização; tensores constantes. 
+        5. Cálculo tensorial no espaço-tempo de Minkowski. Derivadas de campos tensoriais; quadri-gradiente; operadores divergente e d'Alembertiano; equações covariantes em espaço-tempo plano.
+    2. Parte 2: aplicações
+        1. Dinâmica relativística. Massa de repouso; quadrivelocidade, quadriaceleração e quadrimomento; relação energia–momento; conservação relativística de energia, momento linear e momento angular; colisões relativísticas; força de Lorentz; movimento de partículas relativísticas; introdução ao princípio variacional para a partícula livre. 
+        2. Óptica relativística. Vetores nulos; efeito Doppler relativístico; transformação relativística do ângulo sólido; aberração da luz; aplicações. 
+        3. Formulação covariante do eletromagnetismo. Quadripotencial e quadricorrente; tensor eletromagnético; transformação dos campos elétrico e magnético; equações de Maxwell em forma covariante; tensor energia-momento do campo eletromagnético; leis de conservação; campos produzidos por partículas em movimento uniforme.

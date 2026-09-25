@@ -13,7 +13,10 @@ colegiado verifique se o plano proposto pelo docente está suficientemente próx
 do que foi acordado pelo NDE.
 
 O conteúdo foi transportado de `apresentacao.tex` e **está em revisão**. A ementa
-e a carga horária de cada disciplina estão em [Núcleo Comum](../common-core.qmd).
+de cada disciplina está nas páginas do núcleo comum
+([Primeiro Ano](../common-core-year1.qmd) e [Segundo Ano](../common-core-year2.qmd));
+a carga horária, em [Grade Horária](../timetable.qmd). Os programas do ciclo
+avançado ainda não foram elaborados.
 :::
 
 ## Como ler os programas

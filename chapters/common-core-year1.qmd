@@ -6,7 +6,8 @@ Esta página detalha as disciplinas do **primeiro ano** do núcleo comum, com su
 ementas e uma breve discussão dos conceitos-chave. A visão geral do núcleo comum
 e a discussão sobre as disciplinas de **Prática** estão em
 [Núcleo Comum](common-core.qmd); o **programa proposto** de cada disciplina está
-em [Programas das Disciplinas](course-programs/overview.qmd).
+em Programas das Disciplinas ([1º semestre](course-programs/semester-1.qmd) e
+[2º semestre](course-programs/semester-2.qmd)).
 
 O primeiro ano é um período particularmente desafiador tanto para o corpo docente
 quanto para os estudantes. Para os estudantes, implica uma imersão mais profunda
@@ -14,11 +15,6 @@ e sistemática nas técnicas matemáticas, além do desafio de conectá-las aos
 elementos da realidade que motivaram seu desenvolvimento. Para o corpo docente, o
 desafio está em introduzir conceitos que demandam esforço significativo, mantendo
 os estudantes engajados.
-
-As práticas são ministradas por professores diferentes daqueles responsáveis
-pelos cursos teóricos, proporcionando aos estudantes diferentes perspectivas
-sobre os mesmos tópicos, acompanhando de perto o estudo, identificando
-dificuldades e consolidando o conhecimento através da aplicação prática.
 
 ## Primeiro semestre
 
@@ -309,4 +305,3 @@ fluidos e termodinâmica.
 - Calor específico de metais; equivalência entre energia e caloria.
 - Resfriamento de Newton; condutividade térmica; calor latente.
 :::
-</content>

@@ -1,0 +1,294 @@
+---
+title: "Ciclo Avançado — Terceiro Ano"
+---
+
+Esta página detalha as disciplinas do **terceiro ano** do curso — 5º e 6º
+semestres —, com suas ementas e uma breve discussão dos conceitos-chave. A visão
+geral do ciclo avançado, com as sequências de disciplinas e a origem de cada
+ementa, está em [Ciclo Avançado](advanced-cycle.qmd); a carga horária e a grade
+semanal, em [Grade Horária](timetable.qmd).
+
+::: {.callout-warning}
+## Página em construção
+A alocação em semestres é uma **proposta de trabalho**. Ementas em caixa
+tracejada foram **transcritas do currículo vigente (2023)** e ainda não foram
+revisadas pelo NDE. As pendências estão em
+[Pontos em aberto](advanced-cycle.qmd#sec-pontos-abertos-ca).
+:::
+
+## Quinto semestre
+
+### Mecânica Geral {#sec-mecanica-geral}
+
+Primeira disciplina do ciclo avançado de Mecânica. Retoma, em nível formal mais
+alto e com o cálculo já consolidado no núcleo comum, a dinâmica do ponto material
+e dos sistemas de partículas. O eixo condutor são as **leis de conservação** —
+energia, momento linear e momento angular —, tratadas aqui a partir das
+propriedades das forças (forças conservativas, forças centrais) e não ainda a
+partir das simetrias, o que só será possível com o formalismo lagrangeano de
+[Mecânica Analítica I](#sec-mecanica-analitica-i). Encerra com dois temas que
+preparam o formalismo posterior: as **oscilações acopladas**, que anunciam o
+tratamento geral de pequenas oscilações, e os **referenciais não inerciais**, que
+explicitam o papel do observador na descrição do movimento.
+
+::: {.ementa}
+**Ementa** — 60 h
+
+- Forças conservativas e o princípio de conservação de energia.
+- Movimento em duas e três dimensões.
+- Forças centrais e a conservação do momento angular.
+- O problema de dois corpos.
+- Oscilações simples, acopladas e forçadas.
+- Mecânica de um sistema de partículas.
+- Referenciais não inerciais.
+:::
+
+### Eletromagnetismo I {#sec-eletromagnetismo-i}
+
+Retoma em nível formal a **eletrostática e a magnetostática** vistas em Física
+Geral III, agora com as ferramentas de
+[Física Matemática I](common-core-year2.qmd#física-matemática-i) (distribuição de
+Dirac, funções de Green) e de Cálculo III e IV. Abre com uma revisão das
+coordenadas curvilíneas e do **teorema de Helmholtz**, que garante que um campo
+vetorial fica determinado por seu divergente e seu rotacional — a justificativa
+para estudar os campos a partir de suas equações diferenciais. O núcleo do curso
+são os **problemas de contorno**: equações de Poisson e Laplace, teoremas de
+unicidade, método das imagens, separação de variáveis e expansão multipolar.
+Encerra com os campos na matéria (dielétricos e meios magnéticos). A parte
+dinâmica — indução, equações de Maxwell completas e radiação — fica para
+[Eletromagnetismo II](#sec-eletromagnetismo-ii).
+
+::: {.ementa}
+**Ementa** — 60 h
+
+- Revisão: coordenadas curvilíneas e leis de transformação; distribuição de
+  Dirac e aplicações; teorema de Helmholtz.
+- Eletrostática: o campo elétrico de distribuições discretas e contínuas; lei de
+  Gauss e aplicações; potencial elétrico, equações de Poisson e Laplace,
+  problemas de condições de contorno; trabalho e energia do campo elétrico;
+  condutores, cargas induzidas e capacitores.
+- Técnicas de solução de problemas: equação de Laplace em uma, duas e três
+  dimensões; teoremas de unicidade; método das imagens; técnica de separação de
+  variáveis; harmônicos esféricos e expansão multipolar do campo elétrico.
+- Campos elétricos na matéria: polarização; campos de objetos polarizados; o
+  vetor $\mathbf{D}$; dielétricos lineares.
+- Magnetostática: força de Lorentz; lei de Biot-Savart; divergência e rotacional
+  de $\mathbf{B}$; potencial vetor; expansão multipolar do campo magnético.
+- Campos magnéticos na matéria: magnetização; campos de objetos magnetizados;
+  campo auxiliar $\mathbf{H}$; meios lineares e não lineares.
+:::
+
+### Relatividade Restrita {#sec-relatividade-restrita}
+
+Reúne em um único formalismo a mecânica e o eletromagnetismo do núcleo comum.
+Parte da **incompatibilidade** entre as transformações de Galileu e as equações
+de Maxwell e reconstrói a cinemática a partir dos postulados de Einstein. A
+segunda parte é geométrica: o **espaço-tempo de Minkowski**, os quadrivetores e o
+cálculo tensorial fornecem a linguagem em que a dinâmica relativística e o
+próprio eletromagnetismo se escrevem de forma manifestamente covariante. É a
+primeira vez que o estudante manipula tensores e índices, ferramenta usada em
+todo o ciclo avançado, e o curso articula-se diretamente com
+[Eletromagnetismo I](#sec-eletromagnetismo-i), do mesmo semestre, e com
+[Eletromagnetismo II](#sec-eletromagnetismo-ii), do semestre seguinte.
+
+::: {.ementa}
+**Ementa** — 60 h
+
+**1. Formalismo**
+
+- Princípio da relatividade clássica: referenciais inerciais; transformações de
+  Galileu; incompatibilidade entre a mecânica clássica e as equações de Maxwell;
+  a luz como onda no éter; o experimento de Michelson-Morley.
+- Postulados da relatividade restrita: finitude e invariância da velocidade da
+  luz; relatividade da simultaneidade; transformações de Lorentz; composição
+  relativística de velocidades; dilatação temporal; contração espacial;
+  pseudo-paradoxos da relatividade.
+- Formulação geométrica: espaço-tempo de Minkowski; intervalo espaço-temporal;
+  tempo próprio; métrica de Minkowski; linha-mundo; cones de luz; diagramas de
+  espaço-tempo.
+- Vetores e tensores no espaço-tempo de Minkowski: quadrivetores; métrica e
+  levantamento/abaixamento de índices; produto tensorial; álgebra tensorial
+  (soma, produto, contração, simetrização e antissimetrização); tensores
+  constantes.
+- Cálculo tensorial no espaço-tempo de Minkowski: derivadas de campos
+  tensoriais; quadri-gradiente; operadores divergente e d'Alembertiano; equações
+  covariantes em espaço-tempo plano.
+
+**2. Aplicações**
+
+- Dinâmica relativística: massa de repouso; quadrivelocidade, quadriaceleração e
+  quadrimomento; relação energia-momento; conservação relativística de energia,
+  momento linear e momento angular; colisões relativísticas; força de Lorentz;
+  movimento de partículas relativísticas; introdução ao princípio variacional
+  para a partícula livre.
+- Óptica relativística: vetores nulos; efeito Doppler relativístico;
+  transformação relativística do ângulo sólido; aberração da luz; aplicações.
+- Formulação covariante do eletromagnetismo: quadripotencial e quadricorrente;
+  tensor eletromagnético; transformação dos campos elétrico e magnético; equações
+  de Maxwell em forma covariante; tensor energia-momento do campo
+  eletromagnético; leis de conservação; campos produzidos por partículas em
+  movimento uniforme.
+:::
+
+### Física Moderna {#sec-fisica-moderna}
+
+Apresenta os **fatos experimentais que romperam com a física clássica** — a
+radiação térmica, o problema dos calores específicos, os efeitos fotoelétrico e
+Compton, a estrutura do átomo — e as primeiras respostas teóricas a eles, da
+hipótese de Planck à teoria de Bohr e às regras de Bohr-Sommerfeld. A dualidade
+onda-partícula é tratada com as ferramentas de Fourier já conhecidas (pacotes de
+onda, velocidades de fase e de grupo, princípio da incerteza). Encerra com a
+**equação de Schrödinger em uma dimensão** e a interpretação de Born, primeira
+formulação da mecânica ondulatória, que será reconstruída de forma geral em
+[Mecânica Quântica I](advanced-cycle-year4.qmd#sec-mecanica-quantica-i). Temas
+marcados como *qualitativos* são apresentados sem o formalismo completo, que só
+virá nas disciplinas de Mecânica Quântica. Serve de base teórica para o
+[Laboratório de Física Moderna](#sec-lab-fisica-moderna), do semestre seguinte.
+
+A ementa unifica as antigas Física Moderna I A e I B (2FIS099 e 2FIS100); a parte
+de relatividade que estava em Física Moderna I A foi deslocada para
+[Relatividade Restrita](#sec-relatividade-restrita).
+
+::: {.ementa}
+**Ementa** — 60 h
+
+- Radiação térmica e origem da teoria quântica.
+- Equipartição da energia e o problema dos calores específicos (observação de
+  Maxwell).
+- Elétrons e quantum de energia.
+- O átomo de Rutherford.
+- Propriedades corpusculares da radiação: efeito fotoelétrico, efeito Compton.
+- Propriedades ondulatórias das partículas; a hipótese de De Broglie.
+- Pacotes de onda: velocidade de fase e de grupo; transformada de Fourier.
+- O princípio da incerteza.
+- Teoria de Bohr da estrutura atômica; quantização do momento angular
+  (qualitativo).
+- As regras de quantização de Bohr-Sommerfeld e estrutura fina.
+- Átomos multieletrônicos; o spin do elétron; o princípio de exclusão de Pauli
+  (qualitativos).
+- A equação de Schrödinger em uma dimensão; a interpretação de Born para a
+  função de onda.
+- Estados livres, ligados e a quantização da energia.
+- Soluções de problemas unidimensionais: poço infinito; barreiras de potencial —
+  coeficientes de reflexão e transmissão, tunelamento.
+- Valores esperados de grandezas físicas em mecânica quântica.
+:::
+
+### Demais disciplinas do quinto semestre
+
+**A definir pelo NDE.**
+
+## Sexto semestre
+
+### Mecânica Analítica I {#sec-mecanica-analitica-i}
+
+Reconstrói a mecânica a partir de um **princípio único**: o princípio de ação.
+Do cálculo variacional emergem as equações de Euler-Lagrange, que reproduzem a
+dinâmica newtoniana estudada em [Mecânica Geral](#sec-mecanica-geral) mas se aplicam
+igualmente a sistemas com vínculos e a coordenadas arbitrárias. A partir daí, o
+**teorema de Noether** inverte a lógica das leis de conservação: em vez de
+consequências das propriedades das forças, energia, momento linear e momento
+angular passam a ser consequências das **simetrias** do sistema — invariância por
+translação temporal, espacial e por rotação. A disciplina trata ainda a dinâmica
+do **corpo rígido**, primeiro sistema estendido em que o formalismo mostra sua
+economia, e introduz o **formalismo hamiltoniano**, com os parênteses de Poisson,
+sobre o qual se constroem
+[Mecânica Analítica II](advanced-cycle-year4.qmd#sec-mecanica-analitica-ii) e
+[Mecânica Quântica I](advanced-cycle-year4.qmd#sec-mecanica-quantica-i).
+
+::: {.ementa}
+**Ementa** — 60 h
+
+**1. Formalismo lagrangeano**
+
+- Princípio de ação e cálculo variacional.
+- Equações de Euler-Lagrange.
+- Aplicações, incluindo pequenas oscilações e sistemas com vínculos.
+- Simetrias e leis de conservação; teorema de Noether (energia, momento linear e
+  momento angular).
+- Corpos rígidos — cinemática: transformações ortogonais, ângulos de Euler,
+  rotações finitas e infinitesimais; dinâmica: tensor de inércia e soluções do
+  problema de corpo rígido.
+
+**2. Formalismo hamiltoniano**
+
+- Equações de Hamilton.
+- Aplicações.
+- Equações de Hamilton em termos de parênteses de Poisson.
+- Simetrias e parênteses de Poisson.
+:::
+
+### Eletromagnetismo II {#sec-eletromagnetismo-ii}
+
+Completa o eletromagnetismo formal com a **eletrodinâmica**: as equações de
+Maxwell completas, a equação de onda, a liberdade de calibre e a propagação de
+ondas em meios materiais e em regiões com contorno (guias de onda e cavidades).
+O ponto de chegada são os **potenciais retardados** e a **radiação** de sistemas
+simples — o problema em que a causalidade relativística, vista em
+[Relatividade Restrita](#sec-relatividade-restrita), passa a ter consequências
+diretas. Sucede [Eletromagnetismo I](#sec-eletromagnetismo-i), que termina na
+magnetostática em meios materiais.
+
+::: {.ementa .ementa-legada}
+**Ementa** — 60 h
+
+[Transcrita da ementa de 2FIS104 Eletromagnetismo II do currículo vigente (2023),
+apenas com correções tipográficas. Ainda não revisada pelo NDE.]{.origem}
+
+- Equações de Maxwell.
+- Equação de onda eletromagnética.
+- Transformações de calibre.
+- Propagação de ondas eletromagnéticas.
+- Ondas em regiões de contorno.
+- Guias de ondas e cavidades ressonantes.
+- Dispersão óptica nos materiais.
+- Potenciais retardados.
+- Radiação de sistemas simples.
+- Trabalho de Campo.
+:::
+
+### Termodinâmica {#sec-termodinamica}
+
+Reconstrói a termodinâmica em bases **postulacionais**, e não pela via histórica
+das máquinas térmicas seguida em Física Geral II: dados os postulados sobre a
+entropia, as condições de equilíbrio e as leis conhecidas seguem como
+consequências. As **transformadas de Legendre** — as mesmas que levam do
+lagrangeano ao hamiltoniano em
+[Mecânica Analítica I](#sec-mecanica-analitica-i), cursada em paralelo — geram os
+potenciais termodinâmicos e, com eles, as relações de Maxwell. O curso encerra
+com a **estabilidade** dos sistemas termodinâmicos, as transições de fase e os
+fenômenos críticos, e prepara diretamente a Mecânica Estatística.
+
+::: {.ementa}
+**Ementa** — 60 h
+
+- Conceitos básicos e postulados.
+- Equilíbrio térmico; fronteiras adiabáticas e diatérmicas.
+- Lei zero e o conceito de temperatura empírica.
+- Relações formais e exemplos de sistemas termodinâmicos.
+- Processos reversíveis e quase-estáticos.
+- A primeira lei e o conceito de calor.
+- Processos irreversíveis.
+- A segunda lei e o conceito de temperatura absoluta.
+- Formulações alternativas e transformadas de Legendre.
+- Relações de Maxwell.
+- Equações de Euler; relações de Gibbs-Duhem.
+- Estabilidade dos sistemas termodinâmicos.
+- Princípios de extremo para as diferentes formulações da termodinâmica.
+- Transições de fase de primeira ordem.
+- Fenômenos críticos.
+:::
+
+### Laboratório de Física Moderna {#sec-lab-fisica-moderna}
+
+**Ementa a definir pelo NDE.** Dá continuidade à sequência de laboratórios do
+núcleo comum (Física Geral I a IV) com os **experimentos fundadores da física do
+século XX** — os que estabeleceram a quantização da energia, a natureza
+corpuscular da radiação e a estrutura do átomo. Sucede
+[Física Moderna](#sec-fisica-moderna), cursada no 5º semestre, que fornece a
+base teórica dos experimentos. Os roteiros ainda precisam ser definidos (ver
+[Pontos em aberto](advanced-cycle.qmd#sec-pontos-abertos-ca)).
+
+### Demais disciplinas do sexto semestre
+
+**A definir pelo NDE.**

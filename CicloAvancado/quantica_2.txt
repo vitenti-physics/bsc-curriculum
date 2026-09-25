@@ -1,0 +1,15 @@
+2FIS112 MECÂNICA QUÂNTICA II (60 hrs)
+[Copiada da ementa do currículo vigente do Bacharelado em Física (2023), apenas com correções tipográficas — ainda não revisada pelo NDE]
+Pré-requisito no currículo vigente: 2FIS100 Física Moderna I B.
+
+Partículas idênticas.
+Teoria das colisões.
+Simetrias e leis de conservação.
+Momento angular e spin.
+Métodos de aproximação para estados ligados.
+Métodos de aproximação na teoria das colisões.
+Radiação dos átomos, tratamento semiclássico: emissão e absorção, transições radiativas.
+Estruturas atômicas, moleculares e nucleares.
+Equações relativísticas.
+Segunda quantização.
+Outros métodos de quantização (integrais de caminho).

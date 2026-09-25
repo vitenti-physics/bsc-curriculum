@@ -29,32 +29,19 @@ tópicos, ajudando o estudante a estudar para o curso principal. As práticas t�
 metade da carga horária do curso que acompanham (30 h para cursos de 60 h; 15 h
 para os de 30 h).
 
-## Primeiro ano
-
-O primeiro ano é um período particularmente desafiador tanto para o corpo docente
-quanto para os estudantes. Para os estudantes, implica uma imersão mais profunda
-e sistemática nas técnicas matemáticas, além do desafio de conectá-las aos
-elementos da realidade que motivaram seu desenvolvimento. Para o corpo docente, o
-desafio está em introduzir conceitos que demandam esforço significativo, mantendo
-os estudantes engajados.
-
 As práticas são ministradas por professores diferentes daqueles responsáveis
 pelos cursos teóricos, proporcionando aos estudantes diferentes perspectivas
 sobre os mesmos tópicos, acompanhando de perto o estudo, identificando
 dificuldades e consolidando o conhecimento através da aplicação prática.
 
-As disciplinas do primeiro ano, com suas ementas, estão em
-[Núcleo Comum — Primeiro Ano](common-core-year1.qmd).
+As disciplinas, com suas ementas, estão organizadas por ano:
 
-## Segundo ano
-
-No segundo ano, o estudante aprofunda o cálculo vetorial e as equações
-diferenciais, é introduzido à computação científica e ao eletromagnetismo, e
-inicia os métodos matemáticos da Física. As disciplinas seguem a organização da
-*Planilha de horários* (2024-2).
-
-As disciplinas do segundo ano, com suas ementas, estão em
-[Núcleo Comum — Segundo Ano](common-core-year2.qmd).
+- [Núcleo Comum — Primeiro Ano](common-core-year1.qmd) — 1º e 2º semestres:
+  cálculo diferencial e integral, álgebra linear, o modelo de partícula e sua
+  extensão a oscilações, ondas, fluidos e termodinâmica;
+- [Núcleo Comum — Segundo Ano](common-core-year2.qmd) — 3º e 4º semestres:
+  cálculo vetorial e equações diferenciais, computação científica,
+  eletromagnetismo e os métodos matemáticos da Física.
 
 ## Pontos em aberto {#sec-pontos-abertos .unnumbered}
 
@@ -71,5 +58,3 @@ Pendências a serem resolvidas pelo NDE:
    de óptica geométrica (índice de refração, dispersão por prisma, espelhos e
    lentes) estão disponíveis para preencher o placeholder "Óptica — experimentos a
    definir" do Lab II; falta o NDE confirmar a seleção.
-</content>
-</invoke>

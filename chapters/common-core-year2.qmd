@@ -6,7 +6,8 @@ Esta página detalha as disciplinas do **segundo ano** do núcleo comum, com sua
 ementas e uma breve discussão dos conceitos-chave. A visão geral do núcleo comum
 e a discussão sobre as disciplinas de **Prática** estão em
 [Núcleo Comum](common-core.qmd); o **programa proposto** de cada disciplina está
-em [Programas das Disciplinas](course-programs/overview.qmd).
+em Programas das Disciplinas ([3º semestre](course-programs/semester-3.qmd) e
+[4º semestre](course-programs/semester-4.qmd)).
 
 No segundo ano, o estudante aprofunda o cálculo vetorial e as equações
 diferenciais, é introduzido à computação científica e ao eletromagnetismo, e
@@ -288,4 +289,3 @@ do laplaciano e a análise de Fourier, articulada ao problema de Sturm-Liouville
 - Decomposição de funções não-periódicas e transformada integral: integrais de
   Fourier e de Laplace.
 :::
-</content>

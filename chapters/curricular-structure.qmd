@@ -22,15 +22,23 @@ O curso é organizado em **dois blocos**:
    combinada com a capacidade de descrever e modelar elementos da realidade.
    Ver [Núcleo Comum](common-core.qmd).
 
-2. **Ênfases** — após o núcleo comum, o estudante escolhe uma trajetória de
-   aprofundamento. As ênfases previstas são:
-   - **Bacharelado Tradicional** — voltado a quem segue carreira acadêmica ou
-     correlata em Física; programa definido e conteúdo em desenvolvimento;
-   - **Física Industrial** — perfil mais aplicado, ainda em definição;
-   - **Física Computacional** — voltado a quem deseja trabalhar com simulação
-     computacional de fenômenos físicos; ainda em definição;
-   - **Física para Inovação e Empreendedorismo** — voltado a quem deseja trabalhar com
-     desenvolvimento de produtos e serviços inovadores; ainda em definição.
+2. **Ciclo avançado** — conjunto de disciplinas dos **dois últimos anos**, que
+   retoma os temas do núcleo comum em nível formal mais alto, a partir de
+   princípios gerais: princípios variacionais, simetrias e leis de conservação,
+   formulações de campo. É composto por **disciplinas obrigatórias**, que
+   constituem a formação essencial do bacharel, e por **disciplinas optativas**,
+   que permitem ao estudante aprofundar-se em temas de seu interesse.
+   Ver [Ciclo Avançado](advanced-cycle.qmd).
+
+::: {.callout-note}
+## Sobre as ênfases
+Versões anteriores desta proposta organizavam a segunda metade do curso em
+**ênfases** (trajetórias fechadas de aprofundamento, como Bacharelado
+Tradicional, Física Industrial ou Física Computacional). O plano atual **não
+adota ênfases**: o ciclo avançado tem um núcleo obrigatório comum a todos os
+estudantes, e a flexibilidade é oferecida pelo conjunto de **optativas**, cuja
+relação ainda será definida pelo NDE.
+:::
 
 ## Por que um núcleo comum
 

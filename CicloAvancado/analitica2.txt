@@ -1,0 +1,23 @@
+Mecânica Analítica II (60h)
+
+1) Transformações Canônicas
+    i) Transformações Canônicas
+   ii) Função Geratriz
+  iii) Aplicações
+       - oscilador harmônico
+       - transformação para coordenadas de centro de massa
+       - variáveis ação-ângulo
+       - pequenas perturbações e sistemas quase integráveis
+   iv) Teoremas de Liouville e Poincaré
+
+2) Teoria de Hamilton-Jacobi
+    i) Separação de Variáveis
+   ii) Aplicações
+       - partícula livre e potencial constante
+       - oscilador harmônico
+       - movimento em potencial central / problema de Kepler
+       - obtenção das órbitas diretamente pela função principal de Hamilton   
+
+3) Introdução à Teoria Clássica de Campos como Limite do Contínuo (Goldstein 1D, cap 13)
+
+

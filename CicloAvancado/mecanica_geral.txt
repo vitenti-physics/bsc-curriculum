@@ -1,0 +1,10 @@
+--- Mecânica Geral (60hrs) ---
+
+Forças conservativas e o princípio de conservação de energia. 
+Movimento em duas e três dimensões.
+Forças centrais e a conservação do movimento angular. 
+O problema de dois corpos. 
+Oscilações simples, acopladas e forçadas.
+Mecânica de um sistema de partículas. 
+Referenciais não inerciais
+

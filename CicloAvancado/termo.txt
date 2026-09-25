@@ -1,0 +1,19 @@
+TERMODINÂMICA (60 hrs)
+
+Conceitos básicos e postulados. 
+Equilíbrio termico, fronteiras adiabáticas e diatermicas.
+Lei zero e conceito de temperatura empirica.
+Algumas relações formais e exemplos de sistemas termodinâmicos. 
+Processos reversíveis e quasi-estáticos.
+A primeira Lei e o conceito de calor.
+Processos irreversíveis.
+Segunda Lei e o conceito de temperatura absoluta.
+Formulações alternativas e transformadas de Legendre. 
+Relações de Maxwell.
+Equações de Euler.
+Relações de Gibbs Duhem.
+Estabilidade dos sistemas termodinâmicos. 
+Princípios de extremo para diferentes formulações da termodinâmica. 
+Transições de fase de primeira ordem.
+Fenômenos críticos.
+

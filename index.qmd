@@ -13,10 +13,20 @@ preenchidas e revisadas ao longo das reuniões de trabalho.
 
 ## Como navegar
 
-- A seção **Organização Curricular** descreve a estrutura do curso, as
-  disciplinas do núcleo comum (com suas ementas) e a grade horária.
-- A seção **Programas das Disciplinas** reúne o programa proposto de cada
-  disciplina do núcleo comum e a discussão de como elas se articulam.
+A seção **Organização Curricular** reúne:
+
+- [Estrutura Curricular](chapters/curricular-structure.qmd) — os dois blocos do
+  curso (núcleo comum e ciclo avançado) e a razão de ser do núcleo comum;
+- [Núcleo Comum](chapters/common-core.qmd) (1º e 2º anos) — visão geral, as
+  disciplinas de cada ano com suas ementas e, em **Programas das disciplinas**, o
+  programa proposto de cada uma e a discussão de como elas se articulam;
+- [Ciclo Avançado](chapters/advanced-cycle.qmd) (3º e 4º anos) — as sequências de
+  disciplinas, a origem das ementas e as disciplinas de cada ano;
+- [Grade Horária](chapters/timetable.qmd) — carga horária e grade semanal de
+  todos os semestres.
+
+Cada visão geral termina com uma lista de **Pontos em aberto**, as pendências a
+serem resolvidas pelo NDE.
 
 As demais partes do PPC (fundamentos do curso, perfil do egresso, metodologia,
 avaliação e infraestrutura) serão acrescentadas à medida que o NDE as elaborar.

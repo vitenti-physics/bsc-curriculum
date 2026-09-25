@@ -42,3 +42,20 @@ $link-color: #00529b;
 
   strong { color: $link-color; }
 }
+
+// Ementa transcrita do currículo vigente (2023), ainda não revisada pelo NDE
+.ementa.ementa-legada {
+  border-left-style: dashed;
+  border-left-color: #8a6d3b;
+  background: #fbf8f1;
+
+  > p:first-child strong { color: #8a6d3b; }
+
+  .origem {
+    display: block;
+    font-size: 0.85rem;
+    font-style: italic;
+    color: #6c5a33;
+    margin-bottom: 0.4rem;
+  }
+}

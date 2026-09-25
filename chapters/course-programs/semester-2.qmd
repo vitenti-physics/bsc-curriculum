@@ -4,7 +4,8 @@ title: "2º semestre — Programas"
 
 ::: {.callout-note appearance="simple"}
 Programas propostos das disciplinas do 2º semestre. Conteúdo em revisão pelo NDE.
-Ementas e cargas horárias em [Núcleo Comum](../common-core.qmd).
+Ementas em [Núcleo Comum — Primeiro Ano](../common-core-year1.qmd#segundo-semestre);
+cargas horárias em [Grade Horária](../timetable.qmd).
 :::
 
 ## Articulação do semestre

@@ -1,0 +1,774 @@
+# Árvore de habilidades — PROPOSTA PRELIMINAR (rascunho para discussão no NDE)
+#
+# Habilidades derivadas dos "conceitos-chave" e das ementas das páginas do núcleo comum
+# e do ciclo avançado. Cada disciplina desenvolve algumas habilidades; cada habilidade
+# lista em `requer` as habilidades de que depende (da mesma ou de outras disciplinas).
+#
+# Convenções:
+# - `pratica_de`: disciplina de Prática que reforça as habilidades do curso principal;
+#   só lista `habilidades` próprias quando a ementa traz algo que o curso principal não tem.
+# - `ementa`: nde (proposta do NDE) | legado-2023 (transcrita do currículo vigente) |
+#   proposta (roteiros pendentes) | a-definir.
+# - `eixo`: fio temático, usado para colorir a visualização.
+# - Dependência entre disciplinas do MESMO semestre = co-requisito (cursar junto).
+
+disciplinas:
+
+  # ───────────────────────── 1º semestre ─────────────────────────
+
+  - id: fb
+    nome: Física Básica
+    semestre: 1
+    eixo: matematica
+    ementa: nde
+    habilidades:
+      - id: fb.aritmetica
+        nome: Aritmética e ordens de grandeza
+        requer: []
+      - id: fb.equacoes
+        nome: Equações e desigualdades
+        requer: [fb.aritmetica]
+      - id: fb.funcoes
+        nome: Funções elementares (polinomiais, exponenciais, logarítmicas, trigonométricas)
+        requer: [fb.equacoes]
+      - id: fb.movimento-linear
+        nome: Movimento uniforme e leitura de gráficos lineares
+        requer: [fb.equacoes]
+
+  - id: c1
+    nome: Cálculo I
+    semestre: 1
+    eixo: matematica
+    ementa: nde
+    habilidades:
+      - id: c1.reais
+        nome: Números reais, módulo e inequações
+        requer: [fb.equacoes]
+      - id: c1.limites
+        nome: Limite e continuidade
+        requer: [c1.reais, fb.funcoes]
+      - id: c1.derivada
+        nome: Derivada e regras de derivação
+        requer: [c1.limites]
+      - id: c1.taylor
+        nome: Aproximação de Taylor
+        requer: [c1.derivada]
+      - id: c1.otimizacao
+        nome: Máximos e mínimos
+        requer: [c1.derivada]
+      - id: c1.derivadas-parciais
+        nome: Derivadas parciais (várias variáveis)
+        requer: [c1.derivada]
+
+  - id: pc1
+    nome: Práticas de Cálculo I
+    semestre: 1
+    eixo: matematica
+    ementa: nde
+    pratica_de: c1
+    habilidades:
+      - id: pc1.taxas
+        nome: Taxas de variação em problemas físicos
+        requer: [c1.derivada, fb.movimento-linear]
+      - id: pc1.campos-escalares
+        nome: Campos escalares e extremos em várias variáveis
+        requer: [c1.derivadas-parciais, c1.otimizacao]
+
+  - id: fg1
+    nome: Física Geral I
+    semestre: 1
+    eixo: mecanica
+    ementa: nde
+    habilidades:
+      - id: fg1.vetores
+        nome: Vetores e sistemas de coordenadas
+        requer: [fb.funcoes]
+      - id: fg1.cinematica
+        nome: Cinemática da partícula
+        requer: [fg1.vetores, c1.derivada]
+      - id: fg1.dinamica
+        nome: Leis de Newton
+        requer: [fg1.cinematica]
+      - id: fg1.referenciais
+        nome: Referenciais inerciais e não inerciais
+        requer: [fg1.dinamica]
+      - id: fg1.conservacao
+        nome: Conservação de energia e momento linear
+        requer: [fg1.dinamica]
+      - id: fg1.simetrias
+        nome: Simetrias e leis de conservação
+        requer: [fg1.conservacao]
+
+  - id: pfg1
+    nome: Prática de Física Geral I
+    semestre: 1
+    eixo: mecanica
+    ementa: nde
+    pratica_de: fg1
+    habilidades:
+      - id: pfg1.unidades
+        nome: Unidades, conversão e sistema SI
+        requer: [fb.aritmetica]
+      - id: pfg1.analise-dimensional
+        nome: Análise dimensional e estimativas
+        requer: [pfg1.unidades]
+      - id: pfg1.da-medida-ao-modelo
+        nome: Coordenadas a partir de medidas físicas
+        requer: [fg1.vetores, pfg1.unidades]
+
+  - id: lab1
+    nome: Laboratório de Física Geral I
+    semestre: 1
+    eixo: experimental
+    ementa: nde
+    habilidades:
+      - id: lab1.medidas
+        nome: Medidas, instrumentos e algarismos significativos
+        requer: [fb.aritmetica]
+      - id: lab1.incertezas
+        nome: Incertezas e propagação de erros
+        requer: [lab1.medidas, c1.derivadas-parciais]
+      - id: lab1.estatistica
+        nome: Estatística de dados experimentais
+        requer: [lab1.incertezas]
+      - id: lab1.ajuste
+        nome: Gráficos e ajuste linear com incertezas
+        requer: [lab1.estatistica, fb.funcoes]
+      - id: lab1.planejamento
+        nome: Planejamento experimental
+        requer: [lab1.medidas]
+      - id: lab1.python
+        nome: Primeiros passos em Python para dados
+        requer: [lab1.ajuste]
+      - id: lab1.relatorio
+        nome: Relatório científico
+        requer: [lab1.ajuste, lab1.planejamento]
+
+  # ───────────────────────── 2º semestre ─────────────────────────
+
+  - id: c2
+    nome: Cálculo II
+    semestre: 2
+    eixo: matematica
+    ementa: nde
+    habilidades:
+      - id: c2.integral
+        nome: Integral de Riemann e antiderivada
+        requer: [c1.limites, c1.derivada]
+      - id: c2.transcendentes
+        nome: Funções transcendentes
+        requer: [c2.integral, fb.funcoes]
+      - id: c2.tecnicas
+        nome: Técnicas de integração
+        requer: [c2.transcendentes]
+      - id: c2.improprias
+        nome: Integrais impróprias
+        requer: [c2.tecnicas]
+      - id: c2.multiplas
+        nome: Integrais múltiplas
+        requer: [c2.tecnicas, c1.derivadas-parciais]
+
+  - id: pc2
+    nome: Práticas de Cálculo II
+    semestre: 2
+    eixo: matematica
+    ementa: nde
+    pratica_de: c2
+    habilidades:
+      - id: pc2.aplicacoes
+        nome: Integração aplicada a problemas físicos
+        requer: [c2.tecnicas]
+      - id: pc2.edo-separaveis
+        nome: Equações diferenciais separáveis
+        requer: [c2.tecnicas]
+
+  - id: ml
+    nome: Métodos Lineares para Física
+    semestre: 2
+    eixo: matematica
+    ementa: nde
+    habilidades:
+      - id: ml.espacos
+        nome: Espaços vetoriais e bases
+        requer: [fg1.vetores]
+      - id: ml.produto-interno
+        nome: Produto interno, projeções e produto vetorial
+        requer: [ml.espacos]
+      - id: ml.matrizes
+        nome: Transformações lineares e matrizes
+        requer: [ml.espacos]
+      - id: ml.mudanca-base
+        nome: Mudança de base, determinante e traço
+        requer: [ml.matrizes]
+      - id: ml.autovalores
+        nome: Autovalores, autovetores e diagonalização
+        requer: [ml.mudanca-base, ml.produto-interno]
+      - id: ml.rotacoes
+        nome: Operadores ortogonais e rotações
+        requer: [ml.autovalores]
+      - id: ml.modos
+        nome: Modos próprios de sistemas lineares
+        requer: [ml.autovalores]
+
+  - id: fg2a
+    nome: Física Geral IIa
+    semestre: 2
+    eixo: ondas-termo
+    ementa: nde
+    habilidades:
+      - id: fg2a.oscilacoes
+        nome: Oscilações livres e forçadas; ressonância
+        requer: [fg1.dinamica, fg1.conservacao]
+      - id: fg2a.ondas
+        nome: Propagação de ondas e velocidade de fase
+        requer: [fg2a.oscilacoes, c1.derivadas-parciais]
+      - id: fg2a.reflexao
+        nome: Reflexão, transmissão e refração
+        requer: [fg2a.ondas]
+      - id: fg2a.huygens
+        nome: Difração e princípio de Huygens
+        requer: [fg2a.ondas]
+      - id: fg2a.optica-geometrica
+        nome: Óptica geométrica
+        requer: [fg2a.reflexao]
+
+  - id: fg2b
+    nome: Física Geral IIb
+    semestre: 2
+    eixo: ondas-termo
+    ementa: nde
+    habilidades:
+      - id: fg2b.fluidos
+        nome: Fluidos, pressão e princípio de Arquimedes
+        requer: [fg1.dinamica, c2.integral]
+      - id: fg2b.termo
+        nome: Temperatura, calor e leis da termodinâmica
+        requer: [fg1.conservacao]
+      - id: fg2b.cinetica
+        nome: Teoria cinética e distribuição de Maxwell-Boltzmann
+        requer: [fg2b.termo, c2.improprias]
+
+  - id: pfg2a
+    nome: Prática de Física Geral IIa
+    semestre: 2
+    eixo: ondas-termo
+    ementa: nde
+    pratica_de: fg2a
+    habilidades:
+      - id: pfg2a.pendulo
+        nome: Modelagem do pêndulo simples e amortecido
+        requer: [fg2a.oscilacoes]
+
+  - id: pfg2b
+    nome: Prática de Física Geral IIb
+    semestre: 2
+    eixo: ondas-termo
+    ementa: nde
+    pratica_de: fg2b
+    habilidades: []
+
+  - id: lab2
+    nome: Laboratório de Física Geral II
+    semestre: 2
+    eixo: experimental
+    ementa: nde
+    habilidades:
+      - id: lab2.oscilacoes-ondas
+        nome: Experimentos de oscilações e ondas
+        requer: [lab1.ajuste, fg2a.oscilacoes, fg2a.ondas]
+      - id: lab2.optica
+        nome: Experimentos de óptica geométrica (roteiros a confirmar)
+        requer: [lab1.ajuste, fg2a.optica-geometrica]
+      - id: lab2.fluidos
+        nome: Experimentos de fluidos
+        requer: [lab1.ajuste, fg2b.fluidos]
+      - id: lab2.termo
+        nome: Experimentos de termodinâmica
+        requer: [lab1.ajuste, fg2b.termo]
+
+  # ───────────────────────── 3º semestre ─────────────────────────
+
+  - id: c3
+    nome: Cálculo III
+    semestre: 3
+    eixo: matematica
+    ementa: nde
+    habilidades:
+      - id: c3.campos
+        nome: Curvas e campos vetoriais
+        requer: [c1.derivadas-parciais, fg1.vetores]
+      - id: c3.integral-linha
+        nome: Integrais de linha, campos conservativos e gradiente
+        requer: [c3.campos, c2.integral]
+      - id: c3.integral-superficie
+        nome: Integrais de superfície, fluxo e divergente
+        requer: [c3.campos, c2.multiplas]
+      - id: c3.rotacional
+        nome: Circulação e rotacional
+        requer: [c3.integral-linha]
+      - id: c3.teoremas
+        nome: Teoremas de Green, Gauss e Stokes
+        requer: [c3.integral-superficie, c3.rotacional]
+      - id: c3.continuidade
+        nome: Equação da continuidade
+        requer: [c3.teoremas]
+
+  - id: pc3
+    nome: Práticas de Cálculo III
+    semestre: 3
+    eixo: matematica
+    ementa: nde
+    pratica_de: c3
+    habilidades: []
+
+  - id: comp
+    nome: Computação para Física
+    semestre: 3
+    eixo: computacao
+    ementa: nde
+    habilidades:
+      - id: comp.python
+        nome: Programação científica em Python
+        requer: [lab1.python]
+      - id: comp.projetos
+        nome: Organização de projetos e reprodutibilidade
+        requer: [comp.python]
+      - id: comp.bibliotecas
+        nome: NumPy, SciPy e Matplotlib
+        requer: [comp.python, ml.matrizes]
+      - id: comp.dados
+        nome: Análise e ajuste de dados (mínimos quadrados)
+        requer: [comp.bibliotecas, lab1.ajuste]
+      - id: comp.numericos
+        nome: Métodos numéricos (raízes, integrais, EDOs)
+        requer: [comp.bibliotecas, c2.integral, pc2.edo-separaveis]
+
+  - id: fg3
+    nome: Física Geral III
+    semestre: 3
+    eixo: eletromagnetismo
+    ementa: nde
+    habilidades:
+      - id: fg3.coulomb
+        nome: Carga, lei de Coulomb e campo elétrico
+        requer: [fg1.dinamica, c2.multiplas]
+      - id: fg3.gauss-potencial
+        nome: Lei de Gauss e potencial elétrico
+        requer: [fg3.coulomb, fg1.conservacao, c3.integral-superficie]
+      - id: fg3.capacitores
+        nome: Capacitores e dielétricos
+        requer: [fg3.gauss-potencial]
+      - id: fg3.circuitos-cc
+        nome: Corrente e circuitos de corrente contínua
+        requer: [fg3.gauss-potencial]
+      - id: fg3.magnetismo
+        nome: Campo magnético e forças magnéticas
+        requer: [fg3.circuitos-cc, ml.produto-interno]
+      - id: fg3.inducao
+        nome: Indução eletromagnética
+        requer: [fg3.magnetismo]
+      - id: fg3.circuitos-ca
+        nome: Circuitos de corrente alternada
+        requer: [fg3.inducao, fg2a.oscilacoes]
+      - id: fg3.materia-magnetica
+        nome: Propriedades magnéticas da matéria
+        requer: [fg3.magnetismo]
+
+  - id: pfg3
+    nome: Prática de Física Geral III
+    semestre: 3
+    eixo: eletromagnetismo
+    ementa: nde
+    pratica_de: fg3
+    habilidades: []
+
+  - id: lab3
+    nome: Laboratório de Física Geral III
+    semestre: 3
+    eixo: experimental
+    ementa: proposta
+    habilidades:
+      - id: lab3.instrumentacao
+        nome: Instrumentação elétrica (multímetro, osciloscópio)
+        requer: [lab1.medidas, fg3.circuitos-cc]
+      - id: lab3.eletrostatica-cc
+        nome: Experimentos de eletrostática e corrente contínua
+        requer: [lab3.instrumentacao, lab1.ajuste]
+      - id: lab3.magnetismo
+        nome: Experimentos de magnetismo e indução
+        requer: [lab3.instrumentacao, fg3.inducao]
+      - id: lab3.ca
+        nome: Experimentos de corrente alternada e filtros
+        requer: [lab3.instrumentacao, fg3.circuitos-ca]
+
+  - id: mvc
+    nome: Métodos de Variáveis Complexas para a Física
+    semestre: 3
+    eixo: matematica
+    ementa: nde
+    habilidades:
+      - id: mvc.complexos
+        nome: Números complexos e suas representações
+        requer: [c1.reais, fb.funcoes]
+      - id: mvc.analiticas
+        nome: Funções analíticas
+        requer: [mvc.complexos, c1.derivadas-parciais]
+      - id: mvc.cauchy
+        nome: Teorema de Cauchy
+        requer: [mvc.analiticas, c3.teoremas]
+      - id: mvc.residuos
+        nome: Teorema dos resíduos e integrais reais
+        requer: [mvc.cauchy, c2.improprias]
+      - id: mvc.multivalentes
+        nome: Extensão analítica e folhas de Riemann
+        requer: [mvc.analiticas]
+
+  # ───────────────────────── 4º semestre ─────────────────────────
+
+  - id: c4
+    nome: Cálculo IV
+    semestre: 4
+    eixo: matematica
+    ementa: nde
+    habilidades:
+      - id: c4.series
+        nome: Sequências, séries e convergência
+        requer: [c1.limites]
+      - id: c4.series-potencias
+        nome: Séries de potências
+        requer: [c4.series, c1.taylor]
+      - id: c4.edo1
+        nome: EDOs de primeira ordem
+        requer: [pc2.edo-separaveis]
+      - id: c4.edo2
+        nome: EDOs lineares de segunda ordem
+        requer: [c4.edo1, mvc.complexos]
+      - id: c4.frobenius
+        nome: Soluções em série; Frobenius e Fuchs
+        requer: [c4.edo2, c4.series-potencias]
+
+  - id: pc4
+    nome: Práticas de Cálculo IV
+    semestre: 4
+    eixo: matematica
+    ementa: nde
+    pratica_de: c4
+    habilidades: []
+
+  - id: fg4
+    nome: Física Geral IV
+    semestre: 4
+    eixo: eletromagnetismo
+    ementa: nde
+    habilidades:
+      - id: fg4.maxwell
+        nome: Equações de Maxwell
+        requer: [fg3.inducao, fg3.gauss-potencial, c3.teoremas, c3.continuidade]
+      - id: fg4.oscilacoes-em
+        nome: Oscilações eletromagnéticas
+        requer: [fg4.maxwell, fg3.circuitos-ca]
+      - id: fg4.ondas-em
+        nome: Ondas eletromagnéticas
+        requer: [fg4.maxwell, fg2a.ondas]
+      - id: fg4.polarizacao
+        nome: Polarização
+        requer: [fg4.ondas-em]
+      - id: fg4.interferencia
+        nome: Interferência e difração da luz
+        requer: [fg4.ondas-em, fg2a.huygens]
+
+  - id: pfg4
+    nome: Prática de Física Geral IV
+    semestre: 4
+    eixo: eletromagnetismo
+    ementa: nde
+    pratica_de: fg4
+    habilidades: []
+
+  - id: lab4
+    nome: Laboratório de Física Geral IV
+    semestre: 4
+    eixo: experimental
+    ementa: proposta
+    habilidades:
+      - id: lab4.difracao
+        nome: Experimentos de difração e interferência
+        requer: [fg4.interferencia, lab1.ajuste]
+      - id: lab4.polarizacao
+        nome: Experimentos de polarização
+        requer: [fg4.polarizacao, lab1.ajuste]
+
+  - id: fm1
+    nome: Física Matemática I
+    semestre: 4
+    eixo: matematica
+    ementa: nde
+    habilidades:
+      - id: fm1.distribuicoes
+        nome: Delta de Dirac e distribuições
+        requer: [c2.improprias, c4.series]
+      - id: fm1.green
+        nome: Laplaciano e funções de Green
+        requer: [fm1.distribuicoes, c3.teoremas]
+      - id: fm1.sturm-liouville
+        nome: Problema de Sturm-Liouville e séries ortogonais
+        requer: [c4.edo2, ml.autovalores, ml.produto-interno]
+      - id: fm1.fourier
+        nome: Séries e transformadas de Fourier e Laplace
+        requer: [fm1.sturm-liouville, mvc.residuos]
+
+  # ───────────────────────── 5º semestre ─────────────────────────
+
+  - id: mg
+    nome: Mecânica Geral
+    semestre: 5
+    eixo: mecanica
+    ementa: nde
+    habilidades:
+      - id: mg.conservacao
+        nome: Forças conservativas e centrais; momento angular
+        requer: [fg1.conservacao, c3.integral-linha, c3.rotacional]
+      - id: mg.dois-corpos
+        nome: Problema de dois corpos
+        requer: [mg.conservacao, c4.edo2]
+      - id: mg.oscilacoes
+        nome: Oscilações simples, acopladas e forçadas
+        requer: [c4.edo2, ml.modos, fg2a.oscilacoes]
+      - id: mg.sistemas
+        nome: Mecânica de sistemas de partículas
+        requer: [mg.conservacao]
+      - id: mg.nao-inerciais
+        nome: Referenciais não inerciais
+        requer: [fg1.referenciais, ml.rotacoes]
+
+  - id: em1
+    nome: Eletromagnetismo I
+    semestre: 5
+    eixo: eletromagnetismo
+    ementa: nde
+    habilidades:
+      - id: em1.helmholtz
+        nome: Coordenadas curvilíneas e teorema de Helmholtz
+        requer: [fm1.distribuicoes, c3.teoremas]
+      - id: em1.eletrostatica
+        nome: Eletrostática formal; equações de Poisson e Laplace
+        requer: [em1.helmholtz, fg3.gauss-potencial, fm1.green]
+      - id: em1.contorno
+        nome: Problemas de contorno; imagens, separação de variáveis, multipolos
+        requer: [em1.eletrostatica, fm1.sturm-liouville, c4.frobenius]
+      - id: em1.dieletricos
+        nome: Campos elétricos na matéria
+        requer: [em1.eletrostatica, fg3.capacitores]
+      - id: em1.magnetostatica
+        nome: Magnetostática e potencial vetor
+        requer: [em1.helmholtz, fg3.magnetismo]
+      - id: em1.meios-magneticos
+        nome: Campos magnéticos na matéria
+        requer: [em1.magnetostatica, fg3.materia-magnetica]
+
+  - id: rr
+    nome: Relatividade Restrita
+    semestre: 5
+    eixo: eletromagnetismo
+    ementa: nde
+    habilidades:
+      - id: rr.lorentz
+        nome: Postulados e transformações de Lorentz
+        requer: [fg1.referenciais, fg4.ondas-em]
+      - id: rr.minkowski
+        nome: Espaço-tempo de Minkowski e diagramas
+        requer: [rr.lorentz]
+      - id: rr.tensores
+        nome: Álgebra e cálculo tensorial
+        requer: [rr.minkowski, ml.mudanca-base, c3.teoremas]
+      - id: rr.dinamica
+        nome: Dinâmica relativística e colisões
+        requer: [rr.tensores, fg1.conservacao]
+      - id: rr.optica
+        nome: Óptica relativística (Doppler, aberração)
+        requer: [rr.tensores, fg4.ondas-em]
+      - id: rr.em-covariante
+        nome: Eletromagnetismo covariante
+        requer: [rr.tensores, fg4.maxwell]
+
+  - id: fmod
+    nome: Física Moderna
+    semestre: 5
+    eixo: quantica
+    ementa: nde
+    habilidades:
+      - id: fmod.radiacao-termica
+        nome: Radiação térmica e a crise da física clássica
+        requer: [fg2b.cinetica, fg4.ondas-em]
+      - id: fmod.foton
+        nome: Propriedades corpusculares da radiação (fotoelétrico, Compton)
+        requer: [fmod.radiacao-termica, rr.dinamica]
+      - id: fmod.atomo
+        nome: Modelos atômicos (Rutherford, Bohr, Bohr-Sommerfeld)
+        requer: [fmod.radiacao-termica, fg3.coulomb]
+      - id: fmod.onda-particula
+        nome: Dualidade onda-partícula e princípio da incerteza
+        requer: [fmod.foton, fm1.fourier]
+      - id: fmod.schrodinger-1d
+        nome: Equação de Schrödinger em uma dimensão
+        requer: [fmod.onda-particula, c4.edo2]
+      - id: fmod.estados
+        nome: Estados ligados, tunelamento e valores esperados
+        requer: [fmod.schrodinger-1d, c2.improprias]
+
+  # ───────────────────────── 6º semestre ─────────────────────────
+
+  - id: ma1
+    nome: Mecânica Analítica I
+    semestre: 6
+    eixo: mecanica
+    ementa: nde
+    habilidades:
+      - id: ma1.variacional
+        nome: Princípio de ação e cálculo variacional
+        requer: [mg.conservacao, c2.tecnicas, c1.derivadas-parciais]
+      - id: ma1.lagrange
+        nome: Equações de Euler-Lagrange; vínculos e pequenas oscilações
+        requer: [ma1.variacional, mg.oscilacoes]
+      - id: ma1.noether
+        nome: Teorema de Noether
+        requer: [ma1.lagrange, fg1.simetrias]
+      - id: ma1.corpo-rigido
+        nome: Dinâmica do corpo rígido
+        requer: [ma1.lagrange, ml.rotacoes, ml.autovalores]
+      - id: ma1.hamilton
+        nome: Formalismo hamiltoniano e parênteses de Poisson
+        requer: [ma1.lagrange]
+
+  - id: em2
+    nome: Eletromagnetismo II
+    semestre: 6
+    eixo: eletromagnetismo
+    ementa: legado-2023
+    habilidades:
+      - id: em2.calibre
+        nome: Equações de Maxwell e transformações de calibre
+        requer: [em1.eletrostatica, em1.magnetostatica, fg4.maxwell]
+      - id: em2.ondas-guiadas
+        nome: Ondas em meios e em contornos (guias, cavidades)
+        requer: [em2.calibre, em1.contorno, fm1.fourier]
+      - id: em2.dispersao
+        nome: Dispersão óptica nos materiais
+        requer: [em2.ondas-guiadas, em1.dieletricos]
+      - id: em2.radiacao
+        nome: Potenciais retardados e radiação
+        requer: [em2.calibre, fm1.green, rr.em-covariante]
+
+  - id: termo
+    nome: Termodinâmica
+    semestre: 6
+    eixo: ondas-termo
+    ementa: nde
+    habilidades:
+      - id: termo.postulados
+        nome: Postulados e condições de equilíbrio
+        requer: [fg2b.termo, c1.derivadas-parciais]
+      - id: termo.leis
+        nome: Processos e as leis da termodinâmica (formulação postulacional)
+        requer: [termo.postulados]
+      - id: termo.legendre
+        nome: Transformadas de Legendre e potenciais termodinâmicos
+        requer: [termo.leis]
+      - id: termo.relacoes
+        nome: Relações de Maxwell, Euler e Gibbs-Duhem
+        requer: [termo.legendre]
+      - id: termo.estabilidade
+        nome: Estabilidade e princípios de extremo
+        requer: [termo.legendre]
+      - id: termo.transicoes
+        nome: Transições de fase e fenômenos críticos
+        requer: [termo.estabilidade]
+
+  - id: labfm
+    nome: Laboratório de Física Moderna
+    semestre: 6
+    eixo: experimental
+    ementa: a-definir
+    habilidades:
+      - id: labfm.experimentos
+        nome: Experimentos fundadores da física moderna
+        requer: [fmod.foton, fmod.atomo, lab3.instrumentacao, lab1.relatorio, comp.dados]
+
+  # ───────────────────────── 7º semestre ─────────────────────────
+
+  - id: ma2
+    nome: Mecânica Analítica II
+    semestre: 7
+    eixo: mecanica
+    ementa: nde
+    habilidades:
+      - id: ma2.canonicas
+        nome: Transformações canônicas e funções geratrizes
+        requer: [ma1.hamilton]
+      - id: ma2.acao-angulo
+        nome: Variáveis de ação-ângulo e perturbações
+        requer: [ma2.canonicas]
+      - id: ma2.espaco-fase
+        nome: Espaço de fase; teoremas de Liouville e Poincaré
+        requer: [ma2.canonicas]
+      - id: ma2.hamilton-jacobi
+        nome: Teoria de Hamilton-Jacobi
+        requer: [ma2.canonicas, mg.dois-corpos]
+      - id: ma2.campos
+        nome: Teoria clássica de campos e Noether para campos
+        requer: [ma1.noether, rr.tensores]
+
+  - id: mq1
+    nome: Mecânica Quântica I
+    semestre: 7
+    eixo: quantica
+    ementa: legado-2023
+    habilidades:
+      - id: mq1.principios
+        nome: Complementaridade, incerteza e correspondência
+        requer: [fmod.onda-particula]
+      - id: mq1.sistemas-1d
+        nome: Sistemas unidimensionais e oscilador harmônico
+        requer: [fmod.estados, c4.frobenius]
+      - id: mq1.estrutura
+        nome: Estrutura geral — espaços vetoriais, operadores, notação de Dirac
+        requer: [mq1.principios, ml.autovalores, fm1.sturm-liouville, ma1.hamilton]
+      - id: mq1.n-particulas
+        nome: Sistemas de N partículas
+        requer: [mq1.estrutura]
+      - id: mq1.hidrogenio
+        nome: Potenciais centrais e átomo de hidrogênio
+        requer: [mq1.estrutura, em1.contorno, mg.dois-corpos]
+
+  # ───────────────────────── 8º semestre ─────────────────────────
+
+  - id: mq2
+    nome: Mecânica Quântica II
+    semestre: 8
+    eixo: quantica
+    ementa: legado-2023
+    habilidades:
+      - id: mq2.momento-angular
+        nome: Momento angular e spin
+        requer: [mq1.hidrogenio, ml.rotacoes]
+      - id: mq2.simetrias
+        nome: Simetrias e leis de conservação
+        requer: [mq2.momento-angular, ma1.noether]
+      - id: mq2.identicas
+        nome: Partículas idênticas
+        requer: [mq1.n-particulas, mq2.momento-angular]
+      - id: mq2.aproximacoes
+        nome: Métodos de aproximação para estados ligados
+        requer: [mq1.estrutura, c1.taylor]
+      - id: mq2.colisoes
+        nome: Teoria das colisões e métodos de aproximação
+        requer: [mq1.hidrogenio, fm1.green, mvc.residuos]
+      - id: mq2.radiacao
+        nome: Radiação atômica (tratamento semiclássico)
+        requer: [mq2.aproximacoes, em2.radiacao]
+      - id: mq2.estruturas
+        nome: Estruturas atômicas, moleculares e nucleares
+        requer: [mq2.identicas, mq2.aproximacoes]
+      - id: mq2.alem
+        nome: Equações relativísticas, segunda quantização e integrais de caminho
+        requer: [mq2.simetrias, rr.tensores, ma2.campos]
