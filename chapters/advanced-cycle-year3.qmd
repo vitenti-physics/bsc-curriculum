@@ -143,7 +143,9 @@ formulação da mecânica ondulatória, que será reconstruída de forma geral e
 [Mecânica Quântica I](advanced-cycle-year4.qmd#sec-mecanica-quantica-i). Temas
 marcados como *qualitativos* são apresentados sem o formalismo completo, que só
 virá nas disciplinas de Mecânica Quântica. Serve de base teórica para o
-[Laboratório de Física Moderna](#sec-lab-fisica-moderna), do semestre seguinte.
+[Laboratório de Física Moderna I](#sec-lab-fisica-moderna-i), cursado no mesmo
+semestre, e para o [Laboratório de Física Moderna II](#sec-lab-fisica-moderna-ii),
+do semestre seguinte.
 
 A ementa unifica as antigas Física Moderna I A e I B (2FIS099 e 2FIS100); a parte
 de relatividade que estava em Física Moderna I A foi deslocada para
@@ -173,6 +175,17 @@ de relatividade que estava em Física Moderna I A foi deslocada para
   coeficientes de reflexão e transmissão, tunelamento.
 - Valores esperados de grandezas físicas em mecânica quântica.
 :::
+
+### Laboratório de Física Moderna I {#sec-lab-fisica-moderna-i}
+
+**Ementa a definir pelo NDE.** Primeira parte, com 60 h, do laboratório de física
+moderna, que no currículo vigente é uma única disciplina anual de 120 h
+(2FIS098). Dá continuidade à sequência de laboratórios do núcleo comum (Física
+Geral I a IV) com os **experimentos fundadores da física do século XX** — os que
+estabeleceram a quantização da energia, a natureza corpuscular da radiação e a
+estrutura do átomo —, acompanhando [Física Moderna](#sec-fisica-moderna), cursada
+no mesmo semestre. Os roteiros ainda precisam ser definidos (ver
+[Pontos em aberto](advanced-cycle.qmd#sec-pontos-abertos-ca)).
 
 ### Demais disciplinas do quinto semestre
 
@@ -279,14 +292,13 @@ fenômenos críticos, e prepara diretamente a Mecânica Estatística.
 - Fenômenos críticos.
 :::
 
-### Laboratório de Física Moderna {#sec-lab-fisica-moderna}
+### Laboratório de Física Moderna II {#sec-lab-fisica-moderna-ii}
 
-**Ementa a definir pelo NDE.** Dá continuidade à sequência de laboratórios do
-núcleo comum (Física Geral I a IV) com os **experimentos fundadores da física do
-século XX** — os que estabeleceram a quantização da energia, a natureza
-corpuscular da radiação e a estrutura do átomo. Sucede
-[Física Moderna](#sec-fisica-moderna), cursada no 5º semestre, que fornece a
-base teórica dos experimentos. Os roteiros ainda precisam ser definidos (ver
+**Ementa a definir pelo NDE.** Segunda parte, com 60 h, do laboratório de física
+moderna; sucede o [Laboratório de Física Moderna I](#sec-lab-fisica-moderna-i). A
+ementa vigente do laboratório anual (2FIS098) inclui também experimentos de
+**física do estado sólido** e de **física nuclear**, que são candidatos naturais a
+esta segunda parte. Os roteiros ainda precisam ser definidos (ver
 [Pontos em aberto](advanced-cycle.qmd#sec-pontos-abertos-ca)).
 
 ### Demais disciplinas do sexto semestre

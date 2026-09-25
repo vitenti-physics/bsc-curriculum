@@ -1,0 +1,27 @@
+---
+title: "Árvore de Habilidades"
+page-layout: full
+toc: false
+number-sections: false
+---
+
+::: {.callout-warning}
+## Protótipo
+As habilidades de cada disciplina e as dependências entre elas são uma **proposta
+preliminar**, derivada dos conceitos-chave das ementas e ainda não discutida pelo NDE.
+A fonte única dos dados é `skill-tree/skills.yml`.
+:::
+
+Cada anel é um semestre, do 1º, no centro, ao 8º, na borda; cada cor é um eixo do
+curso. Marque as disciplinas já concluídas para ver quais habilidades você já tem e
+quais disciplinas se abrem a seguir. Para uma visão maior, use o botão **Tela cheia** ou
+[abra a árvore em uma aba própria](../skill-tree/index.html){target="_blank"}.
+
+```{=html}
+<link rel="stylesheet" href="../skill-tree/tree.css">
+<div id="skill-tree" class="st-wrap" data-src="../skill-tree/skills.yml">
+  <p style="padding:1rem">Carregando a árvore de habilidades…</p>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+<script src="../skill-tree/tree.js"></script>
+```

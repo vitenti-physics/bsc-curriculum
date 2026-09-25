@@ -28,7 +28,7 @@
 <text xml:space="preserve" text-anchor="middle" x="806" y="-160.3" font-family="Helvetica,sans-Serif" font-size="11.00">Organização de projetos e reprodutibilidade</text>
 </g>
 <!-- comp.python&#45;&gt;comp.projetos -->
-<g id="edge1" class="edge">
+<g id="edge9" class="edge">
 <title>comp.python&#45;&gt;comp.projetos</title>
 <path fill="none" stroke="#888888" d="M571.88,-146.69C607.16,-149.31 648.14,-152.35 685.81,-155.15"/>
 <polygon fill="#888888" stroke="#888888" points="685.65,-157.24 691.79,-155.59 685.96,-153.05 685.65,-157.24"/>
@@ -52,7 +52,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1108.25" y="-113.3" font-family="Helvetica,sans-Serif" font-size="11.00">Análise e ajuste de dados (mínimos quadrados)</text>
 </g>
 <!-- comp.bibliotecas&#45;&gt;comp.dados -->
-<g id="edge5" class="edge">
+<g id="edge4" class="edge">
 <title>comp.bibliotecas&#45;&gt;comp.dados</title>
 <path fill="none" stroke="#888888" d="M877.77,-117C907.88,-117 943.96,-117 978.5,-117"/>
 <polygon fill="#888888" stroke="#888888" points="978.33,-119.1 984.33,-117 978.33,-114.9 978.33,-119.1"/>
@@ -64,7 +64,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1108.25" y="-160.3" font-family="Helvetica,sans-Serif" font-size="11.00">Métodos numéricos (raízes, integrais, EDOs)</text>
 </g>
 <!-- comp.bibliotecas&#45;&gt;comp.numericos -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>comp.bibliotecas&#45;&gt;comp.numericos</title>
 <path fill="none" stroke="#888888" d="M877.77,-128.08C909.79,-133.09 948.57,-139.16 985.07,-144.87"/>
 <polygon fill="#888888" stroke="#888888" points="984.59,-146.92 990.84,-145.78 985.24,-142.77 984.59,-146.92"/>
@@ -78,7 +78,7 @@
 <text xml:space="preserve" text-anchor="middle" x="806" y="-235.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo II · Integral de Riemann e antiderivada</text>
 </g>
 <!-- c2.integral&#45;&gt;comp.numericos -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>c2.integral&#45;&gt;comp.numericos</title>
 <path fill="none" stroke="#888888" d="M909.22,-224.52C924.4,-221.74 939.79,-218.56 954.25,-215 987.09,-206.9 1023.01,-195.09 1051.79,-184.87"/>
 <polygon fill="#888888" stroke="#888888" points="1052.2,-186.96 1057.14,-182.96 1050.79,-183 1052.2,-186.96"/>
@@ -92,7 +92,7 @@
 <text xml:space="preserve" text-anchor="middle" x="806" y="-61.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo II · Equações diferenciais separáveis</text>
 </g>
 <!-- pc2.edo&#45;separaveis&#45;&gt;comp.numericos -->
-<g id="edge4" class="edge">
+<g id="edge3" class="edge">
 <title>pc2.edo&#45;separaveis&#45;&gt;comp.numericos</title>
 <path fill="none" stroke="#888888" d="M906.08,-69.22C923.13,-73.19 939.94,-79.41 954.25,-89 976.79,-104.11 963.91,-125.6 986.25,-141 986.7,-141.31 987.14,-141.61 987.6,-141.91"/>
 <polygon fill="#888888" stroke="#888888" points="986.12,-143.47 992.33,-144.81 988.31,-139.88 986.12,-143.47"/>
@@ -106,13 +106,27 @@
 <text xml:space="preserve" text-anchor="middle" x="806" y="-14.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Laboratório de Física Geral I · Gráficos e ajuste linear com incertezas</text>
 </g>
 <!-- lab1.ajuste&#45;&gt;comp.dados -->
-<g id="edge6" class="edge">
+<g id="edge5" class="edge">
 <title>lab1.ajuste&#45;&gt;comp.dados</title>
 <path fill="none" stroke="#888888" d="M934.85,-36.45C941.46,-38.15 947.96,-39.99 954.25,-42 995.69,-55.21 1040,-77.99 1070.22,-94.99"/>
 <polygon fill="#888888" stroke="#888888" points="1068.87,-96.64 1075.13,-97.77 1070.94,-92.99 1068.87,-96.64"/>
 </g>
-<!-- ml.matrizes -->
+<!-- lab1.python -->
 <g id="node9" class="node">
+<title>lab1.python</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="298,-158 0,-158 0,-122 304,-122 304,-152 298,-158"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="298,-158 298,-152"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="304,-152 298,-152"/>
+<text xml:space="preserve" text-anchor="middle" x="152" y="-136.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Laboratório de Física Geral I · Primeiros passos em Python para dados</text>
+</g>
+<!-- lab1.python&#45;&gt;comp.python -->
+<g id="edge6" class="edge">
+<title>lab1.python&#45;&gt;comp.python</title>
+<path fill="none" stroke="#888888" d="M304.48,-140C331.08,-140 358.1,-140 382.71,-140"/>
+<polygon fill="#888888" stroke="#888888" points="382.41,-142.1 388.41,-140 382.41,-137.9 382.41,-142.1"/>
+</g>
+<!-- ml.matrizes -->
+<g id="node10" class="node">
 <title>ml.matrizes</title>
 <polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="619.75,-83 336,-83 336,-47 625.75,-47 625.75,-77 619.75,-83"/>
 <polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="619.75,-83 619.75,-77"/>
@@ -124,20 +138,6 @@
 <title>ml.matrizes&#45;&gt;comp.bibliotecas</title>
 <path fill="none" stroke="#888888" d="M596.71,-83.48C639.91,-90.43 687.99,-98.17 727.07,-104.46"/>
 <polygon fill="#888888" stroke="#888888" points="726.5,-106.49 732.76,-105.37 727.17,-102.35 726.5,-106.49"/>
-</g>
-<!-- lab1.python -->
-<g id="node10" class="node">
-<title>lab1.python</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="298,-158 0,-158 0,-122 304,-122 304,-152 298,-158"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="298,-158 298,-152"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="304,-152 298,-152"/>
-<text xml:space="preserve" text-anchor="middle" x="152" y="-136.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Laboratório de Física Geral I · Primeiros passos em Python para dados</text>
-</g>
-<!-- lab1.python&#45;&gt;comp.python -->
-<g id="edge9" class="edge">
-<title>lab1.python&#45;&gt;comp.python</title>
-<path fill="none" stroke="#888888" d="M304.48,-140C331.08,-140 358.1,-140 382.71,-140"/>
-<polygon fill="#888888" stroke="#888888" points="382.41,-142.1 388.41,-140 382.41,-137.9 382.41,-142.1"/>
 </g>
 </g>
 </svg>

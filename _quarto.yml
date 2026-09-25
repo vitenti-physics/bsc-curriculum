@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - skill-tree/skills.yml
+    - skill-tree/tree.js
+    - skill-tree/tree.css
+    - skill-tree/index.html
 
 website:
   title: "PPC — Bacharelado em Física"
@@ -57,6 +62,8 @@ website:
                 href: chapters/advanced-cycle-year4.qmd
           - text: "Grade Horária"
             href: chapters/timetable.qmd
+      - text: "Árvore de Habilidades"
+        href: chapters/skill-tree.qmd
       - text: "Referências"
         href: references.qmd
 

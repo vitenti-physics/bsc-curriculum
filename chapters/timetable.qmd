@@ -78,14 +78,15 @@ disciplinas obrigatórias e as optativas forem definidas.
 | Eletromagnetismo I | 5º | 60 h |
 | Relatividade Restrita | 5º | 60 h |
 | Física Moderna | 5º | 60 h |
+| Laboratório de Física Moderna I | 5º | 60 h |
 | Mecânica Analítica I | 6º | 60 h |
 | Eletromagnetismo II | 6º | 60 h |
 | Termodinâmica | 6º | 60 h |
-| Laboratório de Física Moderna | 6º | 60 h |
+| Laboratório de Física Moderna II | 6º | 60 h |
 | Mecânica Analítica II | 7º | 60 h |
 | Mecânica Quântica I | 7º | 60 h |
 | Mecânica Quântica II | 8º | 60 h |
-| **Subtotal definido** | | **660 h** |
+| **Subtotal definido** | | **720 h** |
 | Demais disciplinas obrigatórias | 5º a 8º | a definir |
 | Optativas | 5º a 8º | a definir |
 | **Total — Ciclo avançado** | | **a definir** |
@@ -138,16 +139,16 @@ reservados** para as disciplinas que o NDE ainda definirá, não horários livre
 
 | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
 |---|---|---|---|---|---|
-| 08:20–10:00 | Mecânica Geral | Eletromagnetismo I | Mecânica Geral | Eletromagnetismo I | — |
-| 10:15–11:55 | Relatividade Restrita | Física Moderna | Relatividade Restrita | Física Moderna | —² |
+| 08:20–10:00 | Mecânica Geral | Eletromagnetismo I | Mecânica Geral | Eletromagnetismo I | Lab. de Física Moderna I |
+| 10:15–11:55 | Relatividade Restrita | Física Moderna | Relatividade Restrita | Física Moderna | Lab. de Física Moderna I |
 | 14:00–15:40 | —² | —² | —² | —² | —² |
 
 ### 3º ano · 6º semestre
 
 | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
 |---|---|---|---|---|---|
-| 08:20–10:00 | Mecânica Analítica I | Termodinâmica | Mecânica Analítica I | Termodinâmica | Lab. de Física Moderna |
-| 10:15–11:55 | Eletromagnetismo II | —² | Eletromagnetismo II | —² | Lab. de Física Moderna |
+| 08:20–10:00 | Mecânica Analítica I | Termodinâmica | Mecânica Analítica I | Termodinâmica | Lab. de Física Moderna II |
+| 10:15–11:55 | Eletromagnetismo II | —² | Eletromagnetismo II | —² | Lab. de Física Moderna II |
 | 14:00–15:40 | —² | —² | —² | —² | —² |
 
 ### 4º ano · 7º semestre

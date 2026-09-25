@@ -50,7 +50,7 @@
 <text xml:space="preserve" text-anchor="middle" x="675.5" y="-373.3" font-family="Helvetica,sans-Serif" font-style="oblique" font-size="11.00">Modelagem do pêndulo simples e amortecido (prática)</text>
 </g>
 <!-- fg2a.oscilacoes&#45;&gt;pfg2a.pendulo -->
-<g id="edge4" class="edge">
+<g id="edge9" class="edge">
 <title>fg2a.oscilacoes&#45;&gt;pfg2a.pendulo</title>
 <path fill="none" stroke="#888888" d="M501.18,-347.83C513.51,-349.91 525.91,-352 537.75,-354 544.11,-355.07 550.64,-356.17 557.24,-357.28"/>
 <polygon fill="#888888" stroke="#888888" points="556.65,-359.31 562.92,-358.24 557.35,-355.17 556.65,-359.31"/>
@@ -62,7 +62,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1008.12" y="-326.3" font-family="Helvetica,sans-Serif" font-size="11.00">Reflexão, transmissão e refração</text>
 </g>
 <!-- fg2a.ondas&#45;&gt;fg2a.reflexao -->
-<g id="edge11" class="edge">
+<g id="edge19" class="edge">
 <title>fg2a.ondas&#45;&gt;fg2a.reflexao</title>
 <path fill="none" stroke="#888888" d="M787.51,-330C828.4,-330 874.27,-330 913.47,-330"/>
 <polygon fill="#888888" stroke="#888888" points="913.19,-332.1 919.19,-330 913.19,-327.9 913.19,-332.1"/>
@@ -74,7 +74,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1008.12" y="-373.3" font-family="Helvetica,sans-Serif" font-size="11.00">Difração e princípio de Huygens</text>
 </g>
 <!-- fg2a.ondas&#45;&gt;fg2a.huygens -->
-<g id="edge6" class="edge">
+<g id="edge3" class="edge">
 <title>fg2a.ondas&#45;&gt;fg2a.huygens</title>
 <path fill="none" stroke="#888888" d="M787.24,-345.75C806.58,-348.5 826.5,-351.33 845.25,-354 868.07,-357.24 892.71,-360.74 915.7,-364.01"/>
 <polygon fill="#888888" stroke="#888888" points="915.37,-366.09 921.61,-364.85 915.97,-361.93 915.37,-366.09"/>
@@ -86,7 +86,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1348.25" y="-326.3" font-family="Helvetica,sans-Serif" font-size="11.00">Óptica geométrica</text>
 </g>
 <!-- fg2a.reflexao&#45;&gt;fg2a.optica&#45;geometrica -->
-<g id="edge13" class="edge">
+<g id="edge5" class="edge">
 <title>fg2a.reflexao&#45;&gt;fg2a.optica&#45;geometrica</title>
 <path fill="none" stroke="#888888" d="M1095.76,-330C1156.5,-330 1236.02,-330 1289.23,-330"/>
 <polygon fill="#888888" stroke="#888888" points="1289.05,-332.1 1295.05,-330 1289.05,-327.9 1289.05,-332.1"/>
@@ -94,26 +94,26 @@
 <!-- fg2b.fluidos -->
 <g id="node7" class="node">
 <title>fg2b.fluidos</title>
-<path fill="white" stroke="#9c7f00" stroke-width="1.1" d="M493.75,-135C493.75,-135 295.5,-135 295.5,-135 289.5,-135 283.5,-129 283.5,-123 283.5,-123 283.5,-111 283.5,-111 283.5,-105 289.5,-99 295.5,-99 295.5,-99 493.75,-99 493.75,-99 499.75,-99 505.75,-105 505.75,-111 505.75,-111 505.75,-123 505.75,-123 505.75,-129 499.75,-135 493.75,-135"/>
-<text xml:space="preserve" text-anchor="middle" x="394.62" y="-113.3" font-family="Helvetica,sans-Serif" font-size="11.00">Fluidos, pressão e princípio de Arquimedes</text>
+<path fill="white" stroke="#9c7f00" stroke-width="1.1" d="M493.75,-88C493.75,-88 295.5,-88 295.5,-88 289.5,-88 283.5,-82 283.5,-76 283.5,-76 283.5,-64 283.5,-64 283.5,-58 289.5,-52 295.5,-52 295.5,-52 493.75,-52 493.75,-52 499.75,-52 505.75,-58 505.75,-64 505.75,-64 505.75,-76 505.75,-76 505.75,-82 499.75,-88 493.75,-88"/>
+<text xml:space="preserve" text-anchor="middle" x="394.62" y="-66.3" font-family="Helvetica,sans-Serif" font-size="11.00">Fluidos, pressão e princípio de Arquimedes</text>
 </g>
 <!-- fg2b.termo -->
 <g id="node8" class="node">
 <title>fg2b.termo</title>
-<path fill="white" stroke="#9c7f00" stroke-width="1.1" d="M493.75,-88C493.75,-88 295.5,-88 295.5,-88 289.5,-88 283.5,-82 283.5,-76 283.5,-76 283.5,-64 283.5,-64 283.5,-58 289.5,-52 295.5,-52 295.5,-52 493.75,-52 493.75,-52 499.75,-52 505.75,-58 505.75,-64 505.75,-64 505.75,-76 505.75,-76 505.75,-82 499.75,-88 493.75,-88"/>
-<text xml:space="preserve" text-anchor="middle" x="394.62" y="-66.3" font-family="Helvetica,sans-Serif" font-size="11.00">Temperatura, calor e leis da termodinâmica</text>
+<path fill="white" stroke="#9c7f00" stroke-width="1.1" d="M493.75,-135C493.75,-135 295.5,-135 295.5,-135 289.5,-135 283.5,-129 283.5,-123 283.5,-123 283.5,-111 283.5,-111 283.5,-105 289.5,-99 295.5,-99 295.5,-99 493.75,-99 493.75,-99 499.75,-99 505.75,-105 505.75,-111 505.75,-111 505.75,-123 505.75,-123 505.75,-129 499.75,-135 493.75,-135"/>
+<text xml:space="preserve" text-anchor="middle" x="394.62" y="-113.3" font-family="Helvetica,sans-Serif" font-size="11.00">Temperatura, calor e leis da termodinâmica</text>
 </g>
 <!-- fg2b.cinetica -->
 <g id="node9" class="node">
 <title>fg2b.cinetica</title>
-<path fill="white" stroke="#9c7f00" stroke-width="1.1" d="M794.5,-88C794.5,-88 556.5,-88 556.5,-88 550.5,-88 544.5,-82 544.5,-76 544.5,-76 544.5,-64 544.5,-64 544.5,-58 550.5,-52 556.5,-52 556.5,-52 794.5,-52 794.5,-52 800.5,-52 806.5,-58 806.5,-64 806.5,-64 806.5,-76 806.5,-76 806.5,-82 800.5,-88 794.5,-88"/>
-<text xml:space="preserve" text-anchor="middle" x="675.5" y="-66.3" font-family="Helvetica,sans-Serif" font-size="11.00">Teoria cinética e distribuição de Maxwell&#45;Boltzmann</text>
+<path fill="white" stroke="#9c7f00" stroke-width="1.1" d="M794.5,-111C794.5,-111 556.5,-111 556.5,-111 550.5,-111 544.5,-105 544.5,-99 544.5,-99 544.5,-87 544.5,-87 544.5,-81 550.5,-75 556.5,-75 556.5,-75 794.5,-75 794.5,-75 800.5,-75 806.5,-81 806.5,-87 806.5,-87 806.5,-99 806.5,-99 806.5,-105 800.5,-111 794.5,-111"/>
+<text xml:space="preserve" text-anchor="middle" x="675.5" y="-89.3" font-family="Helvetica,sans-Serif" font-size="11.00">Teoria cinética e distribuição de Maxwell&#45;Boltzmann</text>
 </g>
 <!-- fg2b.termo&#45;&gt;fg2b.cinetica -->
-<g id="edge18" class="edge">
+<g id="edge11" class="edge">
 <title>fg2b.termo&#45;&gt;fg2b.cinetica</title>
-<path fill="none" stroke="#888888" d="M506.24,-70C516.28,-70 526.52,-70 536.75,-70"/>
-<polygon fill="#888888" stroke="#888888" points="536.68,-72.1 542.68,-70 536.68,-67.9 536.68,-72.1"/>
+<path fill="none" stroke="#888888" d="M506.24,-107.48C516.28,-106.62 526.52,-105.74 536.75,-104.85"/>
+<polygon fill="#888888" stroke="#888888" points="536.89,-106.95 542.69,-104.34 536.53,-102.77 536.89,-106.95"/>
 </g>
 <!-- termo.postulados -->
 <g id="node10" class="node">
@@ -122,10 +122,10 @@
 <text xml:space="preserve" text-anchor="middle" x="675.5" y="-219.3" font-family="Helvetica,sans-Serif" font-size="11.00">Postulados e condições de equilíbrio</text>
 </g>
 <!-- fg2b.termo&#45;&gt;termo.postulados -->
-<g id="edge7" class="edge">
+<g id="edge6" class="edge">
 <title>fg2b.termo&#45;&gt;termo.postulados</title>
-<path fill="none" stroke="#888888" d="M498.14,-88.48C500.79,-90.18 503.33,-92.01 505.75,-94 533.42,-116.77 512.09,-142.99 537.75,-168 552.91,-182.78 572.56,-193.75 592.21,-201.83"/>
-<polygon fill="#888888" stroke="#888888" points="591.39,-203.76 597.75,-204.01 592.93,-199.86 591.39,-203.76"/>
+<path fill="none" stroke="#888888" d="M444.2,-135.46C493.04,-154.03 568.21,-182.6 619.28,-202.01"/>
+<polygon fill="#888888" stroke="#888888" points="618.24,-203.86 624.6,-204.03 619.74,-199.94 618.24,-203.86"/>
 </g>
 <!-- termo.leis -->
 <g id="node11" class="node">
@@ -134,7 +134,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1008.12" y="-219.3" font-family="Helvetica,sans-Serif" font-size="11.00">Processos e as leis da termodinâmica (formulação postulacional)</text>
 </g>
 <!-- termo.postulados&#45;&gt;termo.leis -->
-<g id="edge5" class="edge">
+<g id="edge13" class="edge">
 <title>termo.postulados&#45;&gt;termo.leis</title>
 <path fill="none" stroke="#888888" d="M771.24,-223C792.08,-223 814.75,-223 837.54,-223"/>
 <polygon fill="#888888" stroke="#888888" points="837.42,-225.1 843.42,-223 837.42,-220.9 837.42,-225.1"/>
@@ -146,7 +146,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1348.25" y="-219.3" font-family="Helvetica,sans-Serif" font-size="11.00">Transformadas de Legendre e potenciais termodinâmicos</text>
 </g>
 <!-- termo.leis&#45;&gt;termo.legendre -->
-<g id="edge9" class="edge">
+<g id="edge8" class="edge">
 <title>termo.leis&#45;&gt;termo.legendre</title>
 <path fill="none" stroke="#888888" d="M1171.26,-223C1179.24,-223 1187.24,-223 1195.19,-223"/>
 <polygon fill="#888888" stroke="#888888" points="1194.96,-225.1 1200.96,-223 1194.96,-220.9 1194.96,-225.1"/>
@@ -158,7 +158,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1639.62" y="-196.3" font-family="Helvetica,sans-Serif" font-size="11.00">Relações de Maxwell, Euler e Gibbs&#45;Duhem</text>
 </g>
 <!-- termo.legendre&#45;&gt;termo.relacoes -->
-<g id="edge12" class="edge">
+<g id="edge20" class="edge">
 <title>termo.legendre&#45;&gt;termo.relacoes</title>
 <path fill="none" stroke="#888888" d="M1493.94,-211.5C1501.94,-210.86 1509.95,-210.23 1517.86,-209.6"/>
 <polygon fill="#888888" stroke="#888888" points="1517.76,-211.71 1523.58,-209.14 1517.43,-207.53 1517.76,-211.71"/>
@@ -170,7 +170,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1639.62" y="-243.3" font-family="Helvetica,sans-Serif" font-size="11.00">Estabilidade e princípios de extremo</text>
 </g>
 <!-- termo.legendre&#45;&gt;termo.estabilidade -->
-<g id="edge20" class="edge">
+<g id="edge4" class="edge">
 <title>termo.legendre&#45;&gt;termo.estabilidade</title>
 <path fill="none" stroke="#888888" d="M1493.94,-235C1508.62,-236.22 1523.3,-237.43 1537.37,-238.6"/>
 <polygon fill="#888888" stroke="#888888" points="1537.01,-240.68 1543.16,-239.08 1537.36,-236.49 1537.01,-240.68"/>
@@ -182,50 +182,50 @@
 <text xml:space="preserve" text-anchor="middle" x="1889.75" y="-243.3" font-family="Helvetica,sans-Serif" font-size="11.00">Transições de fase e fenômenos críticos</text>
 </g>
 <!-- termo.estabilidade&#45;&gt;termo.transicoes -->
-<g id="edge10" class="edge">
+<g id="edge16" class="edge">
 <title>termo.estabilidade&#45;&gt;termo.transicoes</title>
 <path fill="none" stroke="#888888" d="M1734.78,-247C1749.04,-247 1763.86,-247 1778.42,-247"/>
 <polygon fill="#888888" stroke="#888888" points="1778.03,-249.1 1784.03,-247 1778.03,-244.9 1778.03,-249.1"/>
 </g>
-<!-- fg1.conservacao -->
-<g id="node16" class="node">
-<title>fg1.conservacao</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="245.5,-88 0,-88 0,-52 251.5,-52 251.5,-82 245.5,-88"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="245.5,-88 245.5,-82"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="251.5,-82 245.5,-82"/>
-<text xml:space="preserve" text-anchor="middle" x="125.75" y="-66.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Geral I · Conservação de energia e momento linear</text>
-</g>
-<!-- fg1.conservacao&#45;&gt;fg2a.oscilacoes -->
-<g id="edge3" class="edge">
-<title>fg1.conservacao&#45;&gt;fg2a.oscilacoes</title>
-<path fill="none" stroke="#888888" d="M245.5,-88.39C247.6,-90.13 249.61,-92 251.5,-94 306.9,-152.69 227.93,-208.8 275.5,-274 286.48,-289.05 302.57,-300.21 319.36,-308.42"/>
-<polygon fill="#888888" stroke="#888888" points="318.37,-310.28 324.7,-310.9 320.14,-306.47 318.37,-310.28"/>
-</g>
-<!-- fg1.conservacao&#45;&gt;fg2b.termo -->
-<g id="edge1" class="edge">
-<title>fg1.conservacao&#45;&gt;fg2b.termo</title>
-<path fill="none" stroke="#888888" d="M251.98,-70C259.97,-70 267.99,-70 275.94,-70"/>
-<polygon fill="#888888" stroke="#888888" points="275.7,-72.1 281.7,-70 275.7,-67.9 275.7,-72.1"/>
-</g>
 <!-- fg1.dinamica -->
-<g id="node17" class="node">
+<g id="node16" class="node">
 <title>fg1.dinamica</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="190,-265 55.5,-265 55.5,-229 196,-229 196,-259 190,-265"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="190,-265 190,-259"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="196,-259 190,-259"/>
-<text xml:space="preserve" text-anchor="middle" x="125.75" y="-243.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Geral I · Leis de Newton</text>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="190,-218 55.5,-218 55.5,-182 196,-182 196,-212 190,-218"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="190,-218 190,-212"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="196,-212 190,-212"/>
+<text xml:space="preserve" text-anchor="middle" x="125.75" y="-196.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Geral I · Leis de Newton</text>
 </g>
 <!-- fg1.dinamica&#45;&gt;fg2a.oscilacoes -->
-<g id="edge2" class="edge">
+<g id="edge1" class="edge">
 <title>fg1.dinamica&#45;&gt;fg2a.oscilacoes</title>
-<path fill="none" stroke="#888888" d="M186.31,-265.52C228.07,-278.51 283.94,-295.89 327.15,-309.33"/>
-<polygon fill="#888888" stroke="#888888" points="326.45,-311.31 332.8,-311.08 327.7,-307.3 326.45,-311.31"/>
+<path fill="none" stroke="#888888" d="M163.33,-218.44C193.38,-233.53 237.1,-255.35 275.5,-274 299.18,-285.5 325.66,-298.08 347.53,-308.39"/>
+<polygon fill="#888888" stroke="#888888" points="346.47,-310.22 352.79,-310.87 348.26,-306.42 346.47,-310.22"/>
 </g>
 <!-- fg1.dinamica&#45;&gt;fg2b.fluidos -->
-<g id="edge16" class="edge">
+<g id="edge17" class="edge">
 <title>fg1.dinamica&#45;&gt;fg2b.fluidos</title>
-<path fill="none" stroke="#888888" d="M164.7,-228.51C213.32,-204.83 297.45,-163.85 349.05,-138.71"/>
-<polygon fill="#888888" stroke="#888888" points="349.97,-140.6 354.44,-136.09 348.13,-136.83 349.97,-140.6"/>
+<path fill="none" stroke="#888888" d="M146.71,-181.52C173.78,-157.53 224.6,-116.11 275.5,-94 277.95,-92.94 280.44,-91.92 282.98,-90.95"/>
+<polygon fill="#888888" stroke="#888888" points="283.43,-93.02 288.35,-88.99 281.99,-89.07 283.43,-93.02"/>
+</g>
+<!-- fg1.conservacao -->
+<g id="node17" class="node">
+<title>fg1.conservacao</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="245.5,-306 0,-306 0,-270 251.5,-270 251.5,-300 245.5,-306"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="245.5,-306 245.5,-300"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="251.5,-300 245.5,-300"/>
+<text xml:space="preserve" text-anchor="middle" x="125.75" y="-284.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Geral I · Conservação de energia e momento linear</text>
+</g>
+<!-- fg1.conservacao&#45;&gt;fg2a.oscilacoes -->
+<g id="edge2" class="edge">
+<title>fg1.conservacao&#45;&gt;fg2a.oscilacoes</title>
+<path fill="none" stroke="#888888" d="M244.58,-306.54C256.61,-308.44 268.81,-310.36 280.78,-312.24"/>
+<polygon fill="#888888" stroke="#888888" points="280.45,-314.31 286.7,-313.17 281.1,-310.17 280.45,-314.31"/>
+</g>
+<!-- fg1.conservacao&#45;&gt;fg2b.termo -->
+<g id="edge10" class="edge">
+<title>fg1.conservacao&#45;&gt;fg2b.termo</title>
+<path fill="none" stroke="#888888" d="M167.04,-269.51C191.95,-257.54 224.27,-241.06 251.5,-224 293.28,-197.82 338.23,-162.68 366.14,-139.94"/>
+<polygon fill="#888888" stroke="#888888" points="367.34,-141.67 370.66,-136.24 364.68,-138.42 367.34,-141.67"/>
 </g>
 <!-- c1.derivadas&#45;parciais -->
 <g id="node18" class="node">
@@ -242,27 +242,13 @@
 <polygon fill="#888888" stroke="#888888" points="581.76,-311.73 588.08,-311.1 582.75,-307.65 581.76,-311.73"/>
 </g>
 <!-- c1.derivadas&#45;parciais&#45;&gt;termo.postulados -->
-<g id="edge8" class="edge">
+<g id="edge7" class="edge">
 <title>c1.derivadas&#45;parciais&#45;&gt;termo.postulados</title>
 <path fill="none" stroke="#888888" d="M499.07,-239.98C523.09,-237.66 548.64,-235.19 572.6,-232.87"/>
 <polygon fill="#888888" stroke="#888888" points="572.7,-234.97 578.47,-232.3 572.3,-230.79 572.7,-234.97"/>
 </g>
-<!-- c2.integral -->
-<g id="node19" class="node">
-<title>c2.integral</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="222.62,-135 22.88,-135 22.88,-99 228.62,-99 228.62,-129 222.62,-135"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="222.62,-135 222.62,-129"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="228.62,-129 222.62,-129"/>
-<text xml:space="preserve" text-anchor="middle" x="125.75" y="-113.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo II · Integral de Riemann e antiderivada</text>
-</g>
-<!-- c2.integral&#45;&gt;fg2b.fluidos -->
-<g id="edge17" class="edge">
-<title>c2.integral&#45;&gt;fg2b.fluidos</title>
-<path fill="none" stroke="#888888" d="M229.17,-117C244.46,-117 260.34,-117 275.92,-117"/>
-<polygon fill="#888888" stroke="#888888" points="275.54,-119.1 281.54,-117 275.54,-114.9 275.54,-119.1"/>
-</g>
 <!-- c2.improprias -->
-<g id="node20" class="node">
+<g id="node19" class="node">
 <title>c2.improprias</title>
 <polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="460,-36 323.25,-36 323.25,0 466,0 466,-30 460,-36"/>
 <polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="460,-36 460,-30"/>
@@ -270,10 +256,24 @@
 <text xml:space="preserve" text-anchor="middle" x="394.62" y="-14.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo II · Integrais impróprias</text>
 </g>
 <!-- c2.improprias&#45;&gt;fg2b.cinetica -->
-<g id="edge19" class="edge">
+<g id="edge12" class="edge">
 <title>c2.improprias&#45;&gt;fg2b.cinetica</title>
-<path fill="none" stroke="#888888" d="M466.36,-31.19C497.17,-36.93 533.94,-43.79 567.95,-50.13"/>
-<polygon fill="#888888" stroke="#888888" points="567.39,-52.16 573.67,-51.2 568.16,-48.03 567.39,-52.16"/>
+<path fill="none" stroke="#888888" d="M466.32,-32.54C479.47,-35.49 493.06,-38.71 505.75,-42 540.59,-51.05 579.03,-62.54 610.41,-72.33"/>
+<polygon fill="#888888" stroke="#888888" points="609.61,-74.28 615.97,-74.07 610.87,-70.27 609.61,-74.28"/>
+</g>
+<!-- c2.integral -->
+<g id="node20" class="node">
+<title>c2.integral</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="222.62,-88 22.88,-88 22.88,-52 228.62,-52 228.62,-82 222.62,-88"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="222.62,-88 222.62,-82"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="228.62,-82 222.62,-82"/>
+<text xml:space="preserve" text-anchor="middle" x="125.75" y="-66.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo II · Integral de Riemann e antiderivada</text>
+</g>
+<!-- c2.integral&#45;&gt;fg2b.fluidos -->
+<g id="edge18" class="edge">
+<title>c2.integral&#45;&gt;fg2b.fluidos</title>
+<path fill="none" stroke="#888888" d="M229.17,-70C244.46,-70 260.34,-70 275.92,-70"/>
+<polygon fill="#888888" stroke="#888888" points="275.54,-72.1 281.54,-70 275.54,-67.9 275.54,-72.1"/>
 </g>
 </g>
 </svg>

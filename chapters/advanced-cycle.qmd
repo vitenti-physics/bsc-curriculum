@@ -34,7 +34,7 @@ retomando um eixo do núcleo comum. A distribuição pelos semestres é uma
 |---|---|---|---|---|
 | Mecânica | [Mecânica Geral](advanced-cycle-year3.qmd#sec-mecanica-geral) | [Mecânica Analítica I](advanced-cycle-year3.qmd#sec-mecanica-analitica-i) | [Mecânica Analítica II](advanced-cycle-year4.qmd#sec-mecanica-analitica-ii) | |
 | Eletromagnetismo e Relatividade | [Eletromagnetismo I](advanced-cycle-year3.qmd#sec-eletromagnetismo-i), [Relatividade Restrita](advanced-cycle-year3.qmd#sec-relatividade-restrita) | [Eletromagnetismo II](advanced-cycle-year3.qmd#sec-eletromagnetismo-ii) | | |
-| Física Moderna e Quântica | [Física Moderna](advanced-cycle-year3.qmd#sec-fisica-moderna) | [Lab. de Física Moderna](advanced-cycle-year3.qmd#sec-lab-fisica-moderna) | [Mecânica Quântica I](advanced-cycle-year4.qmd#sec-mecanica-quantica-i) | [Mecânica Quântica II](advanced-cycle-year4.qmd#sec-mecanica-quantica-ii) |
+| Física Moderna e Quântica | [Física Moderna](advanced-cycle-year3.qmd#sec-fisica-moderna), [Lab. de Física Moderna I](advanced-cycle-year3.qmd#sec-lab-fisica-moderna-i) | [Lab. de Física Moderna II](advanced-cycle-year3.qmd#sec-lab-fisica-moderna-ii) | [Mecânica Quântica I](advanced-cycle-year4.qmd#sec-mecanica-quantica-i) | [Mecânica Quântica II](advanced-cycle-year4.qmd#sec-mecanica-quantica-ii) |
 | Termodinâmica e Física Estatística | | [Termodinâmica](advanced-cycle-year3.qmd#sec-termodinamica) | Mecânica Estatística? | |
 
 : Sequências do ciclo avançado (proposta). Todas as disciplinas têm 60 h. {.striped}
@@ -59,8 +59,9 @@ fornece a linguagem tensorial em que o eletromagnetismo é manifestamente
 covariante; Eletromagnetismo II completa a eletrodinâmica, das ondas à radiação.
 
 **Física Moderna e Quântica.** Física Moderna apresenta os fatos experimentais
-que levaram à teoria quântica e a mecânica ondulatória em uma dimensão; o
-Laboratório de Física Moderna reproduz esses experimentos; Mecânica Quântica I e
+que levaram à teoria quântica e a mecânica ondulatória em uma dimensão; os
+Laboratórios de Física Moderna I e II, ao longo do 3º ano, reproduzem esses
+experimentos; Mecânica Quântica I e
 II constroem a estrutura geral da teoria e seus métodos de aproximação. Mecânica
 Quântica I depende também do formalismo hamiltoniano de Mecânica Analítica I.
 
@@ -113,9 +114,9 @@ Pendências a serem resolvidas pelo NDE:
 
 1. **Alocação em semestres** — a distribuição das disciplinas pelos 5º a 8º
    semestres é uma **proposta de trabalho**. Em particular, **Física Moderna**
-   foi colocada no 5º semestre para anteceder o Laboratório de Física Moderna
-   (6º) e Mecânica Quântica I (7º); Eletromagnetismo II, no 6º, logo após
-   Eletromagnetismo I.
+   foi colocada no 5º semestre, junto do Laboratório de Física Moderna I e antes
+   do Laboratório de Física Moderna II (6º) e de Mecânica Quântica I (7º);
+   Eletromagnetismo II, no 6º, logo após Eletromagnetismo I.
 2. **Revisão das ementas transcritas** — as ementas de Eletromagnetismo II,
    Mecânica Quântica I e Mecânica Quântica II vêm do currículo vigente e precisam
    ser revistas à luz das novas disciplinas:
@@ -132,8 +133,11 @@ Pendências a serem resolvidas pelo NDE:
      escopo deve ser avaliado.
 3. **Ementas e alocação das demais disciplinas** — ver
    [Disciplinas ainda não alocadas](#disciplinas-ainda-não-alocadas).
-4. **Laboratório de Física Moderna** — os **roteiros** precisam ser definidos, e é
-   preciso verificar quais experimentos o Departamento tem condições de montar.
+4. **Laboratórios de Física Moderna I e II** — os **roteiros** precisam ser
+   definidos, assim como a divisão dos experimentos entre as duas disciplinas (o
+   laboratório anual vigente, 2FIS098, cobre partículas e ondas, estado sólido e
+   física nuclear), e é preciso verificar quais experimentos o Departamento tem
+   condições de montar.
 5. **Aplicações da teoria clássica de campos** — o item de aplicações da
    introdução à teoria clássica de campos, em Mecânica Analítica II, está marcado
    como *a completar* nas notas do NDE.

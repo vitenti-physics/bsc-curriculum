@@ -34,50 +34,50 @@
 <!-- fmod.foton -->
 <g id="node2" class="node">
 <title>fmod.foton</title>
-<path fill="white" stroke="#6a3d9a" stroke-width="1.1" d="M913.75,-135C913.75,-135 615,-135 615,-135 609,-135 603,-129 603,-123 603,-123 603,-111 603,-111 603,-105 609,-99 615,-99 615,-99 913.75,-99 913.75,-99 919.75,-99 925.75,-105 925.75,-111 925.75,-111 925.75,-123 925.75,-123 925.75,-129 919.75,-135 913.75,-135"/>
-<text xml:space="preserve" text-anchor="middle" x="764.38" y="-113.3" font-family="Helvetica,sans-Serif" font-size="11.00">Propriedades corpusculares da radiação (fotoelétrico, Compton)</text>
+<path fill="white" stroke="#6a3d9a" stroke-width="1.1" d="M913.75,-182C913.75,-182 615,-182 615,-182 609,-182 603,-176 603,-170 603,-170 603,-158 603,-158 603,-152 609,-146 615,-146 615,-146 913.75,-146 913.75,-146 919.75,-146 925.75,-152 925.75,-158 925.75,-158 925.75,-170 925.75,-170 925.75,-176 919.75,-182 913.75,-182"/>
+<text xml:space="preserve" text-anchor="middle" x="764.38" y="-160.3" font-family="Helvetica,sans-Serif" font-size="11.00">Propriedades corpusculares da radiação (fotoelétrico, Compton)</text>
 </g>
 <!-- fmod.radiacao&#45;termica&#45;&gt;fmod.foton -->
-<g id="edge40" class="edge">
+<g id="edge8" class="edge">
 <title>fmod.radiacao&#45;termica&#45;&gt;fmod.foton</title>
-<path fill="none" stroke="#888888" d="M562.93,-131.73C573.5,-130.95 584.36,-130.15 595.29,-129.35"/>
-<polygon fill="#888888" stroke="#888888" points="595.15,-131.47 600.98,-128.93 594.84,-127.28 595.15,-131.47"/>
+<path fill="none" stroke="#888888" d="M562.93,-148.63C573.5,-149.44 584.36,-150.27 595.29,-151.11"/>
+<polygon fill="#888888" stroke="#888888" points="594.83,-153.18 600.98,-151.55 595.15,-149 594.83,-153.18"/>
 </g>
 <!-- fmod.atomo -->
 <g id="node3" class="node">
 <title>fmod.atomo</title>
-<path fill="white" stroke="#6a3d9a" stroke-width="1.1" d="M894.62,-182C894.62,-182 634.12,-182 634.12,-182 628.12,-182 622.12,-176 622.12,-170 622.12,-170 622.12,-158 622.12,-158 622.12,-152 628.12,-146 634.12,-146 634.12,-146 894.62,-146 894.62,-146 900.62,-146 906.62,-152 906.62,-158 906.62,-158 906.62,-170 906.62,-170 906.62,-176 900.62,-182 894.62,-182"/>
-<text xml:space="preserve" text-anchor="middle" x="764.38" y="-160.3" font-family="Helvetica,sans-Serif" font-size="11.00">Modelos atômicos (Rutherford, Bohr, Bohr&#45;Sommerfeld)</text>
+<path fill="white" stroke="#6a3d9a" stroke-width="1.1" d="M894.62,-135C894.62,-135 634.12,-135 634.12,-135 628.12,-135 622.12,-129 622.12,-123 622.12,-123 622.12,-111 622.12,-111 622.12,-105 628.12,-99 634.12,-99 634.12,-99 894.62,-99 894.62,-99 900.62,-99 906.62,-105 906.62,-111 906.62,-111 906.62,-123 906.62,-123 906.62,-129 900.62,-135 894.62,-135"/>
+<text xml:space="preserve" text-anchor="middle" x="764.38" y="-113.3" font-family="Helvetica,sans-Serif" font-size="11.00">Modelos atômicos (Rutherford, Bohr, Bohr&#45;Sommerfeld)</text>
 </g>
 <!-- fmod.radiacao&#45;termica&#45;&gt;fmod.atomo -->
-<g id="edge38" class="edge">
+<g id="edge31" class="edge">
 <title>fmod.radiacao&#45;termica&#45;&gt;fmod.atomo</title>
-<path fill="none" stroke="#888888" d="M562.93,-148.63C579.65,-149.91 597.09,-151.25 614.41,-152.58"/>
-<polygon fill="#888888" stroke="#888888" points="614.17,-154.67 620.32,-153.03 614.49,-150.48 614.17,-154.67"/>
+<path fill="none" stroke="#888888" d="M562.93,-131.73C579.65,-130.5 597.09,-129.22 614.41,-127.95"/>
+<polygon fill="#888888" stroke="#888888" points="614.49,-130.05 620.32,-127.51 614.18,-125.86 614.49,-130.05"/>
 </g>
 <!-- fmod.onda&#45;particula -->
 <g id="node4" class="node">
 <title>fmod.onda&#45;particula</title>
-<path fill="white" stroke="#6a3d9a" stroke-width="1.1" d="M1196.5,-135C1196.5,-135 969.75,-135 969.75,-135 963.75,-135 957.75,-129 957.75,-123 957.75,-123 957.75,-111 957.75,-111 957.75,-105 963.75,-99 969.75,-99 969.75,-99 1196.5,-99 1196.5,-99 1202.5,-99 1208.5,-105 1208.5,-111 1208.5,-111 1208.5,-123 1208.5,-123 1208.5,-129 1202.5,-135 1196.5,-135"/>
-<text xml:space="preserve" text-anchor="middle" x="1083.12" y="-113.3" font-family="Helvetica,sans-Serif" font-size="11.00">Dualidade onda&#45;partícula e princípio da incerteza</text>
+<path fill="white" stroke="#6a3d9a" stroke-width="1.1" d="M1196.5,-182C1196.5,-182 969.75,-182 969.75,-182 963.75,-182 957.75,-176 957.75,-170 957.75,-170 957.75,-158 957.75,-158 957.75,-152 963.75,-146 969.75,-146 969.75,-146 1196.5,-146 1196.5,-146 1202.5,-146 1208.5,-152 1208.5,-158 1208.5,-158 1208.5,-170 1208.5,-170 1208.5,-176 1202.5,-182 1196.5,-182"/>
+<text xml:space="preserve" text-anchor="middle" x="1083.12" y="-160.3" font-family="Helvetica,sans-Serif" font-size="11.00">Dualidade onda&#45;partícula e princípio da incerteza</text>
 </g>
 <!-- fmod.foton&#45;&gt;fmod.onda&#45;particula -->
-<g id="edge9" class="edge">
+<g id="edge33" class="edge">
 <title>fmod.foton&#45;&gt;fmod.onda&#45;particula</title>
-<path fill="none" stroke="#888888" d="M926.07,-117C934.16,-117 942.24,-117 950.23,-117"/>
-<polygon fill="#888888" stroke="#888888" points="950.03,-119.1 956.03,-117 950.03,-114.9 950.03,-119.1"/>
+<path fill="none" stroke="#888888" d="M926.07,-164C934.16,-164 942.24,-164 950.23,-164"/>
+<polygon fill="#888888" stroke="#888888" points="950.03,-166.1 956.03,-164 950.03,-161.9 950.03,-166.1"/>
 </g>
 <!-- fmod.schrodinger&#45;1d -->
 <g id="node5" class="node">
 <title>fmod.schrodinger&#45;1d</title>
-<path fill="white" stroke="#6a3d9a" stroke-width="1.1" d="M1501,-135C1501,-135 1298.25,-135 1298.25,-135 1292.25,-135 1286.25,-129 1286.25,-123 1286.25,-123 1286.25,-111 1286.25,-111 1286.25,-105 1292.25,-99 1298.25,-99 1298.25,-99 1501,-99 1501,-99 1507,-99 1513,-105 1513,-111 1513,-111 1513,-123 1513,-123 1513,-129 1507,-135 1501,-135"/>
-<text xml:space="preserve" text-anchor="middle" x="1399.62" y="-113.3" font-family="Helvetica,sans-Serif" font-size="11.00">Equação de Schrödinger em uma dimensão</text>
+<path fill="white" stroke="#6a3d9a" stroke-width="1.1" d="M1501,-182C1501,-182 1298.25,-182 1298.25,-182 1292.25,-182 1286.25,-176 1286.25,-170 1286.25,-170 1286.25,-158 1286.25,-158 1286.25,-152 1292.25,-146 1298.25,-146 1298.25,-146 1501,-146 1501,-146 1507,-146 1513,-152 1513,-158 1513,-158 1513,-170 1513,-170 1513,-176 1507,-182 1501,-182"/>
+<text xml:space="preserve" text-anchor="middle" x="1399.62" y="-160.3" font-family="Helvetica,sans-Serif" font-size="11.00">Equação de Schrödinger em uma dimensão</text>
 </g>
 <!-- fmod.onda&#45;particula&#45;&gt;fmod.schrodinger&#45;1d -->
-<g id="edge22" class="edge">
+<g id="edge37" class="edge">
 <title>fmod.onda&#45;particula&#45;&gt;fmod.schrodinger&#45;1d</title>
-<path fill="none" stroke="#888888" d="M1208.88,-117C1231.78,-117 1255.64,-117 1278.41,-117"/>
-<polygon fill="#888888" stroke="#888888" points="1278.25,-119.1 1284.25,-117 1278.25,-114.9 1278.25,-119.1"/>
+<path fill="none" stroke="#888888" d="M1208.88,-164C1231.78,-164 1255.64,-164 1278.41,-164"/>
+<polygon fill="#888888" stroke="#888888" points="1278.25,-166.1 1284.25,-164 1278.25,-161.9 1278.25,-166.1"/>
 </g>
 <!-- mq1.principios -->
 <g id="node7" class="node">
@@ -86,10 +86,10 @@
 <text xml:space="preserve" text-anchor="middle" x="1399.62" y="-404.3" font-family="Helvetica,sans-Serif" font-size="11.00">Complementaridade, incerteza e correspondência</text>
 </g>
 <!-- fmod.onda&#45;particula&#45;&gt;mq1.principios -->
-<g id="edge17" class="edge">
+<g id="edge10" class="edge">
 <title>fmod.onda&#45;particula&#45;&gt;mq1.principios</title>
-<path fill="none" stroke="#888888" d="M1091.01,-135.39C1108.71,-180.14 1160.1,-295.54 1240.5,-357 1257.59,-370.06 1278.14,-379.84 1298.68,-387.14"/>
-<polygon fill="#888888" stroke="#888888" points="1297.86,-389.08 1304.21,-389.04 1299.22,-385.11 1297.86,-389.08"/>
+<path fill="none" stroke="#888888" d="M1094.05,-182.37C1115.6,-220.57 1170.43,-308.97 1240.5,-357 1259.39,-369.95 1281.78,-379.77 1303.67,-387.16"/>
+<polygon fill="#888888" stroke="#888888" points="1302.96,-389.14 1309.32,-389.01 1304.27,-385.15 1302.96,-389.14"/>
 </g>
 <!-- fmod.estados -->
 <g id="node6" class="node">
@@ -98,10 +98,10 @@
 <text xml:space="preserve" text-anchor="middle" x="1782.5" y="-160.3" font-family="Helvetica,sans-Serif" font-size="11.00">Estados ligados, tunelamento e valores esperados</text>
 </g>
 <!-- fmod.schrodinger&#45;1d&#45;&gt;fmod.estados -->
-<g id="edge18" class="edge">
+<g id="edge15" class="edge">
 <title>fmod.schrodinger&#45;1d&#45;&gt;fmod.estados</title>
-<path fill="none" stroke="#888888" d="M1513.35,-130.91C1555.12,-136.06 1602.9,-141.96 1646.46,-147.34"/>
-<polygon fill="#888888" stroke="#888888" points="1645.97,-149.39 1652.19,-148.04 1646.49,-145.22 1645.97,-149.39"/>
+<path fill="none" stroke="#888888" d="M1513.35,-164C1555.03,-164 1602.71,-164 1646.19,-164"/>
+<polygon fill="#888888" stroke="#888888" points="1646.17,-166.1 1652.17,-164 1646.17,-161.9 1646.17,-166.1"/>
 </g>
 <!-- mq1.sistemas&#45;1d -->
 <g id="node8" class="node">
@@ -110,7 +110,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2192.75" y="-381.3" font-family="Helvetica,sans-Serif" font-size="11.00">Sistemas unidimensionais e oscilador harmônico</text>
 </g>
 <!-- fmod.estados&#45;&gt;mq1.sistemas&#45;1d -->
-<g id="edge11" class="edge">
+<g id="edge6" class="edge">
 <title>fmod.estados&#45;&gt;mq1.sistemas&#45;1d</title>
 <path fill="none" stroke="#888888" d="M1880.33,-182.54C1911.29,-190.51 1945.08,-201.43 1974.25,-216 2052.74,-255.21 2130.44,-325.03 2168.17,-361.44"/>
 <polygon fill="#888888" stroke="#888888" points="2166.59,-362.83 2172.36,-365.5 2169.52,-359.82 2166.59,-362.83"/>
@@ -122,7 +122,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1782.5" y="-428.3" font-family="Helvetica,sans-Serif" font-size="11.00">Estrutura geral — espaços vetoriais, operadores, notação de Dirac</text>
 </g>
 <!-- mq1.principios&#45;&gt;mq1.estrutura -->
-<g id="edge13" class="edge">
+<g id="edge17" class="edge">
 <title>mq1.principios&#45;&gt;mq1.estrutura</title>
 <path fill="none" stroke="#888888" d="M1527.19,-415.97C1552.82,-417.59 1580.2,-419.32 1607.15,-421.01"/>
 <polygon fill="#888888" stroke="#888888" points="1606.73,-423.09 1612.85,-421.37 1606.99,-418.9 1606.73,-423.09"/>
@@ -134,7 +134,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2531" y="-441.3" font-family="Helvetica,sans-Serif" font-size="11.00">Sistemas de N partículas</text>
 </g>
 <!-- mq1.estrutura&#45;&gt;mq1.n&#45;particulas -->
-<g id="edge6" class="edge">
+<g id="edge1" class="edge">
 <title>mq1.estrutura&#45;&gt;mq1.n&#45;particulas</title>
 <path fill="none" stroke="#888888" d="M1935.2,-450.55C1958.95,-452.81 1983.24,-454.76 2006.25,-456 2171.79,-464.89 2213.58,-462.04 2379.25,-456 2403.97,-455.1 2430.92,-453.37 2455.11,-451.55"/>
 <polygon fill="#888888" stroke="#888888" points="2455.19,-453.65 2461.01,-451.09 2454.87,-449.46 2455.19,-453.65"/>
@@ -146,7 +146,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2192.75" y="-428.3" font-family="Helvetica,sans-Serif" font-size="11.00">Potenciais centrais e átomo de hidrogênio</text>
 </g>
 <!-- mq1.estrutura&#45;&gt;mq1.hidrogenio -->
-<g id="edge3" class="edge">
+<g id="edge39" class="edge">
 <title>mq1.estrutura&#45;&gt;mq1.hidrogenio</title>
 <path fill="none" stroke="#888888" d="M1950.73,-432C1993.12,-432 2037.71,-432 2076.85,-432"/>
 <polygon fill="#888888" stroke="#888888" points="2076.58,-434.1 2082.58,-432 2076.58,-429.9 2076.58,-434.1"/>
@@ -158,7 +158,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2192.75" y="-803.3" font-family="Helvetica,sans-Serif" font-size="11.00">Métodos de aproximação para estados ligados</text>
 </g>
 <!-- mq1.estrutura&#45;&gt;mq2.aproximacoes -->
-<g id="edge7" class="edge">
+<g id="edge11" class="edge">
 <title>mq1.estrutura&#45;&gt;mq2.aproximacoes</title>
 <path fill="none" stroke="#888888" d="M1796.9,-450.35C1829.48,-494.21 1916.79,-607.28 2006.25,-685 2052.51,-725.19 2112.86,-762.52 2151.96,-785.04"/>
 <polygon fill="#888888" stroke="#888888" points="2150.48,-786.61 2156.73,-787.77 2152.57,-782.97 2150.48,-786.61"/>
@@ -170,7 +170,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2839.62" y="-756.3" font-family="Helvetica,sans-Serif" font-size="11.00">Partículas idênticas</text>
 </g>
 <!-- mq1.n&#45;particulas&#45;&gt;mq2.identicas -->
-<g id="edge34" class="edge">
+<g id="edge2" class="edge">
 <title>mq1.n&#45;particulas&#45;&gt;mq2.identicas</title>
 <path fill="none" stroke="#888888" d="M2540.97,-463.5C2571.51,-526.32 2670.22,-728.05 2682.75,-737 2709.85,-756.36 2746.42,-762.51 2777.33,-763.63"/>
 <polygon fill="#888888" stroke="#888888" points="2777.09,-765.73 2783.14,-763.77 2777.19,-761.53 2777.09,-765.73"/>
@@ -182,7 +182,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2531" y="-709.3" font-family="Helvetica,sans-Serif" font-size="11.00">Momento angular e spin</text>
 </g>
 <!-- mq1.hidrogenio&#45;&gt;mq2.momento&#45;angular -->
-<g id="edge36" class="edge">
+<g id="edge29" class="edge">
 <title>mq1.hidrogenio&#45;&gt;mq2.momento&#45;angular</title>
 <path fill="none" stroke="#888888" d="M2280.97,-450.41C2314.03,-460.37 2350.57,-475.23 2379.25,-497 2448.4,-549.49 2497.89,-642.91 2518.86,-687.7"/>
 <polygon fill="#888888" stroke="#888888" points="2516.92,-688.51 2521.34,-693.08 2520.73,-686.75 2516.92,-688.51"/>
@@ -194,7 +194,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2531" y="-756.3" font-family="Helvetica,sans-Serif" font-size="11.00">Teoria das colisões e métodos de aproximação</text>
 </g>
 <!-- mq1.hidrogenio&#45;&gt;mq2.colisoes -->
-<g id="edge29" class="edge">
+<g id="edge21" class="edge">
 <title>mq1.hidrogenio&#45;&gt;mq2.colisoes</title>
 <path fill="none" stroke="#888888" d="M2301.17,-448.18C2330.54,-457.74 2359.65,-472.92 2379.25,-497 2445.72,-578.67 2342.06,-655.34 2411.42,-736.4"/>
 <polygon fill="#888888" stroke="#888888" points="2409.65,-737.57 2415.23,-740.62 2412.77,-734.76 2409.65,-737.57"/>
@@ -206,13 +206,13 @@
 <text xml:space="preserve" text-anchor="middle" x="2839.62" y="-709.3" font-family="Helvetica,sans-Serif" font-size="11.00">Simetrias e leis de conservação</text>
 </g>
 <!-- mq2.momento&#45;angular&#45;&gt;mq2.simetrias -->
-<g id="edge27" class="edge">
+<g id="edge24" class="edge">
 <title>mq2.momento&#45;angular&#45;&gt;mq2.simetrias</title>
 <path fill="none" stroke="#888888" d="M2597.03,-713C2641,-713 2699.68,-713 2748.2,-713"/>
 <polygon fill="#888888" stroke="#888888" points="2748.07,-715.1 2754.07,-713 2748.07,-710.9 2748.07,-715.1"/>
 </g>
 <!-- mq2.momento&#45;angular&#45;&gt;mq2.identicas -->
-<g id="edge35" class="edge">
+<g id="edge3" class="edge">
 <title>mq2.momento&#45;angular&#45;&gt;mq2.identicas</title>
 <path fill="none" stroke="#888888" d="M2597.27,-723.56C2623.79,-727.8 2654.72,-732.7 2682.75,-737 2714.03,-741.8 2748.88,-746.96 2777.67,-751.17"/>
 <polygon fill="#888888" stroke="#888888" points="2777.12,-753.21 2783.36,-752 2777.73,-749.06 2777.12,-753.21"/>
@@ -224,7 +224,7 @@
 <text xml:space="preserve" text-anchor="middle" x="3200.75" y="-709.3" font-family="Helvetica,sans-Serif" font-size="11.00">Equações relativísticas, segunda quantização e integrais de caminho</text>
 </g>
 <!-- mq2.simetrias&#45;&gt;mq2.alem -->
-<g id="edge24" class="edge">
+<g id="edge26" class="edge">
 <title>mq2.simetrias&#45;&gt;mq2.alem</title>
 <path fill="none" stroke="#888888" d="M2923.92,-713C2953.03,-713 2986.94,-713 3020.82,-713"/>
 <polygon fill="#888888" stroke="#888888" points="3020.53,-715.1 3026.53,-713 3020.53,-710.9 3020.53,-715.1"/>
@@ -236,7 +236,7 @@
 <text xml:space="preserve" text-anchor="middle" x="3200.75" y="-786.3" font-family="Helvetica,sans-Serif" font-size="11.00">Estruturas atômicas, moleculares e nucleares</text>
 </g>
 <!-- mq2.identicas&#45;&gt;mq2.estruturas -->
-<g id="edge1" class="edge">
+<g id="edge35" class="edge">
 <title>mq2.identicas&#45;&gt;mq2.estruturas</title>
 <path fill="none" stroke="#888888" d="M2894.39,-764.49C2942.34,-768.5 3014.34,-774.51 3076.39,-779.69"/>
 <polygon fill="#888888" stroke="#888888" points="3075.85,-781.76 3082.01,-780.16 3076.2,-777.57 3075.85,-781.76"/>
@@ -248,145 +248,19 @@
 <text xml:space="preserve" text-anchor="middle" x="2531" y="-803.3" font-family="Helvetica,sans-Serif" font-size="11.00">Radiação atômica (tratamento semiclássico)</text>
 </g>
 <!-- mq2.aproximacoes&#45;&gt;mq2.radiacao -->
-<g id="edge20" class="edge">
+<g id="edge4" class="edge">
 <title>mq2.aproximacoes&#45;&gt;mq2.radiacao</title>
 <path fill="none" stroke="#888888" d="M2312.3,-807C2343.85,-807 2377.96,-807 2409.61,-807"/>
 <polygon fill="#888888" stroke="#888888" points="2409.24,-809.1 2415.24,-807 2409.24,-804.9 2409.24,-809.1"/>
 </g>
 <!-- mq2.aproximacoes&#45;&gt;mq2.estruturas -->
-<g id="edge2" class="edge">
+<g id="edge36" class="edge">
 <title>mq2.aproximacoes&#45;&gt;mq2.estruturas</title>
 <path fill="none" stroke="#888888" d="M2312.65,-822.51C2344.61,-826.02 2379.2,-829.24 2411.25,-831 2646.36,-843.93 2920.96,-821.05 3076.2,-804.59"/>
 <polygon fill="#888888" stroke="#888888" points="3076.26,-806.7 3082,-803.98 3075.81,-802.52 3076.26,-806.7"/>
 </g>
-<!-- em1.contorno -->
-<g id="node20" class="node">
-<title>em1.contorno</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1968.25,-351 1590.75,-351 1590.75,-315 1974.25,-315 1974.25,-345 1968.25,-351"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1968.25,-351 1968.25,-345"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1974.25,-345 1968.25,-345"/>
-<text xml:space="preserve" text-anchor="middle" x="1782.5" y="-329.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Eletromagnetismo I · Problemas de contorno; imagens, separação de variáveis, multipolos</text>
-</g>
-<!-- em1.contorno&#45;&gt;mq1.hidrogenio -->
-<g id="edge4" class="edge">
-<title>em1.contorno&#45;&gt;mq1.hidrogenio</title>
-<path fill="none" stroke="#888888" d="M1964.74,-351.41C1967.99,-353.15 1971.16,-355.01 1974.25,-357 1997.06,-371.69 1983.42,-394.33 2006.25,-409 2027.12,-422.41 2052.07,-429.87 2076.8,-433.72"/>
-<polygon fill="#888888" stroke="#888888" points="2076.38,-435.79 2082.62,-434.55 2076.97,-431.63 2076.38,-435.79"/>
-</g>
-<!-- mg.dois&#45;corpos -->
-<g id="node21" class="node">
-<title>mg.dois&#45;corpos</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1871.5,-304 1687.5,-304 1687.5,-268 1877.5,-268 1877.5,-298 1871.5,-304"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1871.5,-304 1871.5,-298"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1877.5,-298 1871.5,-298"/>
-<text xml:space="preserve" text-anchor="middle" x="1782.5" y="-282.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Mecânica Geral · Problema de dois corpos</text>
-</g>
-<!-- mg.dois&#45;corpos&#45;&gt;mq1.hidrogenio -->
-<g id="edge5" class="edge">
-<title>mg.dois&#45;corpos&#45;&gt;mq1.hidrogenio</title>
-<path fill="none" stroke="#888888" d="M1877.6,-277.95C1911.37,-279.83 1947.64,-287.97 1974.25,-310 2009.86,-339.49 1970.61,-379.54 2006.25,-409 2026.14,-425.44 2051.57,-433.89 2077.19,-437.72"/>
-<polygon fill="#888888" stroke="#888888" points="2076.69,-439.77 2082.91,-438.48 2077.24,-435.61 2076.69,-439.77"/>
-</g>
-<!-- c1.taylor -->
-<g id="node22" class="node">
-<title>c1.taylor</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1853.12,-825 1705.88,-825 1705.88,-789 1859.12,-789 1859.12,-819 1853.12,-825"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1853.12,-825 1853.12,-819"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1859.12,-819 1853.12,-819"/>
-<text xml:space="preserve" text-anchor="middle" x="1782.5" y="-803.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo I · Aproximação de Taylor</text>
-</g>
-<!-- c1.taylor&#45;&gt;mq2.aproximacoes -->
-<g id="edge8" class="edge">
-<title>c1.taylor&#45;&gt;mq2.aproximacoes</title>
-<path fill="none" stroke="#888888" d="M1859.33,-807C1917.18,-807 1998.14,-807 2065.68,-807"/>
-<polygon fill="#888888" stroke="#888888" points="2065.49,-809.1 2071.49,-807 2065.49,-804.9 2065.49,-809.1"/>
-</g>
-<!-- fm1.fourier -->
-<g id="node23" class="node">
-<title>fm1.fourier</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="899.88,-83 622.88,-83 622.88,-47 905.88,-47 905.88,-77 899.88,-83"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="899.88,-83 899.88,-77"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="905.88,-77 899.88,-77"/>
-<text xml:space="preserve" text-anchor="middle" x="764.38" y="-61.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Matemática I · Séries e transformadas de Fourier e Laplace</text>
-</g>
-<!-- fm1.fourier&#45;&gt;fmod.onda&#45;particula -->
-<g id="edge10" class="edge">
-<title>fm1.fourier&#45;&gt;fmod.onda&#45;particula</title>
-<path fill="none" stroke="#888888" d="M891.49,-83.53C903.08,-85.33 914.64,-87.17 925.75,-89 941.33,-91.56 957.75,-94.37 973.87,-97.2"/>
-<polygon fill="#888888" stroke="#888888" points="973.49,-99.27 979.76,-98.24 974.22,-95.13 973.49,-99.27"/>
-</g>
-<!-- c4.frobenius -->
-<g id="node24" class="node">
-<title>c4.frobenius</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1887.25,-257 1671.75,-257 1671.75,-221 1893.25,-221 1893.25,-251 1887.25,-257"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1887.25,-257 1887.25,-251"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1893.25,-251 1887.25,-251"/>
-<text xml:space="preserve" text-anchor="middle" x="1782.5" y="-235.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo IV · Soluções em série; Frobenius e Fuchs</text>
-</g>
-<!-- c4.frobenius&#45;&gt;mq1.sistemas&#45;1d -->
-<g id="edge12" class="edge">
-<title>c4.frobenius&#45;&gt;mq1.sistemas&#45;1d</title>
-<path fill="none" stroke="#888888" d="M1893.8,-245.56C1920.57,-249.14 1948.81,-254.62 1974.25,-263 2045.44,-286.45 2119.81,-333.97 2160.5,-362.29"/>
-<polygon fill="#888888" stroke="#888888" points="2159.14,-363.9 2165.26,-365.62 2161.55,-360.46 2159.14,-363.9"/>
-</g>
-<!-- ml.autovalores -->
-<g id="node25" class="node">
-<title>ml.autovalores</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1552.75,-538 1240.5,-538 1240.5,-502 1558.75,-502 1558.75,-532 1552.75,-538"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1552.75,-538 1552.75,-532"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1558.75,-532 1552.75,-532"/>
-<text xml:space="preserve" text-anchor="middle" x="1399.62" y="-516.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Métodos Lineares para Física · Autovalores, autovetores e diagonalização</text>
-</g>
-<!-- ml.autovalores&#45;&gt;mq1.estrutura -->
-<g id="edge14" class="edge">
-<title>ml.autovalores&#45;&gt;mq1.estrutura</title>
-<path fill="none" stroke="#888888" d="M1531.59,-501.47C1540.81,-499.75 1549.93,-497.93 1558.75,-496 1613.04,-484.13 1673.58,-466.44 1717.83,-452.67"/>
-<polygon fill="#888888" stroke="#888888" points="1718.25,-454.74 1723.35,-450.94 1716.99,-450.73 1718.25,-454.74"/>
-</g>
-<!-- fm1.sturm&#45;liouville -->
-<g id="node26" class="node">
-<title>fm1.sturm&#45;liouville</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1542.62,-351 1250.62,-351 1250.62,-315 1548.62,-315 1548.62,-345 1542.62,-351"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1542.62,-351 1542.62,-345"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1548.62,-345 1542.62,-345"/>
-<text xml:space="preserve" text-anchor="middle" x="1399.62" y="-329.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Matemática I · Problema de Sturm&#45;Liouville e séries ortogonais</text>
-</g>
-<!-- fm1.sturm&#45;liouville&#45;&gt;mq1.estrutura -->
-<g id="edge15" class="edge">
-<title>fm1.sturm&#45;liouville&#45;&gt;mq1.estrutura</title>
-<path fill="none" stroke="#888888" d="M1533.82,-351.5C1542.28,-353.21 1550.65,-355.04 1558.75,-357 1617.47,-371.23 1682.79,-394.09 1727.43,-410.84"/>
-<polygon fill="#888888" stroke="#888888" points="1726.64,-412.78 1732.99,-412.94 1728.12,-408.85 1726.64,-412.78"/>
-</g>
-<!-- ma1.hamilton -->
-<g id="node27" class="node">
-<title>ma1.hamilton</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1549.75,-304 1243.5,-304 1243.5,-268 1555.75,-268 1555.75,-298 1549.75,-304"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1549.75,-304 1549.75,-298"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1555.75,-298 1549.75,-298"/>
-<text xml:space="preserve" text-anchor="middle" x="1399.62" y="-282.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Mecânica Analítica I · Formalismo hamiltoniano e parênteses de Poisson</text>
-</g>
-<!-- ma1.hamilton&#45;&gt;mq1.estrutura -->
-<g id="edge16" class="edge">
-<title>ma1.hamilton&#45;&gt;mq1.estrutura</title>
-<path fill="none" stroke="#888888" d="M1548.94,-304.43C1552.3,-306.15 1555.58,-308 1558.75,-310 1580.14,-323.46 1571,-341.23 1590.75,-357 1622.03,-381.98 1662.66,-399.49 1698.37,-411.27"/>
-<polygon fill="#888888" stroke="#888888" points="1697.65,-413.24 1704.01,-413.08 1698.94,-409.24 1697.65,-413.24"/>
-</g>
-<!-- c2.improprias -->
-<g id="node28" class="node">
-<title>c2.improprias</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1465,-257 1328.25,-257 1328.25,-221 1471,-221 1471,-251 1465,-257"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1465,-257 1465,-251"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1471,-251 1465,-251"/>
-<text xml:space="preserve" text-anchor="middle" x="1399.62" y="-235.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo II · Integrais impróprias</text>
-</g>
-<!-- c2.improprias&#45;&gt;fmod.estados -->
-<g id="edge19" class="edge">
-<title>c2.improprias&#45;&gt;fmod.estados</title>
-<path fill="none" stroke="#888888" d="M1471.27,-229.43C1498.66,-225.41 1530.24,-220.42 1558.75,-215 1605.73,-206.07 1657.84,-194.24 1699.85,-184.23"/>
-<polygon fill="#888888" stroke="#888888" points="1700.21,-186.3 1705.56,-182.86 1699.24,-182.22 1700.21,-186.3"/>
-</g>
 <!-- em2.radiacao -->
-<g id="node29" class="node">
+<g id="node20" class="node">
 <title>em2.radiacao</title>
 <polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2306.5,-679 2073,-679 2073,-643 2312.5,-643 2312.5,-673 2306.5,-679"/>
 <polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2306.5,-679 2306.5,-673"/>
@@ -394,97 +268,55 @@
 <text xml:space="preserve" text-anchor="middle" x="2192.75" y="-657.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Eletromagnetismo II · Potenciais retardados e radiação</text>
 </g>
 <!-- em2.radiacao&#45;&gt;mq2.radiacao -->
-<g id="edge21" class="edge">
+<g id="edge5" class="edge">
 <title>em2.radiacao&#45;&gt;mq2.radiacao</title>
 <path fill="none" stroke="#888888" d="M2312.72,-656.68C2336.84,-660.93 2360.52,-669.43 2379.25,-685 2413.15,-713.17 2380.05,-749.73 2411.73,-783.55"/>
 <polygon fill="#888888" stroke="#888888" points="2410.03,-784.82 2415.8,-787.47 2412.94,-781.79 2410.03,-784.82"/>
 </g>
-<!-- c4.edo2 -->
-<g id="node30" class="node">
-<title>c4.edo2</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1179.25,-83 981,-83 981,-47 1185.25,-47 1185.25,-77 1179.25,-83"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1179.25,-83 1179.25,-77"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1185.25,-77 1179.25,-77"/>
-<text xml:space="preserve" text-anchor="middle" x="1083.12" y="-61.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo IV · EDOs lineares de segunda ordem</text>
+<!-- c4.frobenius -->
+<g id="node21" class="node">
+<title>c4.frobenius</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1887.25,-257 1671.75,-257 1671.75,-221 1893.25,-221 1893.25,-251 1887.25,-257"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1887.25,-257 1887.25,-251"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1893.25,-251 1887.25,-251"/>
+<text xml:space="preserve" text-anchor="middle" x="1782.5" y="-235.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo IV · Soluções em série; Frobenius e Fuchs</text>
 </g>
-<!-- c4.edo2&#45;&gt;fmod.schrodinger&#45;1d -->
-<g id="edge23" class="edge">
-<title>c4.edo2&#45;&gt;fmod.schrodinger&#45;1d</title>
-<path fill="none" stroke="#888888" d="M1185.8,-81.81C1215.62,-86.74 1248.51,-92.18 1279.32,-97.27"/>
-<polygon fill="#888888" stroke="#888888" points="1278.94,-99.34 1285.2,-98.25 1279.62,-95.2 1278.94,-99.34"/>
+<!-- c4.frobenius&#45;&gt;mq1.sistemas&#45;1d -->
+<g id="edge7" class="edge">
+<title>c4.frobenius&#45;&gt;mq1.sistemas&#45;1d</title>
+<path fill="none" stroke="#888888" d="M1893.8,-245.56C1920.57,-249.14 1948.81,-254.62 1974.25,-263 2045.44,-286.45 2119.81,-333.97 2160.5,-362.29"/>
+<polygon fill="#888888" stroke="#888888" points="2159.14,-363.9 2165.26,-365.62 2161.55,-360.46 2159.14,-363.9"/>
 </g>
-<!-- rr.tensores -->
-<g id="node31" class="node">
-<title>rr.tensores</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2942.5,-913 2730.75,-913 2730.75,-877 2948.5,-877 2948.5,-907 2942.5,-913"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2942.5,-913 2942.5,-907"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2948.5,-907 2942.5,-907"/>
-<text xml:space="preserve" text-anchor="middle" x="2839.62" y="-891.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Relatividade Restrita · Álgebra e cálculo tensorial</text>
+<!-- rr.dinamica -->
+<g id="node22" class="node">
+<title>rr.dinamica</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="563.12,-83 329.62,-83 329.62,-47 569.12,-47 569.12,-77 563.12,-83"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="563.12,-83 563.12,-77"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="569.12,-77 563.12,-77"/>
+<text xml:space="preserve" text-anchor="middle" x="449.38" y="-61.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Relatividade Restrita · Dinâmica relativística e colisões</text>
 </g>
-<!-- rr.tensores&#45;&gt;mq2.alem -->
-<g id="edge25" class="edge">
-<title>rr.tensores&#45;&gt;mq2.alem</title>
-<path fill="none" stroke="#888888" d="M2948.97,-894.29C2966.36,-889.91 2983.03,-882.64 2996.5,-871 3033.09,-839.38 2994.42,-801.32 3028.5,-767 3042.94,-752.46 3061.26,-741.82 3080.52,-734.05"/>
-<polygon fill="#888888" stroke="#888888" points="3081.1,-736.07 3085.95,-731.96 3079.59,-732.15 3081.1,-736.07"/>
+<!-- rr.dinamica&#45;&gt;fmod.foton -->
+<g id="edge9" class="edge">
+<title>rr.dinamica&#45;&gt;fmod.foton</title>
+<path fill="none" stroke="#888888" d="M561.97,-83.43C565.09,-85.14 568.11,-86.99 571,-89 593.28,-104.5 580.31,-126.11 603,-141 603.46,-141.3 603.93,-141.6 604.4,-141.9"/>
+<polygon fill="#888888" stroke="#888888" points="603.07,-143.55 609.3,-144.81 605.21,-139.94 603.07,-143.55"/>
 </g>
-<!-- ma2.campos -->
-<g id="node32" class="node">
-<title>ma2.campos</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2990.5,-679 2682.75,-679 2682.75,-643 2996.5,-643 2996.5,-673 2990.5,-679"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2990.5,-679 2990.5,-673"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2996.5,-673 2990.5,-673"/>
-<text xml:space="preserve" text-anchor="middle" x="2839.62" y="-657.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Mecânica Analítica II · Teoria clássica de campos e Noether para campos</text>
+<!-- c1.taylor -->
+<g id="node23" class="node">
+<title>c1.taylor</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1853.12,-825 1705.88,-825 1705.88,-789 1859.12,-789 1859.12,-819 1853.12,-825"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1853.12,-825 1853.12,-819"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1859.12,-819 1853.12,-819"/>
+<text xml:space="preserve" text-anchor="middle" x="1782.5" y="-803.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo I · Aproximação de Taylor</text>
 </g>
-<!-- ma2.campos&#45;&gt;mq2.alem -->
-<g id="edge26" class="edge">
-<title>ma2.campos&#45;&gt;mq2.alem</title>
-<path fill="none" stroke="#888888" d="M2968.5,-679.52C2999.7,-684.03 3033.17,-688.88 3064.68,-693.44"/>
-<polygon fill="#888888" stroke="#888888" points="3064.06,-695.47 3070.3,-694.26 3064.66,-691.32 3064.06,-695.47"/>
-</g>
-<!-- ma1.noether -->
-<g id="node33" class="node">
-<title>ma1.noether</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2619.62,-351 2436.38,-351 2436.38,-315 2625.62,-315 2625.62,-345 2619.62,-351"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2619.62,-351 2619.62,-345"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2625.62,-345 2619.62,-345"/>
-<text xml:space="preserve" text-anchor="middle" x="2531" y="-329.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Mecânica Analítica I · Teorema de Noether</text>
-</g>
-<!-- ma1.noether&#45;&gt;mq2.simetrias -->
-<g id="edge28" class="edge">
-<title>ma1.noether&#45;&gt;mq2.simetrias</title>
-<path fill="none" stroke="#888888" d="M2626.11,-339.82C2635.41,-343.86 2643.91,-349.43 2650.75,-357 2699.82,-411.36 2633.09,-631.17 2682.75,-685 2699.55,-703.21 2723.83,-712.07 2748.25,-715.9"/>
-<polygon fill="#888888" stroke="#888888" points="2747.75,-717.95 2753.98,-716.69 2748.32,-713.79 2747.75,-717.95"/>
-</g>
-<!-- fm1.green -->
-<g id="node34" class="node">
-<title>fm1.green</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2301.62,-632 2077.88,-632 2077.88,-596 2307.62,-596 2307.62,-626 2301.62,-632"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2301.62,-632 2301.62,-626"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2307.62,-626 2301.62,-626"/>
-<text xml:space="preserve" text-anchor="middle" x="2192.75" y="-610.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Matemática I · Laplaciano e funções de Green</text>
-</g>
-<!-- fm1.green&#45;&gt;mq2.colisoes -->
-<g id="edge30" class="edge">
-<title>fm1.green&#45;&gt;mq2.colisoes</title>
-<path fill="none" stroke="#888888" d="M2307.9,-608.89C2333.66,-612.82 2359.27,-621.4 2379.25,-638 2413.15,-666.17 2380.05,-702.73 2411.73,-736.55"/>
-<polygon fill="#888888" stroke="#888888" points="2410.03,-737.82 2415.8,-740.47 2412.94,-734.79 2410.03,-737.82"/>
-</g>
-<!-- mvc.residuos -->
-<g id="node35" class="node">
-<title>mvc.residuos</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2373.25,-585 2006.25,-585 2006.25,-549 2379.25,-549 2379.25,-579 2373.25,-585"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2373.25,-585 2373.25,-579"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2379.25,-579 2373.25,-579"/>
-<text xml:space="preserve" text-anchor="middle" x="2192.75" y="-563.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Métodos de Variáveis Complexas para a Física · Teorema dos resíduos e integrais reais</text>
-</g>
-<!-- mvc.residuos&#45;&gt;mq2.colisoes -->
-<g id="edge31" class="edge">
-<title>mvc.residuos&#45;&gt;mq2.colisoes</title>
-<path fill="none" stroke="#888888" d="M2372.56,-585.4C2374.86,-587.16 2377.1,-589.03 2379.25,-591 2426.5,-634.31 2368.1,-686.77 2411.3,-736.17"/>
-<polygon fill="#888888" stroke="#888888" points="2409.73,-737.57 2415.39,-740.46 2412.77,-734.67 2409.73,-737.57"/>
+<!-- c1.taylor&#45;&gt;mq2.aproximacoes -->
+<g id="edge12" class="edge">
+<title>c1.taylor&#45;&gt;mq2.aproximacoes</title>
+<path fill="none" stroke="#888888" d="M1859.33,-807C1917.18,-807 1998.14,-807 2065.68,-807"/>
+<polygon fill="#888888" stroke="#888888" points="2065.49,-809.1 2071.49,-807 2065.49,-804.9 2065.49,-809.1"/>
 </g>
 <!-- fg2b.cinetica -->
-<g id="node36" class="node">
+<g id="node24" class="node">
 <title>fg2b.cinetica</title>
 <polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="289.75,-181 0,-181 0,-145 295.75,-145 295.75,-175 289.75,-181"/>
 <polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="289.75,-181 289.75,-175"/>
@@ -492,13 +324,13 @@
 <text xml:space="preserve" text-anchor="middle" x="147.88" y="-159.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Geral IIb · Teoria cinética e distribuição de Maxwell&#45;Boltzmann</text>
 </g>
 <!-- fg2b.cinetica&#45;&gt;fmod.radiacao&#45;termica -->
-<g id="edge32" class="edge">
+<g id="edge13" class="edge">
 <title>fg2b.cinetica&#45;&gt;fmod.radiacao&#45;termica</title>
 <path fill="none" stroke="#888888" d="M295.99,-151.7C306.81,-150.87 317.65,-150.04 328.27,-149.22"/>
 <polygon fill="#888888" stroke="#888888" points="328.27,-151.33 334.09,-148.78 327.94,-147.14 328.27,-151.33"/>
 </g>
 <!-- fg4.ondas&#45;em -->
-<g id="node37" class="node">
+<g id="node25" class="node">
 <title>fg4.ondas&#45;em</title>
 <polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="233.12,-134 56.62,-134 56.62,-98 239.12,-98 239.12,-128 233.12,-134"/>
 <polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="233.12,-134 233.12,-128"/>
@@ -506,13 +338,139 @@
 <text xml:space="preserve" text-anchor="middle" x="147.88" y="-112.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Geral IV · Ondas eletromagnéticas</text>
 </g>
 <!-- fg4.ondas&#45;em&#45;&gt;fmod.radiacao&#45;termica -->
-<g id="edge33" class="edge">
+<g id="edge14" class="edge">
 <title>fg4.ondas&#45;em&#45;&gt;fmod.radiacao&#45;termica</title>
 <path fill="none" stroke="#888888" d="M239.55,-123.27C267.4,-125.5 298.51,-127.99 328.02,-130.36"/>
 <polygon fill="#888888" stroke="#888888" points="327.83,-132.45 333.98,-130.83 328.17,-128.26 327.83,-132.45"/>
 </g>
+<!-- c2.improprias -->
+<g id="node26" class="node">
+<title>c2.improprias</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1465,-257 1328.25,-257 1328.25,-221 1471,-221 1471,-251 1465,-257"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1465,-257 1465,-251"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1471,-251 1465,-251"/>
+<text xml:space="preserve" text-anchor="middle" x="1399.62" y="-235.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo II · Integrais impróprias</text>
+</g>
+<!-- c2.improprias&#45;&gt;fmod.estados -->
+<g id="edge16" class="edge">
+<title>c2.improprias&#45;&gt;fmod.estados</title>
+<path fill="none" stroke="#888888" d="M1471.27,-229.43C1498.66,-225.41 1530.24,-220.42 1558.75,-215 1605.73,-206.07 1657.84,-194.24 1699.85,-184.23"/>
+<polygon fill="#888888" stroke="#888888" points="1700.21,-186.3 1705.56,-182.86 1699.24,-182.22 1700.21,-186.3"/>
+</g>
+<!-- ml.autovalores -->
+<g id="node27" class="node">
+<title>ml.autovalores</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1552.75,-538 1240.5,-538 1240.5,-502 1558.75,-502 1558.75,-532 1552.75,-538"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1552.75,-538 1552.75,-532"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1558.75,-532 1552.75,-532"/>
+<text xml:space="preserve" text-anchor="middle" x="1399.62" y="-516.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Métodos Lineares para Física · Autovalores, autovetores e diagonalização</text>
+</g>
+<!-- ml.autovalores&#45;&gt;mq1.estrutura -->
+<g id="edge18" class="edge">
+<title>ml.autovalores&#45;&gt;mq1.estrutura</title>
+<path fill="none" stroke="#888888" d="M1531.59,-501.47C1540.81,-499.75 1549.93,-497.93 1558.75,-496 1613.04,-484.13 1673.58,-466.44 1717.83,-452.67"/>
+<polygon fill="#888888" stroke="#888888" points="1718.25,-454.74 1723.35,-450.94 1716.99,-450.73 1718.25,-454.74"/>
+</g>
+<!-- fm1.sturm&#45;liouville -->
+<g id="node28" class="node">
+<title>fm1.sturm&#45;liouville</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1542.62,-351 1250.62,-351 1250.62,-315 1548.62,-315 1548.62,-345 1542.62,-351"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1542.62,-351 1542.62,-345"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1548.62,-345 1542.62,-345"/>
+<text xml:space="preserve" text-anchor="middle" x="1399.62" y="-329.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Matemática I · Problema de Sturm&#45;Liouville e séries ortogonais</text>
+</g>
+<!-- fm1.sturm&#45;liouville&#45;&gt;mq1.estrutura -->
+<g id="edge19" class="edge">
+<title>fm1.sturm&#45;liouville&#45;&gt;mq1.estrutura</title>
+<path fill="none" stroke="#888888" d="M1533.82,-351.5C1542.28,-353.21 1550.65,-355.04 1558.75,-357 1617.47,-371.23 1682.79,-394.09 1727.43,-410.84"/>
+<polygon fill="#888888" stroke="#888888" points="1726.64,-412.78 1732.99,-412.94 1728.12,-408.85 1726.64,-412.78"/>
+</g>
+<!-- ma1.hamilton -->
+<g id="node29" class="node">
+<title>ma1.hamilton</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1549.75,-304 1243.5,-304 1243.5,-268 1555.75,-268 1555.75,-298 1549.75,-304"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1549.75,-304 1549.75,-298"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1555.75,-298 1549.75,-298"/>
+<text xml:space="preserve" text-anchor="middle" x="1399.62" y="-282.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Mecânica Analítica I · Formalismo hamiltoniano e parênteses de Poisson</text>
+</g>
+<!-- ma1.hamilton&#45;&gt;mq1.estrutura -->
+<g id="edge20" class="edge">
+<title>ma1.hamilton&#45;&gt;mq1.estrutura</title>
+<path fill="none" stroke="#888888" d="M1548.94,-304.43C1552.3,-306.15 1555.58,-308 1558.75,-310 1580.14,-323.46 1571,-341.23 1590.75,-357 1622.03,-381.98 1662.66,-399.49 1698.37,-411.27"/>
+<polygon fill="#888888" stroke="#888888" points="1697.65,-413.24 1704.01,-413.08 1698.94,-409.24 1697.65,-413.24"/>
+</g>
+<!-- fm1.green -->
+<g id="node30" class="node">
+<title>fm1.green</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2301.62,-632 2077.88,-632 2077.88,-596 2307.62,-596 2307.62,-626 2301.62,-632"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2301.62,-632 2301.62,-626"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2307.62,-626 2301.62,-626"/>
+<text xml:space="preserve" text-anchor="middle" x="2192.75" y="-610.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Matemática I · Laplaciano e funções de Green</text>
+</g>
+<!-- fm1.green&#45;&gt;mq2.colisoes -->
+<g id="edge22" class="edge">
+<title>fm1.green&#45;&gt;mq2.colisoes</title>
+<path fill="none" stroke="#888888" d="M2307.9,-608.89C2333.66,-612.82 2359.27,-621.4 2379.25,-638 2413.15,-666.17 2380.05,-702.73 2411.73,-736.55"/>
+<polygon fill="#888888" stroke="#888888" points="2410.03,-737.82 2415.8,-740.47 2412.94,-734.79 2410.03,-737.82"/>
+</g>
+<!-- mvc.residuos -->
+<g id="node31" class="node">
+<title>mvc.residuos</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2373.25,-585 2006.25,-585 2006.25,-549 2379.25,-549 2379.25,-579 2373.25,-585"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2373.25,-585 2373.25,-579"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2379.25,-579 2373.25,-579"/>
+<text xml:space="preserve" text-anchor="middle" x="2192.75" y="-563.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Métodos de Variáveis Complexas para a Física · Teorema dos resíduos e integrais reais</text>
+</g>
+<!-- mvc.residuos&#45;&gt;mq2.colisoes -->
+<g id="edge23" class="edge">
+<title>mvc.residuos&#45;&gt;mq2.colisoes</title>
+<path fill="none" stroke="#888888" d="M2372.56,-585.4C2374.86,-587.16 2377.1,-589.03 2379.25,-591 2426.5,-634.31 2368.1,-686.77 2411.3,-736.17"/>
+<polygon fill="#888888" stroke="#888888" points="2409.73,-737.57 2415.39,-740.46 2412.77,-734.67 2409.73,-737.57"/>
+</g>
+<!-- ma1.noether -->
+<g id="node32" class="node">
+<title>ma1.noether</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2619.62,-351 2436.38,-351 2436.38,-315 2625.62,-315 2625.62,-345 2619.62,-351"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2619.62,-351 2619.62,-345"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2625.62,-345 2619.62,-345"/>
+<text xml:space="preserve" text-anchor="middle" x="2531" y="-329.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Mecânica Analítica I · Teorema de Noether</text>
+</g>
+<!-- ma1.noether&#45;&gt;mq2.simetrias -->
+<g id="edge25" class="edge">
+<title>ma1.noether&#45;&gt;mq2.simetrias</title>
+<path fill="none" stroke="#888888" d="M2626.11,-339.82C2635.41,-343.86 2643.91,-349.43 2650.75,-357 2699.82,-411.36 2633.09,-631.17 2682.75,-685 2699.55,-703.21 2723.83,-712.07 2748.25,-715.9"/>
+<polygon fill="#888888" stroke="#888888" points="2747.75,-717.95 2753.98,-716.69 2748.32,-713.79 2747.75,-717.95"/>
+</g>
+<!-- rr.tensores -->
+<g id="node33" class="node">
+<title>rr.tensores</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2942.5,-913 2730.75,-913 2730.75,-877 2948.5,-877 2948.5,-907 2942.5,-913"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2942.5,-913 2942.5,-907"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2948.5,-907 2942.5,-907"/>
+<text xml:space="preserve" text-anchor="middle" x="2839.62" y="-891.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Relatividade Restrita · Álgebra e cálculo tensorial</text>
+</g>
+<!-- rr.tensores&#45;&gt;mq2.alem -->
+<g id="edge27" class="edge">
+<title>rr.tensores&#45;&gt;mq2.alem</title>
+<path fill="none" stroke="#888888" d="M2948.97,-894.29C2966.36,-889.91 2983.03,-882.64 2996.5,-871 3033.09,-839.38 2994.42,-801.32 3028.5,-767 3042.94,-752.46 3061.26,-741.82 3080.52,-734.05"/>
+<polygon fill="#888888" stroke="#888888" points="3081.1,-736.07 3085.95,-731.96 3079.59,-732.15 3081.1,-736.07"/>
+</g>
+<!-- ma2.campos -->
+<g id="node34" class="node">
+<title>ma2.campos</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2990.5,-679 2682.75,-679 2682.75,-643 2996.5,-643 2996.5,-673 2990.5,-679"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2990.5,-679 2990.5,-673"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2996.5,-673 2990.5,-673"/>
+<text xml:space="preserve" text-anchor="middle" x="2839.62" y="-657.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Mecânica Analítica II · Teoria clássica de campos e Noether para campos</text>
+</g>
+<!-- ma2.campos&#45;&gt;mq2.alem -->
+<g id="edge28" class="edge">
+<title>ma2.campos&#45;&gt;mq2.alem</title>
+<path fill="none" stroke="#888888" d="M2968.5,-679.52C2999.7,-684.03 3033.17,-688.88 3064.68,-693.44"/>
+<polygon fill="#888888" stroke="#888888" points="3064.06,-695.47 3070.3,-694.26 3064.66,-691.32 3064.06,-695.47"/>
+</g>
 <!-- ml.rotacoes -->
-<g id="node38" class="node">
+<g id="node35" class="node">
 <title>ml.rotacoes</title>
 <polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="2328.62,-538 2050.88,-538 2050.88,-502 2334.62,-502 2334.62,-532 2328.62,-538"/>
 <polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="2328.62,-538 2328.62,-532"/>
@@ -520,38 +478,80 @@
 <text xml:space="preserve" text-anchor="middle" x="2192.75" y="-516.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Métodos Lineares para Física · Operadores ortogonais e rotações</text>
 </g>
 <!-- ml.rotacoes&#45;&gt;mq2.momento&#45;angular -->
-<g id="edge37" class="edge">
+<g id="edge30" class="edge">
 <title>ml.rotacoes&#45;&gt;mq2.momento&#45;angular</title>
 <path fill="none" stroke="#888888" d="M2334.83,-527.38C2350.33,-531.34 2365.46,-536.73 2379.25,-544 2443.18,-577.74 2493.04,-650.19 2516.07,-688.34"/>
 <polygon fill="#888888" stroke="#888888" points="2514.14,-689.22 2519.02,-693.3 2517.75,-687.07 2514.14,-689.22"/>
 </g>
 <!-- fg3.coulomb -->
-<g id="node39" class="node">
+<g id="node36" class="node">
 <title>fg3.coulomb</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="565,-83 327.75,-83 327.75,-47 571,-47 571,-77 565,-83"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="565,-83 565,-77"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="571,-77 565,-77"/>
-<text xml:space="preserve" text-anchor="middle" x="449.38" y="-61.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Geral III · Carga, lei de Coulomb e campo elétrico</text>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="565,-36 327.75,-36 327.75,0 571,0 571,-30 565,-36"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="565,-36 565,-30"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="571,-30 565,-30"/>
+<text xml:space="preserve" text-anchor="middle" x="449.38" y="-14.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Geral III · Carga, lei de Coulomb e campo elétrico</text>
 </g>
 <!-- fg3.coulomb&#45;&gt;fmod.atomo -->
-<g id="edge39" class="edge">
+<g id="edge32" class="edge">
 <title>fg3.coulomb&#45;&gt;fmod.atomo</title>
-<path fill="none" stroke="#888888" d="M561.97,-83.43C565.09,-85.14 568.11,-86.99 571,-89 593.28,-104.5 580.31,-126.11 603,-141 606.86,-143.53 610.88,-145.83 615.03,-147.92"/>
-<polygon fill="#888888" stroke="#888888" points="613.96,-149.74 620.28,-150.4 615.75,-145.94 613.96,-149.74"/>
+<path fill="none" stroke="#888888" d="M561.56,-36.46C564.82,-38.15 567.97,-40 571,-42 592.07,-55.95 581.76,-75.3 603,-89 606.9,-91.51 610.95,-93.82 615.13,-95.94"/>
+<polygon fill="#888888" stroke="#888888" points="614.11,-97.77 620.43,-98.46 615.91,-93.98 614.11,-97.77"/>
 </g>
-<!-- rr.dinamica -->
+<!-- fm1.fourier -->
+<g id="node37" class="node">
+<title>fm1.fourier</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="899.88,-83 622.88,-83 622.88,-47 905.88,-47 905.88,-77 899.88,-83"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="899.88,-83 899.88,-77"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="905.88,-77 899.88,-77"/>
+<text xml:space="preserve" text-anchor="middle" x="764.38" y="-61.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Matemática I · Séries e transformadas de Fourier e Laplace</text>
+</g>
+<!-- fm1.fourier&#45;&gt;fmod.onda&#45;particula -->
+<g id="edge34" class="edge">
+<title>fm1.fourier&#45;&gt;fmod.onda&#45;particula</title>
+<path fill="none" stroke="#888888" d="M905.87,-83.52C912.63,-85.19 919.29,-87.02 925.75,-89 968.21,-102.04 1013.66,-124.95 1044.55,-142.03"/>
+<polygon fill="#888888" stroke="#888888" points="1043.33,-143.75 1049.59,-144.84 1045.38,-140.09 1043.33,-143.75"/>
+</g>
+<!-- c4.edo2 -->
+<g id="node38" class="node">
+<title>c4.edo2</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1179.25,-83 981,-83 981,-47 1185.25,-47 1185.25,-77 1179.25,-83"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1179.25,-83 1179.25,-77"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1185.25,-77 1179.25,-77"/>
+<text xml:space="preserve" text-anchor="middle" x="1083.12" y="-61.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Cálculo IV · EDOs lineares de segunda ordem</text>
+</g>
+<!-- c4.edo2&#45;&gt;fmod.schrodinger&#45;1d -->
+<g id="edge38" class="edge">
+<title>c4.edo2&#45;&gt;fmod.schrodinger&#45;1d</title>
+<path fill="none" stroke="#888888" d="M1185.64,-82.97C1193.42,-84.84 1201.11,-86.85 1208.5,-89 1258.58,-103.57 1313.84,-126.14 1351.81,-142.71"/>
+<polygon fill="#888888" stroke="#888888" points="1350.5,-144.43 1356.84,-144.92 1352.18,-140.59 1350.5,-144.43"/>
+</g>
+<!-- em1.contorno -->
+<g id="node39" class="node">
+<title>em1.contorno</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1968.25,-351 1590.75,-351 1590.75,-315 1974.25,-315 1974.25,-345 1968.25,-351"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1968.25,-351 1968.25,-345"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1974.25,-345 1968.25,-345"/>
+<text xml:space="preserve" text-anchor="middle" x="1782.5" y="-329.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Eletromagnetismo I · Problemas de contorno; imagens, separação de variáveis, multipolos</text>
+</g>
+<!-- em1.contorno&#45;&gt;mq1.hidrogenio -->
+<g id="edge40" class="edge">
+<title>em1.contorno&#45;&gt;mq1.hidrogenio</title>
+<path fill="none" stroke="#888888" d="M1964.74,-351.41C1967.99,-353.15 1971.16,-355.01 1974.25,-357 1997.06,-371.69 1983.42,-394.33 2006.25,-409 2027.12,-422.41 2052.07,-429.87 2076.8,-433.72"/>
+<polygon fill="#888888" stroke="#888888" points="2076.38,-435.79 2082.62,-434.55 2076.97,-431.63 2076.38,-435.79"/>
+</g>
+<!-- mg.dois&#45;corpos -->
 <g id="node40" class="node">
-<title>rr.dinamica</title>
-<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="563.12,-36 329.62,-36 329.62,0 569.12,0 569.12,-30 563.12,-36"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="563.12,-36 563.12,-30"/>
-<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="569.12,-30 563.12,-30"/>
-<text xml:space="preserve" text-anchor="middle" x="449.38" y="-14.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Relatividade Restrita · Dinâmica relativística e colisões</text>
+<title>mg.dois&#45;corpos</title>
+<polygon fill="#f4f4f4" stroke="#bbbbbb" stroke-width="1.1" points="1871.5,-304 1687.5,-304 1687.5,-268 1877.5,-268 1877.5,-298 1871.5,-304"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1871.5,-304 1871.5,-298"/>
+<polyline fill="none" stroke="#bbbbbb" stroke-width="1.1" points="1877.5,-298 1871.5,-298"/>
+<text xml:space="preserve" text-anchor="middle" x="1782.5" y="-282.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Mecânica Geral · Problema de dois corpos</text>
 </g>
-<!-- rr.dinamica&#45;&gt;fmod.foton -->
+<!-- mg.dois&#45;corpos&#45;&gt;mq1.hidrogenio -->
 <g id="edge41" class="edge">
-<title>rr.dinamica&#45;&gt;fmod.foton</title>
-<path fill="none" stroke="#888888" d="M561.56,-36.46C564.82,-38.15 567.97,-40 571,-42 592.07,-55.95 581.76,-75.3 603,-89 606.58,-91.31 610.29,-93.44 614.1,-95.41"/>
-<polygon fill="#888888" stroke="#888888" points="612.94,-97.18 619.26,-97.91 614.78,-93.4 612.94,-97.18"/>
+<title>mg.dois&#45;corpos&#45;&gt;mq1.hidrogenio</title>
+<path fill="none" stroke="#888888" d="M1877.6,-277.95C1911.37,-279.83 1947.64,-287.97 1974.25,-310 2009.86,-339.49 1970.61,-379.54 2006.25,-409 2026.14,-425.44 2051.57,-433.89 2077.19,-437.72"/>
+<polygon fill="#888888" stroke="#888888" points="2076.69,-439.77 2082.91,-438.48 2077.24,-435.61 2076.69,-439.77"/>
 </g>
 </g>
 </svg>

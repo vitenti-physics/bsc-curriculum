@@ -10,6 +10,8 @@
 # - `ementa`: nde (proposta do NDE) | legado-2023 (transcrita do currículo vigente) |
 #   proposta (roteiros pendentes) | a-definir.
 # - `eixo`: fio temático, usado para colorir a visualização.
+# - `curto`: rótulo curto do nó na árvore; `ancora`: id da seção da ementa (se não for o
+#   gerado automaticamente a partir do nome).
 # - Dependência entre disciplinas do MESMO semestre = co-requisito (cursar junto).
 
 disciplinas:
@@ -20,6 +22,7 @@ disciplinas:
     nome: Física Básica
     semestre: 1
     eixo: matematica
+    curto: Física Básica
     ementa: nde
     habilidades:
       - id: fb.aritmetica
@@ -39,6 +42,7 @@ disciplinas:
     nome: Cálculo I
     semestre: 1
     eixo: matematica
+    curto: Cálculo I
     ementa: nde
     habilidades:
       - id: c1.reais
@@ -78,6 +82,7 @@ disciplinas:
     nome: Física Geral I
     semestre: 1
     eixo: mecanica
+    curto: Física Geral I
     ementa: nde
     habilidades:
       - id: fg1.vetores
@@ -120,6 +125,7 @@ disciplinas:
     nome: Laboratório de Física Geral I
     semestre: 1
     eixo: experimental
+    curto: Lab. FG I
     ementa: nde
     habilidades:
       - id: lab1.medidas
@@ -150,6 +156,7 @@ disciplinas:
     nome: Cálculo II
     semestre: 2
     eixo: matematica
+    curto: Cálculo II
     ementa: nde
     habilidades:
       - id: c2.integral
@@ -186,6 +193,7 @@ disciplinas:
     nome: Métodos Lineares para Física
     semestre: 2
     eixo: matematica
+    curto: Métodos Lineares
     ementa: nde
     habilidades:
       - id: ml.espacos
@@ -214,6 +222,7 @@ disciplinas:
     nome: Física Geral IIa
     semestre: 2
     eixo: ondas-termo
+    curto: Física Geral IIa
     ementa: nde
     habilidades:
       - id: fg2a.oscilacoes
@@ -236,6 +245,7 @@ disciplinas:
     nome: Física Geral IIb
     semestre: 2
     eixo: ondas-termo
+    curto: Física Geral IIb
     ementa: nde
     habilidades:
       - id: fg2b.fluidos
@@ -271,6 +281,7 @@ disciplinas:
     nome: Laboratório de Física Geral II
     semestre: 2
     eixo: experimental
+    curto: Lab. FG II
     ementa: nde
     habilidades:
       - id: lab2.oscilacoes-ondas
@@ -292,6 +303,7 @@ disciplinas:
     nome: Cálculo III
     semestre: 3
     eixo: matematica
+    curto: Cálculo III
     ementa: nde
     habilidades:
       - id: c3.campos
@@ -325,6 +337,7 @@ disciplinas:
     nome: Computação para Física
     semestre: 3
     eixo: computacao
+    curto: Computação
     ementa: nde
     habilidades:
       - id: comp.python
@@ -347,6 +360,7 @@ disciplinas:
     nome: Física Geral III
     semestre: 3
     eixo: eletromagnetismo
+    curto: Física Geral III
     ementa: nde
     habilidades:
       - id: fg3.coulomb
@@ -386,6 +400,7 @@ disciplinas:
     nome: Laboratório de Física Geral III
     semestre: 3
     eixo: experimental
+    curto: Lab. FG III
     ementa: proposta
     habilidades:
       - id: lab3.instrumentacao
@@ -405,6 +420,7 @@ disciplinas:
     nome: Métodos de Variáveis Complexas para a Física
     semestre: 3
     eixo: matematica
+    curto: Variáveis Complexas
     ementa: nde
     habilidades:
       - id: mvc.complexos
@@ -429,6 +445,7 @@ disciplinas:
     nome: Cálculo IV
     semestre: 4
     eixo: matematica
+    curto: Cálculo IV
     ementa: nde
     habilidades:
       - id: c4.series
@@ -459,6 +476,7 @@ disciplinas:
     nome: Física Geral IV
     semestre: 4
     eixo: eletromagnetismo
+    curto: Física Geral IV
     ementa: nde
     habilidades:
       - id: fg4.maxwell
@@ -489,6 +507,7 @@ disciplinas:
     nome: Laboratório de Física Geral IV
     semestre: 4
     eixo: experimental
+    curto: Lab. FG IV
     ementa: proposta
     habilidades:
       - id: lab4.difracao
@@ -502,6 +521,7 @@ disciplinas:
     nome: Física Matemática I
     semestre: 4
     eixo: matematica
+    curto: Física Matemática I
     ementa: nde
     habilidades:
       - id: fm1.distribuicoes
@@ -523,6 +543,8 @@ disciplinas:
     nome: Mecânica Geral
     semestre: 5
     eixo: mecanica
+    curto: Mecânica Geral
+    ancora: sec-mecanica-geral
     ementa: nde
     habilidades:
       - id: mg.conservacao
@@ -545,6 +567,8 @@ disciplinas:
     nome: Eletromagnetismo I
     semestre: 5
     eixo: eletromagnetismo
+    curto: Eletromag. I
+    ancora: sec-eletromagnetismo-i
     ementa: nde
     habilidades:
       - id: em1.helmholtz
@@ -570,6 +594,8 @@ disciplinas:
     nome: Relatividade Restrita
     semestre: 5
     eixo: eletromagnetismo
+    curto: Relatividade
+    ancora: sec-relatividade-restrita
     ementa: nde
     habilidades:
       - id: rr.lorentz
@@ -595,6 +621,8 @@ disciplinas:
     nome: Física Moderna
     semestre: 5
     eixo: quantica
+    curto: Física Moderna
+    ancora: sec-fisica-moderna
     ementa: nde
     habilidades:
       - id: fmod.radiacao-termica
@@ -616,12 +644,29 @@ disciplinas:
         nome: Estados ligados, tunelamento e valores esperados
         requer: [fmod.schrodinger-1d, c2.improprias]
 
+  - id: labfm1
+    nome: Laboratório de Física Moderna I
+    semestre: 5
+    eixo: experimental
+    curto: Lab. Moderna I
+    ancora: sec-lab-fisica-moderna-i
+    ementa: a-definir
+    habilidades:
+      - id: labfm1.radiacao
+        nome: Experimentos sobre a quantização da radiação
+        requer: [fmod.foton, lab3.instrumentacao, lab1.relatorio, comp.dados]
+      - id: labfm1.atomo
+        nome: Experimentos sobre a estrutura atômica
+        requer: [fmod.atomo, lab3.instrumentacao]
+
   # ───────────────────────── 6º semestre ─────────────────────────
 
   - id: ma1
     nome: Mecânica Analítica I
     semestre: 6
     eixo: mecanica
+    curto: Analítica I
+    ancora: sec-mecanica-analitica-i
     ementa: nde
     habilidades:
       - id: ma1.variacional
@@ -644,6 +689,8 @@ disciplinas:
     nome: Eletromagnetismo II
     semestre: 6
     eixo: eletromagnetismo
+    curto: Eletromag. II
+    ancora: sec-eletromagnetismo-ii
     ementa: legado-2023
     habilidades:
       - id: em2.calibre
@@ -663,6 +710,8 @@ disciplinas:
     nome: Termodinâmica
     semestre: 6
     eixo: ondas-termo
+    curto: Termodinâmica
+    ancora: sec-termodinamica
     ementa: nde
     habilidades:
       - id: termo.postulados
@@ -684,15 +733,17 @@ disciplinas:
         nome: Transições de fase e fenômenos críticos
         requer: [termo.estabilidade]
 
-  - id: labfm
-    nome: Laboratório de Física Moderna
+  - id: labfm2
+    nome: Laboratório de Física Moderna II
     semestre: 6
     eixo: experimental
+    curto: Lab. Moderna II
+    ancora: sec-lab-fisica-moderna-ii
     ementa: a-definir
     habilidades:
-      - id: labfm.experimentos
-        nome: Experimentos fundadores da física moderna
-        requer: [fmod.foton, fmod.atomo, lab3.instrumentacao, lab1.relatorio, comp.dados]
+      - id: labfm2.experimentos
+        nome: Experimentos de física moderna (a definir — estado sólido, nuclear?)
+        requer: [labfm1.radiacao, labfm1.atomo, fmod.estados]
 
   # ───────────────────────── 7º semestre ─────────────────────────
 
@@ -700,6 +751,8 @@ disciplinas:
     nome: Mecânica Analítica II
     semestre: 7
     eixo: mecanica
+    curto: Analítica II
+    ancora: sec-mecanica-analitica-ii
     ementa: nde
     habilidades:
       - id: ma2.canonicas
@@ -722,6 +775,8 @@ disciplinas:
     nome: Mecânica Quântica I
     semestre: 7
     eixo: quantica
+    curto: Quântica I
+    ancora: sec-mecanica-quantica-i
     ementa: legado-2023
     habilidades:
       - id: mq1.principios
@@ -746,6 +801,8 @@ disciplinas:
     nome: Mecânica Quântica II
     semestre: 8
     eixo: quantica
+    curto: Quântica II
+    ancora: sec-mecanica-quantica-ii
     ementa: legado-2023
     habilidades:
       - id: mq2.momento-angular

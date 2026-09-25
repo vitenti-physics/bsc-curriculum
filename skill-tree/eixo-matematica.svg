@@ -63,7 +63,7 @@
 <text xml:space="preserve" text-anchor="middle" x="292.5" y="-139.3" font-family="Helvetica,sans-Serif" font-size="11.00">Equações e desigualdades</text>
 </g>
 <!-- fb.aritmetica&#45;&gt;fb.equacoes -->
-<g id="edge10" class="edge">
+<g id="edge14" class="edge">
 <title>fb.aritmetica&#45;&gt;fb.equacoes</title>
 <path fill="none" stroke="#888888" d="M188.43,-143C196.41,-143 204.47,-143 212.39,-143"/>
 <polygon fill="#888888" stroke="#888888" points="212.1,-145.1 218.1,-143 212.1,-140.9 212.1,-145.1"/>
@@ -75,7 +75,7 @@
 <text xml:space="preserve" text-anchor="middle" x="594.38" y="-139.3" font-family="Helvetica,sans-Serif" font-size="11.00">Funções elementares (polinomiais, exponenciais, logarítmicas, trigonométricas)</text>
 </g>
 <!-- fb.equacoes&#45;&gt;fb.funcoes -->
-<g id="edge28" class="edge">
+<g id="edge21" class="edge">
 <title>fb.equacoes&#45;&gt;fb.funcoes</title>
 <path fill="none" stroke="#888888" d="M365.33,-143C372.97,-143 380.98,-143 389.25,-143"/>
 <polygon fill="#888888" stroke="#888888" points="389.06,-145.1 395.06,-143 389.06,-140.9 389.06,-145.1"/>
@@ -87,7 +87,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1207.12" y="-133.3" font-family="Helvetica,sans-Serif" font-size="11.00">Movimento uniforme e leitura de gráficos lineares</text>
 </g>
 <!-- fb.equacoes&#45;&gt;fb.movimento&#45;linear -->
-<g id="edge68" class="edge">
+<g id="edge29" class="edge">
 <title>fb.equacoes&#45;&gt;fb.movimento&#45;linear</title>
 <path fill="none" stroke="#888888" d="M365.55,-124.88C376.04,-122.86 386.75,-121.12 397,-120 634.57,-93.92 913.65,-110 1074.19,-123.73"/>
 <polygon fill="#888888" stroke="#888888" points="1073.61,-125.79 1079.77,-124.21 1073.97,-121.61 1073.61,-125.79"/>
@@ -99,7 +99,7 @@
 <text xml:space="preserve" text-anchor="middle" x="594.38" y="-222.3" font-family="Helvetica,sans-Serif" font-size="11.00">Números reais, módulo e inequações</text>
 </g>
 <!-- fb.equacoes&#45;&gt;c1.reais -->
-<g id="edge27" class="edge">
+<g id="edge55" class="edge">
 <title>fb.equacoes&#45;&gt;c1.reais</title>
 <path fill="none" stroke="#888888" d="M324.65,-161.38C344.68,-172.43 371.63,-185.88 397,-194 426.39,-203.4 459.18,-210.14 489.43,-214.93"/>
 <polygon fill="#888888" stroke="#888888" points="488.9,-216.97 495.15,-215.81 489.54,-212.82 488.9,-216.97"/>
@@ -111,7 +111,7 @@
 <text xml:space="preserve" text-anchor="middle" x="936.75" y="-299.3" font-family="Helvetica,sans-Serif" font-size="11.00">Limite e continuidade</text>
 </g>
 <!-- fb.funcoes&#45;&gt;c1.limites -->
-<g id="edge50" class="edge">
+<g id="edge6" class="edge">
 <title>fb.funcoes&#45;&gt;c1.limites</title>
 <path fill="none" stroke="#888888" d="M687.3,-161.53C721.11,-170.19 759.1,-182.16 791.75,-198 836.97,-219.93 882.79,-256.31 910.23,-279.97"/>
 <polygon fill="#888888" stroke="#888888" points="908.75,-281.47 914.66,-283.82 911.51,-278.3 908.75,-281.47"/>
@@ -123,7 +123,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1757.62" y="-523.3" font-family="Helvetica,sans-Serif" font-size="11.00">Funções transcendentes</text>
 </g>
 <!-- fb.funcoes&#45;&gt;c2.transcendentes -->
-<g id="edge41" class="edge">
+<g id="edge12" class="edge">
 <title>fb.funcoes&#45;&gt;c2.transcendentes</title>
 <path fill="none" stroke="#888888" d="M792.12,-151.24C1006.29,-161.15 1321.13,-178.85 1340.5,-198 1385.22,-242.22 1320.27,-435.29 1364.5,-480 1384.13,-499.84 1586.82,-500.44 1614.5,-504 1636.77,-506.87 1660.92,-510.56 1682.88,-514.14"/>
 <polygon fill="#888888" stroke="#888888" points="1682.48,-516.2 1688.74,-515.1 1683.16,-512.05 1682.48,-516.2"/>
@@ -135,7 +135,7 @@
 <text xml:space="preserve" text-anchor="middle" x="936.75" y="-43.3" font-family="Helvetica,sans-Serif" font-size="11.00">Números complexos e suas representações</text>
 </g>
 <!-- fb.funcoes&#45;&gt;mvc.complexos -->
-<g id="edge48" class="edge">
+<g id="edge47" class="edge">
 <title>fb.funcoes&#45;&gt;mvc.complexos</title>
 <path fill="none" stroke="#888888" d="M661,-124.49C718.83,-108.18 802.95,-84.46 862.85,-67.56"/>
 <polygon fill="#888888" stroke="#888888" points="863.37,-69.6 868.58,-65.95 862.23,-65.55 863.37,-69.6"/>
@@ -147,19 +147,19 @@
 <text xml:space="preserve" text-anchor="middle" x="1489.5" y="-222.3" font-family="Helvetica,sans-Serif" font-style="oblique" font-size="11.00">Taxas de variação em problemas físicos (prática)</text>
 </g>
 <!-- fb.movimento&#45;linear&#45;&gt;pc1.taxas -->
-<g id="edge31" class="edge">
+<g id="edge4" class="edge">
 <title>fb.movimento&#45;linear&#45;&gt;pc1.taxas</title>
 <path fill="none" stroke="#888888" d="M1268.47,-155.51C1291.09,-162.49 1316.99,-170.55 1340.5,-178 1368.27,-186.8 1398.92,-196.71 1425.08,-205.23"/>
 <polygon fill="#888888" stroke="#888888" points="1424.19,-207.15 1430.54,-207.01 1425.49,-203.15 1424.19,-207.15"/>
 </g>
 <!-- c1.reais&#45;&gt;c1.limites -->
-<g id="edge49" class="edge">
+<g id="edge5" class="edge">
 <title>c1.reais&#45;&gt;c1.limites</title>
 <path fill="none" stroke="#888888" d="M677.34,-244.54C736.54,-257.94 815.44,-275.78 870.42,-288.22"/>
 <polygon fill="#888888" stroke="#888888" points="869.89,-290.25 876.2,-289.53 870.81,-286.16 869.89,-290.25"/>
 </g>
 <!-- c1.reais&#45;&gt;mvc.complexos -->
-<g id="edge47" class="edge">
+<g id="edge46" class="edge">
 <title>c1.reais&#45;&gt;mvc.complexos</title>
 <path fill="none" stroke="#888888" d="M692.11,-222.43C725.15,-218.1 761.4,-209.75 791.75,-194 848.17,-164.72 895.73,-105.13 919.48,-71.51"/>
 <polygon fill="#888888" stroke="#888888" points="921.07,-72.91 922.77,-66.79 917.62,-70.51 921.07,-72.91"/>
@@ -171,7 +171,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1207.12" y="-299.3" font-family="Helvetica,sans-Serif" font-size="11.00">Derivada e regras de derivação</text>
 </g>
 <!-- c1.limites&#45;&gt;c1.derivada -->
-<g id="edge25" class="edge">
+<g id="edge23" class="edge">
 <title>c1.limites&#45;&gt;c1.derivada</title>
 <path fill="none" stroke="#888888" d="M995.65,-303C1030.76,-303 1076.29,-303 1116.03,-303"/>
 <polygon fill="#888888" stroke="#888888" points="1115.86,-305.1 1121.86,-303 1115.86,-300.9 1115.86,-305.1"/>
@@ -183,7 +183,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1489.5" y="-523.3" font-family="Helvetica,sans-Serif" font-size="11.00">Integral de Riemann e antiderivada</text>
 </g>
 <!-- c1.limites&#45;&gt;c2.integral -->
-<g id="edge62" class="edge">
+<g id="edge53" class="edge">
 <title>c1.limites&#45;&gt;c2.integral</title>
 <path fill="none" stroke="#888888" d="M971.02,-321.43C1041.53,-359.79 1212.08,-448.91 1364.5,-500 1372.74,-502.76 1381.39,-505.32 1390.12,-507.66"/>
 <polygon fill="#888888" stroke="#888888" points="1389.33,-509.62 1395.67,-509.11 1390.39,-505.56 1389.33,-509.62"/>
@@ -195,7 +195,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1489.5" y="-412.3" font-family="Helvetica,sans-Serif" font-size="11.00">Sequências, séries e convergência</text>
 </g>
 <!-- c1.limites&#45;&gt;c4.series -->
-<g id="edge9" class="edge">
+<g id="edge20" class="edge">
 <title>c1.limites&#45;&gt;c4.series</title>
 <path fill="none" stroke="#888888" d="M995.91,-314.93C1090.03,-334.24 1276.71,-372.55 1391.28,-396.05"/>
 <polygon fill="#888888" stroke="#888888" points="1390.6,-398.06 1396.9,-397.21 1391.45,-393.94 1390.6,-398.06"/>
@@ -207,7 +207,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1489.5" y="-329.3" font-family="Helvetica,sans-Serif" font-size="11.00">Aproximação de Taylor</text>
 </g>
 <!-- c1.derivada&#45;&gt;c1.taylor -->
-<g id="edge43" class="edge">
+<g id="edge56" class="edge">
 <title>c1.derivada&#45;&gt;c1.taylor</title>
 <path fill="none" stroke="#888888" d="M1290.73,-311.84C1331.64,-316.22 1380.46,-321.44 1419.36,-325.6"/>
 <polygon fill="#888888" stroke="#888888" points="1418.81,-327.66 1425,-326.21 1419.26,-323.48 1418.81,-327.66"/>
@@ -219,7 +219,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1489.5" y="-269.3" font-family="Helvetica,sans-Serif" font-size="11.00">Máximos e mínimos</text>
 </g>
 <!-- c1.derivada&#45;&gt;c1.otimizacao -->
-<g id="edge34" class="edge">
+<g id="edge13" class="edge">
 <title>c1.derivada&#45;&gt;c1.otimizacao</title>
 <path fill="none" stroke="#888888" d="M1290.73,-294.16C1334.07,-289.52 1386.29,-283.94 1426.19,-279.67"/>
 <polygon fill="#888888" stroke="#888888" points="1426.25,-281.77 1431.99,-279.05 1425.8,-277.6 1426.25,-281.77"/>
@@ -231,19 +231,19 @@
 <text xml:space="preserve" text-anchor="middle" x="1757.62" y="-299.3" font-family="Helvetica,sans-Serif" font-size="11.00">Derivadas parciais (várias variáveis)</text>
 </g>
 <!-- c1.derivada&#45;&gt;c1.derivadas&#45;parciais -->
-<g id="edge64" class="edge">
+<g id="edge57" class="edge">
 <title>c1.derivada&#45;&gt;c1.derivadas&#45;parciais</title>
 <path fill="none" stroke="#888888" d="M1290.83,-303C1388.45,-303 1550.73,-303 1655.67,-303"/>
 <polygon fill="#888888" stroke="#888888" points="1655.61,-305.1 1661.61,-303 1655.61,-300.9 1655.61,-305.1"/>
 </g>
 <!-- c1.derivada&#45;&gt;pc1.taxas -->
-<g id="edge30" class="edge">
+<g id="edge3" class="edge">
 <title>c1.derivada&#45;&gt;pc1.taxas</title>
 <path fill="none" stroke="#888888" d="M1256.9,-284.56C1287.49,-273.48 1327.92,-259.69 1364.5,-250 1369.45,-248.69 1374.54,-247.41 1379.69,-246.18"/>
 <polygon fill="#888888" stroke="#888888" points="1379.9,-248.29 1385.27,-244.88 1378.94,-244.2 1379.9,-248.29"/>
 </g>
 <!-- c1.derivada&#45;&gt;c2.integral -->
-<g id="edge63" class="edge">
+<g id="edge54" class="edge">
 <title>c1.derivada&#45;&gt;c2.integral</title>
 <path fill="none" stroke="#888888" d="M1226.75,-321.52C1253.84,-349.05 1304.77,-403.13 1340.5,-455 1353.36,-473.67 1346.42,-486.33 1364.5,-500 1372.28,-505.88 1381.07,-510.54 1390.3,-514.22"/>
 <polygon fill="#888888" stroke="#888888" points="1389.31,-516.09 1395.66,-516.2 1390.76,-512.15 1389.31,-516.09"/>
@@ -255,7 +255,7 @@
 <text xml:space="preserve" text-anchor="middle" x="1757.62" y="-412.3" font-family="Helvetica,sans-Serif" font-size="11.00">Séries de potências</text>
 </g>
 <!-- c1.taylor&#45;&gt;c4.series&#45;potencias -->
-<g id="edge6" class="edge">
+<g id="edge64" class="edge">
 <title>c1.taylor&#45;&gt;c4.series&#45;potencias</title>
 <path fill="none" stroke="#888888" d="M1545.59,-351.5C1575.39,-361.39 1612.88,-373.62 1646.5,-384 1662.09,-388.81 1678.98,-393.82 1694.75,-398.41"/>
 <polygon fill="#888888" stroke="#888888" points="1694.1,-400.41 1700.45,-400.07 1695.27,-396.38 1694.1,-400.41"/>
@@ -267,13 +267,13 @@
 <text xml:space="preserve" text-anchor="middle" x="2050.12" y="-284.3" font-family="Helvetica,sans-Serif" font-style="oblique" font-size="11.00">Campos escalares e extremos em várias variáveis (prática)</text>
 </g>
 <!-- c1.otimizacao&#45;&gt;pc1.campos&#45;escalares -->
-<g id="edge18" class="edge">
+<g id="edge50" class="edge">
 <title>c1.otimizacao&#45;&gt;pc1.campos&#45;escalares</title>
 <path fill="none" stroke="#888888" d="M1545.64,-273.57C1619.29,-274.44 1753.87,-276.39 1868.75,-280 1876.75,-280.25 1884.94,-280.53 1893.22,-280.83"/>
 <polygon fill="#888888" stroke="#888888" points="1892.92,-282.92 1898.99,-281.05 1893.07,-278.73 1892.92,-282.92"/>
 </g>
 <!-- c1.derivadas&#45;parciais&#45;&gt;pc1.campos&#45;escalares -->
-<g id="edge17" class="edge">
+<g id="edge49" class="edge">
 <title>c1.derivadas&#45;parciais&#45;&gt;pc1.campos&#45;escalares</title>
 <path fill="none" stroke="#888888" d="M1852.14,-298.17C1865.28,-297.49 1879.06,-296.78 1892.98,-296.06"/>
 <polygon fill="#888888" stroke="#888888" points="1892.87,-298.17 1898.76,-295.76 1892.66,-293.98 1892.87,-298.17"/>
@@ -285,7 +285,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2364.75" y="-508.3" font-family="Helvetica,sans-Serif" font-size="11.00">Integrais múltiplas</text>
 </g>
 <!-- c1.derivadas&#45;parciais&#45;&gt;c2.multiplas -->
-<g id="edge12" class="edge">
+<g id="edge52" class="edge">
 <title>c1.derivadas&#45;parciais&#45;&gt;c2.multiplas</title>
 <path fill="none" stroke="#888888" d="M1812.33,-321.55C1925.91,-360.78 2189.62,-451.86 2306.37,-492.18"/>
 <polygon fill="#888888" stroke="#888888" points="2305.38,-494.06 2311.74,-494.04 2306.75,-490.09 2305.38,-494.06"/>
@@ -297,7 +297,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2050.12" y="-756.3" font-family="Helvetica,sans-Serif" font-size="11.00">Curvas e campos vetoriais</text>
 </g>
 <!-- c1.derivadas&#45;parciais&#45;&gt;c3.campos -->
-<g id="edge23" class="edge">
+<g id="edge32" class="edge">
 <title>c1.derivadas&#45;parciais&#45;&gt;c3.campos</title>
 <path fill="none" stroke="#888888" d="M1796.12,-321.49C1821.16,-335.96 1852.39,-358.55 1868.75,-388 1937.32,-511.39 1814.71,-592.09 1900.75,-704 1917.93,-726.34 1945.09,-739.77 1971.5,-747.84"/>
 <polygon fill="#888888" stroke="#888888" points="1970.76,-749.81 1977.1,-749.46 1971.92,-745.78 1970.76,-749.81"/>
@@ -309,13 +309,13 @@
 <text xml:space="preserve" text-anchor="middle" x="2050.12" y="-43.3" font-family="Helvetica,sans-Serif" font-size="11.00">Funções analíticas</text>
 </g>
 <!-- c1.derivadas&#45;parciais&#45;&gt;mvc.analiticas -->
-<g id="edge14" class="edge">
+<g id="edge25" class="edge">
 <title>c1.derivadas&#45;parciais&#45;&gt;mvc.analiticas</title>
 <path fill="none" stroke="#888888" d="M1779.52,-284.59C1831.34,-238.92 1965.7,-120.51 2022.82,-70.18"/>
 <polygon fill="#888888" stroke="#888888" points="2024.17,-71.79 2027.29,-66.24 2021.4,-68.64 2024.17,-71.79"/>
 </g>
 <!-- c2.integral&#45;&gt;c2.transcendentes -->
-<g id="edge40" class="edge">
+<g id="edge11" class="edge">
 <title>c2.integral&#45;&gt;c2.transcendentes</title>
 <path fill="none" stroke="#888888" d="M1581.71,-527C1614.73,-527 1651.57,-527 1682.89,-527"/>
 <polygon fill="#888888" stroke="#888888" points="1682.8,-529.1 1688.8,-527 1682.8,-524.9 1682.8,-529.1"/>
@@ -327,7 +327,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2364.75" y="-779.3" font-family="Helvetica,sans-Serif" font-size="11.00">Integrais de linha, campos conservativos e gradiente</text>
 </g>
 <!-- c2.integral&#45;&gt;c3.integral&#45;linha -->
-<g id="edge57" class="edge">
+<g id="edge19" class="edge">
 <title>c2.integral&#45;&gt;c3.integral&#45;linha</title>
 <path fill="none" stroke="#888888" d="M1493.72,-545.44C1504.22,-599.22 1542.97,-756.03 1646.5,-818 1863.04,-947.61 2185.58,-850.37 2311.11,-803.99"/>
 <polygon fill="#888888" stroke="#888888" points="2311.7,-806.01 2316.59,-801.94 2310.24,-802.07 2311.7,-806.01"/>
@@ -339,7 +339,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2050.12" y="-555.3" font-family="Helvetica,sans-Serif" font-size="11.00">Técnicas de integração</text>
 </g>
 <!-- c2.transcendentes&#45;&gt;c2.tecnicas -->
-<g id="edge26" class="edge">
+<g id="edge36" class="edge">
 <title>c2.transcendentes&#45;&gt;c2.tecnicas</title>
 <path fill="none" stroke="#888888" d="M1824.91,-534.3C1870.85,-539.36 1931.92,-546.09 1978.73,-551.25"/>
 <polygon fill="#888888" stroke="#888888" points="1978.42,-553.32 1984.61,-551.89 1978.88,-549.15 1978.42,-553.32"/>
@@ -351,13 +351,13 @@
 <text xml:space="preserve" text-anchor="middle" x="2364.75" y="-602.3" font-family="Helvetica,sans-Serif" font-size="11.00">Integrais impróprias</text>
 </g>
 <!-- c2.tecnicas&#45;&gt;c2.improprias -->
-<g id="edge8" class="edge">
+<g id="edge44" class="edge">
 <title>c2.tecnicas&#45;&gt;c2.improprias</title>
 <path fill="none" stroke="#888888" d="M2114.01,-568.45C2168.7,-576.68 2247.5,-588.52 2301.88,-596.7"/>
 <polygon fill="#888888" stroke="#888888" points="2301.32,-598.74 2307.56,-597.55 2301.94,-594.58 2301.32,-598.74"/>
 </g>
 <!-- c2.tecnicas&#45;&gt;c2.multiplas -->
-<g id="edge11" class="edge">
+<g id="edge51" class="edge">
 <title>c2.tecnicas&#45;&gt;c2.multiplas</title>
 <path fill="none" stroke="#888888" d="M2114.01,-549.55C2170.15,-541.11 2251.69,-528.85 2306.16,-520.66"/>
 <polygon fill="#888888" stroke="#888888" points="2306.21,-522.77 2311.83,-519.81 2305.58,-518.62 2306.21,-522.77"/>
@@ -369,7 +369,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2364.75" y="-649.3" font-family="Helvetica,sans-Serif" font-style="oblique" font-size="11.00">Integração aplicada a problemas físicos (prática)</text>
 </g>
 <!-- c2.tecnicas&#45;&gt;pc2.aplicacoes -->
-<g id="edge44" class="edge">
+<g id="edge31" class="edge">
 <title>c2.tecnicas&#45;&gt;pc2.aplicacoes</title>
 <path fill="none" stroke="#888888" d="M2091.15,-577.48C2127.18,-593.44 2181.92,-616.09 2231.5,-630 2234.83,-630.93 2238.22,-631.84 2241.65,-632.71"/>
 <polygon fill="#888888" stroke="#888888" points="2240.94,-634.7 2247.27,-634.1 2241.95,-630.62 2240.94,-634.7"/>
@@ -381,7 +381,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2364.75" y="-555.3" font-family="Helvetica,sans-Serif" font-style="oblique" font-size="11.00">Equações diferenciais separáveis (prática)</text>
 </g>
 <!-- c2.tecnicas&#45;&gt;pc2.edo&#45;separaveis -->
-<g id="edge1" class="edge">
+<g id="edge45" class="edge">
 <title>c2.tecnicas&#45;&gt;pc2.edo&#45;separaveis</title>
 <path fill="none" stroke="#888888" d="M2114.01,-559C2152.27,-559 2202.32,-559 2247.56,-559"/>
 <polygon fill="#888888" stroke="#888888" points="2247.55,-561.1 2253.55,-559 2247.55,-556.9 2247.55,-561.1"/>
@@ -393,7 +393,7 @@
 <text xml:space="preserve" text-anchor="middle" x="3419.62" y="-43.3" font-family="Helvetica,sans-Serif" font-size="11.00">Teorema dos resíduos e integrais reais</text>
 </g>
 <!-- c2.improprias&#45;&gt;mvc.residuos -->
-<g id="edge67" class="edge">
+<g id="edge40" class="edge">
 <title>c2.improprias&#45;&gt;mvc.residuos</title>
 <path fill="none" stroke="#888888" d="M2420.42,-616.75C2576.52,-644.08 3029.61,-699.37 3287,-480 3351.22,-425.27 3400.34,-157.55 3414.48,-72.79"/>
 <polygon fill="#888888" stroke="#888888" points="3416.55,-73.15 3415.46,-66.89 3412.41,-72.47 3416.55,-73.15"/>
@@ -405,7 +405,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2644.5" y="-862.3" font-family="Helvetica,sans-Serif" font-size="11.00">Delta de Dirac e distribuições</text>
 </g>
 <!-- c2.improprias&#45;&gt;fm1.distribuicoes -->
-<g id="edge21" class="edge">
+<g id="edge9" class="edge">
 <title>c2.improprias&#45;&gt;fm1.distribuicoes</title>
 <path fill="none" stroke="#888888" d="M2420.51,-602.11C2447.4,-603.28 2478.19,-609.71 2498,-630 2562.11,-695.67 2469.09,-765.35 2530,-834 2537.88,-842.88 2548.01,-849.37 2558.96,-854.12"/>
 <polygon fill="#888888" stroke="#888888" points="2558.12,-856.04 2564.47,-856.29 2559.66,-852.13 2558.12,-856.04"/>
@@ -417,7 +417,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2644.5" y="-732.3" font-family="Helvetica,sans-Serif" font-size="11.00">Integrais de superfície, fluxo e divergente</text>
 </g>
 <!-- c2.multiplas&#45;&gt;c3.integral&#45;superficie -->
-<g id="edge39" class="edge">
+<g id="edge38" class="edge">
 <title>c2.multiplas&#45;&gt;c3.integral&#45;superficie</title>
 <path fill="none" stroke="#888888" d="M2416.38,-512.37C2442.47,-514.65 2473.79,-520.8 2498,-536 2566.72,-579.15 2613.27,-667.58 2632.93,-710.93"/>
 <polygon fill="#888888" stroke="#888888" points="2630.99,-711.72 2635.35,-716.35 2634.83,-710.01 2630.99,-711.72"/>
@@ -429,7 +429,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2644.5" y="-425.3" font-family="Helvetica,sans-Serif" font-size="11.00">EDOs de primeira ordem</text>
 </g>
 <!-- pc2.edo&#45;separaveis&#45;&gt;c4.edo1 -->
-<g id="edge52" class="edge">
+<g id="edge30" class="edge">
 <title>pc2.edo&#45;separaveis&#45;&gt;c4.edo1</title>
 <path fill="none" stroke="#888888" d="M2474.49,-544.33C2482.57,-541.95 2490.5,-539.2 2498,-536 2545.39,-515.79 2591.89,-477.44 2619.11,-452.57"/>
 <polygon fill="#888888" stroke="#888888" points="2620.53,-454.12 2623.51,-448.5 2617.68,-451.03 2620.53,-454.12"/>
@@ -447,7 +447,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2644.5" y="-992.3" font-family="Helvetica,sans-Serif" font-size="11.00">Produto interno, projeções e produto vetorial</text>
 </g>
 <!-- ml.espacos&#45;&gt;ml.produto&#45;interno -->
-<g id="edge61" class="edge">
+<g id="edge66" class="edge">
 <title>ml.espacos&#45;&gt;ml.produto&#45;interno</title>
 <path fill="none" stroke="#888888" d="M2120.82,-996C2219.48,-996 2401.29,-996 2522.32,-996"/>
 <polygon fill="#888888" stroke="#888888" points="2521.96,-998.1 2527.96,-996 2521.96,-993.9 2521.96,-998.1"/>
@@ -471,7 +471,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2900.25" y="-992.3" font-family="Helvetica,sans-Serif" font-size="11.00">Autovalores, autovetores e diagonalização</text>
 </g>
 <!-- ml.produto&#45;interno&#45;&gt;ml.autovalores -->
-<g id="edge20" class="edge">
+<g id="edge8" class="edge">
 <title>ml.produto&#45;interno&#45;&gt;ml.autovalores</title>
 <path fill="none" stroke="#888888" d="M2759.39,-996C2767.35,-996 2775.39,-996 2783.37,-996"/>
 <polygon fill="#888888" stroke="#888888" points="2783.17,-998.1 2789.17,-996 2783.17,-993.9 2783.17,-998.1"/>
@@ -483,7 +483,7 @@
 <text xml:space="preserve" text-anchor="middle" x="3164.25" y="-909.3" font-family="Helvetica,sans-Serif" font-size="11.00">Problema de Sturm&#45;Liouville e séries ortogonais</text>
 </g>
 <!-- ml.produto&#45;interno&#45;&gt;fm1.sturm&#45;liouville -->
-<g id="edge55" class="edge">
+<g id="edge43" class="edge">
 <title>ml.produto&#45;interno&#45;&gt;fm1.sturm&#45;liouville</title>
 <path fill="none" stroke="#888888" d="M2759.44,-977.73C2842.62,-964.4 2955.24,-946.35 3040.42,-932.69"/>
 <polygon fill="#888888" stroke="#888888" points="3040.71,-934.77 3046.3,-931.75 3040.04,-930.62 3040.71,-934.77"/>
@@ -495,13 +495,13 @@
 <text xml:space="preserve" text-anchor="middle" x="2644.5" y="-1039.3" font-family="Helvetica,sans-Serif" font-size="11.00">Mudança de base, determinante e traço</text>
 </g>
 <!-- ml.matrizes&#45;&gt;ml.mudanca&#45;base -->
-<g id="edge37" class="edge">
+<g id="edge48" class="edge">
 <title>ml.matrizes&#45;&gt;ml.mudanca&#45;base</title>
 <path fill="none" stroke="#888888" d="M2458.24,-1037C2482.37,-1037.78 2508.61,-1038.63 2533.55,-1039.44"/>
 <polygon fill="#888888" stroke="#888888" points="2533.31,-1041.53 2539.38,-1039.63 2533.45,-1037.33 2533.31,-1041.53"/>
 </g>
 <!-- ml.mudanca&#45;base&#45;&gt;ml.autovalores -->
-<g id="edge19" class="edge">
+<g id="edge7" class="edge">
 <title>ml.mudanca&#45;base&#45;&gt;ml.autovalores</title>
 <path fill="none" stroke="#888888" d="M2745.42,-1024.49C2760.82,-1021.64 2776.77,-1018.69 2792.31,-1015.81"/>
 <polygon fill="#888888" stroke="#888888" points="2792.41,-1017.92 2797.93,-1014.77 2791.65,-1013.79 2792.41,-1017.92"/>
@@ -513,7 +513,7 @@
 <text xml:space="preserve" text-anchor="middle" x="3164.25" y="-992.3" font-family="Helvetica,sans-Serif" font-size="11.00">Operadores ortogonais e rotações</text>
 </g>
 <!-- ml.autovalores&#45;&gt;ml.rotacoes -->
-<g id="edge7" class="edge">
+<g id="edge2" class="edge">
 <title>ml.autovalores&#45;&gt;ml.rotacoes</title>
 <path fill="none" stroke="#888888" d="M3009.71,-996C3028.6,-996 3048.13,-996 3066.68,-996"/>
 <polygon fill="#888888" stroke="#888888" points="3066.49,-998.1 3072.49,-996 3066.49,-993.9 3066.49,-998.1"/>
@@ -525,25 +525,25 @@
 <text xml:space="preserve" text-anchor="middle" x="3164.25" y="-1039.3" font-family="Helvetica,sans-Serif" font-size="11.00">Modos próprios de sistemas lineares</text>
 </g>
 <!-- ml.autovalores&#45;&gt;ml.modos -->
-<g id="edge4" class="edge">
+<g id="edge15" class="edge">
 <title>ml.autovalores&#45;&gt;ml.modos</title>
 <path fill="none" stroke="#888888" d="M3004.42,-1014.51C3023.13,-1017.86 3042.64,-1021.36 3061.31,-1024.71"/>
 <polygon fill="#888888" stroke="#888888" points="3060.93,-1026.78 3067.21,-1025.77 3061.67,-1022.64 3060.93,-1026.78"/>
 </g>
 <!-- ml.autovalores&#45;&gt;fm1.sturm&#45;liouville -->
-<g id="edge54" class="edge">
+<g id="edge42" class="edge">
 <title>ml.autovalores&#45;&gt;fm1.sturm&#45;liouville</title>
 <path fill="none" stroke="#888888" d="M2965.18,-977.48C2979.77,-973.15 2995.19,-968.49 3009.5,-964 3040.05,-954.42 3073.84,-943.27 3101.94,-933.85"/>
 <polygon fill="#888888" stroke="#888888" points="3102.5,-935.88 3107.52,-931.97 3101.17,-931.89 3102.5,-935.88"/>
 </g>
 <!-- c3.campos&#45;&gt;c3.integral&#45;linha -->
-<g id="edge56" class="edge">
+<g id="edge18" class="edge">
 <title>c3.campos&#45;&gt;c3.integral&#45;linha</title>
 <path fill="none" stroke="#888888" d="M2121.67,-765.19C2151.98,-767.42 2188.51,-770.11 2223.91,-772.71"/>
 <polygon fill="#888888" stroke="#888888" points="2223.32,-774.77 2229.46,-773.12 2223.63,-770.59 2223.32,-774.77"/>
 </g>
 <!-- c3.campos&#45;&gt;c3.integral&#45;superficie -->
-<g id="edge38" class="edge">
+<g id="edge37" class="edge">
 <title>c3.campos&#45;&gt;c3.integral&#45;superficie</title>
 <path fill="none" stroke="#888888" d="M2121.99,-757.13C2223.14,-753.03 2409.95,-745.46 2530.37,-740.58"/>
 <polygon fill="#888888" stroke="#888888" points="2530.42,-742.68 2536.33,-740.34 2530.25,-738.49 2530.42,-742.68"/>
@@ -555,7 +555,7 @@
 <text xml:space="preserve" text-anchor="middle" x="2644.5" y="-779.3" font-family="Helvetica,sans-Serif" font-size="11.00">Circulação e rotacional</text>
 </g>
 <!-- c3.integral&#45;linha&#45;&gt;c3.rotacional -->
-<g id="edge29" class="edge">
+<g id="edge1" class="edge">
 <title>c3.integral&#45;linha&#45;&gt;c3.rotacional</title>
 <path fill="none" stroke="#888888" d="M2498.52,-783C2524.7,-783 2551.17,-783 2574.19,-783"/>
 <polygon fill="#888888" stroke="#888888" points="2574.03,-785.1 2580.03,-783 2574.03,-780.9 2574.03,-785.1"/>
@@ -567,13 +567,13 @@
 <text xml:space="preserve" text-anchor="middle" x="2900.25" y="-755.3" font-family="Helvetica,sans-Serif" font-size="11.00">Teoremas de Green, Gauss e Stokes</text>
 </g>
 <!-- c3.integral&#45;superficie&#45;&gt;c3.teoremas -->
-<g id="edge45" class="edge">
+<g id="edge26" class="edge">
 <title>c3.integral&#45;superficie&#45;&gt;c3.teoremas</title>
 <path fill="none" stroke="#888888" d="M2751.28,-745.59C2766.12,-746.93 2781.36,-748.31 2796.15,-749.65"/>
 <polygon fill="#888888" stroke="#888888" points="2795.7,-751.72 2801.86,-750.17 2796.07,-747.54 2795.7,-751.72"/>
 </g>
 <!-- c3.rotacional&#45;&gt;c3.teoremas -->
-<g id="edge46" class="edge">
+<g id="edge27" class="edge">
 <title>c3.rotacional&#45;&gt;c3.teoremas</title>
 <path fill="none" stroke="#888888" d="M2707.57,-777.13C2734.33,-774.6 2766.35,-771.57 2796.48,-768.72"/>
 <polygon fill="#888888" stroke="#888888" points="2796.41,-770.84 2802.18,-768.18 2796.01,-766.66 2796.41,-770.84"/>
@@ -585,7 +585,7 @@
 <text xml:space="preserve" text-anchor="middle" x="3164.25" y="-755.3" font-family="Helvetica,sans-Serif" font-size="11.00">Equação da continuidade</text>
 </g>
 <!-- c3.teoremas&#45;&gt;c3.continuidade -->
-<g id="edge42" class="edge">
+<g id="edge22" class="edge">
 <title>c3.teoremas&#45;&gt;c3.continuidade</title>
 <path fill="none" stroke="#888888" d="M2996.95,-759C3026.87,-759 3059.45,-759 3087.78,-759"/>
 <polygon fill="#888888" stroke="#888888" points="3087.76,-761.1 3093.76,-759 3087.76,-756.9 3087.76,-761.1"/>
@@ -597,7 +597,7 @@
 <text xml:space="preserve" text-anchor="middle" x="3164.25" y="-43.3" font-family="Helvetica,sans-Serif" font-size="11.00">Teorema de Cauchy</text>
 </g>
 <!-- c3.teoremas&#45;&gt;mvc.cauchy -->
-<g id="edge33" class="edge">
+<g id="edge35" class="edge">
 <title>c3.teoremas&#45;&gt;mvc.cauchy</title>
 <path fill="none" stroke="#888888" d="M2908.7,-740.48C2926.59,-695.84 2973.18,-578.74 3009.5,-480 3024.44,-439.37 3027.11,-428.83 3041.5,-388 3083.18,-269.74 3133.82,-128.74 3154.16,-72.24"/>
 <polygon fill="#888888" stroke="#888888" points="3156.03,-73.24 3156.09,-66.89 3152.08,-71.82 3156.03,-73.24"/>
@@ -609,13 +609,13 @@
 <text xml:space="preserve" text-anchor="middle" x="3164.25" y="-862.3" font-family="Helvetica,sans-Serif" font-size="11.00">Laplaciano e funções de Green</text>
 </g>
 <!-- c3.teoremas&#45;&gt;fm1.green -->
-<g id="edge16" class="edge">
+<g id="edge60" class="edge">
 <title>c3.teoremas&#45;&gt;fm1.green</title>
 <path fill="none" stroke="#888888" d="M2930.91,-777.51C2958.65,-794.17 3001.66,-818.36 3041.5,-834 3052.2,-838.2 3063.64,-842.02 3075.06,-845.45"/>
 <polygon fill="#888888" stroke="#888888" points="3074.37,-847.43 3080.72,-847.11 3075.55,-843.4 3074.37,-847.43"/>
 </g>
 <!-- mvc.complexos&#45;&gt;mvc.analiticas -->
-<g id="edge13" class="edge">
+<g id="edge24" class="edge">
 <title>mvc.complexos&#45;&gt;mvc.analiticas</title>
 <path fill="none" stroke="#888888" d="M1050.17,-47C1283.28,-47 1812.32,-47 1989.81,-47"/>
 <polygon fill="#888888" stroke="#888888" points="1989.72,-49.1 1995.72,-47 1989.72,-44.9 1989.72,-49.1"/>
@@ -627,13 +627,13 @@
 <text xml:space="preserve" text-anchor="middle" x="2900.25" y="-425.3" font-family="Helvetica,sans-Serif" font-size="11.00">EDOs lineares de segunda ordem</text>
 </g>
 <!-- mvc.complexos&#45;&gt;c4.edo2 -->
-<g id="edge36" class="edge">
+<g id="edge17" class="edge">
 <title>mvc.complexos&#45;&gt;c4.edo2</title>
 <path fill="none" stroke="#888888" d="M1050.19,-59.64C1161.37,-71.03 1336.45,-86 1488.5,-86 1488.5,-86 1488.5,-86 2365.75,-86 2601.85,-86 2816.7,-326.61 2880.28,-404.79"/>
 <polygon fill="#888888" stroke="#888888" points="2878.59,-406.03 2883.99,-409.38 2881.85,-403.39 2878.59,-406.03"/>
 </g>
 <!-- mvc.analiticas&#45;&gt;mvc.cauchy -->
-<g id="edge32" class="edge">
+<g id="edge34" class="edge">
 <title>mvc.analiticas&#45;&gt;mvc.cauchy</title>
 <path fill="none" stroke="#888888" d="M2103.05,-38.6C2139,-33.23 2188.02,-26.76 2231.5,-24 2557.84,-3.28 2949.58,-29.6 3100.11,-41.61"/>
 <polygon fill="#888888" stroke="#888888" points="3099.86,-43.7 3106.01,-42.09 3100.2,-39.51 3099.86,-43.7"/>
@@ -645,13 +645,13 @@
 <text xml:space="preserve" text-anchor="middle" x="2364.75" y="-43.3" font-family="Helvetica,sans-Serif" font-size="11.00">Extensão analítica e folhas de Riemann</text>
 </g>
 <!-- mvc.analiticas&#45;&gt;mvc.multivalentes -->
-<g id="edge58" class="edge">
+<g id="edge28" class="edge">
 <title>mvc.analiticas&#45;&gt;mvc.multivalentes</title>
 <path fill="none" stroke="#888888" d="M2103.1,-47C2144.06,-47 2202.6,-47 2253.84,-47"/>
 <polygon fill="#888888" stroke="#888888" points="2253.83,-49.1 2259.83,-47 2253.83,-44.9 2253.83,-49.1"/>
 </g>
 <!-- mvc.cauchy&#45;&gt;mvc.residuos -->
-<g id="edge66" class="edge">
+<g id="edge39" class="edge">
 <title>mvc.cauchy&#45;&gt;mvc.residuos</title>
 <path fill="none" stroke="#888888" d="M3221.17,-47C3247.61,-47 3280.11,-47 3311.06,-47"/>
 <polygon fill="#888888" stroke="#888888" points="3310.95,-49.1 3316.95,-47 3310.95,-44.9 3310.95,-49.1"/>
@@ -663,19 +663,19 @@
 <text xml:space="preserve" text-anchor="middle" x="3667.12" y="-885.3" font-family="Helvetica,sans-Serif" font-size="11.00">Séries e transformadas de Fourier e Laplace</text>
 </g>
 <!-- mvc.residuos&#45;&gt;fm1.fourier -->
-<g id="edge3" class="edge">
+<g id="edge68" class="edge">
 <title>mvc.residuos&#45;&gt;fm1.fourier</title>
 <path fill="none" stroke="#888888" d="M3425.98,-65.37C3457.78,-174.43 3621.63,-736.38 3658.67,-863.44"/>
 <polygon fill="#888888" stroke="#888888" points="3656.62,-863.89 3660.31,-869.06 3660.65,-862.71 3656.62,-863.89"/>
 </g>
 <!-- c4.series&#45;&gt;c4.series&#45;potencias -->
-<g id="edge5" class="edge">
+<g id="edge63" class="edge">
 <title>c4.series&#45;&gt;c4.series&#45;potencias</title>
 <path fill="none" stroke="#888888" d="M1580.97,-416C1618.37,-416 1660.8,-416 1694.58,-416"/>
 <polygon fill="#888888" stroke="#888888" points="1694.58,-418.1 1700.58,-416 1694.58,-413.9 1694.58,-418.1"/>
 </g>
 <!-- c4.series&#45;&gt;fm1.distribuicoes -->
-<g id="edge22" class="edge">
+<g id="edge10" class="edge">
 <title>c4.series&#45;&gt;fm1.distribuicoes</title>
 <path fill="none" stroke="#888888" d="M1581.03,-430.89C1691.36,-449.24 1863.85,-478.66 1868.75,-484 1921.53,-541.57 1844.21,-780.12 1900.75,-834 2089,-1013.4 2440.98,-930.24 2582.39,-886.68"/>
 <polygon fill="#888888" stroke="#888888" points="2582.82,-888.75 2587.92,-884.96 2581.57,-884.73 2582.82,-888.75"/>
@@ -687,37 +687,37 @@
 <text xml:space="preserve" text-anchor="middle" x="3164.25" y="-418.3" font-family="Helvetica,sans-Serif" font-size="11.00">Soluções em série; Frobenius e Fuchs</text>
 </g>
 <!-- c4.series&#45;potencias&#45;&gt;c4.frobenius -->
-<g id="edge60" class="edge">
+<g id="edge62" class="edge">
 <title>c4.series&#45;potencias&#45;&gt;c4.frobenius</title>
 <path fill="none" stroke="#888888" d="M1813.26,-413.44C1919.35,-408.69 2160.65,-399 2363.75,-399 2363.75,-399 2363.75,-399 2645.5,-399 2807.31,-399 2848,-396.06 3009.5,-406 3024.83,-406.94 3040.99,-408.26 3056.85,-409.75"/>
 <polygon fill="#888888" stroke="#888888" points="3056.42,-411.82 3062.6,-410.3 3056.82,-407.64 3056.42,-411.82"/>
 </g>
 <!-- c4.edo1&#45;&gt;c4.edo2 -->
-<g id="edge35" class="edge">
+<g id="edge16" class="edge">
 <title>c4.edo1&#45;&gt;c4.edo2</title>
 <path fill="none" stroke="#888888" d="M2712.83,-429C2740.56,-429 2773.2,-429 2803.35,-429"/>
 <polygon fill="#888888" stroke="#888888" points="2803.04,-431.1 2809.04,-429 2803.04,-426.9 2803.04,-431.1"/>
 </g>
 <!-- c4.edo2&#45;&gt;c4.frobenius -->
-<g id="edge59" class="edge">
+<g id="edge61" class="edge">
 <title>c4.edo2&#45;&gt;c4.frobenius</title>
 <path fill="none" stroke="#888888" d="M2989.95,-426.63C3011.29,-426.06 3034.31,-425.44 3056.38,-424.86"/>
 <polygon fill="#888888" stroke="#888888" points="3056.37,-426.96 3062.31,-424.7 3056.26,-422.76 3056.37,-426.96"/>
 </g>
 <!-- c4.edo2&#45;&gt;fm1.sturm&#45;liouville -->
-<g id="edge53" class="edge">
+<g id="edge41" class="edge">
 <title>c4.edo2&#45;&gt;fm1.sturm&#45;liouville</title>
 <path fill="none" stroke="#888888" d="M2909.9,-447.51C2930.2,-491.64 2981.3,-606.91 3009.5,-708 3030.97,-784.95 2986.36,-829.1 3041.81,-889.61"/>
 <polygon fill="#888888" stroke="#888888" points="3040.01,-890.77 3045.68,-893.66 3043.05,-887.87 3040.01,-890.77"/>
 </g>
 <!-- fm1.distribuicoes&#45;&gt;fm1.green -->
-<g id="edge15" class="edge">
+<g id="edge59" class="edge">
 <title>fm1.distribuicoes&#45;&gt;fm1.green</title>
 <path fill="none" stroke="#888888" d="M2723.01,-866C2817,-866 2975.07,-866 3074.04,-866"/>
 <polygon fill="#888888" stroke="#888888" points="3073.84,-868.1 3079.84,-866 3073.84,-863.9 3073.84,-868.1"/>
 </g>
 <!-- fm1.sturm&#45;liouville&#45;&gt;fm1.fourier -->
-<g id="edge2" class="edge">
+<g id="edge67" class="edge">
 <title>fm1.sturm&#45;liouville&#45;&gt;fm1.fourier</title>
 <path fill="none" stroke="#888888" d="M3287.46,-907.14C3365.59,-903.4 3466.52,-898.56 3544.53,-894.83"/>
 <polygon fill="#888888" stroke="#888888" points="3544.61,-896.93 3550.5,-894.54 3544.41,-892.73 3544.61,-896.93"/>
@@ -731,13 +731,13 @@
 <text xml:space="preserve" text-anchor="middle" x="1757.62" y="-790.7" font-family="Helvetica,sans-Serif" font-size="9.00" fill="#555555">Física Geral I · Vetores e sistemas de coordenadas</text>
 </g>
 <!-- fg1.vetores&#45;&gt;ml.espacos -->
-<g id="edge51" class="edge">
+<g id="edge58" class="edge">
 <title>fg1.vetores&#45;&gt;ml.espacos</title>
 <path fill="none" stroke="#888888" d="M1785.18,-812.46C1838.56,-849.58 1958.72,-933.13 2016.66,-973.43"/>
 <polygon fill="#888888" stroke="#888888" points="2015.37,-975.09 2021.5,-976.79 2017.77,-971.64 2015.37,-975.09"/>
 </g>
 <!-- fg1.vetores&#45;&gt;c3.campos -->
-<g id="edge24" class="edge">
+<g id="edge33" class="edge">
 <title>fg1.vetores&#45;&gt;c3.campos</title>
 <path fill="none" stroke="#888888" d="M1869.28,-781.05C1903.12,-777.09 1939.63,-772.82 1970.85,-769.16"/>
 <polygon fill="#888888" stroke="#888888" points="1971.03,-771.25 1976.75,-768.47 1970.55,-767.08 1971.03,-771.25"/>
