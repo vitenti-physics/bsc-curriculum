@@ -35,6 +35,11 @@ diferente do responsável pelo curso principal. Assim o estudante vê os mesmos
 tópicos sob outra perspectiva, e o professor da Prática acompanha de perto o
 estudo e identifica as dificuldades.
 
+Física Geral II tem duas Práticas bimestrais de 15 h, uma para Física Geral IIa
+(oscilações e ondas) e outra para Física Geral IIb (fluidos e termodinâmica), e não
+uma Prática de 30 h. Os dois assuntos têm pouca relação entre si, e a separação
+garante que a Prática cubra os dois.
+
 ## Pontos em aberto {#sec-pontos-abertos .unnumbered}
 
 Pendências a serem resolvidas pelo NDE:

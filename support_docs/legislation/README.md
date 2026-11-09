@@ -39,7 +39,9 @@ MEC não respondeu; a redação deve ser conferida na fonte oficial antes de ser
 
 - Sistema de matrícula por atividade acadêmica (o do curso em 2023): cada disciplina pode
   ter até 2 pré-requisitos diretos, e uma cadeia de pré-requisitos tem no máximo $n$
-  disciplinas, com $n$ o número mínimo de anos do curso (4) (Art. 2º, IV).
+  disciplinas, com $n$ o número mínimo de anos do curso (4) (Art. 2º, IV). É a norma que
+  obrigou o curso a reduzir os pré-requisitos; a carta do NDE em
+  `support_docs/nde/carta-pre-requisitos.pdf` responde a ela.
 - **Correquisitos não são admitidos** (Art. 2º, §4º): uma disciplina não pode exigir que
   outra seja cursada no mesmo semestre.
 - A reformulação deve conter os itens do Art. 9º, §1º, entre eles a avaliação do PPC
@@ -55,5 +57,5 @@ MEC não respondeu; a redação deve ser conferida na fonte oficial antes de ser
   portais do MEC e do INEP não responderam.
 - Da UEL: Estatuto e Regimento Geral; Resolução CU 089/2019 (institui a creditação da
   extensão); norma de atividades acadêmicas complementares; resolução do PPC vigente de
-  Física; o documento que reduziu os pré-requisitos do curso.
+  Física.
 - Deliberação CEE/PR 04/2006 (relações étnico-raciais, texto original).

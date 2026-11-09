@@ -31,8 +31,8 @@ nova ou alterada entra aqui primeiro e depois é transcrita para a página do an
 - Observações que não fazem parte da ementa.
 ```
 
-- **Carga horária**: horas totais. As disciplinas de Prática têm 30 h (15 h nas Práticas
-  bimestrais de Física Geral IIa e IIb).
+- **Carga horária**: horas totais. As disciplinas de Prática têm 30 h (15 h em cada uma das
+  Práticas bimestrais de Física Geral IIa e IIb).
 - **Semestre**: semestre do curso e ano entre parênteses; bimestre quando a disciplina é
   bimestral.
 - **Situação**: *proposta do NDE*; *ementa incompleta*; *ementa a definir pelo NDE*;
