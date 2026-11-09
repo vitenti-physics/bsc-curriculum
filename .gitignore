@@ -25,5 +25,10 @@ Thumbs.db
 /.vscode/
 /OldDocs/
 
-# Saída gerada por DadosFisica/extract/extract_assets.py a partir de DadosFisica/raw
+# Extrações do DadosFisica (geradas novamente pelos scripts em DadosFisica/extract/)
+# extract_assets.py: imagens e páginas extraídas de DadosFisica/raw
 /DadosFisica/extract/images/
+# build_tidy.py: tabelas tidy geradas a partir de DadosFisica/data/transcribed
+/DadosFisica/data/*.csv
+# Caches de ferramentas
+/DadosFisica/.mypy_cache/
