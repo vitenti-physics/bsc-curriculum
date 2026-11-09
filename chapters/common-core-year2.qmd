@@ -53,14 +53,18 @@ Introduz a programação científica em **Python** aplicada a problemas físicos
 - Introdução à programação científica em Python: variáveis, funções, estruturas
   simples.
 - Uso de notebooks interativos para cálculos e visualização.
-- Bibliotecas fundamentais: NumPy, SciPy, Matplotlib.
+- Bibliotecas fundamentais: NumPy (cálculo vetorial e matricial), SciPy (funções
+  científicas), Matplotlib (gráficos).
 - Manipulação e análise de dados experimentais simples.
 - Resolução numérica de problemas elementares: zeros de funções, integrais, EDOs
   simples.
 - Representação e ajustes de dados experimentais: mínimos quadrados básicos.
-- Automatização de tarefas e reprodutibilidade.
-- Introdução a ferramentas prontas relevantes à física.
-- Boas práticas de programação para projetos científicos.
+- Automatização de tarefas e reprodutibilidade: scripts, ambientes e boas
+  práticas.
+- Introdução ao uso de ferramentas prontas relevantes à física (simuladores,
+  softwares de análise).
+- Boas práticas de programação para projetos científicos: documentação mínima,
+  organização e testes simples.
 :::
 
 ### Física Geral III
@@ -105,7 +109,7 @@ Experimentos de eletromagnetismo que acompanham Física Geral III.
 ::: {.callout-important}
 ## Roteiros propostos, pendentes de aprovação pelo NDE
 Os roteiros abaixo foram tirados dos blocos *EDC* e *EAC* da coleção de roteiros
-existente (`support_docs/roteiros_Lab2`) e ajustados à ementa de Física Geral III.
+existente (`support_docs/lab-scripts/lab-2-2010`) e ajustados à ementa de Física Geral III.
 Ver [Pontos em aberto](common-core.qmd#sec-pontos-abertos).
 :::
 
@@ -215,7 +219,7 @@ Experimentos de **óptica física** que acompanham Física Geral IV.
 ::: {.callout-important}
 ## Roteiros propostos, pendentes de aprovação pelo NDE
 Os roteiros de difração e de polarização foram tirados dos roteiros *OPT* da
-coleção existente (`support_docs/roteiros_Lab2`). Os de interferência e de ondas
+coleção existente (`support_docs/lab-scripts/lab-2-2010`). Os de interferência e de ondas
 eletromagnéticas não existem na coleção e precisam ser desenvolvidos. Ver
 [Pontos em aberto](common-core.qmd#sec-pontos-abertos).
 :::

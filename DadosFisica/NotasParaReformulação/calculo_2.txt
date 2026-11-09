@@ -1,9 +1,0 @@
-Cálculo 2 - 60 horas
-
-- A integral de Riemann.
-- Definição analítica da integral. Antiderivada.
-- Estudo das funções transcendentes. Formulas de integrais conhecidas.
-- Técnicas de integração.
-- Integrais impróprias. 
-- Integrais múltiplas.
- 

@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "!DadosFisica/"
+    - "!notes/"
+    - "!support_docs/"
   resources:
     - skill-tree/skills.yml
     - skill-tree/tree.js

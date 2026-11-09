@@ -1,5 +1,0 @@
-Práticas de Cálculo II - 60 horas
-
-1 - Aplicações imediatas de Integrais em uma dimensão;
-2 - Algumas equações diferenciais separáveis. Equações do tipo dy/dx=f(x)g(y). requer integração.
-3 - Aplicações imediatas de Integrais em várias dimensões;

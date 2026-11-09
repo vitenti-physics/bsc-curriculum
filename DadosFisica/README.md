@@ -72,9 +72,10 @@ mobilidade interna e **não** contam como evasão.
 
 ## Contexto de reformulação (não-dados)
 
-`NotasParaReformulação/` e `PlanoPedagogico/` trazem a proposta de reforma do curso.
+As notas da reforma estão em `../notes/` e o rascunho do PPC em
+`../support_docs/ppc-draft/`.
 Proposta central: disciplinas **Práticas** (ex.: *Práticas de Cálculo I*, *Práticas de
-Física Geral I*, 30–60h) co-requisitas, em paralelo às disciplinas-porta, para ensinar
+Física Geral I*, 30 h) co-requisitas, em paralelo às disciplinas-porta, para ensinar
 o aluno a estudar/resolver exercícios — atacando exatamente Física Geral I e Cálculo I,
 que o diagnóstico apontou como gargalos (~65% de reprovação). No futuro: um único
 projeto Quarto reunindo dados + planos. Por ora é só contexto.

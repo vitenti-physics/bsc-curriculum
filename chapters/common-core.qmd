@@ -41,7 +41,7 @@ Pendências a serem resolvidas pelo NDE:
 
 1. **Roteiros dos Laboratórios de Física Geral III e IV.** Há uma proposta de
    roteiros para ambos (ver [Segundo Ano](common-core-year2.qmd)), tirada da
-   coleção de roteiros existente (`support_docs/roteiros_Lab2`) e ainda não
+   coleção de roteiros existente (`support_docs/lab-scripts/lab-2-2010`) e ainda não
    aprovada pelo NDE. A proposta do Laboratório III cobre toda a ementa de Física
    Geral III. A do Laboratório IV cobre difração e polarização; faltam roteiros de
    interferência e de ondas eletromagnéticas, que não existem na coleção.
