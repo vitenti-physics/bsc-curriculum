@@ -1,0 +1,8 @@
+## Laboratório de Física Geral II
+
+**Status:** rascunho.
+
+Aprofunda a experiência laboratorial com experimentos relacionados a oscilações,
+ondas, fluidos e termodinâmica (lei de Hooke, ondas estacionárias, princípio de
+Arquimedes, gases, calorimetria, entre outros; ver a
+[ementa](../common-core-year1.qmd#laboratório-de-física-geral-ii)).

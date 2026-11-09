@@ -1,0 +1,17 @@
+## Mecânica Quântica I
+
+**Status:** rascunho.
+
+Constrói a **estrutura geral da mecânica quântica**, cuja forma ondulatória em
+uma dimensão foi introduzida em [Física Moderna](semester-5.qmd#física-moderna).
+Começa revendo a álgebra linear de dimensão finita de Métodos Lineares para Física
+e introduz a notação de Dirac, os produtos direto e tensorial e a extensão a
+espaços de dimensão infinita. Os observáveis são definidos como geradores de
+transformações; o gerador da translação temporal, junto com os parênteses de
+Poisson de [Mecânica Analítica I](semester-6.qmd#mecânica-analítica-i), leva à
+quantização canônica, à equação de Schrödinger e ao princípio da incerteza como
+consequência da não comutatividade dos operadores. A teoria é aplicada a sistemas
+unidimensionais (partículas confinadas, oscilador harmônico, pacote de onda
+gaussiano), ao momento angular orbital e de spin e à sua adição, e aos potenciais
+centrais, terminando no **átomo de hidrogênio**, que usa os harmônicos esféricos
+de [Física Matemática II](semester-5.qmd#física-matemática-ii).

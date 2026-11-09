@@ -1,0 +1,11 @@
+## Prática de Física Geral IIa
+
+**Status:** rascunho.
+
+Disciplina espelho de Física Geral IIa, com foco no **estudo experimental de
+sistemas oscilatórios**. O pêndulo simples serve de sistema modelo para observar e
+quantificar o movimento harmônico, medir períodos e verificar as leis que o
+governam; o pêndulo amortecido permite investigar como a dissipação de energia
+afeta o comportamento oscilatório (decaimento da amplitude, mudança de
+frequência). Pretende-se desenvolver habilidades de coleta e análise de dados e de
+ajuste de modelos teóricos a dados experimentais.

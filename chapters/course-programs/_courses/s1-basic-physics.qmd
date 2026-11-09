@@ -1,0 +1,10 @@
+## Física Básica
+
+**Status:** a elaborar.
+
+Disciplina de **nivelamento**, ofertada de forma intensiva no 1º bimestre (com
+reoferta no 2º). Pretende-se que consolide as ferramentas matemáticas elementares
+(operações, potências e raízes, funções e suas representações gráficas) de modo
+que todos os estudantes possam acompanhar Cálculo I e Física Geral I em condições
+equivalentes. O programa detalhado, com a articulação aos primeiros tópicos de
+Cálculo, ainda será elaborado.

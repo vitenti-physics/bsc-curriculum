@@ -1,0 +1,10 @@
+## Laboratório de Física Moderna II
+
+**Status:** a elaborar.
+
+Segunda parte, com 60 h, do laboratório de física moderna; sucede o
+[Laboratório de Física Moderna I](semester-5.qmd#laboratório-de-física-moderna-i).
+A ementa vigente do laboratório anual (2FIS098) inclui também experimentos de
+**física do estado sólido** e de **física nuclear**, candidatos a esta segunda
+parte. Os roteiros ainda precisam ser definidos (ver
+[Pontos em aberto](../advanced-cycle.qmd#sec-pontos-abertos-ca)).

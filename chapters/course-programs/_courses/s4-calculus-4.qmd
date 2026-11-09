@@ -1,0 +1,9 @@
+## Cálculo IV
+
+**Status:** a elaborar.
+
+Trata de **sequências e séries** e introduz as **equações diferenciais
+ordinárias**, incluindo as lineares de segunda ordem e as soluções em séries de
+potências (método de Frobenius). Pretende-se que desenvolva as ferramentas de
+modelagem de sistemas dinâmicos (em particular o oscilador e suas variantes) que
+aparecem em todo o curso. O texto de fundamentação ainda será desenvolvido.

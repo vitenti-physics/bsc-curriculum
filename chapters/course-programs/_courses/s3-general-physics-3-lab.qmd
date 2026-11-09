@@ -1,0 +1,7 @@
+## Laboratório de Física Geral III
+
+**Status:** a elaborar.
+
+Complementa o curso teórico com experimentos de eletromagnetismo. Há uma
+[proposta de roteiros](../common-core-year2.qmd#laboratório-de-física-geral-iii),
+pendente de aprovação (ver [Pontos em aberto](../common-core.qmd#sec-pontos-abertos)).

@@ -17,94 +17,14 @@ Moderna, com o Laboratório de Física Moderna I). Física Matemática II desenv
 as funções especiais que Eletromagnetismo I usa no mesmo semestre; Relatividade
 Restrita introduz o cálculo tensorial usado no restante do ciclo avançado.
 
-## Mecânica Geral
+{{< include _courses/s5-general-mechanics.qmd >}}
 
-**Status:** rascunho.
+{{< include _courses/s5-electromagnetism-1.qmd >}}
 
-Primeira disciplina da sequência de Mecânica do ciclo avançado. Retoma a dinâmica
-do ponto material e dos sistemas de partículas com o cálculo do núcleo comum. As
-leis de conservação de energia, momento linear e momento angular são obtidas aqui
-a partir das propriedades das forças (forças conservativas, forças centrais); a
-sua obtenção a partir das simetrias é feita em
-[Mecânica Analítica I](semester-6.qmd#mecânica-analítica-i), com o formalismo
-lagrangeano. Dois temas preparam aquela disciplina: as oscilações acopladas são um
-caso particular do tratamento geral de pequenas oscilações, e os referenciais não
-inerciais mostram como a descrição do movimento depende do referencial.
+{{< include _courses/s5-special-relativity.qmd >}}
 
-## Eletromagnetismo I
+{{< include _courses/s5-modern-physics.qmd >}}
 
-**Status:** rascunho.
+{{< include _courses/s5-modern-physics-lab-1.qmd >}}
 
-Retoma em nível formal a eletrostática e a magnetostática de Física Geral III,
-com as ferramentas de Física Matemática I (distribuição de Dirac, funções de
-Green), de [Física Matemática II](#física-matemática-ii) (separação de variáveis,
-harmônicos esféricos) e de Cálculo III e IV. Começa com uma revisão das
-coordenadas curvilíneas e do **teorema de Helmholtz**: um campo vetorial que se
-anula suficientemente rápido no infinito fica determinado por seu divergente e
-seu rotacional, o que justifica estudar os campos a partir de suas equações
-diferenciais. A maior parte do curso trata dos **problemas de contorno**:
-equações de Poisson e Laplace, teoremas de unicidade, método das imagens,
-separação de variáveis e expansão multipolar. Termina com os campos na matéria
-(dielétricos e meios magnéticos). Indução, equações de Maxwell completas e
-radiação são tratadas em
-[Eletromagnetismo II](semester-6.qmd#eletromagnetismo-ii).
-
-## Relatividade Restrita
-
-**Status:** rascunho.
-
-Reúne em um único formalismo a mecânica e o eletromagnetismo do núcleo comum. A
-primeira parte (formalismo) parte da incompatibilidade entre as transformações de
-Galileu e as equações de Maxwell, reconstrói a cinemática a partir dos postulados
-de Einstein e chega à formulação geométrica: o espaço-tempo de Minkowski, os
-quadrivetores e a álgebra e o cálculo tensoriais. A segunda parte (aplicações)
-usa esse formalismo na dinâmica relativística, na óptica relativística e na
-formulação manifestamente covariante do eletromagnetismo. É a primeira disciplina
-em que o estudante manipula tensores e índices, usados em todo o ciclo avançado.
-Relaciona-se com [Eletromagnetismo I](#eletromagnetismo-i), do mesmo semestre, e
-com [Eletromagnetismo II](semester-6.qmd#eletromagnetismo-ii), do semestre
-seguinte.
-
-## Física Moderna
-
-**Status:** rascunho.
-
-Apresenta os resultados experimentais que a física clássica não explica
-(radiação térmica, calores específicos, efeitos fotoelétrico e Compton, estrutura
-do átomo) e as primeiras respostas teóricas a eles, da hipótese de Planck à teoria
-de Bohr e às regras de Bohr-Sommerfeld. A dualidade onda-partícula é tratada com a
-análise de Fourier de Física Matemática I (pacotes de onda, velocidades de fase e
-de grupo, princípio da incerteza). Termina com a **equação de Schrödinger em uma
-dimensão** e a interpretação de Born, que
-[Mecânica Quântica I](semester-7.qmd#mecânica-quântica-i) reconstrói de forma
-geral. Os temas marcados como *qualitativos* na ementa são apresentados sem o
-formalismo, que vem em Mecânica Quântica I e II. É a base teórica do
-[Laboratório de Física Moderna I](#laboratório-de-física-moderna-i), do mesmo
-semestre, e do [Laboratório de Física Moderna II](semester-6.qmd#laboratório-de-física-moderna-ii),
-do semestre seguinte.
-
-## Laboratório de Física Moderna I
-
-**Status:** a elaborar.
-
-Primeira parte, com 60 h, do laboratório de física moderna, que no currículo
-vigente é uma única disciplina anual de 120 h (2FIS098). Continua a sequência de
-laboratórios do núcleo comum (Física Geral I a IV) com os experimentos que
-estabeleceram a quantização da energia, a natureza corpuscular da radiação e a
-estrutura do átomo, acompanhando [Física Moderna](#física-moderna). Os roteiros
-ainda precisam ser definidos (ver
-[Pontos em aberto](../advanced-cycle.qmd#sec-pontos-abertos-ca)).
-
-## Física Matemática II
-
-**Status:** rascunho.
-
-Continua Física Matemática I. Aplica o método de separação de variáveis às
-equações de Laplace e Helmholtz em coordenadas esféricas e cilíndricas, o que
-produz as funções de Legendre, os harmônicos esféricos e as funções de Bessel, e
-resolve com essas funções problemas de contorno de eletromagnetismo, vibrações,
-condução de calor e mecânica quântica (oscilador harmônico, átomo de hidrogênio).
-Termina com as funções de Green estacionárias e dependentes do tempo, que estendem
-as funções de Green do laplaciano construídas em Física Matemática I. As funções
-especiais desta disciplina são usadas em [Eletromagnetismo I](#eletromagnetismo-i),
-no mesmo semestre, e em [Mecânica Quântica I](semester-7.qmd#mecânica-quântica-i).
+{{< include _courses/s5-mathematical-physics-2.qmd >}}

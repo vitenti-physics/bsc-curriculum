@@ -1,0 +1,15 @@
+## Computação para Física
+
+**Status:** rascunho.
+
+Esta disciplina introduz as técnicas computacionais aplicadas à resolução de
+problemas físicos, com foco no desenvolvimento de habilidades práticas em
+**programação científica**, usando Python como linguagem principal.
+
+Os alunos aprendem a organizar projetos científicos, manipular e analisar dados
+experimentais e utilizar bibliotecas fundamentais como NumPy, SciPy e Matplotlib.
+O curso aborda métodos numéricos básicos para problemas físicos (zeros de funções,
+integração numérica e solução de equações diferenciais ordinárias), com ênfase em
+reprodutibilidade e boas práticas de programação. A intenção é que a computação
+deixe de ser um conteúdo isolado e passe a ser ferramenta de trabalho nas demais
+disciplinas.

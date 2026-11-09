@@ -1,0 +1,7 @@
+## Prática de Física Geral III
+
+**Status:** rascunho.
+
+Disciplina espelho de Física Geral III, dedicada à resolução de exercícios e à
+consolidação dos tópicos de eletromagnetismo (lei de Coulomb, campo e potencial
+elétrico, capacitores, circuitos, campo magnético e indução).

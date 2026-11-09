@@ -17,88 +17,16 @@ complexas**. O cálculo vetorial dá a linguagem (campos, fluxo, circulação) q
 eletromagnetismo exige; a computação passa a ser ferramenta de análise e de
 resolução numérica que acompanhará as demais disciplinas.
 
-## Cálculo III
+{{< include _courses/s3-calculus-3.qmd >}}
 
-**Status:** a elaborar.
+{{< include _courses/s3-calculus-3-practice.qmd >}}
 
-Estende o cálculo a funções de várias variáveis e introduz o **cálculo vetorial**:
-campos vetoriais, integrais de linha e de superfície, e os teoremas de Green, Gauss
-e Stokes, encerrando com a equação da continuidade. Pretende-se que forneça a
-linguagem matemática usada de imediato em Física Geral III. O texto de
-fundamentação ainda será desenvolvido.
+{{< include _courses/s3-computing-for-physics.qmd >}}
 
-## Práticas de Cálculo III
+{{< include _courses/s3-general-physics-3.qmd >}}
 
-**Status:** rascunho.
+{{< include _courses/s3-general-physics-3-practice.qmd >}}
 
-Disciplina espelho de Cálculo III, dedicada à resolução de exercícios de cálculo
-vetorial e funções de várias variáveis, com aplicações físicas (campos
-conservativos, fluxo, equação da continuidade).
+{{< include _courses/s3-general-physics-3-lab.qmd >}}
 
-## Computação para Física
-
-**Status:** rascunho.
-
-Esta disciplina introduz as técnicas computacionais aplicadas à resolução de
-problemas físicos, com foco no desenvolvimento de habilidades práticas em
-**programação científica**, usando Python como linguagem principal.
-
-Os alunos aprendem a organizar projetos científicos, manipular e analisar dados
-experimentais e utilizar bibliotecas fundamentais como NumPy, SciPy e Matplotlib.
-O curso aborda métodos numéricos básicos para problemas físicos (zeros de funções,
-integração numérica e solução de equações diferenciais ordinárias), com ênfase em
-reprodutibilidade e boas práticas de programação. A intenção é que a computação
-deixe de ser um conteúdo isolado e passe a ser ferramenta de trabalho nas demais
-disciplinas.
-
-## Física Geral III
-
-**Status:** rascunho.
-
-O curso concentra-se no **eletromagnetismo**, uma das quatro interações
-fundamentais. Seu objetivo é duplo: compreender tanto a base empírica das leis
-eletromagnéticas quanto sua formulação matemática. Nesta disciplina os alunos
-exploram essas leis de forma **fenomenológica**, compreendendo seus efeitos
-observáveis, com modelos de soluções analíticas e simétricas e sem formalismos
-matemáticos complexos. A unificação em um único formalismo, as equações de
-Maxwell, é desenvolvida em **Física Geral IV** (4º semestre); a formulação por
-problemas de contorno, em Eletromagnetismo I (5º semestre).
-
-Como em Física Geral I, o modelo de partícula é fundamental, mas o
-eletromagnetismo introduz um novo conceito crucial: a **carga elétrica**. Essa
-propriedade intrínseca da matéria, representada como um escalar, é introduzida
-fenomenologicamente como a fonte da interação entre partículas carregadas
-(lei de Coulomb, derivada de observações experimentais). A partir das
-características dessa interação, exploram-se o campo elétrico e suas propriedades,
-incluindo a Lei de Gauss e o potencial elétrico.
-
-::: {.item-ementa}
-**Item da ementa:** Lei de Coulomb e campo elétrico; Lei de Gauss; Potencial
-elétrico.
-:::
-
-## Prática de Física Geral III
-
-**Status:** rascunho.
-
-Disciplina espelho de Física Geral III, dedicada à resolução de exercícios e à
-consolidação dos tópicos de eletromagnetismo (lei de Coulomb, campo e potencial
-elétrico, capacitores, circuitos, campo magnético e indução).
-
-## Laboratório de Física Geral III
-
-**Status:** a elaborar.
-
-Complementa o curso teórico com experimentos de eletromagnetismo. Há uma
-[proposta de roteiros](../common-core-year2.qmd#laboratório-de-física-geral-iii),
-pendente de aprovação (ver [Pontos em aberto](../common-core.qmd#sec-pontos-abertos)).
-
-## Métodos de Variáveis Complexas para a Física
-
-**Status:** a elaborar.
-
-Introduz a teoria de **funções de variável complexa** e suas aplicações na Física,
-das propriedades algébricas dos complexos às funções analíticas, ao teorema de
-Cauchy e ao teorema dos resíduos, incluindo extensões analíticas e folhas de
-Riemann. Pretende-se enfatizar as aplicações físicas dessas técnicas. O texto de
-fundamentação ainda será desenvolvido.
+{{< include _courses/s3-complex-variables.qmd >}}

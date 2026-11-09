@@ -1,0 +1,14 @@
+## Eletromagnetismo II
+
+**Status:** rascunho.
+
+Trata a **eletrodinâmica** a partir do ponto em que
+[Eletromagnetismo I](semester-5.qmd#eletromagnetismo-i) termina (campos estáticos
+em meios materiais). Completa as equações de Maxwell com a força eletromotriz, a
+indução eletromagnética e a corrente de deslocamento, e deduz delas a equação da
+continuidade, o teorema de Poynting e a conservação do momento linear e angular do
+campo. Segue com as transformações de calibre, a equação de onda e a propagação de
+ondas no vácuo, na matéria, em guias de onda e em cavidades ressonantes, e com a
+dispersão óptica. Termina com os **potenciais retardados** e a **radiação** de
+sistemas simples; o retardamento usa a causalidade discutida em
+[Relatividade Restrita](semester-5.qmd#relatividade-restrita).

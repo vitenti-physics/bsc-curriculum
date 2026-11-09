@@ -1,0 +1,8 @@
+## Laboratório de Física Geral IV
+
+**Status:** a elaborar.
+
+Complementa o curso teórico com experimentos de ondas eletromagnéticas e óptica
+física. Há uma [proposta de roteiros](../common-core-year2.qmd#laboratório-de-física-geral-iv)
+para difração e polarização; faltam os de interferência e de ondas
+eletromagnéticas (ver [Pontos em aberto](../common-core.qmd#sec-pontos-abertos)).

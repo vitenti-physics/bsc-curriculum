@@ -18,61 +18,14 @@ com distribuições, funções de Green e análise de Fourier). As equações
 diferenciais de Cálculo IV e as técnicas de variáveis complexas do semestre
 anterior são pré-requisitos diretos de Física Matemática I.
 
-## Cálculo IV
+{{< include _courses/s4-calculus-4.qmd >}}
 
-**Status:** a elaborar.
+{{< include _courses/s4-calculus-4-practice.qmd >}}
 
-Trata de **sequências e séries** e introduz as **equações diferenciais
-ordinárias**, incluindo as lineares de segunda ordem e as soluções em séries de
-potências (método de Frobenius). Pretende-se que desenvolva as ferramentas de
-modelagem de sistemas dinâmicos (em particular o oscilador e suas variantes) que
-aparecem em todo o curso. O texto de fundamentação ainda será desenvolvido.
+{{< include _courses/s4-general-physics-4.qmd >}}
 
-## Práticas de Cálculo IV
+{{< include _courses/s4-general-physics-4-practice.qmd >}}
 
-**Status:** rascunho.
+{{< include _courses/s4-general-physics-4-lab.qmd >}}
 
-Disciplina espelho de Cálculo IV, dedicada à resolução de exercícios de séries e
-de equações diferenciais ordinárias de primeira e segunda ordem, com aplicações
-físicas.
-
-## Física Geral IV
-
-**Status:** rascunho.
-
-Dá continuidade a Física Geral III, passando da descrição **fenomenológica** do
-eletromagnetismo à sua **formulação unificada** pelas equações de Maxwell. Após
-uma revisão do cálculo vetorial (operadores gradiente, divergente e rotacional;
-teoremas integrais), introduz as equações de Maxwell e suas consequências: as
-oscilações e ondas eletromagnéticas, a polarização e os fenômenos de interferência
-e difração da luz. Encerra, assim, o ciclo de eletromagnetismo do núcleo comum,
-articulando-se diretamente com o cálculo vetorial de Cálculo III e IV.
-
-## Prática de Física Geral IV
-
-**Status:** rascunho.
-
-Disciplina espelho de Física Geral IV, dedicada à resolução de exercícios sobre as
-equações de Maxwell, as ondas eletromagnéticas e a óptica física (polarização,
-interferência e difração).
-
-## Laboratório de Física Geral IV
-
-**Status:** a elaborar.
-
-Complementa o curso teórico com experimentos de ondas eletromagnéticas e óptica
-física. Há uma [proposta de roteiros](../common-core-year2.qmd#laboratório-de-física-geral-iv)
-para difração e polarização; faltam os de interferência e de ondas
-eletromagnéticas (ver [Pontos em aberto](../common-core.qmd#sec-pontos-abertos)).
-
-## Física Matemática I
-
-**Status:** a elaborar.
-
-Introduz métodos matemáticos centrais da Física. Pretende-se partir da **delta de
-Dirac** e da ideia de distribuições, construir as **funções de Green** do
-laplaciano em 1, 2 e 3 dimensões, e desenvolver a **análise de Fourier**
-(séries e transformadas) articulada ao problema de Sturm-Liouville. A intenção é
-fornecer as ferramentas que sustentam a solução de problemas de contorno em
-eletromagnetismo, vibrações e condução de calor, aprofundadas em Física Matemática II e em Eletromagnetismo I. O texto
-de fundamentação ainda será desenvolvido.
+{{< include _courses/s4-mathematical-physics-1.qmd >}}

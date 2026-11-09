@@ -15,18 +15,4 @@ O oitavo semestre conclui a sequência de Física Moderna e Mecânica Quântica
 teórica, as optativas e as atividades de conclusão de curso, ainda a definir pelo
 NDE.
 
-## Mecânica Quântica II
-
-**Status:** rascunho.
-
-Estende a teoria de [Mecânica Quântica I](semester-7.qmd#mecânica-quântica-i) a
-estados mistos e a sistemas de muitas partículas: a matriz densidade, os sistemas
-de $N$ partículas, as partículas idênticas e os átomos multieletrônicos. Estuda as
-**simetrias** contínuas (translações espacial e temporal, rotações em duas e três
-dimensões) e discretas e suas consequências, o análogo quântico do teorema de
-Noether de [Mecânica Analítica I](semester-6.qmd#mecânica-analítica-i). A maior
-parte do curso trata dos **métodos de aproximação**: teoria de perturbação
-independente do tempo (casos degenerado e não degenerado) e dependente do tempo
-(perturbações súbitas, oscilatórias e adiabáticas), o método WKB e o método
-variacional. Termina com as equações relativísticas e com a integral de caminho
-da partícula livre em uma dimensão.
+{{< include _courses/s8-quantum-mechanics-2.qmd >}}

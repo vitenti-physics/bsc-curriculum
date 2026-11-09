@@ -1,0 +1,15 @@
+## Mecânica Analítica I
+
+**Status:** rascunho.
+
+Reconstrói a mecânica a partir do **princípio de ação**. O cálculo variacional
+leva às equações de Euler-Lagrange, que reproduzem a dinâmica newtoniana de
+[Mecânica Geral](semester-5.qmd#mecânica-geral) e se aplicam também a sistemas com
+vínculos e a coordenadas arbitrárias. O **teorema de Noether** obtém a
+conservação da energia, do momento linear e do momento angular a partir das
+**simetrias** do sistema (invariância por translação temporal, por translação
+espacial e por rotação), e não das propriedades das forças, como em Mecânica
+Geral. A disciplina trata ainda a cinemática e a dinâmica do **corpo rígido** e
+introduz o **formalismo hamiltoniano**, com os parênteses de Poisson, usado em
+[Mecânica Analítica II](semester-7.qmd#mecânica-analítica-ii) e em
+[Mecânica Quântica I](semester-7.qmd#mecânica-quântica-i).

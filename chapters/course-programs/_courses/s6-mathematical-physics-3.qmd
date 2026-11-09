@@ -1,0 +1,9 @@
+## Física Matemática III
+
+**Status:** a elaborar (ementa incompleta).
+
+Continua [Física Matemática II](semester-5.qmd#física-matemática-ii) com a
+geometria diferencial (variedades, espaço tangente e cotangente, derivada de Lie,
+formas diferenciais) e os grupos de Lie, e termina com o fluxo hamiltoniano e a
+geometria simplética, a formulação geométrica do formalismo hamiltoniano de
+[Mecânica Analítica I](#mecânica-analítica-i).

@@ -1,0 +1,15 @@
+## Métodos Lineares para Física
+
+**Status:** rascunho.
+
+A disciplina introduz os conceitos fundamentais de álgebra linear com foco em suas
+aplicações na Física, desenvolvendo as habilidades necessárias para compreender
+sistemas descritos por equações lineares.
+
+Os alunos estudam vetores e espaços vetoriais, combinações lineares e bases,
+fundamentais para a descrição de sistemas físicos. As transformações lineares e
+suas representações matriciais fornecem ferramentas para analisar como operadores
+físicos atuam sobre os estados do sistema. Autovetores e autovalores são
+apresentados como conceitos centrais para a análise de sistemas físicos, incluindo
+modos normais de vibração e estados estacionários, com a diagonalização de
+matrizes simétricas e os operadores ortogonais aplicados a rotações.

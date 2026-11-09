@@ -1,0 +1,14 @@
+## Física Geral IIb
+
+**Status:** rascunho.
+
+Segunda parte de Física Geral II (disciplina bimestral), voltada à **física de
+fluidos e termodinâmica**. Estudam-se as propriedades dos fluidos, a pressão e o
+princípio de Arquimedes; a termodinâmica é introduzida pelos conceitos de
+temperatura e calor, seguidos das duas primeiras leis, que estabelecem os
+princípios de conservação e transformação de energia.
+
+O curso apresenta ainda a **teoria cinética dos gases**, que faz a ponte entre as
+descrições microscópica (molecular) e macroscópica (termodinâmica) da matéria, e a
+distribuição de Maxwell-Boltzmann, ferramenta fundamental para o comportamento
+estatístico de sistemas com muitas partículas.

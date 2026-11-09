@@ -48,6 +48,10 @@ Cada programa tem as seções abaixo, nesta ordem.
   das disciplinas daquele semestre.
 - As marcações **"Item da ementa"** ligam a discussão conceitual aos itens
   correspondentes da ementa.
+- [Temas recorrentes](recurring-themes.qmd) reúne os temas que voltam em várias
+  disciplinas; os programas apontam para eles em vez de repetir o argumento.
+- O texto de cada programa está em um arquivo próprio em `_courses/`, com o mesmo nome
+  da nota da disciplina em `notes/courses/`; as páginas de semestre só o incluem.
 - Cada disciplina traz uma linha de **Status**: *rascunho* quando há texto, *a
   elaborar* quando não há.
 

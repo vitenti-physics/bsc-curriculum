@@ -1,0 +1,10 @@
+## Práticas de Cálculo I
+
+**Status:** rascunho.
+
+Disciplina espelho de Cálculo I, dedicada à resolução de exercícios e à
+consolidação dos seus tópicos, com ênfase em aplicações a problemas físicos.
+Pretende-se que acompanhe de perto o curso teórico, oferecendo treino sistemático
+em manipulação algébrica, gráficos, limites, derivadas, aproximações de Taylor e
+otimização. O detalhamento dos blocos de exercícios consta da
+[ementa](../common-core-year1.qmd#práticas-de-cálculo-i).

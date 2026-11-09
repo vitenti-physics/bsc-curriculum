@@ -57,6 +57,8 @@ website:
           - section: "Programas das Disciplinas"
             href: chapters/course-programs/overview.qmd
             contents:
+              - text: "Temas recorrentes"
+                href: chapters/course-programs/recurring-themes.qmd
               - text: "1º semestre"
                 href: chapters/course-programs/semester-1.qmd
               - text: "2º semestre"

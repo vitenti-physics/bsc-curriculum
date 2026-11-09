@@ -18,67 +18,12 @@ semestre: levam do lagrangeano ao hamiltoniano em Mecânica Analítica I e geram
 potenciais termodinâmicos em Termodinâmica. O Laboratório de Física Moderna II
 continua o Laboratório de Física Moderna I.
 
-## Mecânica Analítica I
+{{< include _courses/s6-analytical-mechanics-1.qmd >}}
 
-**Status:** rascunho.
+{{< include _courses/s6-electromagnetism-2.qmd >}}
 
-Reconstrói a mecânica a partir do **princípio de ação**. O cálculo variacional
-leva às equações de Euler-Lagrange, que reproduzem a dinâmica newtoniana de
-[Mecânica Geral](semester-5.qmd#mecânica-geral) e se aplicam também a sistemas com
-vínculos e a coordenadas arbitrárias. O **teorema de Noether** obtém a
-conservação da energia, do momento linear e do momento angular a partir das
-**simetrias** do sistema (invariância por translação temporal, por translação
-espacial e por rotação), e não das propriedades das forças, como em Mecânica
-Geral. A disciplina trata ainda a cinemática e a dinâmica do **corpo rígido** e
-introduz o **formalismo hamiltoniano**, com os parênteses de Poisson, usado em
-[Mecânica Analítica II](semester-7.qmd#mecânica-analítica-ii) e em
-[Mecânica Quântica I](semester-7.qmd#mecânica-quântica-i).
+{{< include _courses/s6-thermodynamics.qmd >}}
 
-## Eletromagnetismo II
+{{< include _courses/s6-modern-physics-lab-2.qmd >}}
 
-**Status:** rascunho.
-
-Trata a **eletrodinâmica** a partir do ponto em que
-[Eletromagnetismo I](semester-5.qmd#eletromagnetismo-i) termina (campos estáticos
-em meios materiais). Completa as equações de Maxwell com a força eletromotriz, a
-indução eletromagnética e a corrente de deslocamento, e deduz delas a equação da
-continuidade, o teorema de Poynting e a conservação do momento linear e angular do
-campo. Segue com as transformações de calibre, a equação de onda e a propagação de
-ondas no vácuo, na matéria, em guias de onda e em cavidades ressonantes, e com a
-dispersão óptica. Termina com os **potenciais retardados** e a **radiação** de
-sistemas simples; o retardamento usa a causalidade discutida em
-[Relatividade Restrita](semester-5.qmd#relatividade-restrita).
-
-## Termodinâmica
-
-**Status:** rascunho.
-
-Constrói a termodinâmica a partir de **postulados** sobre a entropia, e não pela
-sequência histórica das máquinas térmicas usada em Física Geral IIb. As
-**transformadas de Legendre**, as mesmas que levam do lagrangeano ao hamiltoniano
-em [Mecânica Analítica I](#mecânica-analítica-i), cursada no mesmo semestre, geram
-os potenciais termodinâmicos e as relações de Maxwell. O curso termina com a
-**estabilidade** dos sistemas termodinâmicos, as transições de fase de primeira
-ordem e os fenômenos críticos. Os potenciais e as condições de estabilidade são
-revistos no início de [Mecânica Estatística](semester-7.qmd#mecânica-estatística).
-
-## Laboratório de Física Moderna II
-
-**Status:** a elaborar.
-
-Segunda parte, com 60 h, do laboratório de física moderna; sucede o
-[Laboratório de Física Moderna I](semester-5.qmd#laboratório-de-física-moderna-i).
-A ementa vigente do laboratório anual (2FIS098) inclui também experimentos de
-**física do estado sólido** e de **física nuclear**, candidatos a esta segunda
-parte. Os roteiros ainda precisam ser definidos (ver
-[Pontos em aberto](../advanced-cycle.qmd#sec-pontos-abertos-ca)).
-
-## Física Matemática III
-
-**Status:** a elaborar (ementa incompleta).
-
-Continua [Física Matemática II](semester-5.qmd#física-matemática-ii) com a
-geometria diferencial (variedades, espaço tangente e cotangente, derivada de Lie,
-formas diferenciais) e os grupos de Lie, e termina com o fluxo hamiltoniano e a
-geometria simplética, a formulação geométrica do formalismo hamiltoniano de
-[Mecânica Analítica I](#mecânica-analítica-i).
+{{< include _courses/s6-mathematical-physics-3.qmd >}}

@@ -1,0 +1,11 @@
+## Física Matemática I
+
+**Status:** a elaborar.
+
+Introduz métodos matemáticos centrais da Física. Pretende-se partir da **delta de
+Dirac** e da ideia de distribuições, construir as **funções de Green** do
+laplaciano em 1, 2 e 3 dimensões, e desenvolver a **análise de Fourier**
+(séries e transformadas) articulada ao problema de Sturm-Liouville. A intenção é
+fornecer as ferramentas que sustentam a solução de problemas de contorno em
+eletromagnetismo, vibrações e condução de calor, aprofundadas em Física Matemática II e em Eletromagnetismo I. O texto
+de fundamentação ainda será desenvolvido.

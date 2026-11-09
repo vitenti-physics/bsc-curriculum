@@ -1,0 +1,15 @@
+## Mecânica Estatística
+
+**Status:** rascunho.
+
+Obtém as propriedades termodinâmicas de um sistema a partir da contagem de seus
+microestados. Começa revendo os potenciais termodinâmicos e as condições de
+estabilidade de [Termodinâmica](semester-6.qmd#termodinâmica) e usa o caminho
+aleatório e a equação de difusão como primeiro exemplo de contagem. Os ensembles
+microcanônico, canônico e grande canônico são aplicados aos mesmos sistemas:
+sistema de dois níveis, paramagneto ideal, sólido de Einstein e gás ideal
+clássico, além da solução do modelo de Ising unidimensional. A segunda parte trata
+da mecânica estatística quântica: as estatísticas de Bose-Einstein e Fermi-Dirac,
+os gases ideais quânticos de bósons e férmions, a radiação de corpo negro
+(apresentada historicamente em [Física Moderna](semester-5.qmd#física-moderna)), o
+gás de elétrons livres e o modelo de Debye para o calor específico dos sólidos.

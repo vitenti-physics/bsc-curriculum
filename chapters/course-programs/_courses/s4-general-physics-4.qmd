@@ -1,0 +1,11 @@
+## Física Geral IV
+
+**Status:** rascunho.
+
+Dá continuidade a Física Geral III, passando da descrição **fenomenológica** do
+eletromagnetismo à sua **formulação unificada** pelas equações de Maxwell. Após
+uma revisão do cálculo vetorial (operadores gradiente, divergente e rotacional;
+teoremas integrais), introduz as equações de Maxwell e suas consequências: as
+oscilações e ondas eletromagnéticas, a polarização e os fenômenos de interferência
+e difração da luz. Encerra, assim, o ciclo de eletromagnetismo do núcleo comum,
+articulando-se diretamente com o cálculo vetorial de Cálculo III e IV.

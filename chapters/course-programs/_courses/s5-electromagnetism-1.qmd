@@ -1,0 +1,17 @@
+## Eletromagnetismo I
+
+**Status:** rascunho.
+
+Retoma em nível formal a eletrostática e a magnetostática de Física Geral III,
+com as ferramentas de Física Matemática I (distribuição de Dirac, funções de
+Green), de [Física Matemática II](#física-matemática-ii) (separação de variáveis,
+harmônicos esféricos) e de Cálculo III e IV. Começa com uma revisão das
+coordenadas curvilíneas e do **teorema de Helmholtz**: um campo vetorial que se
+anula suficientemente rápido no infinito fica determinado por seu divergente e
+seu rotacional, o que justifica estudar os campos a partir de suas equações
+diferenciais. A maior parte do curso trata dos **problemas de contorno**:
+equações de Poisson e Laplace, teoremas de unicidade, método das imagens,
+separação de variáveis e expansão multipolar. Termina com os campos na matéria
+(dielétricos e meios magnéticos). Indução, equações de Maxwell completas e
+radiação são tratadas em
+[Eletromagnetismo II](semester-6.qmd#eletromagnetismo-ii).

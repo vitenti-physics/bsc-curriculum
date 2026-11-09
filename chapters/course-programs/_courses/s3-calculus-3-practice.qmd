@@ -1,0 +1,7 @@
+## Práticas de Cálculo III
+
+**Status:** rascunho.
+
+Disciplina espelho de Cálculo III, dedicada à resolução de exercícios de cálculo
+vetorial e funções de várias variáveis, com aplicações físicas (campos
+conservativos, fluxo, equação da continuidade).

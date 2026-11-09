@@ -1,0 +1,9 @@
+## Métodos de Variáveis Complexas para a Física
+
+**Status:** a elaborar.
+
+Introduz a teoria de **funções de variável complexa** e suas aplicações na Física,
+das propriedades algébricas dos complexos às funções analíticas, ao teorema de
+Cauchy e ao teorema dos resíduos, incluindo extensões analíticas e folhas de
+Riemann. Pretende-se enfatizar as aplicações físicas dessas técnicas. O texto de
+fundamentação ainda será desenvolvido.

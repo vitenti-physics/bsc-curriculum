@@ -1,0 +1,7 @@
+## Práticas de Cálculo IV
+
+**Status:** rascunho.
+
+Disciplina espelho de Cálculo IV, dedicada à resolução de exercícios de séries e
+de equações diferenciais ordinárias de primeira e segunda ordem, com aplicações
+físicas.

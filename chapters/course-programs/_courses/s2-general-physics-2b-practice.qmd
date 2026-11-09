@@ -1,0 +1,7 @@
+## Prática de Física Geral IIb
+
+**Status:** rascunho.
+
+Disciplina espelho de Física Geral IIb, dedicada à resolução de exercícios e à
+consolidação dos tópicos de fluidos e termodinâmica. O programa detalhado
+acompanhará a ementa do curso principal.

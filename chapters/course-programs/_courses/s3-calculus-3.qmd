@@ -1,0 +1,9 @@
+## Cálculo III
+
+**Status:** a elaborar.
+
+Estende o cálculo a funções de várias variáveis e introduz o **cálculo vetorial**:
+campos vetoriais, integrais de linha e de superfície, e os teoremas de Green, Gauss
+e Stokes, encerrando com a equação da continuidade. Pretende-se que forneça a
+linguagem matemática usada de imediato em Física Geral III. O texto de
+fundamentação ainda será desenvolvido.

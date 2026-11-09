@@ -1,0 +1,13 @@
+## Prática de Física Geral I
+
+**Status:** rascunho.
+
+Disciplina espelho de Física Geral I, voltada à consolidação dos conceitos
+teóricos por meio da resolução de problemas. Um aspecto central é a **construção
+de sistemas de coordenadas a partir de medidas físicas reais**: os alunos aprendem
+a estabelecer a conexão entre o mundo observável e sua representação matemática,
+transformando observações em descrições quantitativas. A disciplina enfatiza ainda
+a conversão entre grandezas e o Sistema Internacional (SI), a **análise
+dimensional** (ferramenta para verificar a consistência de equações e estimar
+ordens de grandeza) e problemas envolvendo referenciais acelerados e quantidades
+conservadas, reforçando a conexão entre simetrias e leis de conservação.

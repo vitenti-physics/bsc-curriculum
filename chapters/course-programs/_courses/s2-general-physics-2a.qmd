@@ -1,0 +1,14 @@
+## Física Geral IIa
+
+**Status:** rascunho.
+
+Primeira parte de Física Geral II (disciplina bimestral), dedicada a **oscilações
+e ondas**. O estudo começa com oscilações livres e forçadas (fenômenos ubíquos,
+do pêndulo às vibrações moleculares) e com o conceito de **ressonância**, de
+grande importância prática em engenharia e tecnologia.
+
+A propagação de ondas e a velocidade de fase surgem como extensões naturais do
+estudo de oscilações: os alunos aprendem como perturbações se propagam em
+diferentes meios e como descrevê-las matematicamente. Índice de refração,
+difração, reflexão e transmissão são explorados no contexto da propagação,
+culminando no princípio de Huygens e em uma introdução à óptica geométrica.

@@ -1,0 +1,17 @@
+## Cálculo II
+
+**Status:** rascunho.
+
+O curso de Cálculo II introduz o cálculo integral, complementando os conceitos de
+cálculo diferencial de Cálculo I. É acompanhado pelas Práticas de Cálculo II, onde
+as técnicas de integração são aplicadas a problemas físicos e geométricos
+concretos, além da introdução às equações diferenciais separáveis.
+
+A integral de Riemann é apresentada inicialmente por sua definição geométrica,
+permitindo desenvolver intuição sobre acumulação e área sob curvas; a definição
+analítica consolida essa compreensão com bases rigorosas. O estudo das funções
+transcendentes e de suas integrais amplia o repertório de funções manipuláveis, e
+as técnicas de integração desenvolvem a habilidade de reconhecer padrões e
+escolher métodos. As integrais impróprias e múltiplas estendem o conceito a
+domínios ilimitados e a funções de várias variáveis, preparando aplicações em
+duas e três dimensões.

@@ -1,0 +1,17 @@
+## Cálculo I
+
+**Status:** rascunho.
+
+O curso de Cálculo I introduz os conceitos fundamentais do cálculo diferencial,
+que constituem a base da formulação matemática da Física clássica. Este curso é
+acompanhado pela disciplina de Práticas de Cálculo I, onde os conceitos abstratos
+são aplicados em contextos geométricos e físicos concretos.
+
+O estudo inicia-se pela construção dos números reais e pela representação de
+funções de uma variável real, que permitem descrever relações quantitativas entre
+grandezas físicas. A partir dessas relações, são definidos os conceitos de limite
+e continuidade, que fornecem o arcabouço necessário para tratar variações
+contínuas de grandezas observáveis. Sobre essa base desenvolvem-se a derivada e
+suas regras de cálculo, a aproximação de funções por polinômios de Taylor e a
+extensão a funções de várias variáveis, com as derivadas parciais e os problemas
+de máximos e mínimos que aparecem de modo recorrente na Física.

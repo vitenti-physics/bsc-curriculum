@@ -1,0 +1,11 @@
+## Laboratório de Física Moderna I
+
+**Status:** a elaborar.
+
+Primeira parte, com 60 h, do laboratório de física moderna, que no currículo
+vigente é uma única disciplina anual de 120 h (2FIS098). Continua a sequência de
+laboratórios do núcleo comum (Física Geral I a IV) com os experimentos que
+estabeleceram a quantização da energia, a natureza corpuscular da radiação e a
+estrutura do átomo, acompanhando [Física Moderna](#física-moderna). Os roteiros
+ainda precisam ser definidos (ver
+[Pontos em aberto](../advanced-cycle.qmd#sec-pontos-abertos-ca)).

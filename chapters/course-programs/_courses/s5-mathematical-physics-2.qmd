@@ -1,0 +1,13 @@
+## Física Matemática II
+
+**Status:** rascunho.
+
+Continua Física Matemática I. Aplica o método de separação de variáveis às
+equações de Laplace e Helmholtz em coordenadas esféricas e cilíndricas, o que
+produz as funções de Legendre, os harmônicos esféricos e as funções de Bessel, e
+resolve com essas funções problemas de contorno de eletromagnetismo, vibrações,
+condução de calor e mecânica quântica (oscilador harmônico, átomo de hidrogênio).
+Termina com as funções de Green estacionárias e dependentes do tempo, que estendem
+as funções de Green do laplaciano construídas em Física Matemática I. As funções
+especiais desta disciplina são usadas em [Eletromagnetismo I](#eletromagnetismo-i),
+no mesmo semestre, e em [Mecânica Quântica I](semester-7.qmd#mecânica-quântica-i).

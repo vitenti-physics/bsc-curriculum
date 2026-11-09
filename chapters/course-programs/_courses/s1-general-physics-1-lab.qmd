@@ -1,0 +1,10 @@
+## Laboratório de Física Geral I
+
+**Status:** rascunho.
+
+Primeiro contato sistemático com o **método experimental**. Pretende-se que
+introduza medidas físicas e sistemas de unidades, o tratamento de incertezas
+(tipos de erro, propagação, estatística básica), a representação e o ajuste de
+dados e o uso de ferramentas computacionais (Python), culminando na elaboração de
+relatórios científicos. Os roteiros acompanham os tópicos de mecânica de Física
+Geral I (ver a [ementa](../common-core-year1.qmd#laboratório-de-física-geral-i)).

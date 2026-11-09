@@ -1,0 +1,12 @@
+## Termodinâmica
+
+**Status:** rascunho.
+
+Constrói a termodinâmica a partir de **postulados** sobre a entropia, e não pela
+sequência histórica das máquinas térmicas usada em Física Geral IIb. As
+**transformadas de Legendre**, as mesmas que levam do lagrangeano ao hamiltoniano
+em [Mecânica Analítica I](#mecânica-analítica-i), cursada no mesmo semestre, geram
+os potenciais termodinâmicos e as relações de Maxwell. O curso termina com a
+**estabilidade** dos sistemas termodinâmicos, as transições de fase de primeira
+ordem e os fenômenos críticos. Os potenciais e as condições de estabilidade são
+revistos no início de [Mecânica Estatística](semester-7.qmd#mecânica-estatística).

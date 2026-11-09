@@ -17,58 +17,8 @@ Quântica I parte dos parênteses de Poisson para a quantização canônica, e a
 mecânica estatística clássica usa o espaço de fase e o teorema de Liouville de
 Mecânica Analítica II.
 
-## Mecânica Analítica II
+{{< include _courses/s7-analytical-mechanics-2.qmd >}}
 
-**Status:** rascunho.
+{{< include _courses/s7-quantum-mechanics-1.qmd >}}
 
-Conclui a sequência de Mecânica com o formalismo hamiltoniano introduzido em
-[Mecânica Analítica I](semester-6.qmd#mecânica-analítica-i). As **transformações
-canônicas** mudam as coordenadas e os momentos preservando a forma das equações de
-Hamilton; resolver um sistema pode então ser reduzido a encontrar uma
-transformação em que as equações se tornam triviais. As **variáveis de
-ação-ângulo** e a **teoria de Hamilton-Jacobi** são os casos em que essa redução é
-completa; com elas as órbitas do problema de Kepler são obtidas diretamente da
-função principal de Hamilton. Os teoremas de **Liouville e Poincaré** tratam do
-fluxo no espaço de fase, usado em [Mecânica Estatística](#mecânica-estatística).
-
-A disciplina termina com a **introdução à teoria clássica de campos**, obtida como
-o limite do contínuo de sistemas mecânicos com muitos graus de liberdade. O
-princípio variacional e o teorema de Noether, aplicados a campos, dão as equações
-de Euler-Lagrange e as leis de conservação dos campos clássicos, a formulação
-usada no eletromagnetismo, na relatividade e na teoria quântica de campos. As
-notas do NDE tomam como referência o tratamento unidimensional do capítulo 13 de
-Goldstein para a passagem ao limite do contínuo.
-
-## Mecânica Quântica I
-
-**Status:** rascunho.
-
-Constrói a **estrutura geral da mecânica quântica**, cuja forma ondulatória em
-uma dimensão foi introduzida em [Física Moderna](semester-5.qmd#física-moderna).
-Começa revendo a álgebra linear de dimensão finita de Métodos Lineares para Física
-e introduz a notação de Dirac, os produtos direto e tensorial e a extensão a
-espaços de dimensão infinita. Os observáveis são definidos como geradores de
-transformações; o gerador da translação temporal, junto com os parênteses de
-Poisson de [Mecânica Analítica I](semester-6.qmd#mecânica-analítica-i), leva à
-quantização canônica, à equação de Schrödinger e ao princípio da incerteza como
-consequência da não comutatividade dos operadores. A teoria é aplicada a sistemas
-unidimensionais (partículas confinadas, oscilador harmônico, pacote de onda
-gaussiano), ao momento angular orbital e de spin e à sua adição, e aos potenciais
-centrais, terminando no **átomo de hidrogênio**, que usa os harmônicos esféricos
-de [Física Matemática II](semester-5.qmd#física-matemática-ii).
-
-## Mecânica Estatística
-
-**Status:** rascunho.
-
-Obtém as propriedades termodinâmicas de um sistema a partir da contagem de seus
-microestados. Começa revendo os potenciais termodinâmicos e as condições de
-estabilidade de [Termodinâmica](semester-6.qmd#termodinâmica) e usa o caminho
-aleatório e a equação de difusão como primeiro exemplo de contagem. Os ensembles
-microcanônico, canônico e grande canônico são aplicados aos mesmos sistemas:
-sistema de dois níveis, paramagneto ideal, sólido de Einstein e gás ideal
-clássico, além da solução do modelo de Ising unidimensional. A segunda parte trata
-da mecânica estatística quântica: as estatísticas de Bose-Einstein e Fermi-Dirac,
-os gases ideais quânticos de bósons e férmions, a radiação de corpo negro
-(apresentada historicamente em [Física Moderna](semester-5.qmd#física-moderna)), o
-gás de elétrons livres e o modelo de Debye para o calor específico dos sólidos.
+{{< include _courses/s7-statistical-mechanics.qmd >}}

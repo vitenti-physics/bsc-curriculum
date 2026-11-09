@@ -1,0 +1,10 @@
+## Práticas de Cálculo II
+
+**Status:** rascunho.
+
+Disciplina espelho de Cálculo II, com foco na aplicação das técnicas de integração
+a problemas concretos (áreas, volumes, trabalho, energia) e na introdução às
+**equações diferenciais separáveis** do tipo $dy/dx = f(x)g(y)$, que aparecem
+naturalmente em crescimento populacional, decaimento radioativo e circuitos. É
+através da resolução de problemas que se pretende desenvolver a intuição para
+aplicar o cálculo integral e as primeiras ferramentas de modelagem dinâmica.

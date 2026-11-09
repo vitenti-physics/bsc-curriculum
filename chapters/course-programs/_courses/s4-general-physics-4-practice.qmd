@@ -1,0 +1,7 @@
+## Prática de Física Geral IV
+
+**Status:** rascunho.
+
+Disciplina espelho de Física Geral IV, dedicada à resolução de exercícios sobre as
+equações de Maxwell, as ondas eletromagnéticas e a óptica física (polarização,
+interferência e difração).

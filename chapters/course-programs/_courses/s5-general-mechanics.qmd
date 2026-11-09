@@ -1,0 +1,13 @@
+## Mecânica Geral
+
+**Status:** rascunho.
+
+Primeira disciplina da sequência de Mecânica do ciclo avançado. Retoma a dinâmica
+do ponto material e dos sistemas de partículas com o cálculo do núcleo comum. As
+leis de conservação de energia, momento linear e momento angular são obtidas aqui
+a partir das propriedades das forças (forças conservativas, forças centrais); a
+sua obtenção a partir das simetrias é feita em
+[Mecânica Analítica I](semester-6.qmd#mecânica-analítica-i), com o formalismo
+lagrangeano. Dois temas preparam aquela disciplina: as oscilações acopladas são um
+caso particular do tratamento geral de pequenas oscilações, e os referenciais não
+inerciais mostram como a descrição do movimento depende do referencial.

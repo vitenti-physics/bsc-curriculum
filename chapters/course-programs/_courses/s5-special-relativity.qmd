@@ -1,0 +1,15 @@
+## Relatividade Restrita
+
+**Status:** rascunho.
+
+Reúne em um único formalismo a mecânica e o eletromagnetismo do núcleo comum. A
+primeira parte (formalismo) parte da incompatibilidade entre as transformações de
+Galileu e as equações de Maxwell, reconstrói a cinemática a partir dos postulados
+de Einstein e chega à formulação geométrica: o espaço-tempo de Minkowski, os
+quadrivetores e a álgebra e o cálculo tensoriais. A segunda parte (aplicações)
+usa esse formalismo na dinâmica relativística, na óptica relativística e na
+formulação manifestamente covariante do eletromagnetismo. É a primeira disciplina
+em que o estudante manipula tensores e índices, usados em todo o ciclo avançado.
+Relaciona-se com [Eletromagnetismo I](#eletromagnetismo-i), do mesmo semestre, e
+com [Eletromagnetismo II](semester-6.qmd#eletromagnetismo-ii), do semestre
+seguinte.

@@ -1,0 +1,21 @@
+## Mecânica Analítica II
+
+**Status:** rascunho.
+
+Conclui a sequência de Mecânica com o formalismo hamiltoniano introduzido em
+[Mecânica Analítica I](semester-6.qmd#mecânica-analítica-i). As **transformações
+canônicas** mudam as coordenadas e os momentos preservando a forma das equações de
+Hamilton; resolver um sistema pode então ser reduzido a encontrar uma
+transformação em que as equações se tornam triviais. As **variáveis de
+ação-ângulo** e a **teoria de Hamilton-Jacobi** são os casos em que essa redução é
+completa; com elas as órbitas do problema de Kepler são obtidas diretamente da
+função principal de Hamilton. Os teoremas de **Liouville e Poincaré** tratam do
+fluxo no espaço de fase, usado em [Mecânica Estatística](#mecânica-estatística).
+
+A disciplina termina com a **introdução à teoria clássica de campos**, obtida como
+o limite do contínuo de sistemas mecânicos com muitos graus de liberdade. O
+princípio variacional e o teorema de Noether, aplicados a campos, dão as equações
+de Euler-Lagrange e as leis de conservação dos campos clássicos, a formulação
+usada no eletromagnetismo, na relatividade e na teoria quântica de campos. As
+notas do NDE tomam como referência o tratamento unidimensional do capítulo 13 de
+Goldstein para a passagem ao limite do contínuo.

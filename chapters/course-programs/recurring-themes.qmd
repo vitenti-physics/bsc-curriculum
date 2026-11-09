@@ -1,0 +1,64 @@
+---
+title: "Temas recorrentes"
+---
+
+::: {.callout-warning}
+## Rascunho
+Página em construção. Cada seção trata de um tema que volta em várias disciplinas.
+A tabela lista, por disciplina, o que é usado e o que muda em relação às disciplinas
+anteriores. O texto de cada tema ainda será escrito, para ser lido também por quem
+está no início do curso e ainda não cursou as disciplinas de Cálculo.
+:::
+
+## Espaço e tempo {#sec-tema-espaco-tempo}
+
+| Disciplina | O que é usado | O que muda |
+|---|---|---|
+| Física Geral I | Espaço euclidiano tridimensional e tempo absoluto; coordenadas cartesianas. | Primeira aparição: as coordenadas cartesianas identificam posições, velocidades e acelerações com o mesmo $\mathbb{R}^3$. |
+| Métodos Lineares para Física | Espaços vetoriais, bases e mudança de base. | Um vetor passa a ser distinto das suas componentes em uma base. |
+| Cálculo III | Curvas e campos vetoriais em $\mathbb{R}^3$; vetores tangentes a uma curva. | Um ponto do espaço passa a ser distinto do vetor tangente à trajetória nesse ponto. |
+| Eletromagnetismo I | Coordenadas curvilíneas e leis de transformação; campos sobre o espaço. | A base muda de ponto a ponto; ponto e vetor deixam de ser intercambiáveis. |
+| Mecânica Analítica I e II | Espaço de configuração e espaço de fase. | Coordenadas generalizadas, velocidades e momentos passam a ser objetos de espaços distintos. |
+| Relatividade Restrita | Espaço-tempo de Minkowski. | Espaço e tempo deixam de ser separáveis; métrica indefinida; vetores e covetores (índices contravariantes e covariantes). |
+| Física Matemática III | Variedades; espaço tangente e cotangente; formas diferenciais. | As distinções anteriores são formalizadas. |
+| Relatividade Geral | Espaço-tempo curvo. | Fora da proposta; decidir se entra como optativa. |
+
+## Ponto material e campo {#sec-tema-ponto-campo}
+
+| Disciplina | O que é usado | O que muda |
+|---|---|---|
+| Física Geral I | Modelo de partícula: um objeto descrito só pela sua posição e pela sua velocidade. | Primeira aparição. |
+| Física Geral III | Campo elétrico de uma carga pontual; lei de Coulomb. | O campo está definido em todo o espaço; perto da carga pontual ele cresce sem limite. |
+| Física Matemática I e Eletromagnetismo I | Delta de Dirac; funções de Green do laplaciano. | A fonte pontual ganha uma descrição matemática precisa, como distribuição. |
+| Física Moderna | Átomo de Rutherford; hipótese de De Broglie; equação de Schrödinger em uma dimensão. | Uma carga em órbita, no modelo clássico, irradia e cai sobre o núcleo; a partícula passa a ser descrita por uma função de onda. |
+| Mecânica Quântica I | Estrutura geral da mecânica quântica; pacote de onda gaussiano. | O estado não atribui à partícula posição e velocidade com valores definidos ao mesmo tempo. |
+| Mecânica Analítica II | Teoria clássica de campos como limite do contínuo. | Um campo é obtido como limite de muitas partículas acopladas. |
+| Mecânica Quântica II | Equações relativísticas. | A descrição de uma única partícula relativística deixa de ser consistente; a solução é a teoria quântica de campos, fora da proposta. |
+
+## Conservação e fluxo {#sec-tema-conservacao-fluxo}
+
+| Disciplina | O que é usado | O que muda |
+|---|---|---|
+| Física Geral I | Conservação da energia e do momento linear. | Primeira aparição: grandezas que não mudam com o tempo. |
+| Física Geral IIb | Primeira lei da termodinâmica. | O calor entra no balanço de energia. |
+| Cálculo III | Fluxo, divergente, teorema de Gauss, equação da continuidade. | A conservação passa a ser local: o que deixa uma região atravessa a sua fronteira. |
+| Física Geral III | Lei de Gauss. | O fluxo do campo elétrico através de uma superfície fechada mede a carga dentro dela. |
+| Mecânica Analítica I | Teorema de Noether. | Cada lei de conservação passa a ser consequência de uma simetria. |
+| Relatividade Restrita | Tensor energia-momento; leis de conservação. | Energia e momento passam a ser componentes de uma só grandeza. |
+| Eletromagnetismo II | Equação da continuidade; teorema de Poynting; momento do campo. | O campo eletromagnético carrega energia e momento. |
+| Mecânica Quântica I | Equação de Schrödinger. | A probabilidade total de encontrar a partícula se conserva. |
+
+## Oscilador harmônico e modos {#sec-tema-oscilador-modos}
+
+| Disciplina | O que é usado | O que muda |
+|---|---|---|
+| Física Geral IIa | Oscilações livres e forçadas; ressonância; propagação de ondas. | Primeira aparição. |
+| Métodos Lineares para Física | Autovalores, autovetores; modos próprios em sistemas lineares simples. | Um sistema de várias partes oscila como soma de modos independentes. |
+| Cálculo IV | Equações diferenciais lineares de segunda ordem a coeficientes constantes. | A equação do oscilador e a sua solução geral. |
+| Mecânica Geral | Oscilações simples, acopladas e forçadas. | Os modos de osciladores acoplados. |
+| Física Matemática I | Problema de Sturm-Liouville; séries e integrais de Fourier. | Qualquer configuração pode ser escrita como soma de modos. |
+| Física Moderna | Radiação térmica e origem da teoria quântica. | A energia de cada modo da radiação só assume valores discretos. |
+| Eletromagnetismo II | Guias de ondas e cavidades ressonantes. | Os modos do campo eletromagnético em uma região limitada. |
+| Mecânica Analítica II | Teoria clássica de campos como limite do contínuo. | Um campo se comporta como um conjunto infinito de osciladores. |
+| Mecânica Quântica I | Oscilador harmônico simples. | A energia assume valores discretos, e a menor energia não é zero. |
+| Mecânica Estatística | Sólido de Einstein; modelo de Debye; radiação de corpo negro. | As propriedades térmicas de um sólido e da radiação vêm dos seus modos quantizados. |

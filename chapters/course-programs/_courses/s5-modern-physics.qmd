@@ -1,0 +1,17 @@
+## Física Moderna
+
+**Status:** rascunho.
+
+Apresenta os resultados experimentais que a física clássica não explica
+(radiação térmica, calores específicos, efeitos fotoelétrico e Compton, estrutura
+do átomo) e as primeiras respostas teóricas a eles, da hipótese de Planck à teoria
+de Bohr e às regras de Bohr-Sommerfeld. A dualidade onda-partícula é tratada com a
+análise de Fourier de Física Matemática I (pacotes de onda, velocidades de fase e
+de grupo, princípio da incerteza). Termina com a **equação de Schrödinger em uma
+dimensão** e a interpretação de Born, que
+[Mecânica Quântica I](semester-7.qmd#mecânica-quântica-i) reconstrói de forma
+geral. Os temas marcados como *qualitativos* na ementa são apresentados sem o
+formalismo, que vem em Mecânica Quântica I e II. É a base teórica do
+[Laboratório de Física Moderna I](#laboratório-de-física-moderna-i), do mesmo
+semestre, e do [Laboratório de Física Moderna II](semester-6.qmd#laboratório-de-física-moderna-ii),
+do semestre seguinte.
