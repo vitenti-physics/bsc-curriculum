@@ -1,25 +1,19 @@
 ---
-title: "Núcleo Comum — Segundo Ano"
+title: "Núcleo Comum: Segundo Ano"
 ---
 
-Esta página detalha as disciplinas do **segundo ano** do núcleo comum, com suas
-ementas e uma breve discussão dos conceitos-chave. A visão geral do núcleo comum
-e a discussão sobre as disciplinas de **Prática** estão em
-[Núcleo Comum](common-core.qmd); o **programa proposto** de cada disciplina está
-em Programas das Disciplinas ([3º semestre](course-programs/semester-3.qmd) e
-[4º semestre](course-programs/semester-4.qmd)).
-
-No segundo ano, o estudante aprofunda o cálculo vetorial e as equações
-diferenciais, é introduzido à computação científica e ao eletromagnetismo, e
-inicia os métodos matemáticos da Física. As disciplinas seguem a organização da
-*Planilha de horários* (2024-2).
+Disciplinas do **segundo ano** do núcleo comum, cada uma com o seu objetivo em
+uma frase e a sua ementa. O programa de cada disciplina está em Programas das
+Disciplinas ([3º semestre](course-programs/semester-3.qmd) e
+[4º semestre](course-programs/semester-4.qmd)); as disciplinas de Prática estão
+descritas em [Núcleo Comum](common-core.qmd#disciplinas-de-prática).
 
 ## Terceiro semestre
 
 ### Cálculo III
 
-Estende o cálculo a funções de várias variáveis e introduz o cálculo vetorial,
-com integrais de linha e de superfície e os teoremas integrais fundamentais.
+Introduz o cálculo vetorial: campos vetoriais, integrais de linha e de superfície
+e os teoremas de Green, Gauss e Stokes.
 
 ::: {.ementa}
 **Ementa**
@@ -36,8 +30,7 @@ com integrais de linha e de superfície e os teoremas integrais fundamentais.
 
 ### Práticas de Cálculo III
 
-Disciplina espelho de Cálculo III, dedicada à resolução de exercícios e à
-consolidação dos seus tópicos de cálculo vetorial e funções de várias variáveis.
+Prática de Cálculo III.
 
 ::: {.ementa}
 **Ementa**
@@ -50,11 +43,7 @@ consolidação dos seus tópicos de cálculo vetorial e funções de várias var
 
 ### Computação para Física
 
-Introduz as técnicas computacionais aplicadas à resolução de problemas físicos,
-com foco no desenvolvimento de habilidades práticas em programação científica
-usando **Python**. Os estudantes aprendem a organizar projetos científicos,
-manipular e analisar dados e utilizar bibliotecas fundamentais (NumPy, SciPy,
-Matplotlib), além de métodos numéricos básicos.
+Introduz a programação científica em **Python** aplicada a problemas físicos.
 
 ::: {.ementa}
 **Ementa**
@@ -76,12 +65,8 @@ Matplotlib), além de métodos numéricos básicos.
 
 ### Física Geral III
 
-Concentra-se no **eletromagnetismo**. Os estudantes exploram inicialmente as leis
-do eletromagnetismo de forma fenomenológica — compreendendo seus efeitos
-observáveis — usando modelos com soluções analíticas e simétricas, sem o
-formalismo matemático mais avançado, desenvolvido em Física Geral IV. A carga
-elétrica é introduzida como nova propriedade da matéria, e a partir da lei de
-Coulomb desenvolvem-se os conceitos de campo elétrico, lei de Gauss e potencial.
+Introduz o **eletromagnetismo** de forma fenomenológica, com modelos de solução
+analítica; o formalismo de Maxwell é desenvolvido em Física Geral IV.
 
 ::: {.ementa}
 **Ementa**
@@ -101,8 +86,7 @@ Coulomb desenvolvem-se os conceitos de campo elétrico, lei de Gauss e potencial
 
 ### Prática de Física Geral III
 
-Disciplina espelho de Física Geral III, dedicada à resolução de exercícios e à
-consolidação dos tópicos de eletromagnetismo.
+Prática de Física Geral III.
 
 ::: {.ementa}
 **Ementa**
@@ -116,16 +100,13 @@ consolidação dos tópicos de eletromagnetismo.
 
 ### Laboratório de Física Geral III
 
-Complementa o curso teórico com experimentos de eletromagnetismo, acompanhando os
-tópicos de eletrostática, corrente contínua, magnetismo, indução e corrente
-alternada.
+Experimentos de eletromagnetismo que acompanham Física Geral III.
 
 ::: {.callout-important}
-## Proposta de roteiros — pendente de aprovação pelo NDE
-Os roteiros abaixo são uma **proposta**, derivada da coleção legada de roteiros do
-antigo Laboratório de Física Geral II (`support_docs/roteiros_Lab2`, blocos
-*EDC* e *EAC*), ajustada à ementa de Física Geral III. A relação definitiva está
-em [Pontos em aberto](common-core.qmd#sec-pontos-abertos).
+## Roteiros propostos, pendentes de aprovação pelo NDE
+Os roteiros abaixo foram tirados dos blocos *EDC* e *EAC* da coleção de roteiros
+existente (`support_docs/roteiros_Lab2`) e ajustados à ementa de Física Geral III.
+Ver [Pontos em aberto](common-core.qmd#sec-pontos-abertos).
 :::
 
 ::: {.ementa}
@@ -138,7 +119,7 @@ Experimentos de eletromagnetismo acompanhando os tópicos de Física Geral III.
   (cuba eletrolítica); carga e descarga de capacitores; curva característica de
   componentes (elementos resistivos lineares e não-lineares); resistência interna
   de fontes de tensão; circuitos simples em corrente contínua (resistores).
-- **Magnetismo e indução:** campo magnético de uma bobina (lei de Biot–Savart);
+- **Magnetismo e indução:** campo magnético de uma bobina (lei de Biot-Savart);
   campo magnético ambiental (bobina de Helmholtz); indução eletromagnética (lei
   de Faraday); transformador de tensão; histerese magnética.
 - **Corrente alternada:** medidas elétricas em corrente alternada (uso do
@@ -148,9 +129,8 @@ Experimentos de eletromagnetismo acompanhando os tópicos de Física Geral III.
 
 ### Métodos de Variáveis Complexas para a Física
 
-Introduz a teoria de funções de variável complexa e suas aplicações na Física,
-das propriedades algébricas dos complexos ao teorema dos resíduos e às folhas de
-Riemann.
+Introduz as funções de variável complexa e suas aplicações em Física, até o
+teorema dos resíduos e as folhas de Riemann.
 
 ::: {.ementa}
 **Ementa**
@@ -169,9 +149,8 @@ Riemann.
 
 ### Cálculo IV
 
-Trata de sequências e séries e introduz as equações diferenciais ordinárias,
-incluindo as equações lineares de segunda ordem e as soluções em séries de
-potências, com suas aplicações à descrição de sistemas físicos.
+Trata sequências e séries e introduz as equações diferenciais ordinárias, até as
+soluções em séries de potências.
 
 ::: {.ementa}
 **Ementa**
@@ -186,8 +165,7 @@ potências, com suas aplicações à descrição de sistemas físicos.
 
 ### Práticas de Cálculo IV
 
-Disciplina espelho de Cálculo IV, dedicada à resolução de exercícios e à
-consolidação dos seus tópicos de séries e equações diferenciais ordinárias.
+Prática de Cálculo IV.
 
 ::: {.ementa}
 **Ementa**
@@ -200,11 +178,9 @@ consolidação dos seus tópicos de séries e equações diferenciais ordinária
 
 ### Física Geral IV
 
-Dá continuidade a Física Geral III, passando da descrição fenomenológica do
-eletromagnetismo à sua **formulação unificada**. Após uma revisão do cálculo
-vetorial, introduz as equações de Maxwell, das quais decorrem as oscilações e as
-ondas eletromagnéticas, a polarização e os fenômenos de interferência e difração
-da luz.
+Formula o eletromagnetismo pelas **equações de Maxwell** e estuda suas
+consequências: ondas eletromagnéticas, polarização, interferência e difração da
+luz.
 
 ::: {.ementa}
 **Ementa**
@@ -222,8 +198,7 @@ da luz.
 
 ### Prática de Física Geral IV
 
-Disciplina espelho de Física Geral IV, dedicada à resolução de exercícios e à
-consolidação dos seus tópicos.
+Prática de Física Geral IV.
 
 ::: {.ementa}
 **Ementa**
@@ -235,19 +210,13 @@ consolidação dos seus tópicos.
 
 ### Laboratório de Física Geral IV
 
-Complementa o curso teórico com experimentos de **óptica física** (ondas
-eletromagnéticas, polarização, interferência e difração da luz).
+Experimentos de **óptica física** que acompanham Física Geral IV.
 
 ::: {.callout-important}
-## Proposta de roteiros — pendente de aprovação pelo NDE
-Os roteiros de difração e polarização são uma **proposta**, derivada dos roteiros
-*OPT* da coleção legada (`support_docs/roteiros_Lab2`). A coleção legada **não**
-inclui roteiros de interferência nem de ondas eletromagnéticas/equações de
-Maxwell, que precisam ser **desenvolvidos**. Os roteiros *OPT* de óptica
-geométrica (índice de refração, dispersão por prisma, espelhos e lentes)
-correspondem a Física Geral IIa e estão disponíveis para o
-**Laboratório de Física Geral II** (placeholder "Óptica — experimentos a
-definir"), não para este. A relação definitiva está em
+## Roteiros propostos, pendentes de aprovação pelo NDE
+Os roteiros de difração e de polarização foram tirados dos roteiros *OPT* da
+coleção existente (`support_docs/roteiros_Lab2`). Os de interferência e de ondas
+eletromagnéticas não existem na coleção e precisam ser desenvolvidos. Ver
 [Pontos em aberto](common-core.qmd#sec-pontos-abertos).
 :::
 
@@ -261,18 +230,18 @@ Experimentos de óptica física acompanhando os tópicos de Física Geral IV.
   medida de comprimento de onda.
 - **Polarização:** lei de Malus; polarização por reflexão e ângulo de Brewster.
 
-*A desenvolver (sem roteiro na coleção legada):*
+*A desenvolver (sem roteiro na coleção existente):*
 
-- **Interferência:** p. ex. interferômetro de Michelson, anéis de Newton ou fenda
-  dupla com medida de comprimento de onda.
-- **Ondas eletromagnéticas:** p. ex. bancada de micro-ondas (reflexão, refração,
-  polarização e ondas estacionárias) ou medida da velocidade da luz.
+- **Interferência:** por exemplo, interferômetro de Michelson, anéis de Newton ou
+  fenda dupla com medida de comprimento de onda.
+- **Ondas eletromagnéticas:** por exemplo, bancada de micro-ondas (reflexão,
+  refração, polarização e ondas estacionárias) ou medida da velocidade da luz.
 :::
 
 ### Física Matemática I
 
-Introduz métodos matemáticos centrais da Física: distribuições, funções de Green
-do laplaciano e a análise de Fourier, articulada ao problema de Sturm-Liouville.
+Introduz distribuições, as funções de Green do laplaciano e a análise de
+Fourier, articulada ao problema de Sturm-Liouville.
 
 ::: {.ementa}
 **Ementa**

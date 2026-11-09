@@ -3,58 +3,56 @@ title: "Núcleo Comum"
 ---
 
 ::: {.callout-note}
-## Origem do conteúdo
-As **narrativas** destas páginas foram transportadas de `apresentacao.tex` e as
-**ementas** das `notas/` do NDE, tomando a *Planilha de horários* (2024-2) como
-referência para a relação e a ordenação das disciplinas. Todo o conteúdo está
-**em revisão**. As divergências ainda em aberto estão reunidas em
+## Conteúdo em revisão
+Todo o conteúdo desta seção está em revisão pelo NDE. As pendências estão em
 [Pontos em aberto](#sec-pontos-abertos).
 :::
 
-O objetivo do núcleo comum é introduzir o estudante ao conhecimento básico da
-Física e da Matemática. Nesta parte do curso o estudante desenvolve a fluência
-matemática combinada com a capacidade de descrever e modelar elementos da
-realidade. O núcleo comum tem duração de **dois anos**, organizado em disciplinas
-semestrais. As páginas de cada ano apresentam, na ordem em que aparecem no
-currículo, cada disciplina com sua ementa e uma breve discussão dos
-conceitos-chave. O **programa proposto** de cada disciplina — a discussão longa do
-que se espera e de como as disciplinas se articulam — está em
-[Programas das Disciplinas](course-programs/overview.qmd). A grade de carga
-horária e a grade horária semanal estão em [Grade Horária](timetable.qmd).
+O núcleo comum ocupa os dois primeiros anos do curso (1º a 4º semestres), em
+disciplinas semestrais; o seu objetivo está em
+[Estrutura Curricular](curricular-structure.qmd). As páginas de cada ano listam
+as disciplinas na ordem do currículo, cada uma com o seu objetivo em uma frase e a
+sua ementa:
 
-As disciplinas principais de Cálculo e Física são acompanhadas por disciplinas de
-**Prática**. Cada prática é uma disciplina espelho do curso principal
-correspondente, dedicada à resolução de exercícios e à consolidação dos seus
-tópicos, ajudando o estudante a estudar para o curso principal. As práticas têm
-metade da carga horária do curso que acompanham (30 h para cursos de 60 h; 15 h
-para os de 30 h).
+- [Primeiro Ano](common-core-year1.qmd) (1º e 2º semestres): cálculo diferencial
+  e integral, álgebra linear, o modelo de partícula e sua extensão a oscilações,
+  ondas, fluidos e termodinâmica;
+- [Segundo Ano](common-core-year2.qmd) (3º e 4º semestres): cálculo vetorial e
+  equações diferenciais, computação científica, eletromagnetismo e os métodos
+  matemáticos da Física.
 
-As práticas são ministradas por professores diferentes daqueles responsáveis
-pelos cursos teóricos, proporcionando aos estudantes diferentes perspectivas
-sobre os mesmos tópicos, acompanhando de perto o estudo, identificando
-dificuldades e consolidando o conhecimento através da aplicação prática.
+O programa de cada disciplina está em
+[Programas das Disciplinas](course-programs/overview.qmd); a carga horária e a
+grade semanal, em [Grade Horária](timetable.qmd).
 
-As disciplinas, com suas ementas, estão organizadas por ano:
+## Disciplinas de Prática
 
-- [Núcleo Comum — Primeiro Ano](common-core-year1.qmd) — 1º e 2º semestres:
-  cálculo diferencial e integral, álgebra linear, o modelo de partícula e sua
-  extensão a oscilações, ondas, fluidos e termodinâmica;
-- [Núcleo Comum — Segundo Ano](common-core-year2.qmd) — 3º e 4º semestres:
-  cálculo vetorial e equações diferenciais, computação científica,
-  eletromagnetismo e os métodos matemáticos da Física.
+Cada disciplina principal de Cálculo e de Física Geral é acompanhada por uma
+disciplina de **Prática**, dedicada à resolução de exercícios sobre os tópicos do
+curso principal. A Prática tem metade da carga horária do curso que acompanha
+(30 h para cursos de 60 h; 15 h para os de 30 h) e é ministrada por um professor
+diferente do responsável pelo curso principal. Assim o estudante vê os mesmos
+tópicos sob outra perspectiva, e o professor da Prática acompanha de perto o
+estudo e identifica as dificuldades.
 
 ## Pontos em aberto {#sec-pontos-abertos .unnumbered}
 
 Pendências a serem resolvidas pelo NDE:
 
-1. **Ementas dos Laboratórios de Física Geral III e IV** — há uma **proposta** de
-   roteiros para ambos (ver [Núcleo Comum — Segundo Ano](common-core-year2.qmd)),
-   derivada da coleção legada de roteiros, pendente de aprovação pelo NDE. Para o
-   Lab III a proposta cobre toda a ementa de eletromagnetismo. Para o Lab IV a
-   proposta cobre difração e polarização, mas restam **roteiros a desenvolver**
-   para interferência e para ondas eletromagnéticas/equações de Maxwell, sem
-   correspondente na coleção legada.
-2. **Roteiros de óptica do Laboratório de Física Geral II** — os roteiros legados
-   de óptica geométrica (índice de refração, dispersão por prisma, espelhos e
-   lentes) estão disponíveis para preencher o placeholder "Óptica — experimentos a
-   definir" do Lab II; falta o NDE confirmar a seleção.
+1. **Roteiros dos Laboratórios de Física Geral III e IV.** Há uma proposta de
+   roteiros para ambos (ver [Segundo Ano](common-core-year2.qmd)), tirada da
+   coleção de roteiros existente (`support_docs/roteiros_Lab2`) e ainda não
+   aprovada pelo NDE. A proposta do Laboratório III cobre toda a ementa de Física
+   Geral III. A do Laboratório IV cobre difração e polarização; faltam roteiros de
+   interferência e de ondas eletromagnéticas, que não existem na coleção.
+2. **Roteiros de óptica do Laboratório de Física Geral II.** Os roteiros
+   existentes de óptica geométrica (índice de refração, dispersão por prisma,
+   elementos ópticos) podem preencher o item "Óptica (experimentos a definir)" do
+   Laboratório II; falta o NDE confirmar a seleção.
+3. **Prática de Física Geral IIa.** A ementa (pêndulo simples, pêndulo
+   amortecido) descreve um estudo experimental, não a resolução de exercícios que
+   define as disciplinas de Prática.
+4. **Itens do programa de Física Geral I fora da ementa.** O programa marca como
+   itens da ementa "Medidas e grandezas em Física" e "Gravitação" e trata da
+   cinemática e da dinâmica dos corpos rígidos; nenhum desses três itens está na
+   ementa de Física Geral I.

@@ -1,29 +1,27 @@
 # Apresentação {.unnumbered}
 
 Este documento reúne os trabalhos do **Núcleo Docente Estruturante (NDE)**
-para a reformulação curricular do **Bacharelado em Física**. Trata-se de um
-documento de trabalho, em construção contínua, que evoluirá até consolidar a
-versão final do Projeto Pedagógico do Curso (PPC).
-
-::: {.callout-note}
-## Documento em construção
-O conteúdo destas páginas está em elaboração pelo NDE. As seções serão
-preenchidas e revisadas ao longo das reuniões de trabalho.
-:::
+para a reformulação curricular do **Bacharelado em Física**. É um documento de
+trabalho, em construção, que será revisado até se tornar a versão final do
+Projeto Pedagógico do Curso (PPC).
 
 ## Como navegar
 
 A seção **Organização Curricular** reúne:
 
-- [Estrutura Curricular](chapters/curricular-structure.qmd) — os dois blocos do
+- [Estrutura Curricular](chapters/curricular-structure.qmd): os dois blocos do
   curso (núcleo comum e ciclo avançado) e a razão de ser do núcleo comum;
-- [Núcleo Comum](chapters/common-core.qmd) (1º e 2º anos) — visão geral, as
-  disciplinas de cada ano com suas ementas e, em **Programas das disciplinas**, o
-  programa proposto de cada uma e a discussão de como elas se articulam;
-- [Ciclo Avançado](chapters/advanced-cycle.qmd) (3º e 4º anos) — as sequências de
-  disciplinas, a origem das ementas e as disciplinas de cada ano;
-- [Grade Horária](chapters/timetable.qmd) — carga horária e grade semanal de
+- [Núcleo Comum](chapters/common-core.qmd) (1º e 2º anos): visão geral, as
+  disciplinas de Prática e as ementas de cada ano;
+- [Ciclo Avançado](chapters/advanced-cycle.qmd) (3º e 4º anos): as sequências de
+  disciplinas e as ementas de cada ano;
+- [Programas das Disciplinas](chapters/course-programs/overview.qmd): o programa
+  de cada disciplina, que explica o seu propósito e o seu lugar no curso;
+- [Grade Horária](chapters/timetable.qmd): carga horária e grade semanal de
   todos os semestres.
+
+A [Árvore de Habilidades](chapters/skill-tree.qmd) mostra as habilidades
+desenvolvidas em cada disciplina e as dependências entre elas.
 
 Cada visão geral termina com uma lista de **Pontos em aberto**, as pendências a
 serem resolvidas pelo NDE.

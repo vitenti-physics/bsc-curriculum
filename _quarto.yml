@@ -8,14 +8,14 @@ project:
     - skill-tree/index.html
 
 website:
-  title: "PPC — Bacharelado em Física"
+  title: "PPC: Bacharelado em Física"
   description: "Documentos de trabalho do NDE para a reformulação curricular do Bacharelado em Física."
   site-url: https://vitenti-physics.github.io/bsc-curriculum/
   repo-url: https://github.com/vitenti-physics/bsc-curriculum
   repo-actions: [edit, issue]
   search: true
   page-footer:
-    left: "Núcleo Docente Estruturante — Bacharelado em Física"
+    left: "Núcleo Docente Estruturante, Bacharelado em Física"
     right: "Construído com [Quarto](https://quarto.org)."
   navbar:
     pinned: true
@@ -38,28 +38,36 @@ website:
           - section: "Núcleo Comum (1º e 2º anos)"
             href: chapters/common-core.qmd
             contents:
-              - text: "Primeiro ano — ementas"
+              - text: "Primeiro ano: ementas"
                 href: chapters/common-core-year1.qmd
-              - text: "Segundo ano — ementas"
+              - text: "Segundo ano: ementas"
                 href: chapters/common-core-year2.qmd
-              - section: "Programas das disciplinas"
-                href: chapters/course-programs/overview.qmd
-                contents:
-                  - text: "1º semestre"
-                    href: chapters/course-programs/semester-1.qmd
-                  - text: "2º semestre"
-                    href: chapters/course-programs/semester-2.qmd
-                  - text: "3º semestre"
-                    href: chapters/course-programs/semester-3.qmd
-                  - text: "4º semestre"
-                    href: chapters/course-programs/semester-4.qmd
           - section: "Ciclo Avançado (3º e 4º anos)"
             href: chapters/advanced-cycle.qmd
             contents:
-              - text: "Terceiro ano — ementas"
+              - text: "Terceiro ano: ementas"
                 href: chapters/advanced-cycle-year3.qmd
-              - text: "Quarto ano — ementas"
+              - text: "Quarto ano: ementas"
                 href: chapters/advanced-cycle-year4.qmd
+          - section: "Programas das Disciplinas"
+            href: chapters/course-programs/overview.qmd
+            contents:
+              - text: "1º semestre"
+                href: chapters/course-programs/semester-1.qmd
+              - text: "2º semestre"
+                href: chapters/course-programs/semester-2.qmd
+              - text: "3º semestre"
+                href: chapters/course-programs/semester-3.qmd
+              - text: "4º semestre"
+                href: chapters/course-programs/semester-4.qmd
+              - text: "5º semestre"
+                href: chapters/course-programs/semester-5.qmd
+              - text: "6º semestre"
+                href: chapters/course-programs/semester-6.qmd
+              - text: "7º semestre"
+                href: chapters/course-programs/semester-7.qmd
+              - text: "8º semestre"
+                href: chapters/course-programs/semester-8.qmd
           - text: "Grade Horária"
             href: chapters/timetable.qmd
       - text: "Árvore de Habilidades"

@@ -1,4 +1,4 @@
-# Bacharelado em Física — Reformulação Curricular
+# Bacharelado em Física: Reformulação Curricular
 
 Documentos de trabalho do **Núcleo Docente Estruturante (NDE)** para a
 reformulação do Bacharelado em Física. O projeto é construído com

@@ -16,29 +16,22 @@ Física uma excelente base para a resolução de problemas complexos em diversas
 
 O curso é organizado em **dois blocos**:
 
-1. **Núcleo comum** — conjunto de disciplinas obrigatórias que todos os
+1. **Núcleo comum**: conjunto de disciplinas obrigatórias que todos os
    estudantes cursam, com duração de **dois anos**. Apresenta os conceitos
    básicos de Física e de Matemática e desenvolve a fluência matemática
    combinada com a capacidade de descrever e modelar elementos da realidade.
    Ver [Núcleo Comum](common-core.qmd).
 
-2. **Ciclo avançado** — conjunto de disciplinas dos **dois últimos anos**, que
+2. **Ciclo avançado**: conjunto de disciplinas dos **dois últimos anos**, que
    retoma os temas do núcleo comum em nível formal mais alto, a partir de
    princípios gerais: princípios variacionais, simetrias e leis de conservação,
    formulações de campo. É composto por **disciplinas obrigatórias**, que
    constituem a formação essencial do bacharel, e por **disciplinas optativas**,
-   que permitem ao estudante aprofundar-se em temas de seu interesse.
+   que permitem ao estudante aprofundar-se em temas de seu interesse. O plano
+   não adota ênfases (trajetórias fechadas de aprofundamento): as obrigatórias
+   do ciclo avançado são as mesmas para todos os estudantes, e a escolha do
+   estudante se dá entre as optativas, cuja relação o NDE ainda vai definir.
    Ver [Ciclo Avançado](advanced-cycle.qmd).
-
-::: {.callout-note}
-## Sobre as ênfases
-Versões anteriores desta proposta organizavam a segunda metade do curso em
-**ênfases** (trajetórias fechadas de aprofundamento, como Bacharelado
-Tradicional, Física Industrial ou Física Computacional). O plano atual **não
-adota ênfases**: o ciclo avançado tem um núcleo obrigatório comum a todos os
-estudantes, e a flexibilidade é oferecida pelo conjunto de **optativas**, cuja
-relação ainda será definida pelo NDE.
-:::
 
 ## Por que um núcleo comum
 

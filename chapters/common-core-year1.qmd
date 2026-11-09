@@ -1,13 +1,12 @@
 ---
-title: "Núcleo Comum — Primeiro Ano"
+title: "Núcleo Comum: Primeiro Ano"
 ---
 
-Esta página detalha as disciplinas do **primeiro ano** do núcleo comum, com suas
-ementas e uma breve discussão dos conceitos-chave. A visão geral do núcleo comum
-e a discussão sobre as disciplinas de **Prática** estão em
-[Núcleo Comum](common-core.qmd); o **programa proposto** de cada disciplina está
-em Programas das Disciplinas ([1º semestre](course-programs/semester-1.qmd) e
-[2º semestre](course-programs/semester-2.qmd)).
+Disciplinas do **primeiro ano** do núcleo comum, cada uma com o seu objetivo em
+uma frase e a sua ementa. O programa de cada disciplina está em Programas das
+Disciplinas ([1º semestre](course-programs/semester-1.qmd) e
+[2º semestre](course-programs/semester-2.qmd)); as disciplinas de Prática estão
+descritas em [Núcleo Comum](common-core.qmd#disciplinas-de-prática).
 
 O primeiro ano é um período particularmente desafiador tanto para o corpo docente
 quanto para os estudantes. Para os estudantes, implica uma imersão mais profunda
@@ -20,10 +19,9 @@ os estudantes engajados.
 
 ### Física Básica
 
-Disciplina introdutória de nivelamento que consolida as ferramentas matemáticas
-elementares necessárias ao acompanhamento das demais disciplinas do primeiro ano.
-É ofertada de forma intensiva no 1º bimestre, com reoferta no 2º bimestre para os
-estudantes que necessitem de reforço.
+Disciplina de nivelamento: consolida as ferramentas matemáticas elementares
+usadas em Cálculo I e Física Geral I. É ofertada de forma intensiva no 1º
+bimestre e reofertada no 2º bimestre para os estudantes que precisem de reforço.
 
 ::: {.ementa}
 **Ementa**
@@ -43,13 +41,7 @@ estudantes que necessitem de reforço.
 
 ### Cálculo I
 
-Introduz os conceitos fundamentais do cálculo diferencial, que constituem a base
-da formulação matemática da Física clássica. É acompanhado pela disciplina de
-Práticas de Cálculo I, onde os conceitos abstratos são aplicados em contextos
-geométricos e físicos concretos. O estudo inicia-se pela construção dos números
-reais e pela representação de funções de uma variável real, a partir das quais são
-definidos os conceitos de limite e continuidade, que fornecem o arcabouço para
-tratar variações contínuas de grandezas observáveis.
+Introduz o cálculo diferencial de funções de uma e de várias variáveis reais.
 
 ::: {.ementa}
 **Ementa**
@@ -67,8 +59,7 @@ tratar variações contínuas de grandezas observáveis.
 
 ### Práticas de Cálculo I
 
-Disciplina espelho de Cálculo I, dedicada à resolução de exercícios e à
-consolidação dos seus tópicos, com ênfase em aplicações a problemas físicos.
+Prática de Cálculo I, com ênfase em aplicações a problemas físicos.
 
 ::: {.ementa}
 **Ementa**
@@ -92,15 +83,7 @@ mínimos, com enfoque em aplicações a problemas físicos. Inclui, entre outros
 
 ### Física Geral I
 
-Introduz três conceitos-chave da Física clássica: o modelo de partícula, sua
-cinemática e sua dinâmica. O modelo de partícula pontual fornece uma descrição
-simples do movimento de objetos macroscópicos e serve de base para a descrição de
-sistemas mais complexos, como corpos rígidos. A cinemática trata da descrição do
-movimento — posição, velocidade e aceleração — exigindo o trabalho com vetores e
-sistemas de coordenadas. A dinâmica, introduzida pelas leis de Newton, descreve o
-movimento na presença de forças e conduz aos conceitos de referenciais inerciais
-e não inerciais, conservação de energia e momento, e à relação entre simetrias e
-leis de conservação. É acompanhada pela Prática de Física Geral I.
+Introduz o modelo de partícula, sua cinemática e sua dinâmica.
 
 ::: {.ementa}
 **Ementa**
@@ -115,11 +98,8 @@ leis de conservação. É acompanhada pela Prática de Física Geral I.
 
 ### Prática de Física Geral I
 
-Disciplina espelho de Física Geral I, dedicada à resolução de problemas. Um
-aspecto central é a construção de sistemas de coordenadas a partir de medidas
-físicas reais, estabelecendo a ponte entre o mundo observável e sua representação
-matemática. A disciplina enfatiza a conversão entre grandezas, o Sistema
-Internacional de Unidades e a análise dimensional.
+Prática de Física Geral I, com ênfase na construção de sistemas de coordenadas a
+partir de medidas físicas, nas unidades e na análise dimensional.
 
 ::: {.ementa}
 **Ementa**
@@ -133,9 +113,8 @@ Internacional de Unidades e a análise dimensional.
 
 ### Laboratório de Física Geral I
 
-Complementa os cursos teóricos e de prática, proporcionando experiência direta
-com medidas físicas, tratamento de dados e o método experimental, com roteiros
-que acompanham os tópicos de mecânica.
+Introduz o método experimental (medidas, incertezas, tratamento de dados e
+relatórios), com roteiros que acompanham os tópicos de mecânica.
 
 ::: {.ementa}
 **Ementa**
@@ -164,11 +143,7 @@ centro de massa e torque (balança de braço).
 
 ### Cálculo II
 
-Introduz o cálculo integral, complementando o cálculo diferencial de Cálculo I.
-A integral de Riemann é apresentada inicialmente por sua definição geométrica e,
-em seguida, analítica. O curso desenvolve o estudo das funções transcendentes,
-as técnicas de integração e as integrais impróprias e múltiplas, preparando para
-aplicações em duas e três dimensões. É acompanhado por Práticas de Cálculo II.
+Introduz o cálculo integral de funções de uma e de várias variáveis.
 
 ::: {.ementa}
 **Ementa**
@@ -183,9 +158,8 @@ aplicações em duas e três dimensões. É acompanhado por Práticas de Cálcul
 
 ### Práticas de Cálculo II
 
-Disciplina espelho de Cálculo II, com foco na aplicação das técnicas de
-integração a problemas concretos e na introdução às equações diferenciais
-separáveis, que aparecem naturalmente em inúmeros contextos físicos.
+Prática de Cálculo II, com aplicações de integrais e as equações diferenciais
+separáveis.
 
 ::: {.ementa}
 **Ementa**
@@ -197,11 +171,8 @@ separáveis, que aparecem naturalmente em inúmeros contextos físicos.
 
 ### Métodos Lineares para Física
 
-Introduz os conceitos fundamentais de álgebra linear com foco em suas aplicações
-na Física. Aborda vetores e espaços vetoriais, transformações lineares e suas
-representações matriciais, e culmina com autovalores, autovetores e
-diagonalização, com aplicações a rotações e a modos próprios de sistemas
-lineares.
+Introduz a álgebra linear usada em Física: espaços vetoriais, transformações
+lineares, autovalores e diagonalização.
 
 ::: {.ementa}
 **Ementa**
@@ -222,11 +193,8 @@ lineares.
 
 ### Física Geral IIa
 
-Primeira parte de Física Geral II, dedicada ao estudo de **oscilações e ondas**.
-Parte de oscilações livres e forçadas e do fenômeno de ressonância, avança para a
-propagação de ondas e a velocidade de fase, e explora refração, difração,
-reflexão e transmissão, culminando no princípio de Huygens e em uma introdução à
-óptica geométrica. Disciplina **bimestral** (3º bimestre).
+Primeira parte de Física Geral II, bimestral (3º bimestre): **oscilações e
+ondas**.
 
 ::: {.ementa}
 **Ementa**
@@ -242,12 +210,8 @@ reflexão e transmissão, culminando no princípio de Huygens e em uma introduç
 
 ### Física Geral IIb
 
-Segunda parte de Física Geral II, dedicada à **física de fluidos e
-termodinâmica**. Estuda as propriedades dos fluidos, pressão e o princípio de
-Arquimedes, e introduz a termodinâmica pelos conceitos de temperatura e calor,
-pelas duas primeiras leis e pela teoria cinética dos gases, estabelecendo a ponte
-entre as descrições microscópica e macroscópica da matéria. Disciplina
-**bimestral** (4º bimestre).
+Segunda parte de Física Geral II, bimestral (4º bimestre): **fluidos e
+termodinâmica**.
 
 ::: {.ementa}
 **Ementa**
@@ -263,8 +227,7 @@ entre as descrições microscópica e macroscópica da matéria. Disciplina
 
 ### Prática de Física Geral IIa
 
-Disciplina espelho de Física Geral IIa, com foco no estudo experimental de
-sistemas oscilatórios.
+Prática de Física Geral IIa, centrada em sistemas oscilatórios.
 
 ::: {.ementa}
 **Ementa**
@@ -275,8 +238,7 @@ sistemas oscilatórios.
 
 ### Prática de Física Geral IIb
 
-Disciplina espelho de Física Geral IIb, dedicada à resolução de exercícios e à
-consolidação dos tópicos de fluidos e termodinâmica.
+Prática de Física Geral IIb.
 
 ::: {.ementa}
 **Ementa**
@@ -290,8 +252,7 @@ consolidação dos tópicos de fluidos e termodinâmica.
 
 ### Laboratório de Física Geral II
 
-Complementa as práticas com experimentos relacionados a oscilações, ondas,
-fluidos e termodinâmica.
+Experimentos de oscilações, ondas, fluidos e termodinâmica.
 
 ::: {.ementa}
 **Ementa**

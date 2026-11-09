@@ -1,18 +1,16 @@
 ---
-title: "Ciclo Avançado — Terceiro Ano"
+title: "Ciclo Avançado: Terceiro Ano"
 ---
 
-Esta página detalha as disciplinas do **terceiro ano** do curso — 5º e 6º
-semestres —, com suas ementas e uma breve discussão dos conceitos-chave. A visão
-geral do ciclo avançado, com as sequências de disciplinas e a origem de cada
-ementa, está em [Ciclo Avançado](advanced-cycle.qmd); a carga horária e a grade
-semanal, em [Grade Horária](timetable.qmd).
+Disciplinas do **terceiro ano** do curso (5º e 6º semestres), cada uma com o seu
+objetivo em uma frase e a sua ementa. O programa de cada disciplina está em
+Programas das Disciplinas ([5º semestre](course-programs/semester-5.qmd) e
+[6º semestre](course-programs/semester-6.qmd)); as sequências de disciplinas, em
+[Ciclo Avançado](advanced-cycle.qmd).
 
 ::: {.callout-warning}
 ## Página em construção
-A alocação em semestres é uma **proposta de trabalho**. Ementas em caixa
-tracejada foram **transcritas do currículo vigente (2023)** e ainda não foram
-revisadas pelo NDE. As pendências estão em
+A alocação em semestres é uma **proposta de trabalho**. As pendências estão em
 [Pontos em aberto](advanced-cycle.qmd#sec-pontos-abertos-ca).
 :::
 
@@ -20,19 +18,11 @@ revisadas pelo NDE. As pendências estão em
 
 ### Mecânica Geral {#sec-mecanica-geral}
 
-Primeira disciplina do ciclo avançado de Mecânica. Retoma, em nível formal mais
-alto e com o cálculo já consolidado no núcleo comum, a dinâmica do ponto material
-e dos sistemas de partículas. O eixo condutor são as **leis de conservação** —
-energia, momento linear e momento angular —, tratadas aqui a partir das
-propriedades das forças (forças conservativas, forças centrais) e não ainda a
-partir das simetrias, o que só será possível com o formalismo lagrangeano de
-[Mecânica Analítica I](#sec-mecanica-analitica-i). Encerra com dois temas que
-preparam o formalismo posterior: as **oscilações acopladas**, que anunciam o
-tratamento geral de pequenas oscilações, e os **referenciais não inerciais**, que
-explicitam o papel do observador na descrição do movimento.
+Retoma a dinâmica do ponto material e dos sistemas de partículas, com as leis de
+conservação obtidas a partir das propriedades das forças.
 
 ::: {.ementa}
-**Ementa** — 60 h
+**Ementa** (60 h)
 
 - Forças conservativas e o princípio de conservação de energia.
 - Movimento em duas e três dimensões.
@@ -45,21 +35,11 @@ explicitam o papel do observador na descrição do movimento.
 
 ### Eletromagnetismo I {#sec-eletromagnetismo-i}
 
-Retoma em nível formal a **eletrostática e a magnetostática** vistas em Física
-Geral III, agora com as ferramentas de
-[Física Matemática I](common-core-year2.qmd#física-matemática-i) (distribuição de
-Dirac, funções de Green) e de Cálculo III e IV. Abre com uma revisão das
-coordenadas curvilíneas e do **teorema de Helmholtz**, que garante que um campo
-vetorial fica determinado por seu divergente e seu rotacional — a justificativa
-para estudar os campos a partir de suas equações diferenciais. O núcleo do curso
-são os **problemas de contorno**: equações de Poisson e Laplace, teoremas de
-unicidade, método das imagens, separação de variáveis e expansão multipolar.
-Encerra com os campos na matéria (dielétricos e meios magnéticos). A parte
-dinâmica — indução, equações de Maxwell completas e radiação — fica para
-[Eletromagnetismo II](#sec-eletromagnetismo-ii).
+Trata a eletrostática e a magnetostática como problemas de contorno, incluindo os
+campos na matéria.
 
 ::: {.ementa}
-**Ementa** — 60 h
+**Ementa** (60 h)
 
 - Revisão: coordenadas curvilíneas e leis de transformação; distribuição de
   Dirac e aplicações; teorema de Helmholtz.
@@ -80,19 +60,12 @@ dinâmica — indução, equações de Maxwell completas e radiação — fica p
 
 ### Relatividade Restrita {#sec-relatividade-restrita}
 
-Reúne em um único formalismo a mecânica e o eletromagnetismo do núcleo comum.
-Parte da **incompatibilidade** entre as transformações de Galileu e as equações
-de Maxwell e reconstrói a cinemática a partir dos postulados de Einstein. A
-segunda parte é geométrica: o **espaço-tempo de Minkowski**, os quadrivetores e o
-cálculo tensorial fornecem a linguagem em que a dinâmica relativística e o
-próprio eletromagnetismo se escrevem de forma manifestamente covariante. É a
-primeira vez que o estudante manipula tensores e índices, ferramenta usada em
-todo o ciclo avançado, e o curso articula-se diretamente com
-[Eletromagnetismo I](#sec-eletromagnetismo-i), do mesmo semestre, e com
-[Eletromagnetismo II](#sec-eletromagnetismo-ii), do semestre seguinte.
+Reconstrói a cinemática a partir dos postulados de Einstein e introduz o
+espaço-tempo de Minkowski e o cálculo tensorial, aplicados à dinâmica
+relativística e à formulação covariante do eletromagnetismo.
 
 ::: {.ementa}
-**Ementa** — 60 h
+**Ementa** (60 h)
 
 **1. Formalismo**
 
@@ -132,27 +105,13 @@ todo o ciclo avançado, e o curso articula-se diretamente com
 
 ### Física Moderna {#sec-fisica-moderna}
 
-Apresenta os **fatos experimentais que romperam com a física clássica** — a
-radiação térmica, o problema dos calores específicos, os efeitos fotoelétrico e
-Compton, a estrutura do átomo — e as primeiras respostas teóricas a eles, da
-hipótese de Planck à teoria de Bohr e às regras de Bohr-Sommerfeld. A dualidade
-onda-partícula é tratada com as ferramentas de Fourier já conhecidas (pacotes de
-onda, velocidades de fase e de grupo, princípio da incerteza). Encerra com a
-**equação de Schrödinger em uma dimensão** e a interpretação de Born, primeira
-formulação da mecânica ondulatória, que será reconstruída de forma geral em
-[Mecânica Quântica I](advanced-cycle-year4.qmd#sec-mecanica-quantica-i). Temas
-marcados como *qualitativos* são apresentados sem o formalismo completo, que só
-virá nas disciplinas de Mecânica Quântica. Serve de base teórica para o
-[Laboratório de Física Moderna I](#sec-lab-fisica-moderna-i), cursado no mesmo
-semestre, e para o [Laboratório de Física Moderna II](#sec-lab-fisica-moderna-ii),
-do semestre seguinte.
-
-A ementa unifica as antigas Física Moderna I A e I B (2FIS099 e 2FIS100); a parte
-de relatividade que estava em Física Moderna I A foi deslocada para
-[Relatividade Restrita](#sec-relatividade-restrita).
+Apresenta os resultados experimentais que levaram à teoria quântica, as primeiras
+respostas teóricas a eles e a equação de Schrödinger em uma dimensão. Unifica as
+antigas Física Moderna I A e I B (2FIS099 e 2FIS100); a parte de relatividade de
+Física Moderna I A passou para [Relatividade Restrita](#sec-relatividade-restrita).
 
 ::: {.ementa}
-**Ementa** — 60 h
+**Ementa** (60 h)
 
 - Radiação térmica e origem da teoria quântica.
 - Equipartição da energia e o problema dos calores específicos (observação de
@@ -171,21 +130,35 @@ de relatividade que estava em Física Moderna I A foi deslocada para
 - A equação de Schrödinger em uma dimensão; a interpretação de Born para a
   função de onda.
 - Estados livres, ligados e a quantização da energia.
-- Soluções de problemas unidimensionais: poço infinito; barreiras de potencial —
-  coeficientes de reflexão e transmissão, tunelamento.
+- Soluções de problemas unidimensionais: poço infinito; barreiras de potencial
+  (coeficientes de reflexão e transmissão, tunelamento).
 - Valores esperados de grandezas físicas em mecânica quântica.
 :::
 
 ### Laboratório de Física Moderna I {#sec-lab-fisica-moderna-i}
 
 **Ementa a definir pelo NDE.** Primeira parte, com 60 h, do laboratório de física
-moderna, que no currículo vigente é uma única disciplina anual de 120 h
-(2FIS098). Dá continuidade à sequência de laboratórios do núcleo comum (Física
-Geral I a IV) com os **experimentos fundadores da física do século XX** — os que
-estabeleceram a quantização da energia, a natureza corpuscular da radiação e a
-estrutura do átomo —, acompanhando [Física Moderna](#sec-fisica-moderna), cursada
-no mesmo semestre. Os roteiros ainda precisam ser definidos (ver
-[Pontos em aberto](advanced-cycle.qmd#sec-pontos-abertos-ca)).
+moderna (no currículo vigente, a disciplina anual 2FIS098, de 120 h), com os
+experimentos que acompanham [Física Moderna](#sec-fisica-moderna).
+
+### Física Matemática II {#sec-fisica-matematica-ii}
+
+Continua Física Matemática I: separação de variáveis em coordenadas esféricas e
+cilíndricas, funções especiais e funções de Green dependentes do tempo.
+
+::: {.ementa}
+**Ementa** (60 h)
+
+- Espaços de funções; espaços de Hilbert.
+- Método da separação de variáveis.
+- Equações de Laplace e Helmholtz em coordenadas esféricas e cilíndricas: funções
+  de Legendre, harmônicos esféricos, funções de Bessel de primeira e segunda
+  espécies.
+- Problemas físicos com condições de contorno: problemas eletromagnéticos,
+  vibrações, condução de calor, equação de Schrödinger, oscilador harmônico, átomo
+  de hidrogênio.
+- Funções de Green estacionárias e dependentes do tempo.
+:::
 
 ### Demais disciplinas do quinto semestre
 
@@ -195,22 +168,11 @@ no mesmo semestre. Os roteiros ainda precisam ser definidos (ver
 
 ### Mecânica Analítica I {#sec-mecanica-analitica-i}
 
-Reconstrói a mecânica a partir de um **princípio único**: o princípio de ação.
-Do cálculo variacional emergem as equações de Euler-Lagrange, que reproduzem a
-dinâmica newtoniana estudada em [Mecânica Geral](#sec-mecanica-geral) mas se aplicam
-igualmente a sistemas com vínculos e a coordenadas arbitrárias. A partir daí, o
-**teorema de Noether** inverte a lógica das leis de conservação: em vez de
-consequências das propriedades das forças, energia, momento linear e momento
-angular passam a ser consequências das **simetrias** do sistema — invariância por
-translação temporal, espacial e por rotação. A disciplina trata ainda a dinâmica
-do **corpo rígido**, primeiro sistema estendido em que o formalismo mostra sua
-economia, e introduz o **formalismo hamiltoniano**, com os parênteses de Poisson,
-sobre o qual se constroem
-[Mecânica Analítica II](advanced-cycle-year4.qmd#sec-mecanica-analitica-ii) e
-[Mecânica Quântica I](advanced-cycle-year4.qmd#sec-mecanica-quantica-i).
+Reconstrói a mecânica a partir do princípio de ação, nos formalismos lagrangeano
+e hamiltoniano.
 
 ::: {.ementa}
-**Ementa** — 60 h
+**Ementa** (60 h)
 
 **1. Formalismo lagrangeano**
 
@@ -219,8 +181,8 @@ sobre o qual se constroem
 - Aplicações, incluindo pequenas oscilações e sistemas com vínculos.
 - Simetrias e leis de conservação; teorema de Noether (energia, momento linear e
   momento angular).
-- Corpos rígidos — cinemática: transformações ortogonais, ângulos de Euler,
-  rotações finitas e infinitesimais; dinâmica: tensor de inércia e soluções do
+- Corpos rígidos. Cinemática: transformações ortogonais, ângulos de Euler,
+  rotações finitas e infinitesimais. Dinâmica: tensor de inércia e soluções do
   problema de corpo rígido.
 
 **2. Formalismo hamiltoniano**
@@ -233,47 +195,32 @@ sobre o qual se constroem
 
 ### Eletromagnetismo II {#sec-eletromagnetismo-ii}
 
-Completa o eletromagnetismo formal com a **eletrodinâmica**: as equações de
-Maxwell completas, a equação de onda, a liberdade de calibre e a propagação de
-ondas em meios materiais e em regiões com contorno (guias de onda e cavidades).
-O ponto de chegada são os **potenciais retardados** e a **radiação** de sistemas
-simples — o problema em que a causalidade relativística, vista em
-[Relatividade Restrita](#sec-relatividade-restrita), passa a ter consequências
-diretas. Sucede [Eletromagnetismo I](#sec-eletromagnetismo-i), que termina na
-magnetostática em meios materiais.
+Trata a eletrodinâmica: equações de Maxwell completas, leis de conservação do
+campo, ondas e radiação.
 
-::: {.ementa .ementa-legada}
-**Ementa** — 60 h
+::: {.ementa}
+**Ementa** (60 h)
 
-[Transcrita da ementa de 2FIS104 Eletromagnetismo II do currículo vigente (2023),
-apenas com correções tipográficas. Ainda não revisada pelo NDE.]{.origem}
-
-- Equações de Maxwell.
-- Equação de onda eletromagnética.
+- Equações de Maxwell: força eletromotriz, indução eletromagnética e corrente de
+  deslocamento.
+- Leis de conservação: equação da continuidade e teorema de Poynting; conservação
+  do momento linear e angular do campo.
 - Transformações de calibre.
+- Equação de onda eletromagnética e suas aplicações.
 - Propagação de ondas eletromagnéticas.
-- Ondas em regiões de contorno.
+- Ondas no vácuo e na matéria.
 - Guias de ondas e cavidades ressonantes.
 - Dispersão óptica nos materiais.
 - Potenciais retardados.
 - Radiação de sistemas simples.
-- Trabalho de Campo.
 :::
 
 ### Termodinâmica {#sec-termodinamica}
 
-Reconstrói a termodinâmica em bases **postulacionais**, e não pela via histórica
-das máquinas térmicas seguida em Física Geral II: dados os postulados sobre a
-entropia, as condições de equilíbrio e as leis conhecidas seguem como
-consequências. As **transformadas de Legendre** — as mesmas que levam do
-lagrangeano ao hamiltoniano em
-[Mecânica Analítica I](#sec-mecanica-analitica-i), cursada em paralelo — geram os
-potenciais termodinâmicos e, com eles, as relações de Maxwell. O curso encerra
-com a **estabilidade** dos sistemas termodinâmicos, as transições de fase e os
-fenômenos críticos, e prepara diretamente a Mecânica Estatística.
+Constrói a termodinâmica a partir de postulados sobre a entropia.
 
 ::: {.ementa}
-**Ementa** — 60 h
+**Ementa** (60 h)
 
 - Conceitos básicos e postulados.
 - Equilíbrio térmico; fronteiras adiabáticas e diatérmicas.
@@ -295,11 +242,31 @@ fenômenos críticos, e prepara diretamente a Mecânica Estatística.
 ### Laboratório de Física Moderna II {#sec-lab-fisica-moderna-ii}
 
 **Ementa a definir pelo NDE.** Segunda parte, com 60 h, do laboratório de física
-moderna; sucede o [Laboratório de Física Moderna I](#sec-lab-fisica-moderna-i). A
-ementa vigente do laboratório anual (2FIS098) inclui também experimentos de
-**física do estado sólido** e de **física nuclear**, que são candidatos naturais a
-esta segunda parte. Os roteiros ainda precisam ser definidos (ver
-[Pontos em aberto](advanced-cycle.qmd#sec-pontos-abertos-ca)).
+moderna; candidatos: experimentos de física do estado sólido e de física nuclear,
+incluídos na ementa vigente de 2FIS098.
+
+### Física Matemática III {#sec-fisica-matematica-iii}
+
+Continua Física Matemática II com a geometria diferencial e os grupos de Lie.
+
+::: {.callout-warning appearance="simple"}
+**Ementa incompleta.** A ementa abaixo ainda está em elaboração pelo NDE.
+:::
+
+::: {.ementa}
+**Ementa** (60 h)
+
+- Variedades.
+- Espaço tangente e cotangente.
+- Campos vetoriais e covetoriais.
+- Curvas características e o vetor tangente.
+- Derivada de Lie.
+- Teoria de grupos.
+- Grupos de Lie como variedades.
+- Funcionais lineares, 1-formas algébricas e 1-formas diferenciais.
+- Curvas características como o núcleo de uma 1-forma.
+- Fluxo hamiltoniano e geometria simplética.
+:::
 
 ### Demais disciplinas do sexto semestre
 

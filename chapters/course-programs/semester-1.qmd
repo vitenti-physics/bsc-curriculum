@@ -1,10 +1,10 @@
 ---
-title: "1º semestre — Programas"
+title: "1º semestre: Programas"
 ---
 
 ::: {.callout-note appearance="simple"}
 Programas propostos das disciplinas do 1º semestre. Conteúdo em revisão pelo NDE.
-Ementas em [Núcleo Comum — Primeiro Ano](../common-core-year1.qmd#primeiro-semestre);
+Ementas em [Núcleo Comum: Primeiro Ano](../common-core-year1.qmd#primeiro-semestre);
 cargas horárias em [Grade Horária](../timetable.qmd).
 :::
 
@@ -20,18 +20,18 @@ consolidam a fluência e o laboratório inicia o tratamento de medidas e incerte
 
 ## Física Básica
 
-**Status:** Programa em elaboração.
+**Status:** a elaborar.
 
 Disciplina de **nivelamento**, ofertada de forma intensiva no 1º bimestre (com
 reoferta no 2º). Pretende-se que consolide as ferramentas matemáticas elementares
-— operações, potências e raízes, funções e suas representações gráficas — de modo
+(operações, potências e raízes, funções e suas representações gráficas) de modo
 que todos os estudantes possam acompanhar Cálculo I e Física Geral I em condições
 equivalentes. O programa detalhado, com a articulação aos primeiros tópicos de
 Cálculo, ainda será elaborado.
 
 ## Cálculo I
 
-**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+**Status:** rascunho.
 
 O curso de Cálculo I introduz os conceitos fundamentais do cálculo diferencial,
 que constituem a base da formulação matemática da Física clássica. Este curso é
@@ -49,18 +49,18 @@ de máximos e mínimos que aparecem de modo recorrente na Física.
 
 ## Práticas de Cálculo I
 
-**Status:** Programa em revisão (disciplina espelho).
+**Status:** rascunho.
 
 Disciplina espelho de Cálculo I, dedicada à resolução de exercícios e à
 consolidação dos seus tópicos, com ênfase em aplicações a problemas físicos.
 Pretende-se que acompanhe de perto o curso teórico, oferecendo treino sistemático
 em manipulação algébrica, gráficos, limites, derivadas, aproximações de Taylor e
-otimização. O detalhamento dos blocos de exercícios consta da ementa em
-[Núcleo Comum](../common-core.qmd).
+otimização. O detalhamento dos blocos de exercícios consta da
+[ementa](../common-core-year1.qmd#práticas-de-cálculo-i).
 
 ## Física Geral I
 
-**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+**Status:** rascunho.
 
 O curso de Física Geral I introduz três conceitos-chave da Física clássica: o
 modelo de partícula, sua cinemática e sua dinâmica. É acompanhado pela Prática de
@@ -97,7 +97,7 @@ A cinemática trata da descrição do movimento de partículas, independentement
 suas causas: fornece um modelo matemático para trajetórias, velocidades e
 acelerações na ausência explícita de forças. Inclui movimentos retilíneos
 uniformes e uniformemente acelerados, bem como movimentos circulares. Sob uma
-perspectiva mais ampla, o movimento livre — na ausência de interações — pode ser
+perspectiva mais ampla, o movimento livre (na ausência de interações) pode ser
 entendido como o movimento ao longo de uma geodésica.^[Em termos gerais, uma
 geodésica é o caminho de menor "distância" (ou tempo próprio) em um espaço ou
 espaço-tempo, conceito fundamental em teorias como a relatividade geral.]
@@ -160,7 +160,7 @@ rígidos.
 
 ## Prática de Física Geral I
 
-**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+**Status:** rascunho.
 
 Disciplina espelho de Física Geral I, voltada à consolidação dos conceitos
 teóricos por meio da resolução de problemas. Um aspecto central é a **construção
@@ -168,17 +168,17 @@ de sistemas de coordenadas a partir de medidas físicas reais**: os alunos apren
 a estabelecer a conexão entre o mundo observável e sua representação matemática,
 transformando observações em descrições quantitativas. A disciplina enfatiza ainda
 a conversão entre grandezas e o Sistema Internacional (SI), a **análise
-dimensional** — ferramenta para verificar a consistência de equações e estimar
-ordens de grandeza — e problemas envolvendo referenciais acelerados e quantidades
+dimensional** (ferramenta para verificar a consistência de equações e estimar
+ordens de grandeza) e problemas envolvendo referenciais acelerados e quantidades
 conservadas, reforçando a conexão entre simetrias e leis de conservação.
 
 ## Laboratório de Física Geral I
 
-**Status:** Programa em revisão.
+**Status:** rascunho.
 
 Primeiro contato sistemático com o **método experimental**. Pretende-se que
 introduza medidas físicas e sistemas de unidades, o tratamento de incertezas
 (tipos de erro, propagação, estatística básica), a representação e o ajuste de
 dados e o uso de ferramentas computacionais (Python), culminando na elaboração de
 relatórios científicos. Os roteiros acompanham os tópicos de mecânica de Física
-Geral I (ver ementa em [Núcleo Comum](../common-core.qmd)).
+Geral I (ver a [ementa](../common-core-year1.qmd#laboratório-de-física-geral-i)).

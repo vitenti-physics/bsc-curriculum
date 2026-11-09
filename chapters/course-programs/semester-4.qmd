@@ -1,10 +1,10 @@
 ---
-title: "4º semestre — Programas"
+title: "4º semestre: Programas"
 ---
 
 ::: {.callout-note appearance="simple"}
 Programas propostos das disciplinas do 4º semestre. Conteúdo em revisão pelo NDE.
-Ementas em [Núcleo Comum — Segundo Ano](../common-core-year2.qmd#quarto-semestre);
+Ementas em [Núcleo Comum: Segundo Ano](../common-core-year2.qmd#quarto-semestre);
 cargas horárias em [Grade Horária](../timetable.qmd).
 :::
 
@@ -20,17 +20,17 @@ anterior são pré-requisitos diretos de Física Matemática I.
 
 ## Cálculo IV
 
-**Status:** Programa em elaboração.
+**Status:** a elaborar.
 
 Trata de **sequências e séries** e introduz as **equações diferenciais
 ordinárias**, incluindo as lineares de segunda ordem e as soluções em séries de
 potências (método de Frobenius). Pretende-se que desenvolva as ferramentas de
-modelagem de sistemas dinâmicos — em particular o oscilador e suas variantes — que
+modelagem de sistemas dinâmicos (em particular o oscilador e suas variantes) que
 aparecem em todo o curso. O texto de fundamentação ainda será desenvolvido.
 
 ## Práticas de Cálculo IV
 
-**Status:** Programa em revisão (disciplina espelho).
+**Status:** rascunho.
 
 Disciplina espelho de Cálculo IV, dedicada à resolução de exercícios de séries e
 de equações diferenciais ordinárias de primeira e segunda ordem, com aplicações
@@ -38,7 +38,7 @@ físicas.
 
 ## Física Geral IV
 
-**Status:** Programa transportado de `apresentacao.tex`, em revisão.
+**Status:** rascunho.
 
 Dá continuidade a Física Geral III, passando da descrição **fenomenológica** do
 eletromagnetismo à sua **formulação unificada** pelas equações de Maxwell. Após
@@ -50,7 +50,7 @@ articulando-se diretamente com o cálculo vetorial de Cálculo III e IV.
 
 ## Prática de Física Geral IV
 
-**Status:** Programa em revisão (disciplina espelho).
+**Status:** rascunho.
 
 Disciplina espelho de Física Geral IV, dedicada à resolução de exercícios sobre as
 equações de Maxwell, as ondas eletromagnéticas e a óptica física (polarização,
@@ -58,20 +58,21 @@ interferência e difração).
 
 ## Laboratório de Física Geral IV
 
-**Status:** Programa em elaboração.
+**Status:** a elaborar.
 
-Complementará o curso teórico com experimentos de Maxwell, ondas eletromagnéticas
-e óptica física. Os roteiros ainda serão definidos
-(ver [Pontos em aberto](../common-core.qmd#sec-pontos-abertos)).
+Complementa o curso teórico com experimentos de ondas eletromagnéticas e óptica
+física. Há uma [proposta de roteiros](../common-core-year2.qmd#laboratório-de-física-geral-iv)
+para difração e polarização; faltam os de interferência e de ondas
+eletromagnéticas (ver [Pontos em aberto](../common-core.qmd#sec-pontos-abertos)).
 
 ## Física Matemática I
 
-**Status:** Programa em elaboração.
+**Status:** a elaborar.
 
 Introduz métodos matemáticos centrais da Física. Pretende-se partir da **delta de
 Dirac** e da ideia de distribuições, construir as **funções de Green** do
 laplaciano em 1, 2 e 3 dimensões, e desenvolver a **análise de Fourier**
 (séries e transformadas) articulada ao problema de Sturm-Liouville. A intenção é
 fornecer as ferramentas que sustentam a solução de problemas de contorno em
-eletromagnetismo, vibrações e condução de calor, aprofundadas nas ênfases. O texto
+eletromagnetismo, vibrações e condução de calor, aprofundadas em Física Matemática II e em Eletromagnetismo I. O texto
 de fundamentação ainda será desenvolvido.
