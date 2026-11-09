@@ -8,6 +8,8 @@ Documentos de referência da reformulação. Não fazem parte do site.
   - `seriacao-carga-horaria.pdf`: seriação, cargas horárias, pré-requisitos, componentes
     não disciplinares (optativas, AEX, atividades complementares) e critérios de
     avaliação.
+- `legislation/`: normas federais, do Paraná e da UEL aplicáveis ao PPC; índice e regras
+  relevantes em `legislation/README.md`.
 - `nde/carta-pre-requisitos.pdf`: carta do NDE ao Colegiado sobre o mapa de
   pré-requisitos.
 - `ppc-draft/`: o rascunho anterior do PPC.
