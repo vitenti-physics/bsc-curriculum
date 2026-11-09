@@ -1,8 +1,8 @@
 TERMODINÂMICA (60 hrs)
 
 Conceitos básicos e postulados. 
-Equilíbrio termico, fronteiras adiabáticas e diatermicas.
-Lei zero e conceito de temperatura empirica.
+Equilíbrio térmico, fronteiras adiabáticas e diatérmicas.
+Lei zero e conceito de temperatura empírica.
 Algumas relações formais e exemplos de sistemas termodinâmicos. 
 Processos reversíveis e quasi-estáticos.
 A primeira Lei e o conceito de calor.

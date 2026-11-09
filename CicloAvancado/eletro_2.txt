@@ -1,14 +1,12 @@
 2FIS104 ELETROMAGNETISMO II (60 hrs)
-[Copiada da ementa do currículo vigente do Bacharelado em Física (2023), apenas com correções tipográficas — ainda não revisada pelo NDE]
-Pré-requisito no currículo vigente: 2FIS096 Física Geral III.
 
-Equações de Maxwell.
-Equação de onda eletromagnética.
+Equações de Maxwell: força eletromotriz, indução eletromagnética e corrente de deslocamento.
+Leis de conservação: equação da continuidade e teorema de Poynting, conservação do momento linear e angular do campo.
 Transformações de calibre.
+Equação de onda eletromagnética e suas aplicações.
 Propagação de ondas eletromagnéticas.
-Ondas em regiões de contorno.
+Ondas no vácuo e na matéria.
 Guias de ondas e cavidades ressonantes.
 Dispersão óptica nos materiais.
 Potenciais retardados.
 Radiação de sistemas simples.
-Trabalho de Campo.

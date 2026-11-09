@@ -1,0 +1,18 @@
+Mecânica Estatística (60 hrs)
+
+Revisão de potenciais termodinâmicos, condições de estabilidade.
+
+Caminho aleatório e a equação de difusão.
+Contagem de estados em sistemas clássicos.
+Mecânica estatística clássica, ensembles termodinâmicos: micro-canônico, canônico e grande-canônico. 
+Gases ideais clássicos: gás ideal, gás diatômico.
+Sólido de Einstein
+Sistema de dois níveis
+Modelo de Ising em uma dimensão.
+Modelo de Debye para o calor específico dos sólidos.
+
+Radiação de corpo negro. 
+Mecânica estatística quântica.
+Estatística de Bose-Einstein e Fermi-Dirac.
+Sistemas quânticos.
+Gás de fótons.
