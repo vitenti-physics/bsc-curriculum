@@ -1,0 +1,949 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[brazilian]{babel}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage[left=3cm,right=2cm,top=4cm,bottom=1cm]{geometry}
+\usepackage{marvosym}
+\usepackage{lipsum}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tcolorbox}
+\usepackage{hyperref}
+\usepackage{fmtcount}
+
+\newcounter{fis}
+\newcounter{mat}
+
+\newcommand{\printfis}{%
+  \stepcounter{fis}% incrementa
+  FIS\ifnum\value{fis}<10 0\fi% zero à esquerda para <10
+  \ifnum\value{fis}<100 0\fi% zero à esquerda para <100
+  \arabic{fis}~% imprime número
+}
+
+\newcommand{\printmat}{%
+  \stepcounter{mat}% incrementa
+  MAT\ifnum\value{mat}<10 0\fi% zero à esquerda para <10
+  \ifnum\value{mat}<100 0\fi% zero à esquerda para <100
+  \arabic{mat}~% imprime número
+}
+
+\geometry{headheight = 0.6in, footskip = 1cm, bottom = 2cm}
+\fancypagestyle{firstpage}{\fancyhf{}\fancyhead[R]{\includegraphics[height=0.5in, keepaspectratio=true]{Logo_UEL.jpg}}}
+\fancypagestyle{plain}{\fancyhf{}\fancyhead[L]{\includegraphics[height=0.5in, keepaspectratio=true]{Logo_UEL.jpg}}\fancyfoot[C]{\thepage}}
+\fancypagestyle{empty}{\fancyhf{}\fancyhead[L]{\includegraphics[height=0.5in, keepaspectratio=true]{Logo_UEL.jpg}}\fancyfoot[C]{\thepage}}
+\pagestyle{plain}
+
+\title{Núcleo comum do curso de Bacharelado em Física.}
+\author{Núcleo Docente Estruturante do curso de Bacharelado em Física.}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+    A Física é uma ciência que tem como objetivo principal a compreensão dos fenômenos
+    naturais. Para isso, utilizamos a matemática como linguagem e a experimentação como
+    método de validação. Dessa forma, o curso de Bacharelado em Física da Universidade
+    Estadual de Londrina tem como objetivo formar profissionais que sejam capazes de
+    compreender a linguagem matemática e usá-la para descrever e prever os fenômenos
+    naturais. Além disso, o domínio do uso da matemática, aliado a habilidade de mapear
+    o mundo real em termos matemáticos, permite que a formação em Física seja uma
+    excelente base para a resolução de problemas complexos em diversas áreas do
+    conhecimento. Dessa forma, o curso de Bacharelado em Física da Universidade
+    Estadual de Londrina é dividido em dois núcleos: o núcleo comum e as enfases. Neste
+    documento apresentamos o núcleo comum do curso de Bacharelado em Física da
+    Universidade Estadual de Londrina. O núcleo comum é composto por disciplinas
+    obrigatórias que todos os alunos devem cursar. O tempo de duração dessa parte do
+    curso é de 2 anos.
+\end{abstract}
+
+\section*{Núcleo comum}
+
+O objetivo do núcleo comum do curso de Bacharelado em Física da Universidade Estadual
+de Londrina é introduzir o aluno ao conhecimento básico da Física e da Matemática.
+Nessa parte do curso o aluno terá contato com disciplinas introdutórias de Física e
+Matemática onde desenvolverá a fluência matemática combinada com a capacidade de
+descrever e modelar elementos da realidade. Tradicionalmente, o curso de física visa
+desenvolver essas habilidades com o objetivo de aplicá-las na expansão do conhecimento
+científico, seja teórico ou experimental. No entanto, a formação em Física também
+permite que o aluno desenvolva habilidades que são úteis em diversas áreas das
+atividades humanas, como a capacidade de modelar e resolver problemas complexos, assim
+como a habilidade de desenvolver e aplicar técnicas experimentais para validação e
+investigação dos modelos propostos.
+
+Por essa razão, o núcleo comum do curso de Bacharelado é composto por disciplinas onde
+o aluno terá contato com os conceitos básicos da Física e da Matemática, desenvolvendo
+seu entendimento de como essas ideias foram aplicadas de forma bem sucedida. Ou seja,
+desse ponto de vista o conteúdo específico das disciplinas serve como um exemplo
+concreto de como a matemática pode ser usada para descrever e prever fenômenos
+naturais. Evidentemente, para o estudante que deseja seguir carreira acadêmica em
+física, o núcleo comum contem os modelos físicos básicos que serão a base para a
+compreensão de fenômenos mais complexos. Para o estudante que deseja seguir carreira em
+outras áreas, o núcleo comum oferece uma excelente base para a resolução de problemas
+complexos em diversas áreas do conhecimento. Para isso, o estudante poderá escolher
+entre as diferentes enfases oferecidas pelo curso, que são: Física Industrial, Física
+Médica, Bacharelado Tradicional.
+
+O núcleo comum do curso é dividido em dois anos e é composto por disciplinas
+semestrais. A seguir apresentamos a grade curricular do núcleo comum do curso e
+discutimos os conceitos chave e como eles se relacionam com a ementa das disciplinas e
+com o objetivo do curso.
+
+\section{Primeiro ano}
+
+O primeiro ano do curso é um período particularmente desafiador tanto para o corpo
+docente quanto para os estudantes. Para os alunos, esse período implica em uma imersão
+mais profunda e sistemática nas técnicas matemáticas, além do desafio de conectá-las
+aos elementos da realidade que motivaram seu desenvolvimento. Por outro lado, para o
+corpo docente, o desafio reside em introduzir conceitos que demandam um esforço
+significativo por parte dos estudantes, mantendo-os engajados e capazes de enfrentar os
+desafios exigidos.
+
+Para apoiar o processo de aprendizagem, os cursos principais de Cálculo e Física são
+acompanhados por disciplinas de Prática, que seguem ementas paralelas focadas na
+resolução de exercícios e no treinamento intensivo dos conceitos apresentados. Estas
+disciplinas de Prática são ministradas por professores diferentes daqueles responsáveis
+pelos cursos teóricos, permitindo uma abordagem complementar e proporcionando aos
+alunos diferentes perspectivas sobre os mesmos tópicos. O objetivo dessas práticas é
+acompanhar de perto o estudo dos alunos, identificar dificuldades individuais e
+coletivas, e proporcionar um ambiente dedicado à consolidação do conhecimento através
+da aplicação prática dos conceitos teóricos.
+
+Os dois semestres do primeiro ano são compostos pelas disciplinas abaixo:
+\begin{tcolorbox}[title=Primeiro Ano:,colback=blue!5!white,colframe=blue!75!black]
+    \begin{tcolorbox}[title=Primeiro semestre:]
+        \begin{itemize}
+            \item \printmat -- Cálculo I -- Seção~\ref{mat001}
+            \item \printmat -- Práticas de Cálculo I -- Seção~\ref{mat002}
+            \item \printfis -- Física Geral I -- Seção~\ref{fis001}
+            \item \printfis -- Prática de Física Geral I -- Seção~\ref{fis002}
+            \item \printfis -- Laboratório de Física Geral I -- Seção~\ref{fis003}
+        \end{itemize}
+    \end{tcolorbox}
+    \begin{tcolorbox}[title=Segundo semestre:]
+        \begin{itemize}
+            \item \printmat -- Cálculo II -- Seção~\ref{mat003}
+            \item \printmat -- Práticas de Cálculo II -- Seção~\ref{mat004}
+            \item \printmat -- Métodos Lineares para Física -- Seção~\ref{mat005}
+            \item \printfis -- Física Geral IIa -- Seção~\ref{fis004a}
+            \item \printfis -- Prática de Física Geral IIa -- Seção~\ref{fis005a}
+            \item \printfis -- Física Geral IIb -- Seção~\ref{fis004b}
+            \item \printfis -- Prática de Física Geral IIb -- Seção~\ref{fis005b}
+            \item \printfis -- Laboratório de Física Geral II -- Seção~\ref{fis006}
+        \end{itemize}
+    \end{tcolorbox}
+\end{tcolorbox}
+
+\subsection*{Grade Horária}
+
+Abaixo apresentamos uma sugestão de grade horária para os dois anos do núcleo comum.
+Cada disciplina tem uma carga horária de 60 horas semestrais, exceto as disciplinas
+divididas (Física Geral IIa/IIb e Prática de Física Geral IIa/IIb) que têm 30 horas
+cada.
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|l|c|c|}
+        \hline
+        \textbf{Disciplina}            & \textbf{Semestre} & \textbf{Carga Horária} \\
+        \hline
+        Cálculo I                      & 1º                & 60h                    \\
+        Práticas de Cálculo I          & 1º                & 30h                    \\
+        Física Geral I                 & 1º                & 60h                    \\
+        Prática de Física Geral I      & 1º                & 30h                    \\
+        Laboratório de Física Geral I  & 1º                & 60h                    \\
+        \hline
+        \textbf{Total 1º Semestre}     &                   & \textbf{240h}          \\
+        \hline
+        \hline
+        Cálculo II                     & 2º                & 60h                    \\
+        Práticas de Cálculo II         & 2º                & 30h                    \\
+        Métodos Lineares para Física   & 2º                & 60h                    \\
+        Física Geral IIa               & 2º                & 30h                    \\
+        Prática de Física Geral IIa    & 2º                & 30h                    \\
+        Física Geral IIb               & 2º                & 30h                    \\
+        Prática de Física Geral IIb    & 2º                & 30h                    \\
+        Laboratório de Física Geral II & 2º                & 60h                    \\
+        \hline
+        \textbf{Total 2º Semestre}     &                   & \textbf{300h}          \\
+        \hline
+        \textbf{Total Primeiro Ano}    &                   & \textbf{660h}          \\
+        \hline
+    \end{tabular}
+    \caption{Grade horária do primeiro ano do núcleo comum.}
+\end{table}
+
+Nas próximas seções discutiremos o conteúdo de cada uma dessas disciplinas e como elas
+se relacionam com o objetivo do curso. As disciplinas são apresentadas na ordem em que
+aparecem no currículo, iniciando com as disciplinas de matemática seguidas pelas de
+física em cada semestre.
+
+\pagebreak
+
+\subsection{Cálculo I}
+\label{mat001}
+
+O curso de Cálculo I introduz os conceitos fundamentais do cálculo diferencial, que
+constituem a base da formulação matemática da Física clássica. Este curso é acompanhado
+pela disciplina de Práticas de Cálculo I, onde os conceitos abstratos são aplicados em
+contextos geométricos e físicos concretos.
+
+O estudo inicia-se pela construção dos números reais e pela representação de funções de
+uma variável real, que permitem descrever relações quantitativas entre grandezas
+físicas. A partir dessas relações, são definidos os conceitos de limite e continuidade,
+que fornecem o arcabouço necessário para tratar variações contínuas de grandezas
+observáveis.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item Conjuntos numéricos.
+        \item O conjunto dos números reais.
+        \item Intervalos abertos e fechados. Módulo.
+        \item Inequações.
+        \item Funções de uma variável real.
+        \item Composição de funções.
+        \item Limite e continuidade de funções reais.
+        \item A derivada e derivação.
+        \item Propriedades (linearidade).
+        \item Regra da cadeia.
+        \item Derivação implícita.
+        \item Regra de L'Hôpital.
+        \item Fórmula e polinômio de Taylor.
+        \item Funções reais de várias variáveis: derivadas parciais.
+        \item Derivadas parciais e regra da cadeia.
+        \item Máximos e mínimos.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Práticas de Cálculo I}
+\label{mat002}
+
+A disciplina de Práticas de Cálculo I funciona em paralelo ao curso de Cálculo I,
+proporcionando aos alunos um espaço dedicado para consolidar os conceitos abstratos do
+cálculo através de sua aplicação em contextos geométricos e físicos concretos. Esta
+disciplina é fundamental para estabelecer a ponte entre a matemática formal apresentada
+no curso teórico e suas aplicações práticas.
+
+O curso começa com a representação geométrica, explorando retas e coordenadas no plano
+cartesiano. Os alunos desenvolvem a habilidade de visualizar funções e relações
+matemáticas geometricamente, uma competência essencial para a compreensão intuitiva dos
+conceitos do cálculo. A introdução às cônicas e quádricas expande essa compreensão para
+curvas e superfícies mais complexas, preparando o terreno para estudos futuros em
+geometria diferencial.
+
+O estudo de diferentes sistemas de coordenadas é particularmente importante, pois muitos
+problemas físicos são mais facilmente resolvidos quando descritos no sistema de
+coordenadas apropriado. Os alunos aprendem a trabalhar com coordenadas cartesianas,
+polares, cilíndricas e esféricas, desenvolvendo a flexibilidade necessária para
+escolher a representação mais adequada para cada problema.
+
+A aplicação do cálculo ao movimento acelerado unidimensional proporciona aos alunos uma
+primeira experiência concreta de como as derivadas descrevem mudanças instantâneas em
+sistemas físicos. Problemas unidimensionais servem como introdução à modelagem
+matemática de fenômenos físicos, onde os conceitos de velocidade e aceleração ganham
+significado tangível através das derivadas.
+
+O conceito de vetores covariantes e contravariantes na geometria euclidiana introduz os
+alunos a uma perspectiva mais sofisticada sobre objetos geométricos, preparando-os para
+estudos futuros em física teórica e geometria diferencial. Finalmente, o estudo de
+campos escalares, como distribuição de calor e densidade, conecta o cálculo a fenômenos
+físicos reais, mostrando como funções de várias variáveis podem descrever propriedades
+que variam no espaço.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item Retas e coordenadas. Plano cartesiano.
+        \item Introdução às cônicas e quádricas.
+        \item Sistemas de coordenadas.
+        \item Movimento acelerado unidimensional.
+        \item Problemas unidimensionais com derivadas.
+        \item Vetores covariantes e contravariantes na geometria euclidiana.
+        \item Geometria euclidiana.
+        \item Campos escalares (distribuição de calor, densidade, etc.).
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Física Geral I}
+\label{fis001}
+
+O curso de Física Geral I introduz três conceitos-chave da Física clássica: o modelo de
+partícula, sua cinemática e dinâmica. Esse curso é acompanhado pela disciplina de
+Prática de Física Geral I, onde os alunos consolidam o aprendizado através da resolução
+de problemas e exercícios, com foco na aplicação dos conceitos teóricos em situações
+concretas. O modelo de partícula pontual é de suma
+importância por diversas razões. Primeiramente, fornece um modelo simples que descreve
+o movimento de objetos macroscópicos. Em segundo lugar, serve como base para a
+descrição de sistemas mais complexos, como corpos rígidos. Além de ser um modelo
+aproximado, é a peça fundamental para a descrição de sistemas mais complexos, os quais
+passam a ser representados como um conjunto de partículas.
+
+A cinemática desse modelo envolve a descrição do movimento de partículas, que é
+definido pelo espaço e pelo tempo. Essa descrição ocorre de duas maneiras: uma física,
+onde determinamos o que podemos medir, e uma matemática, onde definimos os objetos
+matemáticos que descrevem essas medidas. Em outras palavras, a partir da observação dos
+pontos materiais, estabelecemos um sistema de coordenadas e associamos a cada ponto as
+medidas físicas de distância a partir de um ponto de referência. Item da ementa: {\bf
+Medidas e grandezas em Física.}
+
+De forma prática, o ambiente é descrito em um espaço tridimensional, onde cada ponto é
+associado a um conjunto de coordenadas representando medidas físicas de distância.
+Assim, a cinemática demanda a definição da geometria desse espaço. Uma vez definido,
+podemos descrever o movimento de uma partícula em termos de sua posição e velocidade.
+Em termos matemáticos, as posições são representadas como vetores em um espaço
+tridimensional $\mathbb{M} = \mathbb{R}^3$. Além disso, o estado físico de uma
+partícula também requer a descrição de sua velocidade, que, novamente, pode ser
+modelada matematicamente como um vetor em outro espaço tridimensional $\mathbb{V} =
+    \mathbb{R}^3$. Portanto, compreender a cinemática exige habilidade no trabalho com
+vetores e sistemas de coordenadas. Item da ementa: {\bf Vetores e sistemas de
+coordenadas}.
+
+Assim, a cinemática trata da descrição do movimento de partículas em um espaço
+tridimensional, independentemente das causas desse movimento. Em essência, fornece um
+modelo matemático para descrever trajetórias, velocidades e acelerações de partículas
+na ausência explícita de forças. Inclui o estudo de movimentos retilíneos uniformes e
+uniformemente acelerados, bem como de movimentos circulares, que podem ser
+interpretados como casos particulares observados em referenciais acelerados. Sob uma
+perspectiva mais ampla, o movimento livre, isto é, na ausência de interações, pode ser
+entendido como o movimento ao longo de uma geodésica\footnote{Em termos gerais, uma
+    geodésica é o caminho de menor ``distância'' (ou tempo próprio) em um espaço ou
+    espaço-tempo, conceito fundamental em teorias como a relatividade geral.}.  Item da
+ementa: {\bf Cinemática da partícula}.
+
+O próximo elemento a ser introduzido é a dinâmica, que descreve o movimento de
+partículas na presença de forças. No entanto, ao contrário da cinemática, a dinâmica
+não possui um caráter descritivo universal. Isso significa que, dependendo das
+características específicas do sistema, diferentes leis podem ser aplicadas. Portanto,
+por meio das leis de Newton, introduzimos o conceito de força para modelar como as
+partículas respondem a essas interações.
+
+Em termos matemáticos, a dinâmica é descrita por meio de equações diferenciais que
+delineiam como as forças influenciam o movimento das partículas e como estas reagem a
+tais interações. É importante notar que a dinâmica não apenas introduz o conceito de
+força, mas também explora como essas forças se relacionam com a massa e a aceleração
+das partículas, conforme expresso pelas famosas leis de Newton. Essas leis constituem
+os princípios fundamentais da dinâmica e servem como alicerce para a modelagem de uma
+vasta gama de fenômenos físicos, desde o movimento dos planetas até o funcionamento de
+máquinas e sistemas mecânicos. A dinâmica pode ser dividida em duas partes: os
+princípios que governam as interações entre partículas (ação e reação, forças centrais,
+etc.) e o estudo da evolução temporal desses sistemas. Item da ementa: {\bf Os
+princípios da dinâmica}.
+
+A construção do sistema de referência descrita acima depende da escolha de um ponto de
+referência a partir do qual as medidas são feitas. Dependendo do movimento do sistema,
+esses referenciais podem ser classificados como inerciais ou não inerciais. O conceito
+de referencial inercial é fundamental para a descrição do movimento de partículas, uma
+vez que fornece um quadro de referência no qual temos regras bem definidas para
+descrever o movimento de partículas. Em contraste, os referenciais não inerciais são
+aqueles que estão em movimento acelerado em relação a um referencial inercial. Esses
+referenciais podem ser usados para descrever o movimento de partículas, mas exigem a
+introdução de forças fictícias para manter a consistência com as leis de Newton. Item
+da ementa: {\bf Referenciais inerciais e não-inerciais}.
+
+Quando exploramos a dinâmica de um sistema, podemos categorizar as forças em dois tipos
+distintos: conservativas e dissipativas. Nas forças conservativas, destacamos a
+capacidade de definir uma grandeza chamada energia, a qual é preservada ao longo do
+tempo. Além disso, a estrutura das forças conservativas nos permite estabelecer outra
+grandeza fundamental, denominada momento linear, que também é mantida inalterada ao
+longo da evolução temporal do sistema. Em resumo, os princípios físicos e geométricos
+subjacentes às forças possibilitam a definição de grandezas conservadas que desempenham
+um papel crucial na descrição e compreensão do comportamento dinâmico dos sistemas.
+Item da ementa: {\bf Conservação da energia e momento linear}.
+
+Uma progressão natural do conceito de conservação reside na interconexão entre
+simetrias e leis de conservação. De maneira abrangente, as simetrias presentes em um
+sistema físico estão intrinsecamente ligadas às leis de conservação que governam esse
+sistema. Em outras palavras, a existência de determinadas simetrias em um sistema
+implica na existência de leis de conservação que regem suas dinâmicas. Assim, a relação
+entre simetrias e leis de conservação é um princípio fundamental na compreensão de como
+as leis físicas são derivadas a partir de princípios mais fundamentais, proporcionando
+uma visão mais profunda sobre a estrutura e o funcionamento dos fenômenos físicos. Item
+da ementa: {\bf Simetrias e leis de conservação}.
+
+Acima, delineamos os conceitos fundamentais abordados no curso de Física Geral I. Para
+ilustrar esses conceitos, o curso apresenta exemplos concretos de sua aplicação em
+diversos contextos. Um desses exemplos destacados é a gravitação, um fenômeno
+amplamente compreendido e descrito pela Física Clássica. Item da ementa: {\bf
+Gravitação}.
+
+Além disso, o modelo do ponto material é a base para a descrição de sistemas
+mais complexos, como corpos rígidos. A cinemática e a dinâmica dos corpos rígidos
+são introduzidas no curso de Física Geral I, onde o aluno aprenderá a descrever o
+movimento de corpos rígidos em termos de suas posições e velocidades.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item Vetores e sistemas de coordenadas.
+        \item Cinemática da partícula.
+        \item Os princípios da dinâmica.
+        \item Referenciais inerciais e não-inerciais.
+        \item Conservação da energia e momento linear.
+        \item Simetrias e leis de conservação.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Prática de Física Geral I}
+\label{fis002}
+
+A disciplina de Prática de Física Geral I é um componente essencial do primeiro
+semestre, funcionando em paralelo ao curso de Física Geral I. O objetivo desta
+disciplina é proporcionar aos alunos a oportunidade de consolidar os conceitos teóricos
+através da resolução de problemas práticos e exercícios, desenvolvendo habilidades
+fundamentais para o estudo da Física.
+
+Um aspecto crucial desta disciplina é a construção de sistemas de coordenadas a partir
+de medidas físicas reais. Os alunos aprendem a estabelecer a conexão entre o mundo
+físico observável e sua representação matemática, compreendendo como transformar
+observações experimentais em descrições quantitativas. Esta habilidade é fundamental
+para toda a formação em Física e representa o primeiro passo na modelagem de fenômenos
+naturais.
+
+A disciplina também enfatiza a conversão entre diferentes grandezas e a familiarização
+com o Sistema Internacional de Unidades (SI). Os alunos desenvolvem a capacidade de
+trabalhar com diferentes escalas e sistemas de medida, uma habilidade essencial para a
+comunicação científica e para a resolução de problemas reais.
+
+A análise dimensional é outro tópico central desta disciplina. Esta técnica poderosa
+permite verificar a consistência de equações, estimar ordens de grandeza e compreender
+as relações entre diferentes quantidades físicas. É uma ferramenta que os alunos
+utilizarão durante toda sua formação e carreira profissional.
+
+Os problemas envolvendo referenciais com aceleração constante permitem aos alunos
+aplicar os conceitos de cinemática em situações concretas, desenvolvendo intuição sobre
+movimento relativo e transformações entre sistemas de referência. Finalmente, a
+disciplina explora problemas envolvendo simetrias e quantidades conservadas,
+estabelecendo a conexão profunda entre princípios de simetria e leis de conservação, um
+dos conceitos mais fundamentais e elegantes da Física.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item Construção de sistemas de coordenadas a partir de medidas físicas.
+        \item Conversão entre grandezas, sistema SI.
+        \item Análise dimensional.
+        \item Problemas com referenciais com aceleração constante.
+        \item Problemas com simetrias e quantidades conservadas.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Laboratório de Física Geral I}
+\label{fis003}
+
+A disciplina de Laboratório de Física Geral I complementa os cursos teóricos e de
+prática, proporcionando aos alunos experiência direta com experimentos físicos que
+ilustram os conceitos de mecânica estudados em Física Geral I.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A ementa será definida para complementar os tópicos de mecânica.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Cálculo II}
+\label{mat003}
+
+O curso de Cálculo II introduz o cálculo integral, complementando os conceitos de
+cálculo diferencial apresentados em Cálculo I. Este curso é acompanhado pela disciplina
+de Práticas de Cálculo II, onde os alunos aplicam as técnicas de integração a problemas
+físicos e geométricos concretos, além de serem introduzidos às equações diferenciais
+separáveis.
+
+A integral de Riemann é apresentada inicialmente através de sua definição geométrica,
+permitindo aos alunos desenvolver intuição sobre o conceito de acumulação e área sob
+curvas. A definição analítica da integral consolida essa compreensão, estabelecendo as
+bases rigorosas para o cálculo integral.
+
+O estudo das funções transcendentes e suas integrais expande o repertório de funções
+que os alunos podem manipular, incluindo funções exponenciais, logarítmicas e
+trigonométricas. As técnicas de integração são apresentadas como ferramentas essenciais
+para resolver integrais mais complexas, desenvolvendo a habilidade dos alunos de
+reconhecer padrões e escolher métodos apropriados.
+
+As integrais impróprias estendem o conceito de integração para domínios ilimitados ou
+funções com descontinuidades, enquanto as integrais múltiplas generalizam a integração
+para funções de várias variáveis, preparando os alunos para aplicações em física que
+envolvem cálculos em duas ou três dimensões.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A integral de Riemann.
+        \item Definição analítica da integral.
+        \item Estudo das funções transcendentes.
+        \item Fórmulas de integrais conhecidas.
+        \item Técnicas de integração.
+        \item Integrais impróprias.
+        \item Integrais múltiplas.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Práticas de Cálculo II}
+\label{mat004}
+
+A disciplina de Práticas de Cálculo II acompanha o curso de Cálculo II, focando na
+aplicação das técnicas de integração a problemas concretos e na introdução às equações
+diferenciais. Esta disciplina é essencial para que os alunos desenvolvam fluência no
+uso das integrais e compreendam seu significado físico e geométrico.
+
+O curso inicia com aplicações imediatas de integrais em uma dimensão, onde os alunos
+exploram o cálculo de áreas, volumes, trabalho, energia e outras grandezas físicas que
+podem ser expressas como integrais. Estas aplicações demonstram o poder do cálculo
+integral para resolver problemas práticos e estabelecem conexões diretas com fenômenos
+físicos observáveis.
+
+Um componente crucial desta disciplina é a introdução às equações diferenciais
+separáveis, particularmente aquelas do tipo $dy/dx = f(x)g(y)$. Esta classe de equações
+aparece naturalmente em inúmeros contextos físicos, desde crescimento populacional até
+decaimento radioativo e circuitos elétricos. Os alunos aprendem a reconhecer, resolver
+e interpretar estas equações, desenvolvendo uma compreensão de como as taxas de
+variação determinam o comportamento dinâmico de sistemas.
+
+As aplicações imediatas de integrais em várias dimensões expandem o repertório dos
+alunos para problemas tridimensionais e além. Conceitos como densidade, centro de
+massa, fluxo através de superfícies e outros fenômenos que requerem integração múltipla
+são explorados, preparando os alunos para cursos mais avançados de física e matemática
+aplicada.
+
+Esta disciplina desempenha um papel fundamental na formação do físico, pois é através
+da resolução de problemas concretos que os alunos desenvolvem a intuição necessária
+para aplicar o cálculo integral em contextos diversos, além de adquirir as primeiras
+ferramentas para modelar sistemas dinâmicos através de equações diferenciais.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item Aplicações imediatas de integrais em uma dimensão.
+        \item Algumas equações diferenciais separáveis.
+        \item Equações do tipo $dy/dx=f(x)g(y)$.
+        \item Aplicações imediatas de integrais em várias dimensões.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Métodos Lineares para Física}
+\label{mat005}
+
+A disciplina de Métodos Lineares para Física introduz os conceitos fundamentais de
+álgebra linear com foco em suas aplicações na física. Este curso é essencial para o
+desenvolvimento das habilidades matemáticas necessárias para compreender sistemas
+físicos descritos por equações lineares.
+
+Os alunos aprendem sobre vetores e espaços vetoriais, combinacões lineares e bases,
+conceitos fundamentais para a descrição de sistemas físicos. O estudo de transformações
+lineares e suas representações matriciais fornece ferramentas para analisar como
+operadores físicos atuam sobre estados do sistema.
+
+Autovetores e autovalores são apresentados como conceitos centrais para a análise de
+sistemas físicos, incluindo modos normais de vibração e estados estacionários em
+mecânica quântica. A diagonalização de matrizes simétricas e operadores ortogonais são
+estudados com aplicações a rotações e outros problemas físicos.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item Vetores e espaços vetoriais usados em física.
+        \item Combinações lineares, subespaços e bases.
+        \item Produto interno, norma e projeções.
+        \item Transformações lineares e representações matriciais.
+        \item Operações com matrizes: soma, produto, inversa.
+        \item Propriedades principais: determinante, traço, posto.
+        \item Mudança de base e interpretações físicas simples.
+        \item Autovalores e autovetores.
+        \item Diagonalização no caso simétrico.
+        \item Operadores ortogonais e aplicações a rotações.
+        \item Modos próprios em sistemas lineares simples.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Física Geral II}
+\label{fis004a}
+\label{fis004b}
+
+O curso de Física Geral II expande o conhecimento adquirido em Física Geral I,
+introduzindo dois novos domínios fundamentais da Física clássica: oscilações e ondas, e
+termodinâmica. Este curso é dividido em duas partes complementares que exploram
+fenômenos distintos mas igualmente fundamentais para a compreensão da natureza.
+
+Na primeira parte do curso (Física IIa), os alunos são introduzidos ao estudo de
+oscilações e ondas. O estudo começa com oscilações livres e forçadas, fenômenos
+ubíquos na natureza que descrevem desde o movimento de pêndulos até vibrações
+moleculares. O conceito de ressonância é particularmente importante, pois aparece em
+inúmeros contextos físicos e tem aplicações práticas significativas em engenharia e
+tecnologia.
+
+A propagação de ondas e o conceito de velocidade de fase são introduzidos como
+extensões naturais do estudo de oscilações. Os alunos aprendem como perturbações se
+propagam através de diferentes meios e como descrever matematicamente esse fenômeno. Os
+conceitos de índice de refração, difração, reflexão e transmissão são explorados no
+contexto da propagação de ondas, culminando com o princípio de Huygens e uma introdução
+à óptica geométrica.
+
+Na segunda parte do curso (Física IIb), o foco se volta para a física de fluidos e
+termodinâmica. Os alunos estudam as propriedades dos fluidos, conceitos de pressão e o
+princípio de Arquimedes. A termodinâmica é introduzida através dos conceitos de
+temperatura e calor, seguidos pela primeira e segunda leis da termodinâmica, que
+estabelecem os princípios fundamentais de conservação e transformação de energia.
+
+O curso também apresenta a teoria cinética dos gases, que estabelece a ponte entre a
+descrição microscópica (molecular) e macroscópica (termodinâmica) da matéria. A
+distribuição de Maxwell-Boltzmann é introduzida como uma ferramenta fundamental para
+compreender o comportamento estatístico de sistemas com muitas partículas.
+
+\begin{tcolorbox}[title=Ementa Física IIa:]
+    \begin{itemize}
+        \item Oscilações livres e forçadas.
+        \item Ressonância.
+        \item Propagação e velocidade de fase.
+        \item Índice de refração e difração.
+        \item Reflexão e transmissão.
+        \item Difração e o princípio de Huygens.
+        \item Óptica geométrica.
+    \end{itemize}
+\end{tcolorbox}
+
+\begin{tcolorbox}[title=Ementa Física IIb:]
+    \begin{itemize}
+        \item Propriedades dos fluidos.
+        \item Pressão num fluido.
+        \item Princípio de Arquimedes.
+        \item Temperatura e calor.
+        \item Primeira e segunda leis da termodinâmica.
+        \item Teoria cinética dos gases.
+        \item Distribuição de Maxwell-Boltzmann.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Prática de Física Geral II}
+\label{fis005a}
+\label{fis005b}
+
+A disciplina de Prática de Física Geral II acompanha o curso de Física Geral II e tem
+como objetivo proporcionar aos alunos experiência prática com os conceitos de
+oscilações, ondas e termodinâmica. Similar à estrutura do curso teórico, as práticas
+são divididas em duas partes correspondentes.
+
+As Práticas de Física IIa focam no estudo experimental de sistemas oscilatórios. O
+pêndulo simples serve como um sistema modelo fundamental, permitindo aos alunos
+observar e quantificar movimento harmônico simples, medir períodos de oscilação e
+verificar as leis que governam esse tipo de movimento. O estudo se estende ao pêndulo
+amortecido, onde os alunos investigam como a dissipação de energia afeta o
+comportamento oscilatório, observando fenômenos como o decaimento exponencial da
+amplitude e as mudanças na frequência de oscilação.
+
+Essas práticas permitem que os alunos desenvolvam habilidades experimentais importantes,
+como a coleta e análise de dados, o ajuste de modelos teóricos a dados experimentais, e
+a compreensão das limitações dos modelos idealizados quando confrontados com situações
+reais onde atrito e outras forças dissipativas estão presentes.
+
+\begin{tcolorbox}[title=Ementa Prática de Física IIa:]
+    \begin{itemize}
+        \item Pêndulo simples.
+        \item Pêndulo amortecido.
+    \end{itemize}
+\end{tcolorbox}
+
+\begin{tcolorbox}[title=Ementa Prática de Física IIb:]
+    \begin{itemize}
+        \item A ementa das práticas de Física IIb será definida para complementar os
+              tópicos de fluidos e termodinâmica.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Laboratório de Física Geral II}
+\label{fis006}
+
+A disciplina de Laboratório de Física Geral II complementa as práticas, fornecendo uma
+experiência mais aprofundada com experimentos físicos relacionados aos tópicos do curso
+teórico.
+
+\pagebreak
+
+\section{Segundo Ano}
+\label{segundoano}
+
+No segundo ano do curso, o aluno terá contato com disciplinas abaixo:
+\begin{tcolorbox}[title=Segundo Ano:,colback=blue!5!white,colframe=blue!75!black]
+    \begin{tcolorbox}[title=Terceiro semestre:]
+        \begin{itemize}
+            \item \printmat -- Cálculo III -- Seção~\ref{mat006}
+            \item \printmat -- Práticas de Cálculo III -- Seção~\ref{mat007}
+            \item \printfis -- Computação para Física -- Seção~\ref{fis007}
+            \item \printfis -- Física Geral III -- Seção~\ref{fis008}
+            \item \printfis -- Prática de Física Geral III -- Seção~\ref{fis009}
+            \item \printfis -- Laboratório de Física Geral III -- Seção~\ref{fis010}
+        \end{itemize}
+    \end{tcolorbox}
+    \begin{tcolorbox}[title=Quarto semestre:]
+        \begin{itemize}
+            \item \printmat -- Cálculo IV -- Seção~\ref{mat008}
+            \item \printmat -- Práticas de Cálculo IV -- Seção~\ref{mat009}
+            \item \printmat -- Dinâmica de Sistemas Físicos -- Seção~\ref{mat010}
+            \item \printfis -- Física Geral IV -- Seção~\ref{fis011}
+            \item \printfis -- Prática de Física Geral IV -- Seção~\ref{fis012}
+            \item \printfis -- Laboratório de Física Geral IV -- Seção~\ref{fis013}
+        \end{itemize}
+    \end{tcolorbox}
+\end{tcolorbox}
+
+\subsection*{Grade Horária}
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|l|c|c|}
+        \hline
+        \textbf{Disciplina}             & \textbf{Semestre} & \textbf{Carga Horária} \\
+        \hline
+        Cálculo III                     & 3º                & 60h                    \\
+        Práticas de Cálculo III         & 3º                & 30h                    \\
+        Computação para Física          & 3º                & 60h                    \\
+        Física Geral III                & 3º                & 60h                    \\
+        Prática de Física Geral III     & 3º                & 30h                    \\
+        Laboratório de Física Geral III & 3º                & 60h                    \\
+        \hline
+        \textbf{Total 3º Semestre}      &                   & \textbf{300h}          \\
+        \hline
+        \hline
+        Cálculo IV                      & 4º                & 60h                    \\
+        Práticas de Cálculo IV          & 4º                & 30h                    \\
+        Dinâmica de Sistemas Físicos    & 4º                & 60h                    \\
+        Física Geral IV                 & 4º                & 60h                    \\
+        Prática de Física Geral IV      & 4º                & 30h                    \\
+        Laboratório de Física Geral IV  & 4º                & 60h                    \\
+        \hline
+        \textbf{Total 4º Semestre}      &                   & \textbf{300h}          \\
+        \hline
+        \textbf{Total Segundo Ano}      &                   & \textbf{600h}          \\
+        \hline
+        \textbf{Total Núcleo Comum}     &                   & \textbf{1380h}         \\
+        \hline
+    \end{tabular}
+    \caption{Grade horária do segundo ano do núcleo comum.}
+\end{table}
+
+\subsection{Cálculo III}
+\label{mat006}
+
+O curso de Cálculo III estende os conceitos de cálculo para funções de várias
+variáveis e introduz o cálculo vetorial.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A ementa será definida.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Práticas de Cálculo III}
+\label{mat007}
+
+A disciplina de Práticas de Cálculo III acompanha o curso de Cálculo III, focando na
+aplicação prática dos conceitos de cálculo vetorial e funções de várias variáveis.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A ementa será definida.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Computação para Física}
+\label{fis007}
+
+Esta disciplina introduz os alunos às técnicas computacionais aplicadas à resolução de
+problemas físicos. O curso foca no desenvolvimento de habilidades práticas em
+programção científica, utilizando Python como linguagem principal.
+
+Os alunos aprendem a organizar projetos científicos, manipular e analisar dados
+experimentais, e utilizar bibliotecas fundamentais como NumPy, SciPy e Matplotlib. O
+curso aborda métodos numéricos básicos para resolução de problemas físicos, incluindo
+zeros de funções, integração numérica e solução de equações diferenciais ordinárias.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item Organização básica de arquivos, ambientes e fluxo de trabalho para projetos em física.
+        \item Introdução à programação científica em Python: variáveis, funções, estruturas simples.
+        \item Uso de notebooks interativos para cálculos e visualização.
+        \item Bibliotecas fundamentais: NumPy, SciPy, Matplotlib.
+        \item Manipulação e análise de dados experimentais simples.
+        \item Resolução numérica de problemas elementares: zeros de funções, integrais, EDOs simples.
+        \item Representação e ajustes de dados experimentais: mínimos quadrados básicos.
+        \item Automatização de tarefas e reprodutibilidade.
+        \item Boas práticas de programação para projetos científicos.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Física Geral III}
+\label{fis008}
+
+O curso de Física Geral III é um passo importante na exploração dos princípios
+fundamentais da Física clássica, concentrando-se no eletromagnetismo, uma das quatro
+forças fundamentais da natureza. Seu objetivo primordial é duplo: compreender tanto a
+base empírica das leis eletromagnéticas quanto sua formulação matemática. Inicialmente,
+os alunos exploram as leis do eletromagnetismo de forma fenomenológica, ou seja,
+compreendendo seus efeitos observáveis na natureza. Posteriormente, avançam para a
+unificação dessas leis em um único formalismo, exemplificado pelas equações de Maxwell.
+
+Nesse curso, os alunos são apresentados ao eletromagnetismo de forma simplificada,
+utilizando modelos com soluções analíticas e simétricas. O objetivo é que compreendam a
+natureza das interações eletromagnéticas e como elas se manifestam em diferentes
+contextos, sem a introdução de formalismos matemáticos complexos nesta etapa inicial.
+Os formalismos mais avançados são reservados para cursos posteriores, como o de
+Eletromagnetismo I, onde os alunos podem avançar para uma formulação mais rigorosa e
+abrangente das leis do eletromagnetismo.
+
+O curso é dividido em duas partes complementares: Física Geral IIIa e Física Geral
+IIIb. Na primeira parte, os conceitos fundamentais do eletromagnetismo são
+introduzidos de forma fenomenológica. Na segunda parte, o formalismo matemático é
+aprofundado através da revisão de cálculo vetorial e da formulação das equações de
+Maxwell.
+
+No curso de Física Geral I (ver seção~\ref{fis001}), assim como no presente curso, o
+modelo de partícula é fundamental para descrever o eletromagnetismo. Contudo, o
+eletromagnetismo introduz um novo conceito crucial: a carga elétrica. Essa propriedade
+intrínseca da matéria é representada matematicamente como um escalar, enriquecendo o
+modelo de partícula com essa característica fundamental. Sua introdução ocorre de forma
+fenomenológica, sendo apresentada como a força que governa a interação entre partículas
+carregadas, conforme descrito pela lei de Coulomb, derivada de observações
+experimentais. A partir das características dessa interação, exploramos o conceito de
+campo elétrico e suas propriedades, incluindo a Lei de Gauss e o potencial elétrico.
+Item da ementa: {\bf Lei de Coulomb e campo elétrico; Lei de Gauss; Potencial elétrico}.
+
+\begin{tcolorbox}[title=Ementa Física Geral IIIa:]
+    \begin{itemize}
+        \item Lei de Coulomb e campo elétrico.
+        \item Lei de Gauss.
+        \item Potencial elétrico.
+        \item Capacitores e dielétricos.
+        \item Corrente, resistência e força eletromotriz.
+        \item Circuitos e instrumentos de corrente contínua.
+        \item Campo magnético de uma corrente.
+        \item Forças magnéticas sobre portadores de correntes.
+        \item Força eletromotriz induzida.
+        \item Circuitos de corrente alternada.
+        \item Propriedades magnéticas da matéria.
+        \item Correntes alternadas.
+    \end{itemize}
+\end{tcolorbox}
+
+\begin{tcolorbox}[title=Ementa Física Geral IIIb:]
+    \begin{itemize}
+        \item Revisão de cálculo vetorial: álgebra vetorial, produtos.
+        \item Cálculo diferencial, os operadores grad, div e rot, derivadas segundas.
+        \item Cálculo integral e teoremas integrais.
+        \item Equações de Maxwell.
+        \item Oscilações eletromagnéticas.
+        \item Ondas eletromagnéticas.
+        \item Polarização.
+        \item Interferência e difração da luz.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Prática de Física Geral III}
+\label{fis009}
+
+A disciplina de Prática de Física Geral III acompanha o curso de Física Geral III,
+proporcionando aos alunos a oportunidade de consolidar os conceitos de eletromagnetismo
+através da resolução de problemas práticos e exercícios.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A ementa será definida para complementar os tópicos de eletromagnetismo.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Laboratório de Física Geral III}
+\label{fis010}
+
+A disciplina de Laboratório de Física Geral III complementa o curso teórico,
+proporcionando experiência prática com experimentos de eletromagnetismo.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A ementa será definida para complementar os tópicos de eletromagnetismo.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Cálculo IV}
+\label{mat008}
+
+O curso de Cálculo IV aprofunda o estudo de cálculo vetorial, incluindo integrais de
+linha e superfície, e os teoremas fundamentais do cálculo vetorial.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A ementa será definida.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Práticas de Cálculo IV}
+\label{mat009}
+
+A disciplina de Práticas de Cálculo IV acompanha o curso de Cálculo IV, focando na
+aplicação prática dos conceitos de integrais de linha e superfície e dos teoremas
+fundamentais do cálculo vetorial.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A ementa será definida.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Dinâmica de Sistemas Físicos}
+\label{mat010}
+
+Esta disciplina introduz a teoria e métodos de solução de equações diferenciais
+ordinárias aplicadas a sistemas físicos. O curso enfatiza a compreensão do comportamento
+dinâmico de sistemas através de modelos matemáticos.
+
+Os alunos estudam modelos de primeira ordem (decaimento, crescimento, relaxação) e o
+oscilador harmônico em suas várias formas: livre, amortecido e forçado. O conceito de
+ressonância é explorado em profundidade. Sistemas acoplados e modos normais são
+introduzidos, conectando-se com os conceitos de álgebra linear estudados anteriormente.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item Leis de evolução e taxas de variação em sistemas físicos simples.
+        \item Modelos de 1ª ordem: decaimento, crescimento, relaxação.
+        \item Equações de movimento para forças lineares e atrito viscoso.
+        \item Oscilador harmônico: solução, energia e representação em fase.
+        \item Oscilador amortecido: regimes de amortecimento.
+        \item Oscilador forçado: resposta transitória, regime estacionário e ressonância.
+        \item Sistemas acoplados de poucos graus de liberdade; modos normais.
+        \item Representação matricial da dinâmica linear; autovalores e frequências naturais.
+        \item Estabilidade e comportamento de equilíbrios em modelos físicos simples.
+        \item Resposta a forçamentos periódicos; decomposição harmônica.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Física Geral IV}
+\label{fis011}
+
+O curso de Física Geral IV aborda tópicos avançados da física clássica e introduz
+conceitos da física moderna.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A ementa será definida.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Prática de Física Geral IV}
+\label{fis012}
+
+A disciplina de Prática de Física Geral IV acompanha o curso de Física Geral IV,
+proporcionando aos alunos a oportunidade de consolidar os conceitos avançados de física
+através da resolução de problemas práticos e exercícios.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A ementa será definida.
+    \end{itemize}
+\end{tcolorbox}
+
+\subsection{Laboratório de Física Geral IV}
+\label{fis013}
+
+A disciplina de Laboratório de Física Geral IV complementa o curso teórico com
+experimentos relacionados aos tópicos avançados de física.
+
+\begin{tcolorbox}[title=Ementa:]
+    \begin{itemize}
+        \item A ementa será definida.
+    \end{itemize}
+\end{tcolorbox}
+
+
+\end{document}

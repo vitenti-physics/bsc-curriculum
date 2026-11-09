@@ -1,0 +1,14 @@
+Física Matemática 1 - 60 horas
+2º semestre do 2º ano
+
+- A delta de Dirac e suas propriedades
+- Distribuições como limites de sequências
+- Distribuições como inversas de operadores diferenciais
+- O operador laplaciano e suas soluções fundamentais
+- Construção das funções de Green do laplaciano em 1D, 2D e 3D
+- Interpretação geométrica de singularidades e integrais generalizadas
+- O problema de Sturm-Liouville.
+- Séries ortogonais: a série trigonométrica.
+- Decomposição de funções periódicas: a série de Fourier.
+- Decomposição de funções não-periódicas (período infinito) e transformada integral: integrais de Fourier, integrais de Laplace.
+

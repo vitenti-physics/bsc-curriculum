@@ -1,0 +1,20 @@
+# Transcribed from: raw/bacharelado_62_integral/FÍSICA_BACHARELADO_62_INTEGRAL_2024_em_26_03_2025.xlsx
+# Source image: extract/images/bacharelado_62_integral/2024/xlsx_images/row069_image12.png
+# Section: "EVADIDOS POR ANO (2014-2024)" — comparativo Física(62) x CCE (centro) x UEL.
+# fisica62/cce/uel = nº absoluto de evadidos no ano civil (toda a instituição).
+# curso_cce_pct = fisica62/cce*100 (participação do curso na evasão do centro);
+# curso_uel_pct = fisica62/uel*100 (participação na evasão da UEL).
+# NOTA: é PARTICIPAÇÃO na evasão, não taxa de evasão comparável (faltam ingressantes de CCE/UEL).
+# Verified: totais reconciliam (201 / 2055 / 11921; 9.78% / 1.69%) e batem com image11.
+ano,fisica62,cce,uel,curso_cce_pct,curso_uel_pct
+2014,16,211,1146,7.58,1.40
+2015,14,168,1030,8.33,1.36
+2016,20,161,990,12.42,2.02
+2017,10,182,1086,5.49,0.92
+2018,19,185,1122,10.27,1.69
+2019,26,214,1134,12.15,2.29
+2020,17,175,955,9.71,1.78
+2021,18,135,810,13.33,2.22
+2022,19,180,1184,10.56,1.60
+2023,24,287,1622,8.36,1.48
+2024,18,157,842,11.46,2.14

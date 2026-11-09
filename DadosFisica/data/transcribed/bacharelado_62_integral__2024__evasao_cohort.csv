@@ -1,0 +1,24 @@
+# Transcribed from: raw/bacharelado_62_integral/FÍSICA_BACHARELADO_62_INTEGRAL_2024_em_26_03_2025.xlsx
+# Source image: extract/images/bacharelado_62_integral/2024/xlsx_images/row101_image7.png
+# Section: "EVASÃO - ANO INGRESSO" (sheet ALUNOS_ATIVOS_FORMADOS, anchored row 101)
+# Original fonte (per report footnote): AGDAA63 - 28/08/2024
+# Wide table mirroring the source pivot. Counts are absolute students.
+# Evasion total = cancelamento + canc_art43 + desist_sem_vinc + transf_externa + jubilado
+# (permuta and transf_interna are internal mobility, NOT counted as evasão).
+# Verified: column sums match the report's "Geral" row (ing=391, ativo=54, formado=82, total_evasao=233).
+ano_ingresso,ingressante,ativo,formado,permuta,transf_interna,cancelamento,canc_art43,desist_sem_vinc,transf_externa,jubilado,total_evasao
+2009,35,0,10,1,0,6,8,10,1,0,25
+2010,27,0,10,1,2,6,3,7,0,1,17
+2011,26,0,6,1,4,7,6,6,0,1,20
+2012,22,0,8,1,2,9,3,2,0,0,14
+2013,18,0,5,0,5,7,3,3,0,0,13
+2014,26,0,4,0,3,7,4,10,0,1,22
+2015,25,0,6,0,5,5,7,3,1,2,18
+2016,33,1,11,0,1,4,10,7,0,0,21
+2017,27,1,5,0,6,12,3,5,0,0,20
+2018,29,3,10,0,1,10,2,3,0,0,15
+2019,29,5,6,0,0,8,4,4,0,0,16
+2020,28,9,0,0,0,6,1,5,0,0,12
+2021,25,11,0,0,0,5,0,0,1,0,6
+2022,23,11,1,0,0,5,5,0,0,0,10
+2023,18,13,0,0,0,2,2,0,0,0,4

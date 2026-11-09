@@ -1,0 +1,15 @@
+Métodos Lineares para Física - 60 horas
+2º semestre do 1º ano
+
+- Vetores e espaços vetoriais usados em física.
+- Combinações lineares, subespaços e bases.
+- Produto interno, norma e projeções.
+- Produto vetorial, propriedades e aplicações.
+- Transformações lineares e representações matriciais.
+- Operações com matrizes: soma, produto, inversa.
+- Propriedades principais: determinante, traço, posto.
+- Mudança de base e interpretações físicas simples.
+- Autovalores e autovetores.
+- Diagonalização no caso simétrico.
+- Operadores ortogonais e aplicações a rotações.
+- Modos próprios em sistemas lineares simples.

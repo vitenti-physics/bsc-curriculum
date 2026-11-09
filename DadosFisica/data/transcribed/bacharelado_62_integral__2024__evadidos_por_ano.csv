@@ -1,0 +1,29 @@
+# Transcribed from: raw/bacharelado_62_integral/FÍSICA_BACHARELADO_62_INTEGRAL_2024_em_26_03_2025.xlsx
+# Source image: extract/images/bacharelado_62_integral/2024/xlsx_images/row057_image11.png
+# Section: "EVADIDOS POR ANO (2014-2024)" — matrix ano_ingresso (linhas) x ano_evasão (colunas).
+# Cell = nº de alunos daquela coorte que evadiram naquele ano civil.
+# Years-since-entry at evasion = ano_evasao - ano_ingresso.
+# NOTE: counts only evasions that happened 2014-2024 (so grand total 201 differs from the
+# 233 all-time evasão of the cohort table; cohorts here go back to 2005).
+# Verified: row totals and column totals reconcile; grand total = 201.
+ano_ingresso,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
+2005,1,0,0,0,0,0,0,0,0,0,0
+2006,1,0,0,0,0,0,0,0,0,0,0
+2007,1,0,1,0,0,0,0,0,0,0,0
+2008,1,1,1,0,0,0,0,0,0,0,0
+2009,1,0,2,1,0,1,0,0,0,0,0
+2010,3,2,0,0,1,0,0,0,0,0,0
+2011,3,4,5,1,1,2,0,0,0,0,0
+2012,2,1,4,0,2,2,0,0,0,0,0
+2013,0,2,4,1,2,1,1,0,1,0,0
+2014,3,3,2,2,3,6,0,0,2,1,0
+2015,0,1,1,2,5,3,2,1,1,2,0
+2016,0,0,0,1,2,7,4,3,1,1,2
+2017,0,0,0,2,1,3,6,2,3,3,0
+2018,0,0,0,0,2,1,3,5,2,2,0
+2019,0,0,0,0,0,0,1,4,6,4,1
+2020,0,0,0,0,0,0,0,3,0,7,2
+2021,0,0,0,0,0,0,0,0,3,1,2
+2022,0,0,0,0,0,0,0,0,0,3,7
+2023,0,0,0,0,0,0,0,0,0,0,4
+2024,0,0,0,0,0,0,0,0,0,0,0

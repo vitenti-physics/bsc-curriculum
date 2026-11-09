@@ -1,0 +1,19 @@
+Planos para o terceiro ano:
+
+ - Substituição de moderna 1A por Relatividade Restrita (90hrs => 60hrs)
+ - Moderna 1B => reformular para um curso de Física Quântica Velha
+ - Diminuir de 720 => 660? (Eletro 90 => 60)
+ - Pensar nos cursos que serão obrigatórios na refurmulação das enfases.
+   * Eletromagnetismo 1 
+   * Relatividade Restrita
+   * Física Quântica
+   * Mecânica Geral
+   ---
+   * Mecânica Quântica 1
+   * Termodinâmica
+   * Mecânica Estatística
+   ---
+   * Laboratório 1 M
+   * Laboratório 2 M   
+   == 540 = 270 + 270 = 135 * 4
+ - Reformular Mecânica Geral

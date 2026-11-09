@@ -1,0 +1,26 @@
+LEI DE COULOMB E CAMPO ELÉTRICO. 
+LEI DE GAUSS. POTENCIAL ELÉTRICO. 
+Mapeamento de curvas equipotenciais - cuba eletrolítica 
+CAPACITORES E DIELÉTRICOS. 
+Carga e descarga em capacitores 
+CORRENTE, RESISTÊNCIA E FORÇA ELETROMOTRIZ.
+Elementos resistivos lineares e não-lineares
+Resistência interna de fontes de tensão
+CIRCUITOS E INSTRUMENTOS DE CORRENTE CONTÍNUA. 
+Circuitos simples em corrente contínua – resistores
+CAMPO MAGNÉTICO DE UMA CORRENTE. 
+Campo magnético em uma bobina – Lei de Biot-Savart
+ FORÇAS MAGNÉTICAS SOBRE PORTADORES DE CORRENTES. 
+Transformador de tensão
+FORÇA ELETROMOTRIZ INDUZIDA.
+Indução eletromagnética – Lei de Faraday
+CIRCUITOS DE CORRENTE ALTERNADA. 
+Medidas elétricas em corrente alternada – uso do osciloscópio
+ PROPRIEDADES MAGNÉTICAS DA MATÉRIA.
+Histerese magnética
+Campo Magnético Ambiental - Bobina de Helmholtz
+CORRENTES ALTERNADAS.
+Circuitos simples em corrente alternada Resistor, Capacitor e Indutor
+
+Filtro RC, RL e RLC ressonante
+Circuitos retificadores

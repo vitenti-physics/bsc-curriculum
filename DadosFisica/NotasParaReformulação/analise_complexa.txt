@@ -1,0 +1,12 @@
+Complexa - 60 horas
+1º semestre do 2º ano
+
+Propriedades algébricas e representações dos complexos.
+Funções de variáveis complexas.
+Funções analíticas.
+Teorema de Cauchy.
+Teorema dos resíduos. 
+Extensões analíticas de funções.
+Funções multivalentes e folhas de Riemann.
+Aplicações físicas.
+

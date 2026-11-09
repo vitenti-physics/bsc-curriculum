@@ -24,3 +24,6 @@ Thumbs.db
 # Material de referência local (não usado na construção do site)
 /.vscode/
 /OldDocs/
+
+# Saída gerada por DadosFisica/extract/extract_assets.py a partir de DadosFisica/raw
+/DadosFisica/extract/images/

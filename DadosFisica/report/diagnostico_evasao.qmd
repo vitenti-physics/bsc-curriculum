@@ -1,0 +1,393 @@
+---
+title: "Diagnóstico de Evasão — Física UEL"
+subtitle: "Bacharelado (62) — Integral"
+author: "CCE / UEL"
+date: today
+lang: pt
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    grid:
+      body-width: 1100px
+      sidebar-width: 240px
+      margin-width: 200px
+    css: styles.css
+    fig-width: 8
+    fig-height: 4.5
+  pdf:
+    toc: true
+    number-sections: true
+    fig-width: 7
+    fig-height: 4
+jupyter: python3
+---
+
+```{python}
+#| label: setup
+#| echo: false
+import pandas as pd
+import matplotlib.pyplot as plt
+from pathlib import Path
+
+DATA = Path("..") / "data"
+ev = pd.read_csv(DATA / "evasao.csv")
+forma = pd.read_csv(DATA / "evasao_forma_ingresso.csv")
+timing = pd.read_csv(DATA / "evasao_timing.csv")
+
+PROG_LABEL = {
+    "bacharelado_62_integral": "Bacharelado (62) — Integral",
+}
+
+SIT_LABEL = {
+    "ativo": "Ativo", "formado": "Formado", "permuta": "Permuta",
+    "transf_interna": "Transf. Interna", "cancelamento": "Cancelamento",
+    "canc_art43": "Canc. Art.43", "desist_sem_vinc": "Desist. s/ Vínc.",
+    "transf_externa": "Transf. Externa", "jubilado": "Jubilado",
+}
+plt.rcParams["axes.spines.top"] = False
+plt.rcParams["axes.spines.right"] = False
+```
+
+::: {.callout-note}
+**Estado atual.** Este relatório é um protótipo. Os dados foram transcritos das
+imagens dos relatórios *Indicadores da Graduação* (PROPLAN/DAII), pois nos
+arquivos `.xlsx`/`.pdf` as tabelas são figuras, não dados estruturados.
+Por enquanto cobre o **Bacharelado (62), snapshot 2024**: evasão por coorte e por
+forma de ingresso. As seções de benchmark UEL e reprovação entram à medida que
+forem transcritas.
+:::
+
+## Evasão por coorte de ingresso
+
+Taxa de evasão = proporção de ingressantes de cada ano que saíram do curso por
+cancelamento, cancelamento Art. 43, desistência sem vínculo, transferência
+externa ou jubilamento. *Permuta* e *transferência interna* são mobilidade
+interna e **não** contam como evasão.
+
+```{python}
+#| label: fig-taxa-coorte
+#| fig-cap: "Taxa de evasão acumulada por ano de ingresso (Bacharelado, snapshot 2024)."
+evad = ev[ev.conta_evasao == 1]
+taxa = (evad.groupby(["programa", "ano_ingresso"])
+            .apply(lambda g: 100 * g.n_alunos.sum() / g.ingressante.iloc[0], include_groups=False)
+            .rename("taxa")).reset_index()
+
+fig, ax = plt.subplots()
+for prog, g in taxa.groupby("programa"):
+    ax.plot(g.ano_ingresso, g.taxa, marker="o", label=PROG_LABEL.get(prog, prog))
+ax.set_xlabel("Ano de ingresso")
+ax.set_ylabel("Evasão acumulada (%)")
+ax.set_ylim(0, 100)
+ax.legend()
+plt.show()
+```
+
+Coortes mais antigas têm evasão mais alta porque tiveram mais tempo para evadir
+ou se formar; as recentes ainda têm muitos alunos ativos.
+
+## Composição das saídas por coorte
+
+```{python}
+#| label: fig-composicao
+#| fig-cap: "Composição do destino dos ingressantes por coorte (%)."
+prog = "bacharelado_62_integral"
+d = ev[ev.programa == prog].copy()
+order = ["formado", "ativo", "permuta", "transf_interna",
+         "cancelamento", "canc_art43", "desist_sem_vinc", "transf_externa", "jubilado"]
+piv = d.pivot_table(index="ano_ingresso", columns="situacao",
+                    values="pct", aggfunc="first")[order]
+
+fig, ax = plt.subplots()
+bottom = None
+for sit in order:
+    ax.bar(piv.index, piv[sit], bottom=bottom, label=SIT_LABEL[sit])
+    bottom = piv[sit] if bottom is None else bottom + piv[sit]
+ax.set_xlabel("Ano de ingresso")
+ax.set_ylabel("% dos ingressantes")
+ax.legend(ncol=3, fontsize=7, loc="lower center", bbox_to_anchor=(0.5, 1.0))
+plt.show()
+```
+
+## Por forma de ingresso
+
+Taxa de evasão agrupada por forma de ingresso (todas as coortes 2009–2023
+somadas). O *vestibular* responde pela grande maioria dos ingressantes; ENEM e
+SISU são formas mais recentes e com menos alunos, então suas taxas são mais
+sensíveis a poucos casos.
+
+```{python}
+#| label: fig-forma
+#| fig-cap: "Evasão por forma de ingresso (Bacharelado, snapshot 2024, coortes 2009–2023 agrupadas)."
+g = (forma.groupby("forma_ingresso")
+          .agg(ingressante=("ingressante", "sum"), evadidos=("total_evasao", "sum")))
+g["taxa"] = 100 * g.evadidos / g.ingressante
+g = g.sort_values("ingressante", ascending=True)
+
+fig, ax = plt.subplots()
+bars = ax.barh(g.index, g.taxa)
+for y, (taxa, n) in enumerate(zip(g.taxa, g.ingressante)):
+    ax.text(taxa + 1, y, f"{taxa:.0f}%  (n={n})", va="center", fontsize=8)
+ax.set_xlabel("Taxa de evasão (%)")
+ax.set_xlim(0, 110)
+plt.show()
+```
+
+```{python}
+#| label: tbl-forma
+#| echo: false
+g.assign(taxa=g.taxa.round(1)).reset_index()[
+    ["forma_ingresso", "ingressante", "evadidos", "taxa"]
+].rename(columns={"taxa": "taxa_%"})
+```
+
+::: {.callout-note}
+As formas **PDCS** (transferência / portador de diploma) têm pouquíssimos casos
+(n ≤ 4) e taxas extremas — não devem ser lidas como tendência. ENEM e SISU, ambas
+ligadas ao Exame Nacional, somam `{python} int(g.loc[["ENEM","SISU"],"ingressante"].sum())`
+ingressantes; vale acompanhar se sua evasão diverge da do vestibular à medida que
+mais coortes amadurecem.
+:::
+
+## Quando ocorre a evasão
+
+A matriz *Evadidos por ano* (coorte × ano civil da evasão) permite medir **quantos
+anos após o ingresso** cada aluno evade. O curso é anual (4 séries = 8 semestres),
+então a resolução é o **ano do curso**, não o semestre isolado.
+
+Para evitar viés, restringe-se às coortes 2014+ (cujo 1º ano cai dentro da janela
+2014–2024, sem censura à esquerda). Coortes recentes ainda não tiveram tempo de
+atingir os anos finais (censura à direita), o que subestima a cauda tardia.
+
+```{python}
+#| label: fig-timing
+#| fig-cap: "Distribuição do tempo até a evasão (coortes 2014+, Bacharelado)."
+sub = timing[timing.ano_ingresso >= 2014]
+dist = (sub.groupby("anos_desde_ingresso").n_alunos.sum()
+           .reindex(range(0, int(sub.anos_desde_ingresso.max()) + 1), fill_value=0))
+pct = 100 * dist / dist.sum()
+
+fig, ax = plt.subplots()
+ax.bar(dist.index, pct, color=["#b30000" if i == pct.idxmax() else "#777" for i in pct.index])
+ax.axvline(3.5, ls="--", lw=1, color="black")
+ax.text(3.6, pct.max() * 0.92, "duração nominal (4 anos)", fontsize=8)
+ax.set_xlabel("Anos desde o ingresso (ano 1 ≈ 1ª série / sem. 1–2)")
+ax.set_ylabel("% das evasões")
+ax.set_xticks(dist.index)
+plt.show()
+```
+
+A evasão **não** é majoritariamente precoce: o 1º ano responde por poucos casos e
+o pico está por volta do **4º ano**, com cauda longa de saídas tardias
+(jubilamento / cancelamento Art. 43) depois do prazo nominal. Isso é assinatura de
+**retenção acadêmica** — o aluno acumula reprovações, atrasa-se e sai (ou é
+desligado) tarde —, o que motiva a seção seguinte sobre reprovação.
+
+## Curso × benchmark UEL
+
+O relatório compara os evadidos do curso, por ano civil, com o total do centro
+(CCE) e da universidade (UEL). O indicador é a **participação** do curso na evasão
+dessas instâncias — não uma taxa de evasão comparável (faltam os ingressantes de
+CCE/UEL para calcular taxas).
+
+```{python}
+#| label: fig-benchmark
+#| fig-cap: "Participação da Física (62) na evasão do CCE e da UEL, por ano."
+bm = pd.read_csv(DATA / "benchmark_uel.csv")
+bm = bm[bm.ano.astype(str).str.fullmatch(r"\d{4}")].astype({"ano": int})
+
+fig, ax = plt.subplots()
+ax.plot(bm.ano, bm.curso_cce_pct, "o-", label="Física / evasão do CCE (%)")
+ax.plot(bm.ano, bm.curso_uel_pct, "s-", label="Física / evasão da UEL (%)")
+ax.set_xlabel("Ano")
+ax.set_ylabel("Participação na evasão (%)")
+ax.set_ylim(0, 15)
+ax.legend()
+plt.show()
+```
+
+No acumulado 2014–2024, a Física Bacharelado responde por **9,8% de toda a evasão
+do CCE** e **1,7% da evasão da UEL**. É uma fatia pequena da universidade, mas não
+desprezível dentro do centro de ciências exatas — e a participação no CCE oscila
+entre ~5% e ~13% ao ano, com picos em 2016, 2019 e 2021.
+
+::: {.callout-note}
+Sem os ingressantes de CCE/UEL não dá para dizer se a Física evade *mais* que os
+cursos vizinhos — só qual a sua *contribuição* para o total. Uma comparação de
+**taxas** exigiria os ingressantes do centro/UEL (outra fonte PROPLAN).
+:::
+
+## Reconciliação entre snapshots
+
+O mesmo relatório é emitido a cada ano (2022, 2023, 2024, 2025). Cruzar a evasão
+relatada para cada coorte entre essas datas testa a estabilidade dos números e
+revela revisões.
+
+```{python}
+#| label: fig-reconciliacao
+#| fig-cap: "Evasão (%) relatada por coorte, em cada snapshot. Coortes recentes sobem entre snapshots (acúmulo natural); 2025 destoa nas coortes antigas (mudança de metodologia)."
+rec = pd.read_csv(DATA / "evasao_reconciliacao.csv")
+fig, ax = plt.subplots()
+for snap, g in rec.groupby("snapshot"):
+    g = g.sort_values("ano_ingresso")
+    ax.plot(g.ano_ingresso, g.pct_evasao, "o-", label=f"snapshot {snap}",
+            lw=2.4 if snap == 2025 else 1.4, alpha=1 if snap == 2025 else 0.8)
+ax.set_xlabel("Ano de ingresso (coorte)")
+ax.set_ylabel("Evasão relatada (%)")
+ax.legend(title="emitido em")
+plt.show()
+```
+
+Dois efeitos:
+
+- **Acúmulo esperado (boa qualidade).** Para 2022→2023→2024, as coortes antigas
+  ficam estáveis e as recentes sobem de um snapshot para o outro — alunos seguem
+  evadindo ao longo do ano. Ex.: coorte 2020 vai de 10,7% (2022) → 35,7% (2023) →
+  42,9% (2024).
+- **Quebra de metodologia em 2025.** O título ganha `*` e uma coluna nova
+  *Desistente*; coortes antigas têm o nº de ingressantes **reaumentado**
+  retroativamente (coorte 2010: 27 → 38), o que **reduz** a evasão relatada
+  (62,9% → 52,6%). As coortes recentes (2020–2023) mantêm o mesmo ingressante.
+
+::: {.callout-warning}
+Por causa da quebra de 2025, **contagens absolutas de coortes antigas não são
+diretamente comparáveis** entre ≤2024 e 2025. As análises deste relatório usam o
+snapshot **2024** como base; o 2025 entra aqui só para a reconciliação. Convém
+confirmar com a PROPLAN o que mudou na metodologia de 2025 (categoria *Desistente*).
+:::
+
+## Relação com reprovação
+
+Taxa de reprovação agregada (Σ reprovados / Σ matriculados, 2018–2023) das
+disciplinas estruturais das quatro séries. (Seminários, TCC e optativas omitidos;
+códigos antigos/novos da reforma curricular fundidos pelo nome. Séries 3–4 são
+*best-effort* — o pivot é muito aninhado; ver nota ao fim.)
+
+```{python}
+#| label: fig-reprovacao
+#| fig-cap: "Reprovação das disciplinas estruturais por série (Bacharelado, 2018–2023 agregados)."
+rep = pd.read_csv(DATA / "reprovacao_disciplina.csv").sort_values("taxa_reprovacao")
+cores = {1: "#b30000", 2: "#e08214", 3: "#3690c0", 4: "#67a9cf"}
+fig, ax = plt.subplots(figsize=(8, 7))
+ax.barh(rep.disciplina.str.title(), rep.taxa_reprovacao,
+        color=[cores[s] for s in rep.serie])
+for y, (t, n) in enumerate(zip(rep.taxa_reprovacao, rep.matriculados)):
+    ax.text(t + 1, y, f"{t:.0f}%  (n={n})", va="center", fontsize=7)
+ax.set_xlabel("Taxa de reprovação (%)")
+ax.set_xlim(0, 80)
+from matplotlib.patches import Patch
+ax.legend(handles=[Patch(color=cores[s], label=f"{s}ª série (ano {s})") for s in (1, 2, 3, 4)],
+          loc="lower right", fontsize=8)
+plt.show()
+```
+
+### Leitura conjunta com o tempo de evasão
+
+As disciplinas-porta do **1º ano** — Física Geral I, Cálculo I e Química — reprovam
+**~60–67%** de quem cursa, e a reprovação média da série **cai de forma monótona**
+ao longo do curso (≈52% → 42% → 33% → 20% do 1º ao 4º ano). Cruzando com a seção
+*Quando ocorre a evasão*, em que o pico de saídas está no **4º ano** e não no 1º, o
+quadro consistente é de **retenção acadêmica**: o aluno trava nessas disciplinas
+iniciais, repete, arrasta o curso e só evade (ou é jubilado / cancelado pelo
+Art. 43) anos depois. Os anos 3–4 já são, em boa medida, sobreviventes do filtro.
+
+```{python}
+#| label: fig-overlay
+#| fig-cap: "Sobreposição: reprovação por série (barras) e onde a evasão se concentra (linha)."
+sub = timing[timing.ano_ingresso >= 2014]
+tdist = (sub.groupby("anos_desde_ingresso").n_alunos.sum()
+            .reindex(range(0, 6), fill_value=0))
+tpct = 100 * tdist / sub.n_alunos.sum()
+anos_curso = [d + 1 for d in tdist.index]   # Δ=0 → ano 1 do curso
+rep_serie = rep.groupby("serie").apply(
+    lambda g: 100 * g.reprovados.sum() / g.matriculados.sum(), include_groups=False)
+
+fig, ax1 = plt.subplots()
+ax1.bar(rep_serie.index, rep_serie.values, width=0.5,
+        color="#bbbbbb", label="Reprovação média da série")
+ax1.set_xlabel("Ano do curso")
+ax1.set_ylabel("Reprovação média (%)")
+ax1.set_xticks(anos_curso)
+ax2 = ax1.twinx()
+ax2.plot(anos_curso, tpct.values, "o-", color="#b30000", label="% das evasões")
+ax2.set_ylabel("% das evasões (linha)")
+ax1.set_title("Reprovação alta no início → evasão tardia (retenção)")
+plt.show()
+```
+
+::: {.callout-important}
+**Associação, não causa individual.** Os dados são agregados (não há vínculo
+aluno↔disciplina↔evasão), então isto mostra um padrão coerente — reprovação alta
+nas disciplinas iniciais + evasão tardia — não uma relação causal medida aluno a
+aluno. As séries 3–4 (`row204_image5` / `row232_image6`) são *best-effort*: o pivot
+empilha ANUAL + semestre + turma + subtotal e a atribuição célula→disciplina é menos
+precisa que nas séries 1–2 — confirmar na fonte antes de usar para decisão.
+:::
+
+## Intervenção proposta: Práticas co-requisitas (*Corequisite Support*)
+
+A reforma curricular em discussão cria disciplinas **Práticas** co-requisitas —
+*Práticas de Cálculo I* e *Práticas de Física Geral I* (30–60 h) — cursadas **em
+paralelo** às disciplinas-porta, e não antes delas. Essa é exatamente a resposta
+que o diagnóstico sugere: as disciplinas que mais reprovam (Física Geral I ~67%,
+Cálculo I ~65%) estão no **1º ano**, mas a evasão só **pica no 4º** — o aluno trava
+cedo, arrasta o curso e sai tarde. A intervenção age no gargalo inicial sem
+adicionar tempo ao curso.
+
+Na literatura de políticas de ensino superior esse desenho é o **apoio
+co-requisito** (*corequisite support / corequisite remediation*), oposto ao modelo
+**pré-requisito** clássico — o "Pré-Cálculo" isolado antes do Cálculo. As
+avaliações desse modelo antigo (CCRC/Columbia) mostraram que ele **alongava o curso
+e aumentava a evasão**, justamente o que se vê aqui. O co-requisito substitui o
+nivelamento prévio por reforço **just-in-time**: a álgebra de que o aluno precisa é
+revisada na mesma semana em que a disciplina principal a exige. A ementa proposta
+para *Práticas de Cálculo I* já segue essa lógica — intercala potências, módulo,
+desigualdades e gráficos exatamente antes de limites, derivadas e indeterminações.
+
+Resultados relatados onde o modelo foi adotado em escala são expressivos, ainda que
+em outro contexto institucional. Na reforma estadual do **Tennessee** (Complete
+College America; estudo do CCRC), a aprovação em matemática-porta passou de ~12%
+para ~61% após a troca do pré-requisito pelo co-requisito; sistemas como o **CUNY**
+e o **Dana Center** (UT Austin) relatam ganhos de aprovação e de conclusão na mesma
+direção. São referências para a **ordem de grandeza** do efeito esperado, não
+promessa de número.
+
+::: {.callout-important}
+**O efeito depende da execução, não do nome da disciplina.** A literatura aponta
+quatro modos de falha que esvaziam a intervenção:
+
+1. **Aula de prática vira mini-aula expositiva.** O ganho vem de *aprendizagem
+   ativa* — alunos em grupo resolvendo uma folha guiada, professor circulando como
+   tutor. (O modelo de sala ativa em Física é o **SCALE-UP**, de R. Beichner na
+   *NC State*, e a variante **TEAL** do MIT — ambos descendem do *studio physics*
+   da RPI; nenhum é "aula no quadro".)
+2. **Descasamento de ementas.** A Prática só funciona em sincronia **semanal** com
+   a disciplina-porta; sem isso, viram duas matérias desconexas e *aumentam* a
+   carga percebida.
+3. **Inflar a carga horária.** Somar práticas sem aliviar a carga expositiva pura
+   tira o tempo de estudo extraclasse, onde a consolidação ocorre.
+4. **Avaliação punitiva.** Se a Prática vira mais uma rodada de provas tradicionais,
+   ela apenas **duplica reprovações**. O desenho recomendado prende a aprovação a
+   frequência e entrega de listas/portfólios feitos em sala.
+:::
+
+::: {.callout-note}
+**Limites desta leitura.** As evidências externas vêm de sistemas de *community
+colleges* dos EUA, com público e estrutura distintos de um bacharelado integral em
+Física. E o diagnóstico deste relatório é **associativo** (dados agregados, sem
+vínculo aluno↔disciplina↔evasão) — sustenta a *plausibilidade* da intervenção, não
+uma previsão de efeito. O ideal é instrumentar a reforma para **medir** o resultado
+(aprovação nas disciplinas-porta e evasão por coorte antes/depois).
+:::
+
+## Tabela-fonte (verificável)
+
+```{python}
+#| label: tbl-fonte
+#| echo: false
+wide = pd.read_csv(
+    DATA / "transcribed" / "bacharelado_62_integral__2024__evasao_cohort.csv",
+    comment="#")
+wide
+```

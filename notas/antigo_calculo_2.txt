@@ -1,0 +1,22 @@
+150 horas - 1 ano - 4 bimestres
+
+ 1. Análise vetorial: funções vetoriais de variável real. 
+ 2. Gradiente, divergente e rotacional. 
+ 3. Aplicações. A integral de linha. 
+ 4. Campos conservativos. 
+ 5. A integral de superfície. 
+ 6. Os teoremas de Green, Gauss e Stokes. 
+ 7. A equação da continuidade. 
+ 8. A forma integral para o gradiente, divergente e rotacional. 
+ 9. Interpretação física. Sequências e séries.
+10. Sequências reais. 
+11. Séries reais. 
+12. Séries de potências. 
+13. Critérios de convergência. 
+14. Equações diferenciais ordinárias. 
+15. Equações diferenciais de primeira ordem. 
+16. Aplicações. 
+17. Equações diferenciais lineares de segunda ordem a coeficientes constantes. 
+18. Aplicações em oscilações. 
+19. Soluções em séries de potências. 
+20. Aplicações gerais.

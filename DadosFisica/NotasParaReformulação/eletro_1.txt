@@ -1,0 +1,11 @@
+Novo Eletro I
+
+  1. Revisão: Coordenadas curvilíneas e leis de transformação; Distribuição de Dirac e aplicações; Teorema de Helmholtz.
+  2. Eletrostática: o campo elétrico de distribuições discretas e contínuas; lei de Gauss e aplicações; potencial elétrico, equações de Poisson e Laplace, problemas de condições de contorno; trabalho e energia do campo elétrico; condutores, cargas induzidas e capacitores.
+  3. Técnicas de solução de problemas: equação de Laplace em uma, duas e três dimensões; teoremas de unicidade; método das imagens; técnica de separação de variáveis; harmônicos esféricos e expansão multipolar do campo elétrico.
+  4. Campos elétricos na matéria: polarização; campos de objetos polarizações; o vetor D; dielétricos lineares.
+  5. Magnetostática: força de Lorentz; lei de Biot-Savart; divergência e rotacional de B; potencial vetor; expansão multipolar do campo magnético.
+  6. Campos magnéticos na matéria: magnetização; campos de objetos magnetizados; campo auxiliar H; meios lineares e não lineares.
+
+
+

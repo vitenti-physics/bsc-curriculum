@@ -1,0 +1,29 @@
+/* Keep wide dataframe tables fitting the page instead of overflowing */
+.cell-output-display > table,
+table.dataframe {
+  font-size: 0.78rem;
+  width: 100%;
+  table-layout: auto;
+  border-collapse: collapse;
+}
+
+.cell-output-display > table th,
+.cell-output-display > table td,
+table.dataframe th,
+table.dataframe td {
+  padding: 2px 6px;
+  white-space: nowrap;
+  text-align: right;
+}
+
+/* Figures never exceed the column width */
+.cell-output-display img,
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Last resort: if a table is still too wide, scroll it alone rather than the page */
+.cell-output-display {
+  overflow-x: auto;
+}

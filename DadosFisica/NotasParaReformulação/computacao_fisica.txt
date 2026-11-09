@@ -1,0 +1,13 @@
+Computação para Física - 60 horas
+1º semestre do 2º ano
+
+- Organização básica de arquivos, ambientes e fluxo de trabalho para projetos em física.
+- Introdução à programação científica em Python: variáveis, funções, estruturas simples.
+- Uso de notebooks interativos para cálculos e visualização.
+- Bibliotecas fundamentais: NumPy (cálculo vetorial e matricial), SciPy (funções científicas), Matplotlib (gráficos).
+- Manipulação e análise de dados experimentais simples.
+- Resolução numérica de problemas elementares: zeros de funções, integrais, EDOs simples.
+- Representação e ajustes de dados experimentais: mínimos quadrados básicos.
+- Automatização de tarefas e reprodutibilidade: scripts, ambientes e boas práticas.
+- Introdução ao uso de ferramentas prontas relevantes à física (simuladores, softwares de análise).
+- Boas práticas de programação para projetos científicos: documentação mínima, organização e testes simples.

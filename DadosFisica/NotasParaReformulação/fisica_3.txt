@@ -1,0 +1,28 @@
+
+Física Básica IIIa - 60 horas
+1o semestre do 2o ano
+
+- Lei de Coulomb e campo elétrico. 
+- Lei de Gauss. Potencial elétrico. 
+- Capacitores e dielétricos. 
+- Corrente, resistência e força eletromotriz. 
+- Circuitos e instrumentos de corrente contínua. 
+- Campo magnético de uma corrente. 
+- Forças magnéticas sobre portadores de correntes. 
+- Força eletromotriz induzida.
+- Circuitos de corrente alternada. 
+- Propriedades magnéticas da matéria. 
+- Correntes alternadas.
+
+Física Básica IIIb - 60 horas
+2o semestre do 2o ano
+
+- Revisão de cálculo vetorial: álgebra vetorial, produtos; 
+- Cálculo diferencial, os operadores grad, div e rot, derivadas segundas; 
+- Cálculo integral e teoremas integrais; 
+- Equações de Maxwell. 
+- Oscilações eletromagnéticas. 
+- Ondas eletromagnéticas. 
+- Polarização. 
+- Interferência e difração da luz.
+

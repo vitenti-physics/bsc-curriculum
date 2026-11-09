@@ -1,0 +1,9 @@
+Física Matemática 2 - 60 horas
+1º semestre do 3º ano
+
+- Espaço de funções, espacos de Hilbert.
+- Método da separação de variáveis
+- Solução da equação de Laplace e Helmholtz em coordenadas esféricas e cilíndricas: funções de Legendre, harmônicos esféricos, funções de Bessel de primeira e segunda espécies. 
+- Solução de problemas físicos com condições de contorno: solução de problemas eletromagnéticos, vibrações, condução de calor, equação de Schroedinger, oscilador harmônico, átomo de hidrogênio. 
+- Funções de Green estacionárias e dependentes do tempo.
+
