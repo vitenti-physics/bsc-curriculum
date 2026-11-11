@@ -32,19 +32,17 @@ Já listadas no site como ainda não alocadas:
 | 2FIS110 | Introdução à Física Nuclear | 60 h |
 | 2FIS113 | Evolução dos Conceitos e Teorias da Física | 60 h |
 | 2FIS107 | Introdução às Técnicas de Ensino e Pesquisa em Física | 60 h |
-| 2TCC314 | Trabalho de Conclusão de Curso | 180 h |
+
+O Trabalho de Conclusão de Curso (2TCC314) foi mantido sem alteração: 180 h, anual no 4º
+ano.
 
 Introdução à Física do Estado Sólido (2FIS114) já tem ementa proposta e está no 8º
 semestre, como no currículo de 2023; falta decidir se é obrigatória ou optativa.
 
-Não listadas em nenhuma página, e sem disciplina correspondente na proposta:
+Estrutura da Matéria (2FIS090, 60 h) não fará parte do novo PPC.
 
-| Código | Disciplina | Carga em 2023 |
-|---|---|:--:|
-| 2QUI198 | Química | 120 h |
-| 2FIS090 | Estrutura da Matéria | 60 h |
-
-O NDE precisa registrar se estas duas saem do currículo.
+Química (2QUI198, 120 h) não está listada em nenhuma página e não tem disciplina
+correspondente na proposta; o NDE precisa registrar se ela sai do currículo.
 
 ## 3. Conteúdos obrigatórios por lei
 
@@ -65,7 +63,7 @@ forma de oferta de Libras (disciplina especial, Resolução CEPE 56/2015).
 
 | Componente | Currículo 2023 | Proposta |
 |---|:--:|:--:|
-| Disciplinas obrigatórias | 2640 h | 2220 h definidas (núcleo comum 1260 h, ciclo avançado 960 h) |
+| Disciplinas obrigatórias | 2640 h | 2400 h definidas (núcleo comum 1260 h, ciclo avançado 1140 h, com o TCC) |
 | Disciplinas optativas | 60 h | a definir |
 | AEX (indicadas e livres) | 306 h | a definir |
 | Atividades acadêmicas complementares | 50 h | a definir |

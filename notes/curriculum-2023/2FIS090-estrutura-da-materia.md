@@ -27,3 +27,7 @@
 - A física do Sol e das estrelas.
 - O universo em expansão.
 - Trabalho de Campo.
+
+## Notas
+
+- Não fará parte do novo PPC (registrado em 2026-11-11).
