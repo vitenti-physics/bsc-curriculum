@@ -86,8 +86,8 @@ Pendências a serem resolvidas pelo NDE:
    semestres é uma **proposta de trabalho**. Física Moderna está no 5º semestre,
    com o Laboratório de Física Moderna I, antes do Laboratório de Física Moderna
    II (6º) e de Mecânica Quântica I (7º); Eletromagnetismo II está no 6º, logo
-   após Eletromagnetismo I. Dois pares de disciplinas do mesmo semestre dependem
-   um do outro:
+   após Eletromagnetismo I. Três dependências ligam disciplinas do mesmo
+   semestre:
    - Eletromagnetismo I (5º) usa a separação de variáveis e os harmônicos
      esféricos que Física Matemática II (5º) desenvolve;
    - a parte quântica de Mecânica Estatística (7º) usa estados e operadores de
@@ -99,28 +99,18 @@ Pendências a serem resolvidas pelo NDE:
    Introdução à Física do Estado Sólido está no 8º semestre, como no currículo
    vigente (2FIS114, 4ª série, 2º semestre); falta decidir se é obrigatória ou
    optativa.
-2. **Sobreposições entre ementas.**
-   - Física Matemática II e Mecânica Quântica I resolvem ambas o oscilador
-     harmônico e o átomo de hidrogênio.
-   - Eletromagnetismo II (teorema de Poynting, conservação do momento do campo)
-     e Relatividade Restrita (tensor energia-momento do campo eletromagnético,
-     leis de conservação) tratam as mesmas leis de conservação.
-   - Física Moderna (poço infinito, barreiras) e Mecânica Quântica I (partículas
-     confinadas) tratam sistemas unidimensionais.
-   - Mecânica Estatística e Introdução à Física do Estado Sólido tratam o gás de
-     elétrons livres e o calor específico dos sólidos (modelo de Debye).
-3. **Física Matemática III.** A ementa está incompleta. Não deve repetir
+2. **Física Matemática III.** A ementa está incompleta. Não deve repetir
    conteúdo de Física Matemática I e II.
-4. **Demais disciplinas.** Ementa e alocação das disciplinas listadas em
+3. **Demais disciplinas.** Ementa e alocação das disciplinas listadas em
    [Disciplinas ainda não alocadas](#disciplinas-ainda-não-alocadas).
-5. **Laboratórios de Física Moderna I e II.** Falta definir os roteiros e a
+4. **Laboratórios de Física Moderna I e II.** Falta definir os roteiros e a
    divisão dos experimentos entre as duas disciplinas (o laboratório anual
    vigente, 2FIS098, cobre partículas e ondas, estado sólido e física nuclear), e
    verificar quais experimentos o Departamento tem condições de montar.
-6. **Aplicações da teoria clássica de campos.** O item de aplicações da
+5. **Aplicações da teoria clássica de campos.** O item de aplicações da
    introdução à teoria clássica de campos, em Mecânica Analítica II, está marcado
    como *a completar* nas notas do NDE.
-7. **Relação de optativas.** Faltam o conjunto de disciplinas optativas do ciclo
+6. **Relação de optativas.** Faltam o conjunto de disciplinas optativas do ciclo
    avançado, sua carga horária e o número mínimo exigido do estudante.
-8. **Carga horária total.** O total de horas do ciclo avançado, e portanto o
+7. **Carga horária total.** O total de horas do ciclo avançado, e portanto o
    total do curso, depende das pendências anteriores.

@@ -20,14 +20,6 @@ sobretudo de redação.
 - **Prática de Física Geral IIa:** a ementa descreve um estudo experimental (pêndulo
   simples, pêndulo amortecido), não a resolução de exercícios que define as disciplinas
   de Prática.
-- **Sobreposições no ciclo avançado:**
-  - Física Matemática II e Mecânica Quântica I resolvem o oscilador harmônico e o átomo
-    de hidrogênio;
-  - Eletromagnetismo II e Relatividade Restrita tratam as leis de conservação do campo
-    eletromagnético;
-  - Física Moderna e Mecânica Quântica I tratam sistemas unidimensionais;
-  - Mecânica Estatística e Introdução à Física do Estado Sólido tratam o gás de elétrons
-    livres e o calor específico dos sólidos (modelo de Debye).
 - As demais pendências estão nas seções *Pontos em aberto* das páginas do núcleo comum e
   do ciclo avançado.
 

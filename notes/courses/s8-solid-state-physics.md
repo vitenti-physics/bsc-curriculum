@@ -44,5 +44,5 @@
   Mecânica Analítica II (7º, campo de deslocamentos).
 - O teorema de Bloch usa a simetria de translação, tratada em Mecânica Quântica II, no
   mesmo semestre.
-- Sobreposição com Mecânica Estatística, que termina com o gás de elétrons livres e o
-  modelo de Debye para o calor específico dos sólidos.
+- Tópicos compartilhados com Mecânica Estatística, que termina com o gás de elétrons
+  livres e o modelo de Debye para o calor específico dos sólidos.
