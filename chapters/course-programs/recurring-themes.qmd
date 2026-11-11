@@ -5,8 +5,9 @@ title: "Temas recorrentes"
 ::: {.callout-warning}
 ## Rascunho
 Página em construção. Cada seção trata de um tema que volta em várias disciplinas.
-A tabela lista, por disciplina, o que é usado e o que muda em relação às disciplinas
-anteriores. O texto de cada tema ainda será escrito, para ser lido também por quem
+A repetição é intencional: cada disciplina retoma o tema com as ferramentas que o
+estudante tem naquele ponto do curso. A tabela lista, por disciplina, o que é usado e o
+que muda em relação às disciplinas anteriores. O texto de cada tema ainda será escrito, para ser lido também por quem
 está no início do curso e ainda não cursou as disciplinas de Cálculo.
 :::
 
@@ -62,3 +63,14 @@ está no início do curso e ainda não cursou as disciplinas de Cálculo.
 | Mecânica Analítica II | Teoria clássica de campos como limite do contínuo. | Um campo se comporta como um conjunto infinito de osciladores. |
 | Mecânica Quântica I | Oscilador harmônico simples. | A energia assume valores discretos, e a menor energia não é zero. |
 | Mecânica Estatística | Sólido de Einstein; modelo de Debye; radiação de corpo negro. | As propriedades térmicas de um sólido e da radiação vêm dos seus modos quantizados. |
+| Introdução à Física do Estado Sólido | Ondas elásticas; vibrações de redes monoatômicas e diatômicas; quantização das vibrações. | Os modos da rede cristalina, os fônons, são obtidos com a sua relação de dispersão, que o modelo de Debye supõe linear; aparecem como modos de Nambu-Goldstone da simetria de translação quebrada pelo cristal. |
+
+## Estados ligados e quantização da energia {#sec-tema-estados-ligados}
+
+| Disciplina | O que é usado | O que muda |
+|---|---|---|
+| Física Moderna | Teoria de Bohr; regras de Bohr-Sommerfeld; equação de Schrödinger em uma dimensão: poço infinito, barreiras de potencial. | Primeira aparição: a quantização da energia é postulada no átomo de Bohr e depois obtida das condições de contorno da função de onda em uma dimensão. |
+| Física Matemática II | Separação de variáveis; harmônicos esféricos; oscilador harmônico e átomo de hidrogênio como problemas de contorno. | O oscilador e o átomo de hidrogênio são resolvidos como equações diferenciais: os valores permitidos da energia são os que dão soluções regulares e normalizáveis. |
+| Mecânica Quântica I | Partículas confinadas; oscilador harmônico; momento angular; potenciais centrais; átomo de hidrogênio. | Os mesmos sistemas são tratados na estrutura geral da teoria, com estados, operadores e a álgebra do momento angular. |
+| Mecânica Quântica II | Átomos multieletrônicos; teoria de perturbação; métodos WKB e variacional. | Os sistemas sem solução exata são tratados por métodos de aproximação. |
+| Introdução à Física do Estado Sólido | Gás de elétrons livres; potenciais periódicos e teorema de Bloch; estrutura de bandas. | Em um potencial periódico, os níveis de energia formam bandas; o ponto de partida é o gás de elétrons livres, tratado em Mecânica Estatística com a estatística de Fermi-Dirac. |
