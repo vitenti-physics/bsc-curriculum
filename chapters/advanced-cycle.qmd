@@ -116,4 +116,6 @@ Pendências a serem resolvidas pelo NDE:
 6. **Relação de optativas.** Faltam o conjunto de disciplinas optativas do ciclo
    avançado, sua carga horária e o número mínimo exigido do estudante.
 7. **Carga horária total.** O total de horas do ciclo avançado, e portanto o
-   total do curso, depende das pendências anteriores.
+   total do curso, depende das pendências anteriores. A carga de AEX é de no
+   mínimo 10% do total do curso, em múltiplo de 30 h; a conta está em
+   [Total do curso](timetable.qmd#total-do-curso).

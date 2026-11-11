@@ -10,8 +10,8 @@ sobretudo de redação.
 ## 1. Ementas
 
 - **Sem ementa:** Laboratório de Física Moderna I e Laboratório de Física Moderna II.
-- **Ementa incompleta:** Física Matemática III. Não deve repetir conteúdo de Física
-  Matemática I e II.
+- **Ementa incompleta:** Física Matemática III, em elaboração pelo NDE. Não deve repetir
+  conteúdo de Física Matemática I e II.
 - **Roteiros propostos, não aprovados:** Laboratórios de Física Geral III e IV. A proposta
   do Laboratório IV não tem roteiros de interferência nem de ondas eletromagnéticas, que
   não existem na coleção de 2010.
@@ -65,16 +65,18 @@ forma de oferta de Libras (disciplina especial, Resolução CEPE 56/2015).
 |---|:--:|:--:|
 | Disciplinas obrigatórias | 2640 h | 2400 h definidas (núcleo comum 1260 h, ciclo avançado 1140 h, com o TCC) |
 | Disciplinas optativas | 60 h | a definir |
-| AEX (indicadas e livres) | 306 h | a definir |
+| AEX (indicadas e livres) | 306 h | no mínimo 10% do total, em múltiplo de 30 h: 270 h com as cargas já definidas |
 | Atividades acadêmicas complementares | 50 h | a definir |
-| **Total** | **3056 h** | **a definir** |
+| **Total** | **3056 h** | **a definir** (2670 h com as cargas já definidas) |
 
 Falta definir:
 
 - as disciplinas obrigatórias que faltam (pendência 2);
 - a relação de optativas e a carga mínima que o estudante deve cumprir;
-- a carga de AEX, que deve ser de no mínimo 10% da carga total do curso (Resolução CNE/CES
-  7/2018), e sua distribuição entre indicadas e livres (Resolução CEPE/CA 039/2021);
+- a distribuição da carga de AEX entre indicadas e livres (Resolução CEPE/CA 039/2021);
+  a carga de AEX é o mínimo de 10% da carga total do curso (Resolução CNE/CES 7/2018)
+  arredondado para cima até um múltiplo de 30 h, e a conta está na seção *Total do
+  curso* da página Grade Horária;
 - a carga de atividades acadêmicas complementares.
 
 A carga mínima de um bacharelado em Física é 2400 h (Resolução CNE/CES 2/2007).
@@ -102,11 +104,14 @@ correquisito; exigem mudar a alocação ou o conteúdo:
 
 - Física Geral I é a única disciplina com programa completo, no formato do rascunho
   anterior do PPC (`support_docs/ppc-draft/apresentacao.tex`).
-- As outras 42 disciplinas têm um parágrafo de rascunho, sem os marcadores *Item da
+- As outras 43 disciplinas e atividades têm um parágrafo de rascunho, sem os marcadores *Item da
   ementa* (exceto 2) e sem bibliografia.
 - Nenhum programa tem as seções 4 a 7 da estrutura definida em *Programas das
   disciplinas*: tópicos compartilhados, distribuição da carga horária, bibliografia e
   status com o responsável pelo texto.
+- Os tópicos repetidos entre disciplinas são intencionais, por razões didáticas, e devem
+  ser documentados e explicados: na seção 4 (tópicos compartilhados) de cada programa e
+  na página *Temas recorrentes*, que ainda é um rascunho.
 
 ## 7. Seções do formulário da Prograd ainda não redigidas
 
@@ -122,7 +127,7 @@ O site cobre a matriz curricular (seção 9.1), as ementas e a grade. Faltam:
 | 6. Objetivos | Geral e específicos |
 | 7. Fundamentação teórica | Concepção do curso |
 | 8. Sistema acadêmico | Matrícula por atividade acadêmica e regras de reprovação |
-| 9.2 e 9.3 | Resumo das atividades; creditação da extensão, AAC e TCC |
+| 9.2 e 9.3 | Resumo das atividades; creditação da extensão (a carga de AEX já está fixada: no mínimo 10% do total, em múltiplo de 30 h), AAC e TCC (regulamento) |
 | 10. Sistema de avaliação e promoção | Média, frequência, exame final, retenção |
 | 12. Plano de implementação da matriz | Transição entre os currículos |
 | 13. Recursos necessários | Docentes, laboratórios, equipamentos |

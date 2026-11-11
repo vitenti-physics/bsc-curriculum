@@ -94,6 +94,30 @@ disciplinas obrigatórias e as optativas forem definidas.
 | Optativas | 5º a 8º | a definir |
 | **Total do ciclo avançado** | | **a definir** |
 
+### Total do curso
+
+As atividades acadêmicas de extensão (AEX) têm no mínimo 10% da carga horária total do
+curso (Resolução CNE/CES 7/2018). Sejam $D$ a carga das disciplinas obrigatórias e do
+TCC, $O$ a das optativas e $C$ a das atividades acadêmicas complementares, em horas. O
+total é $T = D + O + C + A$, e a condição $A \geq 0{,}1\,T$ equivale a
+$A \geq (D + O + C)/9$. A carga de AEX é esse mínimo arredondado para cima até um
+múltiplo de 30 h:
+$$
+A = 30 \left\lceil \frac{D + O + C}{270} \right\rceil \text{ h}.
+$$
+No currículo vigente, $(2640 + 60 + 50)/9 = 305{,}6$, e a carga de AEX é 306 h,
+arredondada para a hora inteira.
+
+| Componente | Carga horária |
+|---|:--:|
+| Disciplinas obrigatórias e TCC (núcleo comum e ciclo avançado) | 2400 h definidas |
+| Optativas | a definir |
+| Atividades acadêmicas complementares | a definir |
+| AEX (no mínimo 10% do total, múltiplo de 30 h) | 270 h com as cargas já definidas |
+| **Total do curso** | **a definir** (2670 h com as cargas já definidas) |
+
+: A carga de AEX passa ao múltiplo de 30 h seguinte a cada 270 h acrescentadas às demais componentes. {.striped}
+
 ## Grade horária semanal
 
 Sugestão de distribuição semanal das aulas. A grade do **núcleo comum** está
