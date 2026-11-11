@@ -130,6 +130,42 @@ trata das simetrias e dos métodos de aproximação.
 - Integrais de caminho para a partícula livre em uma dimensão.
 :::
 
+### Introdução à Física do Estado Sólido {#sec-estado-solido}
+
+Descreve os cristais a partir das suas simetrias espaciais e obtém as vibrações da
+rede e a estrutura de bandas eletrônica.
+
+::: {.ementa}
+**Ementa** (60 h)
+
+**I. Ordem cristalina e simetrias espaciais**
+
+- Simetrias espaciais: translações e rotações.
+- Cristais como fases com quebra espontânea de simetria.
+- Redes de Bravais e estruturas cristalinas.
+- Redes recíprocas.
+- Difração e fator de estrutura.
+
+**II. Elasticidade e excitações coletivas**
+
+- Campo de deslocamentos e deformações elásticas.
+- Teoria da elasticidade linear.
+- Ondas elásticas e modos acústicos.
+- Fônons como modos de Nambu-Goldstone.
+- Vibrações de redes monoatômicas e diatômicas.
+- Quantização das vibrações.
+- Propriedades térmicas dos sólidos.
+
+**III. Estrutura eletrônica e teoria de bandas**
+
+- Gás de elétrons livres.
+- Potenciais periódicos e teorema de Bloch.
+- Modelo de elétrons quase livres.
+- Estrutura de bandas.
+- Modelos de ligação forte (*tight-binding*).
+- Metais, isolantes e semicondutores.
+:::
+
 ### Demais disciplinas do oitavo semestre
 
 **A definir pelo NDE.**

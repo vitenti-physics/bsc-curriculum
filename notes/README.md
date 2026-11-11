@@ -91,10 +91,11 @@ As notas do currículo de 2023 usam o mesmo formato, com o código no título e 
 | 7º | [Mecânica Quântica I](courses/s7-quantum-mechanics-1.md) | 60 h | proposta do NDE |
 | 7º | [Mecânica Estatística](courses/s7-statistical-mechanics.md) | 60 h | proposta do NDE |
 | 8º | [Mecânica Quântica II](courses/s8-quantum-mechanics-2.md) | 60 h | proposta do NDE |
+| 8º | [Introdução à Física do Estado Sólido](courses/s8-solid-state-physics.md) | 60 h | proposta do NDE |
 
-Ainda sem nota: Introdução à Física Nuclear, Introdução à Física do Estado Sólido,
-Evolução dos Conceitos e Teorias da Física, Introdução às Técnicas de Ensino e Pesquisa em
-Física e Trabalho de Conclusão de Curso (ver as notas de 2023).
+Ainda sem nota: Introdução à Física Nuclear, Evolução dos Conceitos e Teorias da Física,
+Introdução às Técnicas de Ensino e Pesquisa em Física e Trabalho de Conclusão de Curso (ver
+as notas de 2023).
 
 ## Currículo vigente (2023)
 

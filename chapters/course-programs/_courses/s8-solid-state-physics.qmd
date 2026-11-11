@@ -1,0 +1,19 @@
+## Introdução à Física do Estado Sólido
+
+**Status:** rascunho.
+
+Corresponde a Introdução à Física do Estado Sólido (2FIS114) do currículo vigente.
+A disciplina parte das **simetrias espaciais**: o cristal é descrito como uma fase
+que quebra espontaneamente a simetria de translação, o que leva às redes de Bravais,
+à rede recíproca e à difração. A segunda parte trata o sólido como um meio contínuo,
+com o campo de deslocamentos e a elasticidade linear, na linguagem da teoria
+clássica de campos de [Mecânica Analítica II](semester-7.qmd#mecânica-analítica-ii);
+os fônons aparecem como modos de Nambu-Goldstone da simetria quebrada, e a
+quantização das vibrações dá as propriedades térmicas, já vistas no modelo de Debye
+de [Mecânica Estatística](semester-7.qmd#mecânica-estatística). A terceira parte
+trata a estrutura eletrônica: do gás de elétrons livres, também visto em Mecânica
+Estatística, ao teorema de Bloch, aos modelos de elétrons quase livres e de ligação
+forte, e à classificação dos sólidos em metais, isolantes e semicondutores. Usa a
+mecânica quântica de [Mecânica Quântica I](semester-7.qmd#mecânica-quântica-i) e a
+simetria de translação de [Mecânica Quântica II](#mecânica-quântica-ii), do mesmo
+semestre.

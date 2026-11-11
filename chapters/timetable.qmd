@@ -86,7 +86,8 @@ disciplinas obrigatórias e as optativas forem definidas.
 | Mecânica Quântica I | 7º | 60 h |
 | Mecânica Estatística | 7º | 60 h |
 | Mecânica Quântica II | 8º | 60 h |
-| **Subtotal definido** | | **900 h** |
+| Introdução à Física do Estado Sólido | 8º | 60 h |
+| **Subtotal definido** | | **960 h** |
 | Demais disciplinas obrigatórias | 5º a 8º | a definir |
 | Optativas | 5º a 8º | a definir |
 | **Total do ciclo avançado** | | **a definir** |
@@ -162,7 +163,7 @@ reservados** para as disciplinas que o NDE ainda definirá, não horários livre
 
 | Horário | Segunda | Terça | Quarta | Quinta | Sexta |
 |---|---|---|---|---|---|
-| 08:20–10:00 | Mecânica Quântica II | —² | Mecânica Quântica II | —² | —² |
+| 08:20–10:00 | Mecânica Quântica II | Introdução à Física do Estado Sólido³ | Mecânica Quântica II | Introdução à Física do Estado Sólido³ | —² |
 | 10:15–11:55 | —² | —² | —² | —² | —² |
 | 14:00–15:40 | —² | —² | —² | —² | —² |
 

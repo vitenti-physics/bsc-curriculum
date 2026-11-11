@@ -11,8 +11,11 @@ cargas horárias em [Grade Horária](../timetable.qmd).
 ## Articulação do semestre
 
 O oitavo semestre conclui a sequência de Física Moderna e Mecânica Quântica
-(Mecânica Quântica II). Deverá concentrar também as disciplinas finais da formação
-teórica, as optativas e as atividades de conclusão de curso, ainda a definir pelo
-NDE.
+(Mecânica Quântica II) e traz Introdução à Física do Estado Sólido, que aplica a
+mecânica quântica e a mecânica estatística do 7º semestre aos cristais. Deverá
+concentrar também as demais disciplinas finais da formação teórica, as optativas e
+as atividades de conclusão de curso, ainda a definir pelo NDE.
 
 {{< include _courses/s8-quantum-mechanics-2.qmd >}}
+
+{{< include _courses/s8-solid-state-physics.qmd >}}

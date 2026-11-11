@@ -27,7 +27,7 @@ continuando um eixo do núcleo comum. A distribuição pelos semestres é uma
 |---|---|---|---|---|
 | Mecânica | [Mecânica Geral](advanced-cycle-year3.qmd#sec-mecanica-geral) | [Mecânica Analítica I](advanced-cycle-year3.qmd#sec-mecanica-analitica-i) | [Mecânica Analítica II](advanced-cycle-year4.qmd#sec-mecanica-analitica-ii) | |
 | Eletromagnetismo e Relatividade | [Eletromagnetismo I](advanced-cycle-year3.qmd#sec-eletromagnetismo-i), [Relatividade Restrita](advanced-cycle-year3.qmd#sec-relatividade-restrita) | [Eletromagnetismo II](advanced-cycle-year3.qmd#sec-eletromagnetismo-ii) | | |
-| Física Moderna e Quântica | [Física Moderna](advanced-cycle-year3.qmd#sec-fisica-moderna), [Lab. de Física Moderna I](advanced-cycle-year3.qmd#sec-lab-fisica-moderna-i) | [Lab. de Física Moderna II](advanced-cycle-year3.qmd#sec-lab-fisica-moderna-ii) | [Mecânica Quântica I](advanced-cycle-year4.qmd#sec-mecanica-quantica-i) | [Mecânica Quântica II](advanced-cycle-year4.qmd#sec-mecanica-quantica-ii) |
+| Física Moderna e Quântica | [Física Moderna](advanced-cycle-year3.qmd#sec-fisica-moderna), [Lab. de Física Moderna I](advanced-cycle-year3.qmd#sec-lab-fisica-moderna-i) | [Lab. de Física Moderna II](advanced-cycle-year3.qmd#sec-lab-fisica-moderna-ii) | [Mecânica Quântica I](advanced-cycle-year4.qmd#sec-mecanica-quantica-i) | [Mecânica Quântica II](advanced-cycle-year4.qmd#sec-mecanica-quantica-ii), [Introdução à Física do Estado Sólido](advanced-cycle-year4.qmd#sec-estado-solido) |
 | Termodinâmica e Física Estatística | | [Termodinâmica](advanced-cycle-year3.qmd#sec-termodinamica) | [Mecânica Estatística](advanced-cycle-year4.qmd#sec-mecanica-estatistica) | |
 | Física Matemática | [Física Matemática II](advanced-cycle-year3.qmd#sec-fisica-matematica-ii) | [Física Matemática III](advanced-cycle-year3.qmd#sec-fisica-matematica-iii) | | |
 
@@ -53,7 +53,9 @@ experimentais que levaram à teoria quântica e a mecânica ondulatória em uma
 dimensão; os Laboratórios de Física Moderna I e II, ao longo do 3º ano,
 reproduzem esses experimentos; Mecânica Quântica I e II constroem a estrutura
 geral da teoria e seus métodos de aproximação. Mecânica Quântica I usa também o
-formalismo hamiltoniano de Mecânica Analítica I.
+formalismo hamiltoniano de Mecânica Analítica I. Introdução à Física do Estado
+Sólido aplica a mecânica quântica e a mecânica estatística do 7º semestre aos
+cristais: simetrias espaciais, vibrações da rede e estrutura de bandas.
 
 **Termodinâmica e Física Estatística.** Termodinâmica, a partir de postulados,
 fornece os potenciais termodinâmicos e as condições de estabilidade que Mecânica
@@ -71,8 +73,7 @@ Além das sequências acima, a formação obrigatória hoje ofertada pelo
 Departamento inclui disciplinas que o NDE ainda vai manter como obrigatórias,
 converter em optativas ou reorganizar:
 
-- **Introdução à Física Nuclear** (2FIS110) e **Introdução à Física do Estado
-  Sólido** (2FIS114);
+- **Introdução à Física Nuclear** (2FIS110);
 - **Evolução dos Conceitos e Teorias da Física** (2FIS113) e **Introdução às
   Técnicas de Ensino e Pesquisa em Física** (2FIS107);
 - **Trabalho de Conclusão de Curso** (2TCC314, 180 h no currículo vigente).
@@ -91,7 +92,13 @@ Pendências a serem resolvidas pelo NDE:
      esféricos que Física Matemática II (5º) desenvolve;
    - a parte quântica de Mecânica Estatística (7º) usa estados e operadores de
      Mecânica Quântica I (7º), e o ensemble clássico usa o teorema de Liouville
-     de Mecânica Analítica II (7º).
+     de Mecânica Analítica II (7º);
+   - o teorema de Bloch, em Introdução à Física do Estado Sólido (8º), usa a
+     simetria de translação de Mecânica Quântica II (8º).
+
+   Introdução à Física do Estado Sólido está no 8º semestre, como no currículo
+   vigente (2FIS114, 4ª série, 2º semestre); falta decidir se é obrigatória ou
+   optativa.
 2. **Sobreposições entre ementas.**
    - Física Matemática II e Mecânica Quântica I resolvem ambas o oscilador
      harmônico e o átomo de hidrogênio.
@@ -100,6 +107,8 @@ Pendências a serem resolvidas pelo NDE:
      leis de conservação) tratam as mesmas leis de conservação.
    - Física Moderna (poço infinito, barreiras) e Mecânica Quântica I (partículas
      confinadas) tratam sistemas unidimensionais.
+   - Mecânica Estatística e Introdução à Física do Estado Sólido tratam o gás de
+     elétrons livres e o calor específico dos sólidos (modelo de Debye).
 3. **Física Matemática III.** A ementa está incompleta. Não deve repetir
    conteúdo de Física Matemática I e II.
 4. **Demais disciplinas.** Ementa e alocação das disciplinas listadas em
