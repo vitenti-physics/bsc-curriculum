@@ -113,8 +113,9 @@ Pendências a serem resolvidas pelo NDE:
 5. **Aplicações da teoria clássica de campos.** O item de aplicações da
    introdução à teoria clássica de campos, em Mecânica Analítica II, está marcado
    como *a completar* nas notas do NDE.
-6. **Relação de optativas.** Faltam o conjunto de disciplinas optativas do ciclo
-   avançado, sua carga horária e o número mínimo exigido do estudante.
+6. **Relação de optativas.** Falta o conjunto de disciplinas optativas do ciclo
+   avançado. A carga mínima exigida do estudante está provisoriamente em quatro
+   optativas de 60 h (240 h).
 7. **Carga horária total.** O total de horas do ciclo avançado, e portanto o
    total do curso, depende das pendências anteriores. A carga de AEX é de no
    mínimo 10% do total do curso, em múltiplo de 30 h; a conta está em

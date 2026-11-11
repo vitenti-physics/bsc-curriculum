@@ -64,20 +64,26 @@ forma de oferta de Libras (disciplina especial, Resolução CEPE 56/2015).
 | Componente | Currículo 2023 | Proposta |
 |---|:--:|:--:|
 | Disciplinas obrigatórias | 2640 h | 2400 h definidas (núcleo comum 1260 h, ciclo avançado 1140 h, com o TCC) |
-| Disciplinas optativas | 60 h | a definir |
-| AEX (indicadas e livres) | 306 h | no mínimo 10% do total, em múltiplo de 30 h: 270 h com as cargas já definidas |
-| Atividades acadêmicas complementares | 50 h | a definir |
-| **Total** | **3056 h** | **a definir** (2670 h com as cargas já definidas) |
+| Disciplinas optativas | 60 h | 240 h (provisório: 4 optativas de 60 h) |
+| AEX (indicadas e livres) | 306 h | no mínimo 10% do total, em múltiplo de 30 h: 300 h com as cargas já definidas |
+| Atividades acadêmicas complementares | 50 h | 60 h (proposta: uma disciplina eletiva de 60 h as completa) |
+| **Total** | **3056 h** | **a definir** (3000 h com as cargas já definidas) |
 
 Falta definir:
 
 - as disciplinas obrigatórias que faltam (pendência 2);
-- a relação de optativas e a carga mínima que o estudante deve cumprir;
+- a relação de optativas; a carga mínima que o estudante deve cumprir está
+  provisoriamente em 4 optativas de 60 h (240 h);
 - a distribuição da carga de AEX entre indicadas e livres (Resolução CEPE/CA 039/2021);
   a carga de AEX é o mínimo de 10% da carga total do curso (Resolução CNE/CES 7/2018)
   arredondado para cima até um múltiplo de 30 h, e a conta está na seção *Total do
   curso* da página Grade Horária;
-- a carga de atividades acadêmicas complementares.
+- a aprovação pelo NDE da carga de 60 h de atividades acadêmicas complementares, que o
+  estudante pode cumprir com uma disciplina eletiva de 60 h, escolhida por ele
+  (formulário da Prograd, seção 9.3.2, com base na Resolução CEPE 203/2007); as normas
+  não fixam mínimo, e a Resolução CNE/CES 2/2007 limita estágios e atividades
+  complementares a 20% da carga total. A norma da UEL sobre essas atividades e a
+  instrução do Colegiado não estão em `support_docs/`.
 
 A carga mínima de um bacharelado em Física é 2400 h (Resolução CNE/CES 2/2007).
 

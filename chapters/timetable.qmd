@@ -91,7 +91,7 @@ disciplinas obrigatórias e as optativas forem definidas.
 | Trabalho de Conclusão de Curso⁴ | 7º e 8º (anual) | 180 h |
 | **Subtotal definido** | | **1140 h** |
 | Demais disciplinas obrigatórias | 5º a 8º | a definir |
-| Optativas | 5º a 8º | a definir |
+| Optativas⁶ (4 × 60 h) | 5º a 8º | 240 h |
 | **Total do ciclo avançado** | | **a definir** |
 
 ### Total do curso
@@ -111,10 +111,10 @@ arredondada para a hora inteira.
 | Componente | Carga horária |
 |---|:--:|
 | Disciplinas obrigatórias e TCC (núcleo comum e ciclo avançado) | 2400 h definidas |
-| Optativas | a definir |
-| Atividades acadêmicas complementares | a definir |
-| AEX (no mínimo 10% do total, múltiplo de 30 h) | 270 h com as cargas já definidas |
-| **Total do curso** | **a definir** (2670 h com as cargas já definidas) |
+| Optativas⁶ (4 × 60 h) | 240 h |
+| Atividades acadêmicas complementares⁵ | 60 h |
+| AEX (no mínimo 10% do total, múltiplo de 30 h) | 300 h com as cargas já definidas |
+| **Total do curso** | **a definir** (3000 h com as cargas já definidas) |
 
 : A carga de AEX passa ao múltiplo de 30 h seguinte a cada 270 h acrescentadas às demais componentes. {.striped}
 
@@ -207,3 +207,10 @@ não foi discutida pelo NDE.
 
 ⁴ Mantido do currículo vigente (2TCC314): 90 h teóricas e 90 h práticas, sem horário
 fixo na grade semanal.
+
+⁵ Proposta: 60 h, que o estudante pode cumprir com uma disciplina eletiva de 60 h ou
+com qualquer combinação das demais atividades acadêmicas complementares (no currículo
+vigente, 50 h).
+
+⁶ Provisório: quatro optativas de 60 h; a relação de optativas ainda será definida
+pelo NDE.
