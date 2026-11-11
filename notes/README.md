@@ -36,8 +36,9 @@ nova ou alterada entra aqui primeiro e depois é transcrita para a página do an
 - **Semestre**: semestre do curso e ano entre parênteses; bimestre quando a disciplina é
   bimestral.
 - **Situação**: *proposta do NDE*; *ementa incompleta*; *ementa a definir pelo NDE*;
-  *proposta de roteiros, pendente de aprovação pelo NDE*; ou *ementa sem fonte nas notas do
-  NDE*, quando a ementa foi escrita a partir do curso principal e ainda não foi revista.
+  *proposta de roteiros, pendente de aprovação pelo NDE*; *mantida do currículo vigente
+  (2023)*, quando a disciplina foi transposta sem alteração; ou *ementa sem fonte nas notas
+  do NDE*, quando a ementa foi escrita a partir do curso principal e ainda não foi revista.
 - **Ementa**: um item por linha, cada um terminado em ponto. Uma ementa dividida em partes
   usa subtítulos `###` dentro da seção. Os laboratórios têm também `## Roteiros previstos`.
 - **Notas**: seção opcional; comentários, referências e decisões sobre a disciplina.
@@ -90,12 +91,12 @@ As notas do currículo de 2023 usam o mesmo formato, com o código no título e 
 | 7º | [Mecânica Analítica II](courses/s7-analytical-mechanics-2.md) | 60 h | proposta do NDE |
 | 7º | [Mecânica Quântica I](courses/s7-quantum-mechanics-1.md) | 60 h | proposta do NDE |
 | 7º | [Mecânica Estatística](courses/s7-statistical-mechanics.md) | 60 h | proposta do NDE |
+| 7º e 8º (anual) | [Trabalho de Conclusão de Curso](courses/s7-undergraduate-thesis.md) | 180 h | mantida do currículo vigente (2023) |
 | 8º | [Mecânica Quântica II](courses/s8-quantum-mechanics-2.md) | 60 h | proposta do NDE |
 | 8º | [Introdução à Física do Estado Sólido](courses/s8-solid-state-physics.md) | 60 h | proposta do NDE |
 
-Ainda sem nota: Introdução à Física Nuclear, Evolução dos Conceitos e Teorias da Física,
-Introdução às Técnicas de Ensino e Pesquisa em Física e Trabalho de Conclusão de Curso (ver
-as notas de 2023).
+Ainda sem nota: Introdução à Física Nuclear, Evolução dos Conceitos e Teorias da Física e
+Introdução às Técnicas de Ensino e Pesquisa em Física (ver as notas de 2023).
 
 ## Currículo vigente (2023)
 

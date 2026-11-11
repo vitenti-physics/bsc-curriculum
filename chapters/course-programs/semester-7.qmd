@@ -15,10 +15,13 @@ inicia a mecânica quântica (Mecânica Quântica I) e a mecânica estatística.
 disciplinas usam o formalismo hamiltoniano de Mecânica Analítica I: Mecânica
 Quântica I parte dos parênteses de Poisson para a quantização canônica, e a
 mecânica estatística clássica usa o espaço de fase e o teorema de Liouville de
-Mecânica Analítica II.
+Mecânica Analítica II. O Trabalho de Conclusão de Curso, anual, começa neste semestre
+e termina no 8º.
 
 {{< include _courses/s7-analytical-mechanics-2.qmd >}}
 
 {{< include _courses/s7-quantum-mechanics-1.qmd >}}
 
 {{< include _courses/s7-statistical-mechanics.qmd >}}
+
+{{< include _courses/s7-undergraduate-thesis.qmd >}}

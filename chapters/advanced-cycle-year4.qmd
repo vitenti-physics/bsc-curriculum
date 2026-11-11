@@ -169,3 +169,19 @@ rede e a estrutura de bandas eletrônica.
 ### Demais disciplinas do oitavo semestre
 
 **A definir pelo NDE.**
+
+## Atividade anual
+
+### Trabalho de Conclusão de Curso {#sec-tcc}
+
+Mantido sem alteração do currículo vigente (2TCC314): atividade anual do quarto ano,
+que o estudante só pode cursar com todas as atividades acadêmicas do 1º e 2º anos
+integralizadas. O sistema de avaliação e o controle de frequência são definidos em
+regulamento próprio.
+
+::: {.ementa}
+**Ementa** (180 h: teórica 90 h, prática 90 h)
+
+- Trabalho de Conclusão de Curso.
+- Prática em atividades de pesquisa.
+:::

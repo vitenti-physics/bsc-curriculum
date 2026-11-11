@@ -13,8 +13,9 @@ cargas horárias em [Grade Horária](../timetable.qmd).
 O oitavo semestre conclui a sequência de Física Moderna e Mecânica Quântica
 (Mecânica Quântica II) e traz Introdução à Física do Estado Sólido, que aplica a
 mecânica quântica e a mecânica estatística do 7º semestre aos cristais. Deverá
-concentrar também as demais disciplinas finais da formação teórica, as optativas e
-as atividades de conclusão de curso, ainda a definir pelo NDE.
+concentrar também as demais disciplinas finais da formação teórica e as optativas,
+ainda a definir pelo NDE. O Trabalho de Conclusão de Curso, anual, começa no 7º
+semestre (ver [Trabalho de Conclusão de Curso](semester-7.qmd#trabalho-de-conclusão-de-curso)).
 
 {{< include _courses/s8-quantum-mechanics-2.qmd >}}
 

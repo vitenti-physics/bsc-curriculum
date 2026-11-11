@@ -65,7 +65,8 @@ carga do curso que acompanham (ver
 
 ### Ciclo avançado
 
-Todas as disciplinas do ciclo avançado já definidas têm 60 h. A alocação em
+As disciplinas do ciclo avançado já definidas têm 60 h; o Trabalho de Conclusão de
+Curso, anual, tem 180 h. A alocação em
 semestres é uma proposta de trabalho, e o total só será fechado quando as demais
 disciplinas obrigatórias e as optativas forem definidas.
 
@@ -87,7 +88,8 @@ disciplinas obrigatórias e as optativas forem definidas.
 | Mecânica Estatística | 7º | 60 h |
 | Mecânica Quântica II | 8º | 60 h |
 | Introdução à Física do Estado Sólido | 8º | 60 h |
-| **Subtotal definido** | | **960 h** |
+| Trabalho de Conclusão de Curso⁴ | 7º e 8º (anual) | 180 h |
+| **Subtotal definido** | | **1140 h** |
 | Demais disciplinas obrigatórias | 5º a 8º | a definir |
 | Optativas | 5º a 8º | a definir |
 | **Total do ciclo avançado** | | **a definir** |
@@ -178,3 +180,6 @@ necessitem.
 
 ³ Horário provisório, ocupando um horário antes reservado; a escolha do horário
 não foi discutida pelo NDE.
+
+⁴ Mantido do currículo vigente (2TCC314): 90 h teóricas e 90 h práticas, sem horário
+fixo na grade semanal.

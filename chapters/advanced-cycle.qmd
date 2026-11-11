@@ -75,8 +75,11 @@ converter em optativas ou reorganizar:
 
 - **Introdução à Física Nuclear** (2FIS110);
 - **Evolução dos Conceitos e Teorias da Física** (2FIS113) e **Introdução às
-  Técnicas de Ensino e Pesquisa em Física** (2FIS107);
-- **Trabalho de Conclusão de Curso** (2TCC314, 180 h no currículo vigente).
+  Técnicas de Ensino e Pesquisa em Física** (2FIS107).
+
+O **Trabalho de Conclusão de Curso** é mantido sem alteração do currículo vigente
+(2TCC314, 180 h, anual no 4º ano); ver
+[Quarto Ano](advanced-cycle-year4.qmd#sec-tcc).
 
 ## Pontos em aberto {#sec-pontos-abertos-ca .unnumbered}
 
